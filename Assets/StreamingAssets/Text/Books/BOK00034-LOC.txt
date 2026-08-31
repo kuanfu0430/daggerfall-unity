@@ -1,5 +1,5 @@
-Title: Broken Diamonds
-Author: Ryston Baylor
+Title: 破碎鑽石
+Author: 里斯頓·貝勒
 IsNaughty: False
 Price: 340
 IsUnique: False
@@ -8,22 +8,34 @@ Content:
 
 [/font=2]
 
-[/center]Broken Diamonds
+[/center]破碎鑽石
 
 [/font=4]
 
- I remember as a young lad in Glenumbra Moors my first Broken Diamonds holiday. The big noisy festivals I remember very well -- Harvests' End, Mid Year, New Year, the Emperor's Day. All of these I have memories of that stretch back before I became truly aware of the meaning of our celebrating. On the 19th of Frost Fall, every year, my family and I would walk to a ruined castle in the middle of the wilderness, together with everyone else we knew in the Moors. Hands clutched in hands, we would form an enormous circle around the ruins, and head reverently bowed we would sing a song, the Sepharve.
+ 我記得小時候在格倫溫布拉沼地度過的第一個破碎鑽石節日。那些喧鬧的大節日我記得很清楚——收穫終、年中、新年、皇帝日。所有這些，我都有在真正明白我們為何慶祝之前便已延伸回去的記憶。每年霜落月19日，我的家人與我會走到荒野中央一座廢堡，與我們在沼地認識的每一個人一道。手握著手，我們會在廢墟四周圍成巨大的圓圈，頭虔誠地低下，唱一首歌，塞法爾維。
 
- For years, we did this and I never asked why. It is an odd thing that normally curious children, from my experience, never ask questions about Broken Diamonds, and adults seldom volunteer information. Gradually, as we learn about our homeland through university or the prattling of ancient relatives, we come to guess and then know the meaning of Broken Diamonds.
+ 多年來我們這樣做，我從未問過為什麼。據我的經驗，這是件怪事：通常好奇的孩子從不詢問破碎鑽石，大人也很少主動提供資訊。漸漸地，當我們經由大學或年邁親戚的絮叨了解故鄉，我們開始猜測、然後知道破碎鑽石的意義。
 
- I cannot be objective as a native of Glenumbra Moors, but visitors have told me that the sorrow -- more often they use the word shame -- of the natives is almost overwhelming. There is a sense that a great and ancient crime still burns in the conscience of the people of the Moors. Though it did not happen in our lifetimes, we know that the debt is not yet paid.
+ 作為格倫溫布拉沼地的本地人，我無法客觀，但訪客告訴我，當地人的悲痛——他們更常用「恥辱」這個詞——幾乎是壓倒性的。有一種感覺：一樁古老的大罪仍在沼地人民的良心中燃燒。雖然它並非發生在我們有生之年，我們知道債尚未償清。
 
- I refer, of course, to the murder of Her Terrible Majesty, Kintyra II, Emperess of Tamriel, on the frozen morning of the 23rd of Frost Fall, in the year 3E 123.
+ 我所指的，當然是可怖的陛下金泰拉二世、泰姆瑞爾女皇，在第三紀元123年霜落月23日那個冰凍的早晨遭謀殺。
 
- We do not know the name of the castle where she was held; we do not know the name of her murderer (though the man who ordered the murder was her cousin and usurper, Uriel III); we do not know where she was buried. But our ancestors knew that their rightful ruler was imprisoned somewhere in their land, and did nothing to help her. For that, we bear their shame.
+ 我們不知道關押她的城堡之名；我們不知道兇手之名（雖然下令謀殺的人是她的堂兄與篡位者尤利爾三世）；我們不知道她葬於何處。但我們的祖先知道他們正當的統治者被囚禁在他們的土地某處，卻未做任何事去幫助她。為此，我們承擔他們的恥辱。
 
- On that morning, when our great-great grandparents heard of Kintyra's death, all were stricken with horror and regret at their lack of action. All the people of Glenpoint and Glenumbra Moors searched out those responsible in every Imperial castle. They formed barriers with their bodies to hold the killer within. Flags bearing the Red Diamond of the Septim family were torn and scattered, and broken diamonds littered the snow.
+ 那個早晨，當我們的曾曾祖父母聽說金泰拉之死，人人都被自己的無所作為所帶來的恐怖與悔恨擊中。格倫角與格倫溫布拉沼地的所有人民在每一座帝國城堡中搜出那些該負責的人。他們用身體築起屏障，把兇手困在裡面。帶著塞普汀家族紅鑽的旗幟被撕碎拋撒，破碎的鑽石散落在雪上。
 
- The song we sing every Broken Diamonds, as I mentioned before, is the Sephavre. I asked everyone in Glenumbra Moor what the meaning of the song is, for it is in Old Bretic, and each generation only knows it because they were taught by their parents. No one knew the exact meaning of the words, not even the tone and emotion the words can be easily translated. When I later talked to a scholar who gave me an accurate translation of the Sephavre, I began to understand both why our ancestors chose it as the anthem for the great injustice of the murder of Kintyra II and the sorrow that still prevades Glenumbra Moors since that dark morn.
+ 我們每年破碎鑽石所唱的歌，如前所述，是塞法爾維。我問過格倫溫布拉沼地每一個人這首歌的意思，因為它是古布萊頓語，每一代人之所以會唱，只因父母教過。沒有人知道詞句的確切意思，甚至連詞句所能輕易譯出的語氣與情感也不知道。後來我與一位學者交談，他給了我塞法爾維的準確翻譯，我開始明白我們的祖先為何選它作為金泰拉二世被謀殺這大不義的頌歌，以及自那個黑暗早晨以來仍瀰漫格倫溫布拉沼地的悲痛。
 
- The Sephavre Souls of our fathers, suffer deeply, For you have led us to the dark time, When our own souls, filled with air, Allowed ignorance and villiany to thrive In what used to be our land. Howl, ancestors, howl and bring us Memories of our conformance with evil. We do anything we can to survive, Giving up our minds and hearts and bodies We will not fight, and we will be torn And like flotsam in a whirling tide We will be forever the agents of injustice But we will mourn it forever.
+ 塞法爾維
+吾父之魂啊，深深受苦，
+因你們把我們領入黑暗之時，
+那時我們自己的靈魂充滿空氣，
+讓無知與邪惡在曾是我們的土地上滋長。
+嚎吧，祖先啊，嚎吧，帶給我們
+我們與邪惡同流的記憶。
+我們做任何能做的事以求存活，
+放棄我們的心智、心靈與身體
+我們不會戰鬥，我們將被撕裂
+如同漩渦中的漂絮
+我們將永遠是不義的代理人
+但我們將永遠哀悼它。

@@ -1,0 +1,68 @@
+-- Quest: C:\QUESTS\WORKING\M0C00Y14.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 14
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: M0C00Y14
+DisplayName: 鼠患
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我名叫 _qgiver_。
+<ce> 我們只把差事給公會成員。不過偶爾會有
+<ce> 對公會戰士來說太瑣碎、不願接的差事。
+<ce> 我手上就有一份。若你接了，就能證明
+<ce> 你真想站在我們這邊。你怎麼說？
+
+RefuseQuest:  [1001]
+<ce> 顯然你對戰士公會沒感情。
+<ce> 我會確保把你的真心話告訴他們。
+
+AcceptQuest:  [1002]
+<ce> 巨型老鼠盤據了 _house_。
+<ce> 可能多達半打。去那把牠們全殺了，
+<ce> 我會看看能替你拉什麼關係。我只能
+<ce> 給你一天。
+
+QuestComplete:  [1004]
+<ce> 殺老鼠，就算是巨型的，
+<ce> 也不需要什麼本事。不過
+<ce> 這確實讓你得我們歡心。
+<ce> 幹得好。
+
+RumorsDuringQuest:  [1005]
+<ce> 某個白痴買了四桶起司。現在他家
+<ce> 全是巨型老鼠。
+
+RumorsPostfailure:  [1006]
+<ce> 有個女人不得不棄家而逃。巨型老鼠
+<ce> 佔領了她家，她又沒有足夠金幣請戰士公會
+<ce> 去殺。
+
+RumorsPostsuccess:  [1007]
+<ce> 聽說戰士公會派了個 %ra 去殺那女人
+<ce> 家裡的老鼠。他們甚至沒向她收費。
+
+QuestorPostsuccess:  [1008]
+<ce> 所以你殺了老鼠。別太得意。牠們不過是老鼠。
+
+QuestorPostfailure:  [1009]
+<ce> 你連巨型老鼠都應付不了。
+<ce> 你沒救了，%pcn。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的戰士公會讓我清除
+ _house_ 的巨型鼠患。我有一天完成。
+
+Message:  1011
+<ce> 這棟建築有股濃重的老鼠味。
+<ce> 你的進入大概驚動了牠們。
+
+Message:  1020
+<ce> 大部分都解決了。戰士公會
+<ce> 不會為剩下的計較。

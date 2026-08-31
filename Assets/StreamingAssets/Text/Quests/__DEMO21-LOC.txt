@@ -1,0 +1,13 @@
+---- Example quest testing "remove foe"
+
+Quest: __DEMO21
+
+
+QRC:
+
+QuestLogEntry:  [1010]
+%qdt
+    撐過鼠潮，直到牠們逃走！
+
+Message: 1030
+老鼠全竄回洞裡了！

@@ -1,0 +1,267 @@
+-- Quest: C:\QUESTS\WORKING\R0C11Y28.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 11
+-- QuestId: 28
+Messages: 51
+Quest: R0C11Y28
+DisplayName: 瘋狂殺手
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               有個噩夢在 ___bookstore_ 的街道上游蕩。
+<ce>                    他們叫他 ___bookstore_ 殺手，至今沒人能告訴我
+<ce>                       他是人還是獸。我最優秀的賢者之一
+<ce>                  _contact_ 正在檢驗受害者的屍體，但
+<ce>                %g開始收到令人不安的信件，坦白說為%g3的性命擔憂。
+<ce>              我需要有人調查%g3的發現，看看%g3的恐懼是否有道理。
+<ce>               你願意幫我嗎，%pcf？我會給你 _reward_ 金幣，
+<ce>              作為讓 ___bookstore_ 殺手永遠休息的回報。
+
+RefuseQuest:  [1001]
+<ce>                 這反應並不罕見。那我就別無選擇，只能找
+<ce>                 一些不太體面的人脈幫忙——這是我本想避開的選擇。
+
+AcceptQuest:  [1002]
+<ce>                      無論如何，感謝%god。
+<ce>                    %reg 的人民正為官方調查毫無進展而焦慮。
+<ce>               我擔心很快會有暴民，或許不出 =total_ 天。
+<ce>                  _contact_ 在 _bookstore_ 工作，
+<ce>                 我告訴%g2很快會派人過去。自己小心，%pcf。
+<ce>                     在這件事解決之前，記住 ___bookstore_
+<ce>                          的夜裡藏著一把刀。
+
+QuestFail:  [1003]
+<ce>                        ___bookstore_ 殺手仍在逃。
+<ce>                我沒時間閒聊，你也不該有。
+
+QuestComplete:  [1004]
+<ce>                     %reg 再次太平了，%pcf，
+<ce>          多虧了你。這是我答應的 _reward_ 金幣——為了結那個瘋子，
+<ce>             以及你在此事上的謹慎，我樂意給。
+<ce>                    你來到 %reg 時，%god 確實保佑了我們。
+
+RumorsDuringQuest:  [1005]
+現在走 ___bookstore_ 的街道不安全了。有 ___bookstore_ 殺手在。
+<--->
+聽說殺手根本不是人，而是來懲罰我們所有人的迪德拉。
+<--->
+___bookstore_ 殺手的上一個受害者被發現碎屍散落在 ___bookstore_。
+<--->
+有人在猜殺手會不會是吸血鬼或狼人。
+
+RumorsPostfailure:  [1006]
+不必靠暴民，殺人就停了。看來殺手搬走了。
+<--->
+_qgiver_ 真走運，___bookstore_ 殺手決定搬走。恐慌已經開始蔓延。
+<--->
+_qgiver_ 仍然焦慮。你會以為殺手不在了能讓%g2鬆口氣。
+<--->
+___bookstore_ 殺手來得突然，離開 ___bookstore_ 也同樣突然。
+<--->
+有人說殺手還在這裡，等星象再次對了才出手。
+
+RumorsPostsuccess:  [1007]
+即使據說殺手已死，我還是不敢一個人走在 ___bookstore_。
+<--->
+看來 ___bookstore_ 殺手不過是個可憐的瘋子。一點浪漫都沒有。
+<--->
+最新謠言是 ___bookstore_ 殺手不是吸血鬼，只是自以為是。
+
+QuestorPostsuccess:  [1008]
+我仍記得你，%pcf，以及你在 ___bookstore_ 殺手一事上展現的謹慎。
+
+QuestorPostfailure:  [1009]
+<ce>                    你在 ___bookstore_ 殺手一事上讓我失望，%pcf。
+<ce>                         我看不出有理由相信你不會再失敗。
+
+QuestLogEntry:  [1010]
+<ce>                        啊，%pcf，我親愛的%ra，
+<ce>                很高興你到了。你無疑已聽說，自從我開始收到
+<ce>              那些威脅若不放棄調查就要我命的信件，我就變得有點像隱士。
+<ce>               好了，現在城裡來了一位舊同事，靠他的協助
+<ce>                我或許能解開這些謀殺案。我想請你把這些筆記
+<ce>                       帶給一名 _vamp_，
+<ce>                       你會在 _hookerhouse_ 找到的 =vamp_。
+<ce>                      若我出了什麼事，我希望有人能繼續調查。
+<ce>                        那就是 _vamp_ 和你，%pcf。
+<ce>                   所以別在外面把自己弄死。
+
+Message:  1011
+_contact_，
+ 
+ 若你還珍惜性命，就終止對 %reg 殺手受害者的調查。
+ 你正盲目走進火海。
+ 
+ 若你繼續，你會在研究完成之前死去。
+ 把這當成嚴重警告。
+ 
+<ce>                             一位好心人
+
+Message:  1012
+親愛的 _contact_，
+ 
+ 即使你鎖上所有門，熄滅 _bookstore_ 的所有光，
+ 我們也會知道你仍在進行那些被禁止的解剖。
+ 別要求我們展示阻止你的力量，因為我們只會動手一次。
+ 
+<ce>                             一位好心人
+
+Message:  1013
+_contact_，
+ 
+ 我非常希望與你會面，談談你對殺手受害者
+ 那些迷人的屍檢研究。如你所知，我做過類似調查，
+ 很樂意與一位傑出的同事分享我的知識與經驗。
+ 
+ 請用信差告知我們會面最方便的方式。我住在
+ _hookerhouse_，但或許你更願意在 _bookstore_ 會面，
+ 好讓我看看那些屍體。無論哪種，我都期待收到你的信差與便條。
+ 
+<ce>                         敬慕的，
+ 
+<ce>                                _vamp_
+
+Message:  1014
+%fn 的解剖報告：
+ 
+ 喉嚨被撕裂，顯然使用暴力
+ （殺手是瘋子？查洛博努斯在阿格林監獄
+ 對刑事精神病患的研究）。死亡即時，
+ 無掙扎跡象（殺手認識受害者？
+ 看起來不像威脅？）頸動脈完全切斷，
+ 檢驗時失血已極為嚴重（記得請
+ _qgiver_ 把發現屍體的衛兵送來面談）。
+ 
+ %mn 的解剖報告：
+ 
+ 受試者病理與女性受害者相似。喉嚨被猛烈撕裂，
+ 上臂有瘀傷，彷彿被極為強壯的男人抓住
+ （殺手的瘋狂產生超人力量？備註：
+ 寫信給洛博努斯，索取他去年祕會報告的那個有趣案例的研究筆記）。
+ 瘀傷顯示攻擊與死亡之間隔了一段時間？
+ （可能與攻擊無關？查受害者背景）。
+
+Message:  1015
+<ce>                    那麼，_contact_ 跟那些生蛆屍體耗了那麼多天，
+<ce>                結果%g得出的就只有這個。%god，以這個當起點，
+<ce>                      _contact_ 再過幾個星期也摸不到
+<ce>                殺手的身分。聽好，%pcf，若你想幫 _qgiver_，
+<ce>                   把這朵花帶給 _widowhouse_ 的 _widow_——
+<ce>                        %g3的兄弟就是%mn，殺手的受害者之一。
+<ce>                  這或許像瑣碎的傷感，但它會比 _contact_
+<ce>                        的任何科學催化更能讓你接近
+<ce>                        ___bookstore_ 殺手。相信我，%pcf。
+
+Message:  1016
+_vamp_ 就是我在 _hookerhouse_ 遇見的那個 =vamp_。人夠好，但陰森。
+<--->
+_vamp_ 是住在 _hookerhouse_ 的那個 =vamp_ 的名字。
+
+Message:  1017
+_vamp_ 是被派到 ___bookstore_ 除掉瘋狂殺手的 %vcn 之一。
+<--->
+_vamp_ 是一名 %vcn 吸血鬼，來這裡阻止對%g3安全的威脅——那個殺手。
+
+Message:  1018
+可憐的 _widow_ 自從殺手殺了%g3的兄弟後就待在 _widowhouse_。
+<--->
+%reg 殺手殺了 _widow_ 的兄弟，現在%g從不離開 _widowhouse_。
+
+Message:  1019
+<ce>               一朵紅罌粟？喔，你一定是我兄弟的朋友
+<ce>                    _rippername_，對吧？我確實感謝你在他死後
+<ce>             寄來的安慰便條。他朋友不多，說實話，他從沒提過
+<ce>             你的名字。但我當然謝謝你美麗的花，以及邀請我去
+<ce>                         _ripperhouse_ 拜訪你。
+<ce>              我一直很欣賞那地方，也很想看看裡面。
+<ce>                                    
+<ce>                  什麼，你不是 _rippername_？喔，
+<ce>              真抱歉。請原諒我，自從我兄弟……我就不是自己了。
+<ce>              不，我想我沒有能幫你找到那個殺人惡魔的消息。
+<ce>              你知道若我能幫就會幫。但你會找到殺死我兄弟的惡魔，對吧？
+
+Message:  1020
+%qdat:
+ 我正在追查 ___bookstore_ 的殺手。
+ %rt 希望在 =total_ 天內抓住 ___bookstore_ 殺手，
+ 免得謀殺激起民眾暴動。_qgiver_ 有一名科學家
+ 一直在檢驗殺手受害者的屍體，最近開始收到
+ 顯然來自殺手的死亡威脅。這名科學家叫
+ _contact_，在 _bookstore_ 工作。
+
+Message:  1021
+%qdat:
+ _contact_ 派我前往 _hookerhouse_，
+ 去見一位名叫 _vamp_ 的舊同事，
+ 或許能幫忙研究。
+
+Message:  1022
+%qdat:
+ 我到 _bookstore_ 太遲了。
+ 顯然 _contact_ 的死亡威脅非常真實。
+ 我找到的信件中，有一封來自一位有興趣與
+ _contact_ 會面的同事，名叫 _vamp_，
+ 住在 _hookerhouse_。
+
+Message:  1023
+%qdat:
+ 我見過 _vamp_，%g對同事 _contact_
+ 就 %reg 殺手受害者所做的研究似乎不太以為然。
+ _vamp_ 要我把一朵紅罌粟帶給一個名叫
+ _widow_ 的人，其兄弟被殺手殺害。
+ 我有些懷疑，但要到 _widow_ 住的
+ _widowhouse_ 才會確定。
+
+Message:  1024
+%qdat:
+ 已故 _contact_ 的同事與兇手是同一人。
+ _vamp_ 是吸血鬼，但聲稱自己不是殺手。
+ 若我殺死%g所說的 %reg 殺手，
+ _ripperhouse_ 的 _rippername_，_vamp_
+ 答應給我酬勞，顯然是在 _qgiver_
+ 給的酬勞之外。
+
+Message:  1025
+%qdat:
+ _vamp_ 派我去見的 =widow_ _widow_
+ 以為我是一個叫 _rippername_ 的人。
+ 這個 _rippername_ 顯然給 _widow_
+ 送過一束紅罌粟，並邀請%g2去一處叫
+ _ripperhouse_ 的地方。聽起來像個殺手陷阱，
+ 若世上真有這種東西。
+
+Message:  1026
+<ce>                 是哪封信把你帶到我這裡的，%pcn？
+<ce>             你大概知道那些信全是我寫的。_contact_ 拒絕聽從
+<ce>             我對調查超出凡人理解之事的禮貌警告之後，
+<ce>            我以%g3朋友的身分邀請%g2來這裡。你看，我在成為吸血鬼之前
+<ce>             多年前就認識%g2。我們見了面，回到 _bookstore_
+<ce>              看那些屍體，我就在那裡殺了%g2。相當無痛。
+<ce>             我看得出%g永遠不會停止研究。除此之外我不能多說，
+<ce>               除了殺手是像我一樣的吸血鬼，卻因不朽的祝福而瘋狂。
+<ce>                      _rippername_，那就是殺手的真名，
+<ce>             %g住在 _ripperhouse_。若你去那裡殺了%g2，我會酬謝你。
+<ce>            若你打算繼續 _contact_ 的研究，我也別無選擇，只能殺了你。
+<ce>                 這就是我簡單的提議。
+
+Message:  1027
+_contact_ 是在這%di的 _bookstore_ 裡相當博學的科學家。
+<--->
+_contact_ 是在 _bookstore_ 工作的一名 =contact_。
+
+Message:  1028
+_contact_ 正在解剖殺手的受害者，有人不喜歡這樣。
+<--->
+_contact_ 是 _bookstore_ 的科學家，一直在收到威脅信。
+
+Message:  1029
+<ce>  瘋狂殺手不復存在。
+
+Message:  1050
+<ce>                   殺死 _rippername_，你同時幫助了 %reg 和我。
+<ce>                 為此，我給你一件 _reward2_。或許有一天我們還會再見面，%pcn。
+<ce>                  這短暫的相識讓我對你產生了興趣。
+<ce>              願夜晚保佑你平安。

@@ -1,0 +1,111 @@
+-- Quest: C:\QUESTS\WORKING\R0C30Y25.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 30
+-- QuestId: 25
+Messages: 36
+Quest: R0C30Y25
+DisplayName: 盜賊幫派
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              我需要有人把一件特定物品送到 ___contact_
+<ce>                    我的接應人那裡。你會拿到一件回禮。
+<ce>              若你把那件回禮帶回給我，我很樂意以
+<ce>                 _reward_ 金幣酬謝。你同意嗎？
+
+RefuseQuest:  [1001]
+<ce>                不？真可惜。我本來準備相當慷慨。
+
+AcceptQuest:  [1002]
+<ce>                   很好。帶上這根金條，交給
+<ce>                  ___contact_ 一處名叫 __contact_ 的地方、
+<ce>                  一位叫 _contact_ 的 =contact_。
+<ce>                    你得動作快。_contact_ 沒有
+<ce>                 等拖沓信差的習慣。好了，祝你好運，%pcf。
+<ce>              我指望你在 =1stparton_ 天內回來。
+
+QuestFail:  [1003]
+<ce>                除非你帶著我派你去取的物品，否則請別再打擾我。
+
+QuestComplete:  [1004]
+<ce>                   出色，%pcf，你依約帶回了我附魔的
+<ce>            _item2_。聽說你在路上遇到些麻煩，我開始擔心
+<ce>              你已經完了。為了表彰出色的工作，我在原先答應的
+<ce>           _reward_ 金幣之外再加一件魔法 _item3_。
+<ce>              我相信不久之後我們還會用到你的效勞。謝謝。
+
+RumorsDuringQuest:  [1005]
+最近有個 =contact_ 來問我有沒有見過一名%ra。
+<--->
+前陣子有個 =contact_ 在找帶著 _item1_ 的%ra。
+
+RumorsPostfailure:  [1006]
+聽說 _questgiver_ 對某個%ra傭兵氣得發狂。
+<--->
+_questgiver_ 還在用傭兵，聽說%g被坑了。
+
+RumorsPostsuccess:  [1007]
+聽說 _questgiver_ 終於拿到了%g需要的 _item2_。
+<--->
+_questgiver_ 一直在讚美某個%ra傭兵。
+
+QuestorPostsuccess:  [1008]
+我能為你做什麼，我勇敢的年輕信差？
+<--->
+我很樂意盡力幫助我最喜歡的信差。
+
+QuestorPostfailure:  [1009]
+<ce>              那趟運送顯然太……複雜了，是嗎？
+<ce>                  啊，%ra年輕人的空洞。現在離開，%pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 派我帶著一根金條去找%g3的同夥，
+ ___contact_ 的 __contact_ 的 _contact_。
+ 我必須把黃金交到 _contact_ 手上，
+ 並在 =1stparton_ 天內趕回 __questgiver_，
+ 才能從 _questgiver_ 領到 _reward_ 金幣。
+
+Message:  1011
+<ce>                      妙極了，%pcf。我確實喜愛黃金，
+<ce>                你呢？好了，等你把這件特定的 _item2_
+<ce>              帶回給 _questgiver_，你就會拿到你那份。
+<ce>                  希望你還記得回 ___questgiver_ 的路。
+
+Message:  1015
+_qgenemy_……我想%g來自 __thievesguild_。
+<--->
+_qgenemy_？到 __thievesguild_ 問問。總有人認得%g2。
+
+Message:  1016
+<ce>   _qgenemy_ 捲入 __thievesguild_ 大多數見不得光的交易。
+<ce>    試試 _thievesguild_——%g大部分時間都耗在那裡。
+
+Message:  1020
+<ce>          你抵擋襲擊者時，感覺有什麼從身後擦過。
+<ce>              你瞥見一個身影跑開，注意力隨即
+<ce>            被迫拉回保命上。
+
+Message:  1021
+=thief_，
+ 
+ 目標是一名叫%pcn的%ra，
+ 會從 __contact_ 取走一件 _item2_。
+ 把 _item2_ 帶給我。信差無關緊要，
+ 死活都行。
+ 
+<ce>                               _qgenemy_
+
+Message:  1030
+<ce>            %oth，你是誰，怎麼進來的？！
+<ce>          你一定就是 _questgiver_ 那個該死的信差！
+<ce>          早知道該讓 =thief_ 殺了你。我心太軟，
+<ce>            總給自己惹麻煩……衛兵！殺了這個入侵者！！
+
+Message:  1035
+<ce>                 羊皮紙描述了密克瓦薩潮汐女巫集會的位置，
+<ce>                 不管那是什麼。

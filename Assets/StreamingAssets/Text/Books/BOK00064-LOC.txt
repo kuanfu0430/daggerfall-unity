@@ -1,5 +1,5 @@
-Title: Wayrest, Jewel of the Bay
-Author: Sathyr Longleat
+Title: 途歇城，海灣明珠
+Author: 薩希爾·朗利特
 IsNaughty: False
 Price: 348
 IsUnique: False
@@ -8,25 +8,25 @@ Content:
 
 [/font=2]
 
-[/center]Wayrest,
+[/center]途歇城，
 
-[/center]Jewel
+[/center]海灣
 
-[/center]of the
+[/center]的
 
-[/center]Bay
+[/center]明珠
 
 [/font=4]
- Wayrest is one of the most glorious cities of western Tamriel: sparkling in her contemporary beauty, lustrous by her past. She is prized above all cities in High Rock -- no other city has contributed, and continues to contribute so much to the culture of the Bretons. The spirits of her genius children continue to haunt the streets; you can see them in the gabled roofs, grand boulevards, aromatic marketplaces. The people of Wayrest have an instictive appreciation of their past, but are not obsessed by it, as the people of Daggerfall seem to be. One feels that one is in a modern city when one visits Wayrest, but there is a magic in the air that could only come from thirty-two centuries of civilization.
+  途歇城是泰姆瑞爾西部最輝煌的城市之一：因當代之美而閃耀，因往昔而光澤。在高岩諸城中她最受珍視——沒有別的城市對布萊頓文化貢獻過、並持續貢獻如此之多。她天才兒女的魂靈仍徘徊街巷；你能在山牆屋頂、宏偉林蔭道、芬芳市集中看見他們。途歇城人對過去有本能的欣賞，卻不像匕首雨人那般執迷。造訪途歇城，會覺得自己置身現代都市，空氣中卻有一種魔法，只能來自三十二個世紀的文明。
 
- It is difficult for historians to declare a certain date for the foundation of Wayrest. A settlement of some variety had been existence where the Bjoulsae River feeds the Iliac Bay possibly since the 800th year of the First Era. The traders and fishermen of Wayrest were surrounded by hostile parties: the orc capitol Orsinium had grown like a poison weed to the north, and the Akaviri pirates and raiders crowded the islands to the west. There is no mystery to Wayrest's name. After the fighting most travellers had to endure passing through the eastern end of the Iliac Bay, the little fishing village on the Bjoulsae was a welcome rest.
+  史家很難為途歇城的奠基宣布一個確定日期。比烏爾賽河流入伊利亞克灣之處，可能自第一紀元800年以來便有某種聚落。途歇城的商人與漁民四面受敵：北面獸人首都奧辛紐姆如毒草般滋長，西面諸島擠滿阿卡維爾海盜與劫掠者。途歇城之名並無神秘。旅人穿過伊利亞克灣東端多半得忍受戰火，比烏爾賽河上這座小漁村便成了受歡迎的歇腳處。
 
- Nowhere in the much vaunted censuses of the Skyrim Occupation is Wayrest mentioned. In the Annals of Daggerfall, King Joile's letter to Gaiden Shinji of the Order of Diagna contains the following reference: "The orcs have been much plaguing the Wayresters and impeding traffic to the heart of the land." The date given for the letter was 1E 948.
+  天際佔領時期那些備受吹捧的普查中，途歇城全無記載。在《匕首雨年表》裡，喬伊勒國王致迪亞格納騎士團蓋登·辛吉的信中有如下提及：「獸人深為侵擾途歇城人，並阻礙通往腹地的交通。」該信日期為第一紀元948年。
 
- Wayrest only truly bloomed after the razing of Orsinium in 1E 980. The hard-working traders and merchants were instrumental in forming the Masconian Trade Way and thus reducing the pirate activity on the Bay. At this time, Wayrest occupied both banks of the Bjoulsae. A successful mercantile family, the Gardners, built a walled palace on the High Rock side of the river and, over time, allowed banks and other businesses within its walls. It was a Gardner, Farangel, who was proclaimed king when Wayrest accepted ambassadors from the Camorian Empire, and was granted the right to call itself a kingdom in the 1100th year of the 1st Era.
+  途歇城真正綻放，是在第一紀元980年奧辛紐姆被夷平之後。勤奮的商人在形成馬斯科尼亞商路、從而減少灣上海盜活動上功不可沒。此時途歇城已佔據比烏爾賽河兩岸。成功的商賈家族加德納在河流高岩一側建造有牆宮殿，並逐漸允許銀行與其他商號入駐牆內。正是加德納家族的法蘭傑爾，在途歇城接受卡莫蘭帝國使節、並於第一紀元1100年獲准自稱王國時，被宣布為國王。
 
- Although Wayrest became a kingdom under the command of one family, the merchants continued to wield incredible power. Many economists have alleged that Wayrest's eternal wealth, despite all her hardships, comes from this rare relationship between the merchants and the crown. The Gardner Dynasty fell, followed by the Cumberland Dynasty, which was followed by the Horley Dynasty, and finally, in the Third Era, the Septim Dynasty. No citizen of another kingdom of comparable age can, with one hand, name all the families who have ever ruled. Never has a king of Wayrest been deposed by revolution or assassination. Except for those of the Septim family, every king of Wayrest can trace his line back to a merchant prince of Wayrest. The merchants and king respect one another, and this relationship strengthens both.
+  雖然途歇城在一族統治下成為王國，商人仍握有驚人權力。許多經濟學家斷言，途歇城無論歷盡何種艱辛仍永保富庶，正來自商人與王室之間這份罕見關係。加德納王朝傾覆，繼之為坎伯蘭王朝，再繼之為霍利王朝，終於第三紀元的塞普汀王朝。沒有別的同等年歲王國的公民，能單憑一隻手數出所有曾經統治的家族。途歇城從無一位國王因革命或暗殺而被廢。除塞普汀一族外，每一位途歇城國王都能把世系追溯到一位途歇城商賈王侯。商人與國王彼此尊重，這關係使雙方都更強大。
 
- One need only walk down the great boulevard of Wayrest to see physical proof of this unique alliance. Going north to south, Wayrest Boulevard suddenly divides, one half going west and the other going east. Both halfs end in identical squares: one at Castle Wayrest, the original palace of Aphren Gardner, and the other at Cumberland Square, where the oldest and wealthiest marketplace in Wayrest. The message here is clear: the king and the merchants are joined and equal.
+  只需沿著途歇城的偉大林蔭道走一遭，便能看見這獨特同盟的實物證明。由北向南，途歇城大道忽然一分為二，一半向西，一半向東。兩半盡頭都是相同的廣場：一端是途歇城堡，即阿夫倫·加德納的原初宮殿；另一端是坎伯蘭廣場，途歇城最古老也最富庶的市集。此間訊息清晰：國王與商人相連而平等。
 
- Wayrest has survived blights, droughts, plagues, piracy, invasions, and war with good humor and practicality. In 1E 2702, the entire population of the city was forced to move into the walled estate of the Gardners as protection against the pirates, Akaviri raiders, and Thrassian plague. A less resourceful community would have withered, but the Wayresters have survived to enrich Tamriel generation after generation.
+  途歇城以好脾氣與務實熬過了疫病、乾旱、瘟疫、海盜、入侵與戰爭。第一紀元2702年，全城人口被迫遷入加德納有牆莊園，以防海盜、阿卡維爾劫掠者與斯拉斯瘟疫。較少謀略的共同體會枯萎，途歇城人卻一代又一代存活下來，使泰姆瑞爾更豐饒。

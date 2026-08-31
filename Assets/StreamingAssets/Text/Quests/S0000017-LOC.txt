@@ -1,0 +1,83 @@
+-- Quest: C:\QUESTS\WORKING\S0000017.Qbn.
+-- Main story quest.
+-- QuestId: 17
+Messages: 23
+Quest: S0000017
+DisplayName: 途歇城畫作
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      %pcn！歡迎來到哨兵城。
+<ce>                  我相信你目前住得還舒適。讓我開門見山。
+<ce>                  我的兒子洛頓王子說你是備受尊敬、
+<ce>                 值得信賴的%ra。我需要你這種人。
+<ce>                  我願付你_gold_金幣，潛入途歇城城堡，
+<ce>                    為我取回已故萊桑達斯國王的一件
+<ce>                 傳家寶。你願意嗎？
+
+RefuseQuest:  [1001]
+<ce>                  嗯。我得重新考慮你在本廷的地位。
+
+AcceptQuest:  [1002]
+<ce>                   多麼豐厚！有一件物品，一幅畫，
+<ce>                  藏在途歇城城堡某處。我要這件物品，
+<ce>                    原因你不必擔心。把它帶給我，
+<ce>                   我會付給你_gold_金幣。
+
+QuestComplete:  [1004]
+<ce>                    這是你的_gold_金幣，%pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 阿科里希女王派我潛入途歇城城堡。它的地城某處
+ 有一幅她想要的畫。若我能把它交到她手上，
+ 她會付給我_gold_金幣。
+
+Message:  1011
+親愛的%pcn：
+  
+ 希望你在下個季節結束前蒞臨本廷。
+ 洛頓王子對你讚譽有加。我等候你的到來。
+  
+<ce>                               阿科里希
+<ce>                           哨兵城女王
+
+Message:  1012
+<ce>               一名帶著哨兵城紋章的侍女僵硬地遞給你
+<ce>                一個熨得筆挺的信封。她不理會你的詢問，
+<ce>              轉身走開。
+
+Message:  1013
+<ce>               你盯得越久，畫中的影像似乎越在移動。
+<ce>                你在更糟的事發生前把目光移開。
+
+Message:  1015
+<ce>                 畫中的場景扭轉變換。你可以清楚地看見
+<ce>                一座營帳內部。幾個身著途歇城制服的人
+<ce>                 正與一名帶著匕首雨紋章的人激烈辯論。
+<ce>                一名途歇城的人溜到匕首雨那人身後，抽出
+<ce>                  匕首，從容地刺進他的肋骨之間。
+<ce>                 影像隨著他生命流逝而淡去。
+
+Message:  1020
+<ce>                 你試圖使用那幅畫了嗎？
+
+Message:  1021
+<ce>                     很好。它的特性不適合非王室
+<ce>                 血脈者。你已證明自己不僅忠誠，而且
+<ce>                  服從。
+
+Message:  1022
+<ce>                        你僭越太多了，%pcn。
+<ce>                  你所見的不是給大眾窺探的。它關乎
+<ce>                    王室事務，將由王室處理。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 3 times.
+--              %pcn occurs 4 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--            _gold_ occurs 10 times.

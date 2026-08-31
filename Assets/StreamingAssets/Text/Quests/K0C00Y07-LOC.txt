@@ -1,0 +1,187 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 7
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 100
+Quest: K0C00Y07
+DisplayName: 贖金
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>我可憐的寶貝_victim_
+<ce>被盜賊公會綁架了。
+<ce>你能幫我嗎？
+<--->
+<ce>盜賊公會奪走了我最親愛的_victim_，
+<ce>現在還索要贖金。我需要有人
+<ce>把我的愛人帶回來，不管用什麼辦法。
+<ce>拜託，你願意幫我嗎？
+
+RefuseQuest:  [1001]
+<ce>你的心腸真冷，%pcf。看來我得
+<ce>自己去面對這些綁匪了。
+<--->
+<ce>那我就另找別人，%pcn。
+
+AcceptQuest:  [1002]
+<ce>我付不了你太多，%pcf。
+<ce>大半積蓄都拿去買這顆寶石當贖金了，
+<ce>不過等我最親愛的_victim_回來，
+<ce>剩下的積蓄——_gold_金幣——可以給你。
+<ce>綁匪要人把_gem_送到___kidnapper_
+<ce>的__kidnapper_，且不得超過=2ransom_天。
+<ce>在__kidnapper_，我要找一個名叫
+<ce>_kidnapper_的=kidnapper_。
+<ce>沒有什麼比_victim_的安全更重要，
+<ce>但若你能不付贖金就把人救回來，
+<ce>我會非常感激。就像我說的，這是我的全部。
+<ce>祝你好運，願%god保佑你。
+<--->
+<ce>感謝%god。這是綁匪要的贖金_gem_。
+<ce>若你能設法不付贖金就救出_victim_，
+<ce>我會非常感激。買了那寶石後，我的積蓄
+<ce>幾乎見底。當然，等_victim_回來，
+<ce>你可以拿_gold_金幣——那會讓我的積蓄
+<ce>徹底歸零，但值得。若必須付贖金，
+<ce>務必在=2ransom_天內辦妥。綁匪在
+<ce>___kidnapper_的__kidnapper_有一名代理人，
+<ce>是個叫_kidnapper_的=kidnapper_。
+<ce>=2ransom_天一過，%g就會向藏著_victim_
+<ce>的同夥傳話，他們會殺了%g2。
+<ce>請別讓這種事發生。祝你好運，朋友。
+
+Message:  1099
+<ce>_victim_！哦，感謝%god你還活著。
+<ce>而且，善良的%pcf，你連贖金_gem_都沒用上。
+<ce>我再怎麼謝都不夠。這是我答應的_gold_金幣，
+<ce>但遠遠不夠。你有我最深的感激，我的朋友。
+
+QuestComplete:  [1004]
+<ce>拿去吧。這是你的，我的朋友。
+
+RumorsDuringQuest:  [1005]
+_qgiver_幾乎付不起_victim_的贖金。
+<--->
+_victim_被綁架，嚇壞了___qgiver_所有人。
+
+RumorsPostfailure:  [1006]
+綁架_victim_的盜賊大概永遠不會受到制裁。
+
+RumorsPostsuccess:  [1007]
+_victim_被一名了不起的%ra傭兵從盜賊手中救出了。
+
+QuestorPostsuccess:  [1008]
+你救出了_victim_，%pcf。當然，我會盡力幫你。
+
+QuestorPostfailure:  [1009]
+<ce>聽著，我現在不想跟你或任何人說話。
+<ce>你為什麼不給我滾？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_、__qgiver_的
+ _qgiver_派我帶著一顆_gem_，
+ 去向盜賊公會贖回%g3的愛人_victim_。
+ 贖金必須在=2ransom_天內付清，
+ 否則他們會殺了_victim_。
+ _kidnapper_是綁匪的代理人，
+ 在___kidnapper_的__kidnapper_等我。
+ 當然，_qgiver_希望我儘可能
+ 不付贖金就救出%g3的愛人。
+
+Message:  1011
+<ce>你要把_gem_交給_kidnapper_嗎？
+
+Message:  1012
+<ce>你是%pcf，對吧？盜賊公會挺喜歡你的，孩子。
+<ce>哦，%oth，我懂了。你是替_qgiver_辦事，
+<ce>確保%g老老實實付錢，沒搞花樣，對吧？
+
+Message:  1013
+<ce>_victim_會為你的愚蠢付出代價！
+<ce>%oth，%g會在=queston_天內死掉！
+<ce>=thug_！把這%ra撕碎！
+<--->
+<ce>=thug_！殺了這蠢透的%ra，
+<ce>我去對_victim_做同樣的事。
+
+Message:  1014
+<ce>_qgiver_派你來的？
+<ce>%oth，感謝%god！快，咱們離開這兒！
+
+Message:  1015
+=thug_，
+ 
+      公會需要你的力氣，辦一樁相當例行的綁架。
+ 受害者名叫_victim_，你從___qgiver_
+ 的__qgiver_把%g2從家裡帶走後，
+ 前往___mondung_。
+      前往___mondung_的路線如下。
+ 希望這計劃對你來說不算太難。
+ 
+<ce>_kidnapper_
+
+Message:  1016
+<ce>%pcf，我真希望你知道自己在做什麼。
+<ce>我很高興拿回_gem_，但不能以_victim_
+<ce>為代價。若%g被殺，別指望我感激。
+
+Message:  1017
+<ce>_victim_！感謝%god你沒事！
+<ce>謝謝你，我的朋友。我希望你不必付贖金，%pcf，
+<ce>但最重要的是我親愛的_victim_回來了。
+<ce>這是我答應的_gold_金幣。
+
+Message:  1018
+<ce>難怪公會喜歡你。
+<ce>我也會讓他們聽說這事，%pcf。
+<ce>現在，回去找_qgiver_，告訴%g2
+<ce>_victim_很快就會到。跟你做生意很高興。
+
+Message:  1019
+<ce>啊，很好。讓_qgiver_知道
+<ce>%g3的_victim_很快就會在___qgiver_
+<ce>平安無事。再會。
+
+Message:  1020
+<ce>是的，_victim_在你抵達前不久就被送回來了，
+<ce>%pcf。謝謝你替我面對那可怕的_kidnapper_。
+<ce>這是我答應的_gold_金幣。
+
+Message:  1021
+<ce>_victim_告訴你%g能從這兒自己找到
+<ce>%g3的愛人_qgiver_，道了謝，便跑開了。
+
+Message:  1022
+<ce>到這時候，_victim_肯定已經死了。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 7 times.
+--               %g2 occurs 3 times.
+--               %g3 occurs 12 times.
+--              %god occurs 5 times.
+--              %oth occurs 3 times.
+--              %pcf occurs 9 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 4 times.
+--         =2ransom_ occurs 4 times.
+--       =kidnapper_ occurs 2 times.
+--         =queston_ occurs 1 time.
+--            =thug_ occurs 3 times.
+--     ___kidnapper_ occurs 3 times.
+--       ___mondung_ occurs 2 times.
+--        ___qgiver_ occurs 4 times.
+--      __kidnapper_ occurs 4 times.
+--         __qgiver_ occurs 2 times.
+--             _gem_ occurs 6 times.
+--            _gold_ occurs 8 times.
+--       _kidnapper_ occurs 7 times.
+--          _qgiver_ occurs 8 times.
+--          _victim_ occurs 27 times.

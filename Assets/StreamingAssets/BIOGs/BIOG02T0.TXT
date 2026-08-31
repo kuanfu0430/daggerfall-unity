@@ -1,210 +1,204 @@
-1.	After the College of Destruction, what school of 
-	magic have you been studying the second longest?
-a.	Restoration
+1.	在毀滅學派之後，你研習第二久的
+	魔法學派是哪一個？
+a.	恢復
 	#4250
 	22 +12
 	23 +6
-b.	Illusion
+b.	幻術
 	#4251
 	22 +12
 	24 +6
-c.	Alteration
+c.	變化
 	#4252
 	22 +12
 	25 +6
-d.	Thaumaturgy
+d.	奇術
 	#4253
 	22 +12
 	26 +6
-e.	Mysticism
+e.	神秘
 	#4254
 	22 +12
 	27 +6
 
-2.	What motivates you into a life of
-	adventure?
-a.	Riches
+2.	是什麼驅使你走上冒險之路？
+a.	財富
 	#4255
 	GP +500
-b.	Fame
+b.	名聲
 	#4256
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	知識
 	#4257
 	IT 7 0 0
-d.	Fun
+d.	樂趣
 	#4258
 	1 +3
 	2 +3
-e.	Helping Others
+e.	助人
 	#4259
 	r0 +10
 
-3.	In between formal study, you spent your
-	time ___.
-a.	socializing with aristocrats
+3.	正式課業之餘，你把時間花在___。
+a.	與貴族交際
 	#4260
 	1 +6
 	r3 +5
 	r0 -5
-b.	learning streetsmarts
+b.	學習街頭智慧
 	#4261
 	2 +6
 	r0 +2
 	r4 +3
 	r3 -5
-c.	practicing acrobatics
+c.	練習雜技
 	#4262
 	3 +2
 	20 +2
 	18 +2
-d.	learning economics
+d.	學習經濟學
 	#4263
 	14 +6
-e.	swimming
+e.	游泳
 	#4265
 	17 +6
-f.	sparring
+f.	對打
 	#4266
 	30 +6
 
-4.	Since childhood, you have saved  ___.
-a.	100 gold pieces
+4.	從童年起，你存下了___。
+a.	100 枚金幣
 	#4167
 	GP +100
-b.	A favorite book
+b.	一本心愛的書
 	#4168
 	IT 7 0 0
-c.	A cuirass
+c.	一件胸甲
 	#4169
 	IT 2 0 0
-d.	A katana
+d.	一把武士刀
 	#4193
 	IT 3 8 0
 
-5.	In gratitude for services rendered, the
-	Emperor gave you ___.
-a.	Over 200 gold pieces
+5.	為感謝你的貢獻，皇帝賜給你___。
+a.	兩百多枚金幣
 	#4172
 	GP +250
-b.	An ebony dagger
+b.	一把烏木匕首
 	#4173
 	IT 3 0 7
-c.	A book
+c.	一本書
 	#4174
 	IT 7 0 0
-d.	A ruby
+d.	一顆紅寶石
 	#4175
 	IT 14 0 0
-e.	A silver staff
+e.	一根銀法杖
 	#4176
 	IT 3 2 2
-f.	A pearl
+f.	一顆珍珠
 	#4191
 	IT 22 1 0
 
-6.	As you grew older, you received additional
-	magical training in ___.
-a.	The School of Destruction
+6.	長大後，你又接受了___的額外魔法訓練。
+a.	毀滅學派
 	22 +6
-b.	The School of Restoration
+b.	恢復學派
 	23 +6
-c.	The School of Illusion
+c.	幻術學派
 	24 +6
-d.	The School of Alteration
+d.	變化學派
 	25 +6
-e.	The School of Thaumaturgy
+e.	奇術學派
 	26 +6
-f.	The School of Mysticism
+f.	神秘學派
 	27 +6
 
-7.	As a child, your nickname was ___.
-a.	Rabbit
+7.	小時候，別人給你的綽號是___。
+a.	兔子
 	3 +6
-b.	Guppy
+b.	小魚
 	17 +6
-c.	Quicksilver
+c.	水銀
 	21 +6
-d.	Scrapper
+d.	好鬥鬼
 	30 +6
-e.	Monkey
+e.	猴子
 	18 +6
 
-8.	You are friendlier than most with ___.
-a.	the savage Harpies
+8.	你比大多數人更親近___。
+a.	野蠻的鷹身女妖
 	5 +6
-b.	the simple Giants
+b.	單純的巨人
 	6 +6
-c.	the glorious Dragons
+c.	光榮的巨龍
 	7 +6
-d.	the immodest Nymphs
+d.	不羈的寧芙
 	8 +6
-e.	the infernal Daedra
+e.	煉獄的迪德拉
 	9 +6
-f.	the bucolic Spriggans
+f.	鄉野的樹精
 	10 +6
-g.	the primitive Centaurs
+g.	原始的半人馬
 	11 +6
-h.	the mischevious Imps
+h.	淘氣的小惡魔
 	12 +6
 
-9.	Of all disagreeable types, you have the
-	most personal hatred for ___.
-a.	Sanctimonious priests
+9.	在各種討厭的人當中，你最痛恨___。
+a.	道貌岸然的祭司
 	AE M 8 12 +3
-b.	Diabolic wizards
+b.	邪惡的巫師
 	AE M 8 2 +4
-c.	Stupid peasants
+c.	愚蠢的農民
 	AE M 8 8 +3
-d.	Power-mad robber barons
+d.	權力狂的強盜領主
 	AE M 8 17 +4
-e.	Immoral assassins
+e.	不道德的刺客
 	AE M 8 11 +2
 
-10.	You are intimate friends with ___.
-a.	a Monk
+10.	你的摯友是___。
+a.	一名修士
 	AF O 8 12 +1
-b.	a Mage
+b.	一名法師
 	AF O 8 2 +1
-c.	a Rogue
+c.	一名流氓
 	AF O 8 8 +1
-d.	a Warrior
+d.	一名戰士
 	AF O 8 17 +1
-e.	an Assassin
+e.	一名刺客
 	AF O 8 11 +1
 
-11.	What god, if any, do you worship?
-a.	None
+11.	你崇拜哪位神祇（若有的話）？
+a.	無
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	阿凱，誕生與死亡之神
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	澤尼薩爾，商業之神
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	瑪拉，母親女神
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	迪貝拉，美之女神
 	rf98 +5
-f.	Julianos, God of Logic
+f.	朱利安諾斯，邏輯之神
 	rf94 +5
-g.	Akatosh, God of Time
+g.	阿卡托什，時間之神
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	斯丹達爾，慈悲之神
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	凱娜瑞斯，空氣女神
 	rf36 +5
 
-12.	You have the most trouble ___.
-a.	Resisting poisons
+12.	你最不擅長___。
+a.	抵抗毒素
 	RP -10
-b.	Staying awake and alert
+b.	保持清醒與警覺
 	FT -5
-c.	Getting along with others
+c.	與人相處
 	RR -5
-d.	Avoiding diseases
+d.	避免疾病
 	RD -5
-e.	Resisting magic
+e.	抵抗魔法
 	MR -5
-f.	Fighting without magic
+f.	不靠魔法戰鬥
 	TH -5
-

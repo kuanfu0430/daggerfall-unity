@@ -1,0 +1,106 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 5
+Messages: 31
+Quest: R0C10Y05
+DisplayName: 致命外交
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      你或許知道，我正在與
+<ce>                        _qgfriend_ 結盟。為了鞏固
+<ce>                       友誼，我答應安排除掉
+<ce>                         長期威脅%g2的某種
+<ce>                      怪物。這頭骯髒的寄生蟲
+<ce>                        住在一處破敗的老地方，
+<ce>                       名叫 ___mondung_。
+<ce>                          %G答應付給殺死
+<ce>                    那生物的人 _reward_ 金幣作為回報。
+<ce>                        不錯吧，我想你會同意。
+<ce>                        那麼，這聽起來像是
+<ce>                       你會接的冒險嗎，
+<ce>                                 %pcn？
+
+RefuseQuest:  [1001]
+<ce>            真的？把我晾在這種節骨眼上，真是不體貼。
+
+AcceptQuest:  [1002]
+<ce>                      聽得出划算的買賣，是吧？
+<ce>                        我告訴 _qgfriend_
+<ce>                      那怪物會在 =1stparton_ 天內死去，
+<ce>                      否則%g可以另外雇人。
+<ce>                       所以殺了那生物，再到
+<ce>                         ___qgfriend_ 去找
+<ce>                     %g2，趕在時限之前。
+
+QuestFail:  [1003]
+<ce>                     最好趕緊上路，%pcf。
+<ce>                             時間不多了。
+
+QuestComplete:  [1004]
+<ce>                 是的，我已經聽說我們的 _giant_
+<ce>                禍害結束了。不知道 _questgiver_
+<ce>                     從哪找來你的，但很高興%g找了。
+<ce>             這是你的 _reward_ 金幣酬勞。謝謝你的效勞，
+<ce>                             %pcf。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 有頭怪物一直在騷擾 _qgfriend_。
+<--->
+___mondung_ 那頭怪物顯然帶著一大群蝙蝠和老鼠。
+
+RumorsPostfailure:  [1006]
+那頭怪物 =giant_ 知道巢穴暴露了，已經搬走。
+<--->
+<ce>           怪物 =giant_ 已離開 ___mondung_，
+<ce>                     但仍在禍害 _qgfriend_。
+
+RumorsPostsuccess:  [1007]
+=giant_ 的詛咒終於從%reg掃除了。
+<--->
+一名神聖的%ra戰士摧毀了 =giant_，這片土地的災星。
+
+QuestorPostsuccess:  [1008]
+啊，我的朋友，=giant_ 的剋星！有何貴幹？
+<--->
+<ce>           你幫我促成了聯盟，%pcf。
+<ce>                       我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>                   你沒殺掉那頭怪物，把事情搞複雜了。
+<ce>                  我沒時間理會你這種人。
+
+Message:  1011
+<ce>                   =qgfriend_，是嗎？_questgiver_
+<ce>                     可能的盟友，正為 ___mondung_
+<ce>                    那東西頭疼。
+                                      <--->
+_qgfriend_ 是 =giant_ 的血仇敵人。
+
+Message:  1012
+你已殺死 =giant_。
+
+Message:  1015
+%qdt:
+___questgiver_ 的 _questgiver_
+ 受盟友 ___qgfriend_ 的 _qgfriend_
+ 所託，雇我去殺死一頭只以 =giant_
+ 為人所知的怪物，它一直在
+ ___mondung_ 附近為禍。若怪物已死，
+ 且我在 =1stparton_ 天內趕到 _qgfriend_
+ 那裡，就能領到酬勞。
+
+Message:  1021
+<ce>                   喔，差點忘了。我不知道
+<ce>                ___mondung_ 鬧的是哪種怪物，
+<ce>                 但傳聞 =giant_ 這個名字
+<ce>                    就是那恐怖的源頭。
+
+Message:  1030
+<ce>               誰敢打擾可怖的 =giant_ 的
+<ce>               %g3巢穴？你的頭顱很快就會
+<ce>                           掛在我牆上當戰利品！

@@ -1,0 +1,107 @@
+-- Quest: C:\QUESTS\WORKING\Q0C00Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 0
+-- QuestId: 8
+Messages: 14
+Quest: Q0C00Y08
+DisplayName: 稀世典籍
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 是的，事實上，汝能幫助我們，
+<ce>                       %pcf。我們是隱居的巫會，
+<ce>                 在外界被人恐懼與敵視。若汝願為
+<ce>                  我們取得一本正為我們保管在
+<ce>                         ___contact_ 的稀世典籍，
+<ce>                 我們樂於贈汝一件專門為你製作的
+<ce>                  特殊 _mitem_。
+
+RefuseQuest:  [1001]
+<ce>                   那麼我們就等下一個流浪旅人。
+<ce>                   我們的需求還沒那麼急迫。
+
+AcceptQuest:  [1002]
+<ce>                 汝願意？那本典籍名叫 _book_——
+<ce>                           極為稀有。即便有人
+<ce>                 找到副本，價錢也會高得令人卻步。
+<ce>                 因此我們很幸運，在 ___contact_
+<ce>                   有一位朋友，一名叫 _contact_
+<ce>                      的 =contact_，已偷得一本。
+<ce>                若汝到 __contact_ 與 %g2 會面，
+<ce>                  %g 會把書交給汝。我們期望汝
+<ce>                  在 =queston_ 天內回來。逾期之後，
+<ce>                    這本書對我們便無用了。願
+<ce>                     ==daedra_ 守護汝的旅程。
+
+QuestComplete:  [1004]
+<ce>                  啊，就是它。我希望你有機會翻過
+<ce>                 那一頁，好 %pcf。你不太可能很快
+<ce>                       再見到這樣的東西。
+<ce>                      好，這是你的 _mitem_。
+
+RumorsDuringQuest:  [1005]
+_contact_ 受到一些嫌疑。他們說 %g 與女巫來往。
+<--->
+有人說 _contact_ 是隱密的女巫。
+
+RumorsPostfailure:  [1006]
+_contact_ 被捕，被綁在火刑柱上燒死。活該。
+<--->
+可憐的 _contact_ 總是管不住 %g3 嘴。如今總算閉上了。
+
+RumorsPostsuccess:  [1007]
+那個 _contact_ 被捕了，但他們沒找到 _book_。
+<--->
+他們抓住了 _contact_，但 %g 顯然不是偷走 _book_ 的那個 =contact_。
+
+QuestorPostsuccess:  [1008]
+噢，你好，%pcf。我正讀著 _book_——汝為我們取得的那本。
+
+QuestorPostfailure:  [1009]
+<ce>                            _book_ 失落了，
+<ce>                     大概永遠失落。現在不是說話的
+<ce>                     時候。走吧，離開
+<ce>                          ==qgiver_。汝此刻
+<ce>                            不受歡迎。
+
+QuestLogEntry:  [1010]
+%qdt:
+  ==qgiver_ 派我前往
+  ___contact_，在 __contact_
+  會見一名叫 _contact_ 的
+  =contact_，談一本極為稀有的書。
+  我要在 =queston_ 天內把書
+  帶回 ==qgiver_。
+
+Message:  1011
+<ce>                       行了，%pcf，書在這。
+<ce>                 自己小心點。衛兵正在 ___contact_
+<ce>                        到處搜那東西。
+
+Message:  1012
+<ce>                             站住！小偷！
+
+Message:  1013
+<ce>                         你突然想到，
+<ce>                     女巫們正是在這一刻
+<ce>                     期望拿到那本書。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 6 times.
+--               %g2 occurs 2 times.
+--               %g3 occurs 2 times.
+--              %pcf occurs 5 times.
+--              %qdt occurs 1 time.
+--         ==daedra_ occurs 1 time.
+--         ==qgiver_ occurs 3 times.
+--         =contact_ occurs 4 times.
+--         =queston_ occurs 3 times.
+--       ___contact_ occurs 6 times.
+--            _book_ occurs 19 times.
+--         _contact_ occurs 10 times.
+--           _mitem_ occurs 3 times.

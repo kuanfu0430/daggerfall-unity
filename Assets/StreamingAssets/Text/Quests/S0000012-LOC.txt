@@ -1,0 +1,133 @@
+-- Quest: C:\QUESTS\WORKING\S0000012.Qbn.
+-- Main story quest.
+-- QuestId: 12
+Messages: 22
+Quest: S0000012
+DisplayName: 皇帝的信使
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       你好，%pcn。我聽過許多
+<ce>                關於你的事。如今你帶著一個非常有趣的
+<ce>               欺瞞故事來見我。所以女僕辛達莎說，奧布基
+<ce>              拆開了一封皇帝寫給我的信。我可以告訴你，
+<ce>                  %pcf，她從未把那樣的信交給我。
+<ce>                                    
+<ce>                    我希望你進一步調查此事，%pcn。
+<ce>                    過問奧布基的事務可能有風險，
+<ce>                   即使戈斯里德國王是我自己的兒子，
+<ce>                 也可能激怒他。你願意嗎？
+
+RefuseQuest:  [1001]
+<ce>               奧布基一定把你牢牢纏在手指上了，
+<ce>                       %pcn。但願你能活著
+<ce>              從她的庇護中得到好處。
+
+AcceptQuest:  [1002]
+<ce>               很好。我對奧布基對皇帝的忠誠早就有
+<ce>               懷疑。她是已故卡瑪隆國王的女兒，那位
+<ce>             從哨兵城城堡統治落錘省的國王。
+<ce>                                    
+<ce>                我丈夫萊桑達斯國王，願%god安息他的
+<ce>             靈魂，死於克林蓋恩，卡瑪隆國王也是。
+<ce>              萊桑達斯的遺體未被尋回，所以那裡立的是
+<ce>              紀念碑而非真正的墳墓。啊……我的心神遊走了。
+<ce>                                    
+<ce>                  皇帝在匕首雨用_messenger_當信使。
+<ce>             %G可能在這地區任何地方送信。不過，
+<ce>                    _messenger_是巨龍騎士團的成員。
+<ce>              到__location_的_location_去找_dispatcher_。
+<ce>                %G或許知道何處能找到_messenger_。
+<ce>               設法查明為何寫給我的信會被送到奧布基手上。
+
+QuestComplete:  [1004]
+<ce>            啊！現在說得通了。烏列爾·塞普丁把信寫給
+<ce>            「匕首雨王后」。他寄出時，我是王后。信抵達時，
+<ce>             我親愛的萊桑達斯已死，奧布基成了王后。
+<ce>           我們必須查明那封信的內容。我從未信任過奧布基。
+<ce>                                    
+<ce>              昨天我收到途歇城摩吉婭公主的信，聲稱
+<ce>             知道一些皇帝那封信的事。那可是一個在皇帝
+<ce>            統治下沸騰不滿的家族。若你查明誰握有皇帝的信，
+<ce>               再回來見我。
+<ce>                                    
+<ce>                眼下，你已向我證明了自己，%pcn。
+<ce>                  留下這件_jewelry_作為我的謝禮。
+<ce>               我再也不想擁有任何屬於奧布基的東西。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 戈斯里德的太后米尼塞拉請我調查，為何一封
+ 皇帝寫給她的信會落到奧布基王后手裡。皇帝的
+ 信使_messenger_只能透過__location_的
+ _dispatcher_聯絡。兩人都是巨龍騎士團成員。
+ 她給了我一枚印章戒指，向他們證明我值得信賴。
+
+Message:  1011
+%qdt:
+ 米尼塞拉的印章戒指買到了_dispatcher_的信任。
+ %G告訴我，_messenger_將在=2palace_天後
+ 出現在__palace_的_palace_。
+
+Message:  1015
+<ce>              皇帝的信？其實，%pcf，這事相當尷尬。
+<ce>              那封信在我收到的同一天就被偷走了。我
+<ce>             從未讀過它。我一直希望信會出現，或皇帝
+<ce>              會再寄一封。若你找到那封信，若你願讓我
+<ce>             親自交給米尼塞拉，我會非常感激。
+
+Message:  1016
+<ce>              你不該試圖調查皇帝的信，%pcn。如今
+<ce>                    你得以性命償還。
+
+Message:  1017
+殺了那個%ra。在前往__location_的路上伏擊
+ 是你最好的機會。那傻瓜打算在那裡盤問
+ _dispatcher_。
+<ce>                                    
+<ce>                                ——— A.
+
+Message:  1019
+一枚印章戒指，鐫刻著匕首雨紋章與萊桑達斯的私人紋章。
+
+Message:  1020
+<ce>                          我是_dispatcher_。
+<ce>              我通常不會告訴任何非巨龍騎士團的人
+<ce>           何處能找到_messenger_。不過，我忠於米尼塞拉
+<ce>             王后。我也知道_messenger_把上一個試圖伏擊
+<ce>                   %g2的人開膛破肚了。再過=2palace_天
+<ce>             %g會在__palace_的_palace_。到那裡找%g2。
+
+Message:  1021
+<ce>              嗬！你該知道，我是為皇帝本人效力的
+<ce>              巨龍騎士。若這是什麼伏擊我的詭計，
+<ce>                你肯定活不到後悔的那天。
+<ce>                                    
+<ce>                  嗯。是的，我是_messenger_。這枚
+<ce>             印章戒指證明你確實為米尼塞拉效力。不久前
+<ce>            我送過一封皇帝寫給匕首雨王后的信。若我沒記錯，
+<ce>              匕首雨王后是奧布基，不是米尼塞拉。告訴
+<ce>               米尼塞拉，我非常認真對待職責。我絕不會
+<ce>             故意把信件送給錯誤的對象。奧布基王后為了
+<ce>              感謝給了我這件_jewelry_。把它給米尼塞拉看，
+<ce>              讓她知道我是忠誠的僕人，忠於我的騎士團。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 4 times.
+--               %g2 occurs 3 times.
+--              %god occurs 1 time.
+--              %pcf occurs 2 times.
+--              %pcn occurs 5 times.
+--              %qdt occurs 2 times.
+--               %ra occurs 1 time.
+--         =2palace_ occurs 3 times.
+--       __location_ occurs 3 times.
+--         __palace_ occurs 3 times.
+--      _dispatcher_ occurs 6 times.
+--         _jewelry_ occurs 2 times.
+--        _location_ occurs 1 time.
+--       _messenger_ occurs 8 times.
+--          _palace_ occurs 4 times.

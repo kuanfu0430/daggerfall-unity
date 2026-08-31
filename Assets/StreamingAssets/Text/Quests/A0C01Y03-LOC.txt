@@ -1,0 +1,86 @@
+-- Quest: C:\QUESTS\WORKING\A0C01Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 01
+-- QuestId: 3
+Messages: 18
+Quest: A0C01Y03
+DisplayName: 謎題
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我是 _qgiver_，需要一名獵人之人的服務。我愛上了 _spouse_。
+<ce> 可惜 %g 拒絕結婚，除非我解開 %g3 導師 _hermit_ 失踪時留下的謎題，以證明自己配得上。
+<ce> 我需要你找到 %g2，並找出 %g3 謎題的答案。成功的話我會付你 _gold_ 金幣。
+
+RefuseQuest:  [1001]
+<ce> 我會繼續尋找願意接下這份託付的冒險者。若你遇見對這種任務感興趣的人，請指引他們找 _qgiver_。
+
+AcceptQuest:  [1002]
+<ce> 唯一可能幫你找到 _hermit_ 的人是 _spouse_。%G 可以在 ___spouse_ 找到。
+<ce> 帶上這些花。那是 %g3 最愛。或許能讓 %g2 對你稍有好感。
+<ce> 這封信上寫著 _hermit_ 的謎題。若三個月內沒回來，我會假定你已失敗。
+
+QuestComplete:  [1004]
+<ce> _qgiver_ 撕開 _hermit_ 的信。「仁慈！當然。現在我明白為什麼 _spouse_ 派我去這趟任務。
+<ce> 愛 %g2 還不夠，我還得對 %g2 展現仁慈。你幫了大忙，%pcf。這是我答應你的金幣。」
+
+RumorsDuringQuest:  [1005]
+<ce> _qgiver_ 被愛沖昏了頭。%G 一直想讓 _spouse_ 接受求婚，已經好久了。
+
+RumorsPostfailure:  [1006]
+<ce> 聽說 ___spouse_ 的 _spouse_ 結婚了。_qgiver_ 知道後會心碎。
+
+RumorsPostsuccess:  [1007]
+<ce> 好消息！_spouse_ 和 _qgiver_ 最近結婚了。
+
+QuestorPostsuccess:  [1008]
+<ce> 為找到謎題答案的 %ra，什麼都願意。_spouse_ 和我結婚了，你知道的。
+
+QuestorPostfailure:  [1009]
+<ce> 你就是那個找不到隱士謎題答案的 %ra。我用不上失敗的英雄。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的 _qgiver_
+ 要我去找 _hermit_。
+ 據說 _hermit_ 有謎題的答案。
+ 我唯一的線索是 %g 曾與 ___spouse_ 的 _spouse_ 共事。
+ 我有三個月回報成功。
+
+Message:  1011
+<ce> _flowers_ 其實不必。_hermit_ 去 __school_ 跟隨著名導師 _teacher_ 學習。
+<ce> 若你把這本書給 %g2，%g 或許會對你另眼相看。
+
+Message:  1012
+<ce> _hermit_ 要我別把 %g3 下落告訴陌生人。不過，既然你帶著 _spouse_ 的 _book_，
+<ce> 顯然不只是陌生人。_hermit_ 把自己關在一座地城研習奧秘學問。
+<ce> 我已把位置標在你的地圖上。祝你好運，%pcn。
+
+Message:  1013
+<ce> 我討厭被打擾！若讓你走開的唯一辦法是給你那愚蠢謎題的答案，那就拿去。
+<ce> 現在滾，免得我召喚火焰迪德拉給你指路。
+
+Message:  1014
+別談愛或恨，只告訴我這個：
+ 你能給我什麼禮物，是我永遠無法為自己買到的？
+
+Message:  1015
+On %qdt, 我與 _spouse_ 談過。
+ %G 告訴我 _hermit_ 去
+ __school_ 跟隨 _teacher_ 學習。
+
+Message:  1016
+On %qdt, 我見到
+ _hermit_ 的導師，
+ __school_ 的 _teacher_。
+ %G 說 _hermit_ 把自己關在
+ ___dungeon_。
+
+Message:  1017
+別談愛或恨，只告訴我這個：
+ 你能給我什麼禮物，是我永遠無法為自己買到的？
+ 
+ 「是仁慈，笨蛋！」

@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\E0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Arkay
+-- Repute: 0
+-- QuestId: 0
+Messages: 21
+Quest: E0B00Y00
+DisplayName: 被褻瀆的神殿
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>說真的，我們確實用得上
+<ce>像你這樣的人。附近有座被褻瀆的神殿，
+<ce>名叫___mondung_。
+<ce>你或許聽過。有段時間，
+<ce>那裡成了邪惡的巢穴，但我們一直
+<ce>不去理會它的影響。畢竟它也是
+<ce>對其他力量的一種制衡。
+<ce>如今平衡已被打破。我需要有人去矯正。
+<ce>聽起來像是你能幫忙的事嗎？
+<--->
+<ce>___mondung_的平衡
+<ce>被一股新的侵擾解開了，
+<ce>威脅著我們為%reg帶來和諧的努力。
+<ce>我們需要一位勇士，像你這樣的人，
+<ce>去把___mondung_撥亂反正。你願意嗎？
+
+RefuseQuest:  [1001]
+<ce>真叫人失望。不過我們無疑
+<ce>會找到別人。
+
+AcceptQuest:  [1002]
+<ce>好極了，%pcf。我們需要的是
+<ce>除掉一頭強大的獸化人——
+<ce>牠已在那座不潔的___mondung_
+<ce>建立巢穴。牠正威脅著
+<ce>本會在那一帶的擴張。
+<ce>若你在=1stparton_天過後還沒回來，
+<ce>我們就會親自出手，你的報酬
+<ce>也將被沒收。顯然你最好立刻動身。
+<ce>願你平安，祝你好運。
+<--->
+<ce>%oth，太好了，%pcf。如今
+<ce>我們只能給你=1stparton_天
+<ce>去恢復___mondung_的均衡，
+<ce>而我們所知最快、最妥當的辦法，
+<ce>就是讓你殺掉那頭在___mondung_
+<ce>腹地築了穢巢的獸化人。
+<ce>請務必快些，%pcf。若=1stparton_輪日落後
+<ce>你還不在這兒，報酬就將被沒收。
+
+QuestFail:  [1003]
+<ce>你最好快點動身，%pcf。
+<ce>殺掉那獸化生物的時間
+<ce>已經所剩不多。精確地說，
+<ce>還有=1stparton_天。
+
+QuestComplete:  [1004]
+<ce>你為阿凱神殿立下大功，
+<ce>%pcf。這份功勞不會被遺忘。
+<ce>好好享用你的_reward_金幣吧——
+<ce>你當之無愧。
+
+RumorsDuringQuest:  [1005]
+聽說這附近有隻狼人在跑。
+<--->
+聽說那頭野豬人在一個叫___mondung_的地方築了巢。
+<--->
+昨晚那嚎叫聲你聽到沒？狼嚎？
+
+RumorsPostfailure:  [1006]
+狼人真是居無定所。聽說咱們這頭往南去了。
+<--->
+我表親說，咱們那頭野豬人在南邊不遠處被人瞧見了。
+
+RumorsPostsuccess:  [1007]
+聽說查出來那狼人白天居然是個祭司！
+<--->
+很多人知道那頭野豬人死了，都安心多了。
+<--->
+你聽說有個%ra把那獸化生物給獵了嗎？
+
+QuestorPostsuccess:  [1008]
+恢復了___mondung_平衡的人啊，我能為你效勞什麼？
+
+QuestorPostfailure:  [1009]
+你沒能除掉那頭狼裔，%pcf。我深感痛心。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 阿凱神殿的_questgiver_
+ 願付我_reward_金幣，
+ 去殺掉潛伏在___mondung_的
+ 一頭獸化生物——那原是他們的神殿。
+ 我有=1stparton_天時間完成，
+ 並回到___questgiver_。
+
+Message:  1020
+<ce>你已除掉___mondung_
+<ce>的獸化人。
+
+
+-- Symbols used in the QRC file:
+--
+--              %oth occurs 1 time.
+--              %pcf occurs 8 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--              %reg occurs 1 time.
+--       =1stparton_ occurs 7 times.
+--       ___mondung_ occurs 13 times.
+--    ___questgiver_ occurs 2 times.
+--          _reward_ occurs 2 times.

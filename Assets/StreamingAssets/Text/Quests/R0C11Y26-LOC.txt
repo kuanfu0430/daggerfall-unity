@@ -1,0 +1,210 @@
+-- Quest: C:\QUESTS\WORKING\R0C11Y26.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 11
+-- QuestId: 26
+Messages: 51
+Quest: R0C11Y26
+DisplayName: 瘋狂開膛手
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       %pcn，一個他們稱為
+<ce>                    ____qgiver_ 開膛手的瘋子正在恐嚇
+<ce>                 ___qgiver_ 這座城，我的衛兵和治安官對他束手無策。
+<ce>            他們對他的身分毫無頭緒。我知道你有些門路，還有相當
+<ce>                非傳統的人脈。你能試著幫我處理這件事嗎，
+<ce>                 為了整個 ____qgiver_ 的福祉——外加一筆可觀的金幣？
+
+RefuseQuest:  [1001]
+<ce>                 這反應並不罕見。那我就別無選擇，只能找
+<ce>                 一些不太體面的人脈幫忙——這是我本想避開的選擇。
+
+AcceptQuest:  [1002]
+<ce>                     你是真正的朋友，%pcf。
+<ce>                    ____qgiver_ 的人民正為官方調查毫無進展
+<ce>               而焦慮。局勢越來越爆炸，人人都怕開膛手下一個
+<ce>            就找上自己。我擔心很快會有暴民，或許不出 =total_ 天。
+<ce>           我私下另外雇的唯一一個人是 _contact_，
+<ce>              一名當地學者，一直在分析我收到的一些信件。
+<ce>                 先去 _bookstore_ 跟%g2談談，看看%g3的進展。
+<ce>               若你解不開這謎，那就求%god保佑我們所有人。
+
+QuestFail:  [1003]
+<ce>                       ____qgiver_ 開膛手仍在逃。
+<ce>                我沒時間閒聊，你也不該有。
+
+QuestComplete:  [1004]
+<ce>                  ___qgiver_ 再次太平了，%pcf，
+<ce>                  多虧了你。這是我答應的 _reward_
+<ce>                    金幣——為了結那個瘋子，我樂意給。
+<ce>                     你來到 ____qgiver_ 時，%god 確實保佑了我們。
+
+RumorsDuringQuest:  [1005]
+現在走 ___qgiver_ 的街道不安全了。有 ____qgiver_ 開膛手在。
+<--->
+聽說 ____qgiver_ 開膛手根本不是人，而是來懲罰我們所有人的迪德拉。
+<--->
+____qgiver_ 開膛手的上一個受害者被發現碎屍散落在 ___qgiver_。
+<--->
+有人在猜 ____qgiver_ 開膛手會不會是吸血鬼或狼人。
+
+RumorsPostfailure:  [1006]
+不必靠暴民，殺人就停了。看來開膛手搬走了。
+<--->
+_qgiver_ 真走運，____qgiver_ 開膛手決定搬走。恐慌已經開始蔓延。
+
+RumorsPostsuccess:  [1007]
+真不敢相信 _rippername_ 就是 ____qgiver_ 開膛手——%g那麼好、那麼安靜。
+<--->
+%oth，他們說在 _rippername_ 的房子底下挖出了一座頭骨山。
+<--->
+他們說 _rippername_ 是個獨來獨往、大多自己待著的人。典型。
+
+QuestorPostsuccess:  [1008]
+解開 ____qgiver_ 開膛手謎團的%ra，我總有時間給你，%pcf。
+<--->
+若不是你，____qgiver_ 開膛手還會繼續恐嚇我們。我能做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>                     你走運，____qgiver_ 開膛手搬走了。
+<ce>                否則我會非常生你的氣。事實上，我現在就在生你的氣。
+<ce>                            滾開，%pcf。
+
+QuestLogEntry:  [1010]
+<ce>                       來得正好，%pcf。我正要出去
+<ce>                  在 _hookerhouse_ 見一個人，對方或許能
+<ce>                    為這件事提供一些線索。一名叫 _hooker_
+<ce>                      的 =hooker_。坦白說，是個妓女，
+<ce>                     但她的名字從 _qgiver_ 收到的一封信
+<ce>                     頂端被劃掉了。或許開膛手本來在寫信給
+<ce>                     _hooker_，後來改了主意。若是如此，
+<ce>                   %g或許對開膛手的身分有些頭緒。值得一試。
+<ce>                     何不帶著那封信去 _hookerhouse_ 看看？
+
+Message:  1011
+<ce>                          _qgiver_，上一個
+ 好好吃，我還咬了一口。你
+ 全家人看起來也好多汁──搞不好
+<ce>                           開膛手會去拜訪
+ 你下一次。撕啊撕啊然後再
+<ce>                   小小撕一下來算帳。
+<ce>                            恭敬的你的，
+ ____qgiver_ 開膛手
+
+Message:  1012
+_qgiver_，
+    抓得到我就來啊
+ 搞不好現在你才在乎你的 ____qgiver_
+ 現在它浸滿了血
+ 你的朋友，
+<ce>                            ____qgiver_ 開膛手
+
+Message:  1013
+_contact_，
+ 
+    我很樂意與你會面，
+ 在你處或我處都可以，談談
+ 我那個瘋癲的仰慕者。我有
+ 一封收到的信，或許有幫助。
+ 
+<ce>                         誠摯的，_hooker_
+
+Message:  1014
+_hooker_，
+ 
+ 你說你會做我的朋友，但
+ 我在街上看到你時，你
+ 假裝沒看見我。
+ 
+ 你不想再惹我生氣了
+ 對吧
+ 
+ _rippername_
+
+Message:  1015
+<ce>                      你跟 _contact_ 共事，是嗎，%pcf？
+<ce>                        嗯，%g對前幾天夜裡我收到的這封信
+<ce>               很感興趣。_rippername_ 是我的客人，對什麼叫
+<ce>                     好時光有些真正瘋癲的想法。總之想法
+<ce>                就很瘋癲。我有點可憐%g2，多半是怕%g2，所以
+<ce>              我猜我讓%g2以為我喜歡%g2。當然現在就收到這種信。
+<ce>                   我覺得%g很有可能就是 ____qgiver_
+<ce>                 開膛手。%g住在 _ripperhouse_，若你想
+<ce>                 親眼去看看%g2。
+
+Message:  1016
+_hooker_ 是個尋常妓女。就在這%di，若你有興趣。
+<--->
+不過是個廉價妓女，_hooker_ 就是這樣。在%di，若你在找。
+
+Message:  1017
+_hooker_ 以前常跟一個叫 _rippername_ 的傢伙來往。陰森的一個。
+<--->
+_hooker_ 對開膛手什麼都懂。問問%g3關於 _rippername_——討厭的變態。
+
+Message:  1020
+%qdat:
+ 我已抵達 ___qgiver_，
+ 與 _qgiver_ 會面，談 ____qgiver_ 開膛手之謎。
+ %G希望在 =total_ 天內抓住開膛手，免得整個
+ ___qgiver_ 變成憤怒暴民。我唯一的線索是一名叫
+ _contact_ 的學者，手上有開膛手寄給 _qgiver_ 的信。
+ _contact_ 在 _bookstore_ 工作。
+
+Message:  1021
+%qdat:
+ _contact_ 派我前往 _hookerhouse_，
+ 去見一名叫 _hooker_ 的妓女，
+ 她或許對開膛手有些消息。
+
+Message:  1022
+%qdat:
+ 我到之前，____qgiver_ 開膛手已與 _contact_ 見過面。
+ 我在 __contact_ 找到的其中一封信來自一個叫
+ _hooker_ 的人，想跟 _contact_ 談談一個
+ 「瘋癲的仰慕者」。接下來就得去找這個人。
+ 這次我得更早到。
+
+Message:  1023
+%qdat:
+ _hooker_ 告訴我關於%g的一個客人，瘋到可能就是開膛手。
+ 一個叫 _rippername_ 的人，住在 _ripperhouse_。
+ 希望這不會是我寫的最後一篇日誌。
+
+Message:  1024
+%qdat:
+ _hooker_ 的仰慕者顯然比我先到。
+ 在%g2的房子裡我找到一封來自名叫
+ _rippername_ 的人的信。聽起來神經質得
+ 足以當我們的開膛手。無論如何值得調查。
+
+Message:  1025
+_contact_ 是在這%di的 _bookstore_ 裡相當博學的學者。
+<--->
+_contact_ 有時是 _qgiver_ 在某些人心方面的導師。
+
+Message:  1026
+_contact_ 是個老傻瓜，有一天追開膛手會惹上麻煩。
+<--->
+_contact_ 是 _bookstore_ 的賢者，危險地捲入了開膛手一事。
+
+Message:  1040
+_rippername_？你大概能在 _ripperhouse_ 找到%g2。
+<--->
+對 _rippername_ 所知不多。大多自己待著。
+<--->
+_rippername_ 就是住在 _ripperhouse_ 的那個不錯的年輕人。
+
+Message:  1041
+<ce> 嗯，他看起來夠正常，但我聽過一些關於他的故事，
+<ce>                 可能會讓你另想。
+                                      <--->
+<ce>他人不錯，但有點怪，你懂嗎？有時會讓你懷疑
+<ce>                    他腦子是不是缺了幾根弦。
+
+Message:  1050
+<ce>            我看見你跟我女朋友在一起！現在你跟她
+<ce>             既然那麼喜歡彼此，就一起被開膛吧！

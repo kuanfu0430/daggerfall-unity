@@ -1,0 +1,83 @@
+-- Quest: C:\QUESTS\WORKING\J0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Zenithar
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: J0B00Y00
+DisplayName: 賞金
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>若你有空接活，我或許有樁差事。
+<ce>是件不大乾淨的小事，得去懲罰一名盜賊。
+<ce>報酬是_reward_金幣。
+<ce>聽起來你會有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>真叫人失望。不過我們無疑
+<ce>會找到別人。
+
+AcceptQuest:  [1002]
+<ce>我們很少在事務上採取私刑立場，
+<ce>但這次我們覺得情有可原。你看，
+<ce>這盜賊直接從我們的商隊下手，
+<ce>還勒索我們使用大道的過路費。
+<ce>好大的膽子。你會在名叫___mondung_
+<ce>的藏身處找到那小惡棍。
+<ce>務必在=1stparton_天內回來。
+
+QuestFail:  [1003]
+<ce>你最好快點動身，%pcf。
+<ce>你只有=1stparton_天時間
+<ce>去殺掉那壞蛋。
+
+QuestComplete:  [1004]
+<ce>幹得很好，%pcf。
+<ce>這該能讓其他攔路盜收斂些。
+<ce>這是你的_reward_金幣。謝謝。
+
+RumorsDuringQuest:  [1005]
+那扒手單槍匹馬就把經濟搞砸了。
+<--->
+他們當那攔路盜是小偷，可那壞蛋劍術可精得很。
+
+RumorsPostfailure:  [1006]
+那強盜換了藏身處，但路上還是不安全。
+<--->
+不明白他們怎麼抓不到那攔路盜。該很容易才對。
+
+RumorsPostsuccess:  [1007]
+商人們很高興終於逮到那盜賊了。
+<--->
+我才不管他們抓沒抓到那夜刃。路上還是不安全。
+
+QuestorPostsuccess:  [1008]
+當然願意跟你聊聊，%pcf。我記得你殺掉的那些攔路盜。
+
+QuestorPostfailure:  [1009]
+決議會還在被那些攔路盜刮走金幣。一點都不好笑。
+
+Message:  1020
+<ce>你一定是決議會派來的。
+<ce>準備受死吧，賞金獵人！
+
+Message:  1030
+%qdt:
+ 澤尼薩爾決議會派我去殺掉
+ 一名洗劫他們商隊的盜賊。
+ ___mondung_是那壞蛋的藏身處。
+ 我必須殺掉那盜賊，並在=1stparton_天內
+ 回到___questgiver_。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 3 times.
+--              %qdt occurs 1 time.
+--       =1stparton_ occurs 6 times.
+--       ___mondung_ occurs 2 times.
+--    ___questgiver_ occurs 1 time.
+--          _reward_ occurs 4 times.

@@ -1,0 +1,357 @@
+-- Quest: C:\QUESTS\WORKING\K0C30Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 30
+-- QuestId: 3
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 56
+Quest: K0C30Y03
+DisplayName: 貴族的債務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>啊，我的朋友。我遺憾地承認做了一個
+<ce>糟糕的生意決定，但事實就是事實。
+<ce>我借了一筆錢給名叫_patsy_的貴族，
+<ce>你或許聽過這人。貸款的擔保是一處
+<ce>貴重產業的地契。如今_patsy_和地契
+<ce>都消失了。傳聞說%g財務上落了難，
+<ce>可我借出的那筆數目，我的產業可不容易吞下去。
+<ce>跟_patsy_這種人糾纏很可能危險，
+<ce>但我需要一位勇士。你願意幫我嗎，朋友，
+<ce>換一顆大顆的未切割鑽石？
+
+RefuseQuest:  [1001]
+<ce>聽你這麼說我很難過。我當然理解，
+<ce>但還是叫人失望。
+
+AcceptQuest:  [1002]
+<ce>很高興聽到。那麼，我還有三十天，
+<ce>之後就不得不動用本金。地契是從本地
+<ce>一間叫_bank_、位於__bank_的機構
+<ce>連同其他貴重物品一起被偷走的，但_patsy_
+<ce>與地契同時消失，這巧合值得調查。
+<ce>_patsy_從前的住所是__house2_的_house2_，
+<ce>聽說如今空著。除此之外，我沒有其他線索。
+<ce>我需要_patsy_借走的金幣、那房子的地契，
+<ce>或那貴族的人頭插在棍子上，三十天內。
+<ce>別讓我失望，%pcf。
+
+QuestFail:  [1003]
+<ce>你至少可以試著履行你的承諾。
+
+QuestComplete:  [1004]
+<ce>_patsy_的把戲沒得逞，對吧，%pcf？
+<ce>這是我答應的鑽石。幹得好，我的朋友。
+
+RumorsDuringQuest:  [1005]
+_qgiver_絕不是_patsy_唯一的冤大頭。很多人把金幣借給了%g2。
+<--->
+_patsy_突然離開__house2_，留下債務和破碎的心。
+
+RumorsPostfailure:  [1006]
+看來_patsy_全得手了。聽說%g帶著一筆財富往北去了。
+<--->
+據說_patsy_死了。我一秒也不信。
+
+RumorsPostsuccess:  [1007]
+沒人會再試著對_qgiver_賴帳，尤其是在那樁_patsy_的事之後。
+<--->
+_patsy_只證明了一件事：騙_qgiver_這種人可不聰明。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我有三十天時間，去找到___qgiver_、
+ __qgiver_的_qgiver_借給貴族_patsy_
+ 時作為擔保的地契，或找到_qgiver_
+ 借給_patsy_的金幣，再不行，
+ 就找到不知去向的_patsy_。
+ 擔保物原先在__bank_的_bank_，
+ 直到銀行被搶。我還聽說另一處地方：
+ __house2_的_house2_，
+ 那是_patsy_從前的住所。
+ 若我在三十天內達成上述任一目標，
+ _qgiver_會給我一顆大顆的未切割鑽石。
+
+Message:  1011
+你要把金幣交給_hooker_嗎？
+
+Message:  1012
+<ce>謝謝你，甜心。聽說你是正派的那種人，
+<ce>我想給你個方便。幾週前_patsy_雇了我——
+<ce>不是你想的那種理由。我只要跟某個老頭調情，
+<ce>讓他約我在特定那天吃飯。我猜是為了把他引出家門，
+<ce>因為後來我發現咱們出去時那傢伙家被盜了。
+<ce>聽說拿走了不少東西。那老頭又可愛又溫柔，
+<ce>我為此覺得過意不去。你或許想跟他談談。
+<ce>他叫_gaffer_。或者你可以去我遇見那_patsy_
+<ce>的地方，__house2_的_house2_，看那兒有沒有人知道什麼。
+<ce>希望這些有用，%pcf。我自己也想看到老_patsy_被關起來。
+
+Message:  1013
+%pcn，
+ 
+ 若你指望在灣區有漫長而健康的事業，
+ 我勸你放棄這毫無意義、注定失敗的糾纏。
+ 悲劇是唯一可能的結果，而悲劇會是你自己的。
+ 我不會被抓到，%pcf。我有太多錢，抓不到我。
+ 
+ 
+ 
+ 敬上，
+ 
+ 
+ _patsy_
+
+Message:  1014
+<ce>%pcn是你的目標，一名%ra冒險者兼傭兵。
+<ce>務必極度小心，做好打鬥的準備。
+<ce>
+<ce>這可不是軟腳蝦。
+<ce>
+<ce>
+             _patsy_
+
+--eliminating unmarked white spaces. this problem was patched out in previous versions but i still prefer to have lines with blank spaces filled just in case.
+
+Message:  1015
+_banker_在__bank_的_bank_做事。完全體面的那種人。
+<--->
+典型乏味的銀行家。_banker_在__bank_的_bank_做事。
+
+Message:  1016
+<ce>我告訴你的，跟告訴_patsy_的一樣。
+<ce>__banker_會把搶案中損失的金幣
+<ce>一分不少地補償。我們只想弄清
+<ce>搶案本身的某些問題。那些最好
+<ce>不要跟陌生人討論，你懂的。
+
+Message:  1017
+<ce>啊，很高興見到你，%pcf。最近搶案讓我們
+<ce>有點熱鬧。只有某些帳戶和存款被盯上，
+<ce>所以我們的安保人員_guard_正在調查
+<ce>那些帳戶的持有人。或許%g能給你更多資訊，%pcf。
+<ce>_guard_在___guard_的__guard_。
+
+Message:  1018
+<ce>恐怕我不能跟你討論這件事，%pcn。
+<ce>這事只關_patsy_和我，與旁人無關。
+<ce>若你真想幫忙，去跟_hooker_聊聊，
+<ce>那是個跟我們的朋友_patsy_有過某種關係的妓女。
+<ce>她要十金幣才肯合作，你會在__house1_
+<ce>一處叫_house1_的地方找到她。祝你好運，%pcf。
+<ce>你回來時我或許已不在這兒，但你絕對有能力
+<ce>自己把調查進行下去。
+
+Message:  1019
+<ce>啊，%pcn，我的朋友。我想這件事上我們能互相幫忙。
+<ce>我知道_patsy_去了哪，但%g3的同夥讓接近%g2變得很難。
+<ce>數百萬金幣能買到一些強大的朋友。我需要你切斷這層聯繫，
+<ce>然後來見我，我們一起徹底切斷_patsy_。
+<ce>把這封信丟在%g3同夥的要塞___mondung_，
+<ce>然後到___mondung2_來。運氣好的話，
+<ce>那封信會讓那些士兵分心，這樣_patsy_就相對沒有防備，
+<ce>當然除了%g3自己的衛兵。很好，%pcf，很快見。
+
+Message:  1020
+_guard_離開了__guard_。顯然%g知道_patsy_去了哪。
+<--->
+_guard_不會離開__guard_，除非%g知道_patsy_藏在哪。
+<--->
+大家都在猜為什麼_guard_突然離開__guard_。
+
+Message:  1021
+<ce>各位，計劃有變。我需要你們立刻到___qgiver_。
+<ce>過去等我回覆。應該不會超過幾天。
+<ce>
+<ce>
+<ce>
+<ce>_patsy_
+
+Message:  1023
+<ce>你立刻明白，這一定就是_patsy_。
+
+Message:  1024
+<ce>毫無疑問，你已殺死_patsy_。
+
+Message:  1025
+若關於這%ra的傳聞屬實，
+ 我需要一些增援。
+ 把地契繼續藏在___mondung_，
+ 但把金幣和人手帶到
+ ___mondung2_。你們抵達後我們再詳談。
+ 
+ 
+          _patsy_
+
+Message:  1026
+<ce>這塊_rock_上有個印記，寫著___mondung_。
+
+Message:  1027
+不過是一塊_rock_。奇怪，怎麼會扔在___house2_。
+<--->
+這_rock_好像有某種印記，或是雕刻。
+<--->
+看起來像從前從___mondung_開採出來的東西。
+
+Message:  1028
+這_rock_上面寫著___mondung_；那是%di方一座廢棄礦坑。
+<--->
+那_rock_一定是多年前___mondung_還是礦坑時開採的。
+
+Message:  1029
+<ce>這看起來就是_patsy_給_qgiver_作擔保的地契。
+
+Message:  1030
+<ce>這似乎就是_qgiver_借給_patsy_的金幣。
+
+Message:  1031
+                                             夜側庇護所
+ 
+ 
+ 親愛的%pcf：
+ 
+ 
+      我們得知你在找_patsy_。
+ 因為我們敬重你和你的作為，決定在此事上幫助你。
+ _patsy_數週前用過我們的服務，報酬是經由
+ 駐紮在___mondung_營地的一小股凶悍同夥送來的。
+ 若你真想找到_patsy_，從那兒著手會很聰明。
+      祝你好運，願梅法拉穩住你的準頭。
+ 
+ 
+ 
+             黑暗兄弟會
+
+Message:  1032
+<ce>你甚至沒意識到那小男孩已在身旁，
+<ce>直到感覺信滑進手裡。你轉過身時，
+<ce>他已消失，竄得那麼快，你沒有一絲追上的希望。
+
+Message:  1033
+%pcn，
+ 
+      _patsy_是盜賊，但不是我們的人。
+ 我們也希望%g2被抓住。請收下這筆
+ 對你開銷的資助，以及另一則消息：
+ _patsy_並非單幹。有一幫傭兵在
+ 名叫___mondung_的地方受%g3指揮。
+ %g3的部分財寶或許也藏在那兒，但我不認為
+ _patsy_本人在那兒。
+      祝你好運，%pcf，與巴恩·達爾同行。
+ 
+ 
+<ce>盜賊公會
+
+Message:  1034
+<ce>啊，%pcf，我的朋友。我又一次被誘惑、被背叛。
+<ce>我真該進修道院。沒有女人，我的人生會單純些，%oth。
+<ce>來，拿這些金幣，當作我對捉住那邪惡_patsy_的資助。
+<ce>我只恨不能給更多，但經過最近這些事，我已一貧如洗。
+<ce>供你參考，_patsy_在%reg有兩處藏身地，
+<ce>一處___mondung_，一處___mondung2_。
+<ce>我不知道眼下用的是哪一處，若有用的話，
+<ce>但勸你備好最利的刀。_patsy_不會輕易倒下。
+<ce>祝你好運，願%god與你同在。
+
+Message:  1035
+<ce>我為什麼要把知道的任何事告訴你？
+<ce>你不過是_qgiver_的冤大頭，會像_patsy_坑我、
+<ce>或那%god詛咒的_hooker_坑我一樣坑我。
+<ce>找個洞像___mondung_那樣鑽進去，枯萎、死去吧，
+<ce>你這得了下疳的%ra娼妓的孩子。
+
+Message:  1036
+親愛的%pcn：
+ 
+      我或許有些消息能幫你找到那隻老鼠_patsy_。
+ 若你有興趣，到__house1_一處叫_house1_的破地方找我。
+ 順便帶上十金幣。這消息可不是免費的。
+ 
+<ce>_hooker_
+
+Message:  1037
+<ce>「這是_hooker_送來的，」一個聲音低語，
+<ce>年輕信使把字條交給你。你還沒反應過來，他就竄走了。
+
+Message:  1055
+<ce>抱歉甜心，我的知識是有價錢的。
+
+Message:  1038
+%qdt:
+ _banker_要我去見_guard_，
+ 在___guard_的__guard_，
+ 此人目前正為_bank_調查銀行搶案和_patsy_。
+
+Message:  1039
+%qdt:
+ 我見到了_guard_。%G已發現
+ _patsy_在___mondung2_的位置。
+ 為了讓%g3的士兵分心，我必須把一封信
+ 丟在%g3同夥的要塞___mondung_，
+ 然後到___mondung2_與_guard_會合，
+ 去抓_patsy_。
+
+Message:  1040
+%qdt:
+ 我見到了_guard_。%G告訴我
+ _patsy_與__house1_的妓女_hooker_
+ 有過關係。我會在那兒的_house1_找到她。
+
+Message:  1041
+%qdt:
+ _hooker_告訴我，_patsy_雇她某晚去分心
+ 一個叫_gaffer_的人。我能在__tavern_
+ 的_tavern_找到他。
+
+Message:  1042
+%qdt:
+ _gaffer_告訴我_patsy_有兩處藏身地，
+ 一處是___mondung_，另一處是___mondung2_。
+
+Message:  1050
+本文件證明%reg、__house3_之_house3_
+ 的所有權。凡讀此文件者皆應知悉，
+ _patsy_為上述產業之唯一合法所有人。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 1 time.
+--                %g occurs 7 times.
+--               %g2 occurs 3 times.
+--               %g3 occurs 9 times.
+--              %god occurs 3 times.
+--              %oth occurs 1 time.
+--              %pcf occurs 33 times.
+--              %pcn occurs 7 times.
+--              %qdt occurs 6 times.
+--               %ra occurs 6 times.
+--              %reg occurs 2 times.
+--         ___guard_ occurs 3 times.
+--        ___house2_ occurs 1 time.
+--      ___mondung2_ occurs 10 times.
+--       ___mondung_ occurs 21 times.
+--        ___qgiver_ occurs 2 times.
+--           __bank_ occurs 56 times.
+--         __banker_ occurs 1 time.
+--          __guard_ occurs 6 times.
+--         __house1_ occurs 3 times.
+--         __house2_ occurs 5 times.
+--         __house3_ occurs 1 time.
+--         __qgiver_ occurs 1 time.
+--         __tavern_ occurs 2 times.
+--            _bank_ occurs 59 times.
+--          _banker_ occurs 4 times.
+--          _gaffer_ occurs 3 times.
+--           _guard_ occurs 10 times.
+--          _hooker_ occurs 8 times.
+--          _house1_ occurs 5 times.
+--          _house2_ occurs 3 times.
+--          _house3_ occurs 1 time.
+--           _patsy_ occurs 62 times.
+--          _qgiver_ occurs 74 times.
+--            _rock_ occurs 8 times.
+--          _tavern_ occurs 4 times.

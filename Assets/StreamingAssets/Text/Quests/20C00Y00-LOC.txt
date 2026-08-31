@@ -1,0 +1,97 @@
+-- Quest: C:\QUESTS\WORKING\20C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Molag Bal
+-- Repute: 0
+-- QuestId: 0
+Messages: 61
+Quest: 20C00Y00
+DisplayName: 莫拉格·巴爾的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 所以你想要力量，%pcn。力量可比智慧具體得多，你同意嗎？
+<ce> 那麼，為了評斷你的價值，我們有點苦差要你去做。
+<ce> 當然不會不愉快。你或許還會喜歡。
+<ce> 一次簡單的暗殺，報酬是 _artifact_。
+<ce> 然後我們再看你是否已準備好真正的力量。
+<ce> 聽起來可以嗎？
+
+RefuseQuest:  [1001]
+<ce> 你浪費了我們的時間。我們不悅。
+
+AcceptQuest:  [1002]
+<ce> 我們就知道這會吸引你。現在仔細聽：
+<ce> 你的目標是一名叫 =monster_ 的 _monster_。
+<ce> 這可惡的火花施法者一直在召喚我們的名字、抽取我們的力量，
+<ce> 卻沒有契約。或許出於無知，但我們不能慈悲。
+<ce> 到 %g3 實驗室 ___mondung_ 找到這名法師，摧毀 %g2。
+<ce> 然後在 =1stparton_ 天過去之前，去見我們的代理人
+<ce> _contact_，一名 =contact_，地點在叫 _tavern_ 的
+<ce> __tavern_。%g 會在那兒把 _artifact_ 交給你。
+<ce> 別耽擱，時間很短。我們會看著。不許失敗。
+
+QuestFail:  [1003]
+<ce> 聽好，%pcf，你我都知道 =monster_ 還在喘氣。
+<ce> 契約就是契約，莫拉格·巴爾從不遺忘。
+
+QuestComplete:  [1004]
+<ce> 你好，%pcf。你趕到了。莫拉格·巴爾向你致意。
+<ce> 當然，還有 _artifact_。
+<ce> 好好享用，祝你安好。
+
+RumorsDuringQuest:  [1005]
+人人都在竊竊私語 ___mondung_ 裡進行的實驗。
+<--->
+%di 方向那個 ___mondung_ 裡有些古怪的事。
+
+RumorsPostfailure:  [1006]
+那顆鮮紅的星據說是迪德拉莫拉格·巴爾的怒火。
+<--->
+有個瘋瘋癲癲的 =contact_ 在這兒到處尖叫，喊著契約什麼的。
+
+RumorsPostsuccess:  [1007]
+最近 ___mondung_ 附近安靜得很。
+<--->
+___mondung_ 附近曾一陣騷動，現在都平息了。
+
+Message:  1011
+一位威嚴的迪德拉親王，據說是所有迪德拉中最渴求權力的。
+<--->
+據說莫拉格·巴爾執迷於把泰姆瑞爾納入他的領域。
+
+Message:  1012
+有個舉止古怪的 =contact_ 曾在這裡 %di 的 __tavern_。
+<--->
+那個名字的 =contact_ 不久前還在這裡 %di 的 __tavern_。
+
+Message:  1013
+莫拉格·巴爾之錘會從受害者身上竊取魔力。
+<--->
+<ce>莫拉格·巴爾之錘，俗稱吸血鬼之錘，是讓魔法能量
+<ce> 流入持有者的導管。
+
+Message:  1020
+%qdt:
+ 迪德拉親王莫拉格·巴爾派我去
+ 地城 ___mondung_ 殺死某種施法者。
+ 若法師在 =1stparton_ 天內死去，
+ 且我在叫 _tavern_ 的 __tavern_
+ 與他的同夥 _contact_ 會面，
+ 就能得到 _artifact_。
+
+Message:  1030
+<ce> =monster_ 死了。
+<ce> 你已履行與莫拉格·巴爾的契約。
+<ce> 現在去領取報酬。
+
+Message:  1040
+<ce> =monster_ 舉起 %g3 法杖，
+<ce> 在一聲雷響中消失了。
+
+Message:  1060
+<ce> 一張標示 ___hideout_ 位置的地圖，
+<ce> 上面註記：
+<ce> 「提醒 _dummy_ 備好補給。
+<ce> 有跡象顯示莫拉格·巴爾已察覺我。」

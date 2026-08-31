@@ -1,0 +1,95 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 12
+Messages: 24
+Quest: R0C10Y12
+DisplayName: 走私貨物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  是的，我正處於可能很尷尬的處境。
+<ce>                  不是最糟，但確實尷尬。我手上有一件
+<ce>                   某樣……坦白說，法律上不屬於我的物品。
+<ce>                  若你願意把它送到 ___contact_ 我的接應人
+<ce>                        那裡，酬勞會很豐厚。
+<ce>                _reward_ 金幣聽起來公平嗎？
+
+RefuseQuest:  [1001]
+<ce>                     你在我急需之時拋下我，年輕的%ra。
+<ce>                         我非常不悅。
+
+AcceptQuest:  [1002]
+<ce>                  你願意幫我？讚美%god。
+<ce>                      現在，快，帶上這件 _item_，
+<ce>                          前往 ___contact_ 的
+<ce>                          __contact_。找一名
+<ce>                            叫 _contact_ 的
+<ce>                            =contact_。
+<ce>                  別想把 _item_ 帶到別處。若你沒在
+<ce>                        =queston_ 天內趕到
+<ce>                        __contact_，_contact_
+<ce>                      會來找你。現在快點，
+<ce>                        時間緊迫。
+
+QuestFail:  [1003]
+<ce>                        你怎麼還在這裡？
+<ce>                       我的指示很清楚，去執行。
+
+QuestComplete:  [1004]
+<ce>                          日安，%pcf。我是
+<ce>                          _contact_。謝謝你
+<ce>                  在此事上的謹慎。你會發現謹慎
+<ce>                    是一種寶貴的品質。這是你的酬勞。
+<ce>                           日安。
+
+RumorsDuringQuest:  [1005]
+衛兵連 _questgiver_ 的宅邸都在搜，找那批 _item_ 貨。
+<--->
+那件 _item_ 去哪了完全是個謎。人人都好奇。
+
+RumorsPostfailure:  [1006]
+真是 _questgiver_ 的難堪。被偷的 _item_ 被追到了%g2身上。
+<--->
+聽說 _questgiver_ 試圖把 _item_ 走私到 ___contact_。
+
+RumorsPostsuccess:  [1007]
+衛兵已經放棄搜尋那件被偷的 _item_。
+<--->
+想想他們居然懷疑 _questgiver_ 跟那件 _item_ 有關。
+
+QuestorPostsuccess:  [1008]
+再見到你真好，%pcf。聽說你的任務完成了。
+<--->
+很高興你回來了，%pcf。你幫我躲過了一場可能的難堪。
+
+QuestorPostfailure:  [1009]
+<ce>                  我的接應人說你根本沒到。
+<ce>                  這很不專業，%pcf。
+<ce>                    現在離開。我有事要辦。
+
+Message:  1011
+_questgiver_ 是個小統治者，卻是個大手筆的 _item_ 走私客。
+<--->
+_questgiver_ 在這樁 _item_ 走私裡陷得比%g3能應付的還深。
+
+Message:  1012
+據說 _contact_ 是贓物的銷贓人。
+<--->
+_contact_，是嗎？一個神祕的 =contact_，在這%di的 __contact_ 活動。
+
+Message:  1015
+%qdt:
+我接受了 ___questgiver_
+ 的 _questgiver_ 的任務，
+ 把一件偷來的 _item_ 交給
+ ___contact_ 的 __contact_ 的
+ _contact_。
+ 我有 =queston_ 天把 _item_
+ 送到 ___contact_。
+
+Message:  1023
+誰在呼叫1023？

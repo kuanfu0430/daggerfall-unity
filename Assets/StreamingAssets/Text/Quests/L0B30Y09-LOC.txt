@@ -1,0 +1,68 @@
+-- Quest: C:\QUESTS\WORKING\L0B30Y09.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 30
+-- QuestId: 9
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 22
+Quest: L0B30Y09
+DisplayName: 匿名委託
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我們有一份匿名差事給你。偶爾
+<ce> 有人付錢要我們除掉某人，卻從不
+<ce> 說明原因，甚至透過中間人辦事，
+<ce> 好隱瞞身分。總之，這差事
+<ce> 是你的，只要你想接。
+
+RefuseQuest:  [1001]
+<ce> 不想捲進這樁，我也不怪你。
+
+AcceptQuest:  [1002]
+<ce> 前往 ___mondung_ 的 _mondung_。
+<ce> 目標左頰有道疤。我們只知道
+<ce> 這些。=1stparton_ 天內回來
+<ce> 領酬。願梅法拉祝福你的刃，
+<ce> %pcn。
+
+QuestFail:  [1003]
+<ce> 我不知道你以為自己殺了誰，
+<ce> 但不是正確的目標。趕緊去
+<ce> _mondung_，把我們接下的契約
+<ce> 辦完。
+
+QuestComplete:  [1004]
+<ce> 漂亮，%pcf，真的。讓這雙
+<ce> 疲憊的眼睛都濕了。這是我見過
+<ce> 最美的了結。我都想寫詩了。
+<ce> 拿著你的 _reward_ 金幣滾出去，
+<ce> 好讓我寫一首敘事詩。說真的，
+<ce> 我為你驕傲，%pcf。
+
+RumorsDuringQuest:  [1005]
+天氣真好。
+
+RumorsPostfailure:  [1006]
+聽說國王在搞外遇。
+
+RumorsPostsuccess:  [1007]
+依我看，我們的稅太高了。
+
+QuestorPostsuccess:  [1008]
+那份匿名差事幹得漂亮。
+
+QuestorPostfailure:  [1009]
+可惜你沒能完成那份匿名差事。這絕對是你紀錄上的汙點。
+
+Message:  1020
+%qdt:
+ 我在 ___questgiver_ 為黑暗兄弟會接下的
+ 新契約，是 _mondung_（位於 ___mondung_）
+ 的一名匿名目標。我只能靠左頰的疤
+ 認出目標。此事須在 =1stparton_ 天內完成。
+
+Message:  1021
+<ce> 一道新疤毀了目標的左頰。

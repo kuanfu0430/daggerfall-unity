@@ -1,0 +1,76 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y10.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 10
+Messages: 11
+Quest: R0C10Y10
+DisplayName: 武器補給
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               若你有興趣只為把一個小包裹交給我的代理人
+<ce>                    就賺 _reward_ 金幣，現在就開口。
+                                      <--->
+<ce>                我需要一個才幹尚可、謹慎過人、
+<ce>               又願意當個卑微信差的人，酬勞是
+<ce>                  _reward_ 金幣。你是那個人嗎？
+
+RefuseQuest:  [1001]
+<ce>                 真的？或許太忙了？你的損失。
+
+AcceptQuest:  [1002]
+<ce>                    出色。這是 _weapon_。
+<ce>                    現在，_contact_ 必須在
+<ce>                      =queston_ 天內於 ___contact_
+<ce>            收到它。時間應該剛好夠，我希望。
+<ce>                    你會認出 _contact_——
+<ce>                       找一名 =contact_ 即可。
+<ce>                        祝你好運，謝謝。
+
+QuestFail:  [1003]
+<ce>             連這點簡單運送都辦不成，%pcf？
+<ce>                我當然希望你不是還在指望酬勞。
+
+QuestComplete:  [1004]
+<ce>                   啊，很高興見到你，%pcf。還有
+<ce>                  _weapon_ 也到了。出色。這是
+<ce>                _questgiver_ 答應你的 _reward_ 金幣。
+
+RumorsDuringQuest:  [1005]
+聽說 _questgiver_ 還在幹走私這行。
+<--->
+近來走私活動異常猖獗。
+
+RumorsPostfailure:  [1006]
+最近有人在這附近找到一件非常漂亮的 _weapon_。
+<--->
+聽說 _questgiver_ 對某個%ra冒險者氣得要命。
+
+RumorsPostsuccess:  [1007]
+有個叫 _contact_ 的人一直在揮舞什麼 _weapon_。
+<--->
+走私宗教聖物顯然成了新興大罪。
+
+QuestorPostsuccess:  [1008]
+喔，是我的老信差。真巧。我能幫你什麼？
+<--->
+你看起來眼熟。你最近幫我送過一點東西，對吧？
+
+QuestorPostfailure:  [1009]
+<ce>                     你長得幾乎跟那個搞砸我
+<ce>                      運送任務的%ra一模一樣。
+<ce>                     真巧。現在走開。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___questgiver_ 的 __questgiver_
+ 的 _questgiver_
+ 派我把一件 _weapon_ 交給盟友
+ _contact_。
+ 我必須在 =queston_ 天內把 _weapon_
+ 交到 _contact_ 手上。那名 =contact_
+ 顯然可以在 ___contact_ 一處名叫
+ __contact_ 的地方找到。

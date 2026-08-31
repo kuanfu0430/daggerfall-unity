@@ -1,0 +1,55 @@
+-- Quest: C:\QUESTS\WORKING\B0B40Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 40
+-- QuestId: 8
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0B40Y08
+DisplayName: 獸人風波未歇
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        他們叫我_qgiver_。
+<ce>                       我有個任務給你，若你覺得
+<ce>                      自己扛得住。有一夥強大的獸人
+<ce>                       正在%reg襲擊商隊。
+<ce>                     得有人去斬殺率領他們的
+<ce>                        獸人軍閥。
+
+RefuseQuest:  [1001]
+<ce>                                 孬種。
+
+AcceptQuest:  [1002]
+<ce>                    獸人把___dungeon_當作行動基地。
+<ce>                      你愛殺多少殺多少，但務必
+<ce>                          割斷=monster_的喉嚨。
+<ce>                     他是他們的軍閥。若我在=2dung_天內
+<ce>                    聽到你的消息，你的榮譽便不受玷污。
+
+QuestComplete:  [1004]
+<ce>                        獸人的威脅已從%reg剷除。
+<ce>                             萬民歡呼%pcn！
+
+RumorsDuringQuest:  [1005]
+___dungeon_的獸人正讓___qgiver_的商人生不如死。
+
+RumorsPostfailure:  [1006]
+___dungeon_的獸人轉去搶別人了。但能安生多久？
+
+RumorsPostsuccess:  [1007]
+多虧一名勇敢的%ra，___dungeon_的獸人已被肅清。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_給了我機會去斬殺
+ =monster_，那是盤據___dungeon_
+ 的強大獸人盜匪之_monster_。
+ 我有=2dung_天拯救%reg免於被席捲。
+
+Message:  1011
+<ce>                          =monster_死了。
+<ce>                       獸人不再是%reg的威脅。

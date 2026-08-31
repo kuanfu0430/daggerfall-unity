@@ -1,0 +1,76 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y15.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 15
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: M0B00Y15
+DisplayName: 獵殺巨型齧齒動物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我是 _qgiver_。
+<ce> 我有份相對瑣碎的差事，看你願不願
+<ce> 接。其實有些成員更喜歡這種差事，
+<ce> 因為酬勞跟更難的一樣。鎮上有戶人家
+<ce> 遭巨型齧齒動物侵擾。妻子說是老鼠，
+<ce> 丈夫說是蝙蝠。不管怎樣，他們都
+<ce> 想把牠們趕走。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 顯然你對戰士公會沒感情。
+<ce> 我會確保把你的真心話告訴他們。
+
+AcceptQuest:  [1002]
+<ce> 蝙蝠盤據在 _house_。
+<ce> 去那把牠們全殺了就能領酬。
+<ce> 這份我只能給你一天。
+
+QuestComplete:  [1004]
+<ce> 殺蝙蝠，就算是巨型的，
+<ce> 也不需要什麼本事，但
+<ce> 酬勞一樣，對吧？
+
+RumorsDuringQuest:  [1005]
+<ce> 某個白痴好幾個月沒修屋頂。
+<ce> 現在她家裡全是巨型蝙蝠。
+
+RumorsPostfailure:  [1006]
+<ce> 你聽說那個女人不得不棄家
+<ce> 而逃嗎？巨型蝙蝠佔領了
+<ce> 她家，她又沒有足夠金幣
+<ce> 請戰士公會去殺。
+
+RumorsPostsuccess:  [1007]
+<ce> 聽說戰士公會派了個 %ra 去
+<ce> 殺那女人家裡的蝙蝠。花了
+<ce> 她一大筆錢，但總比棄家好。
+
+QuestorPostsuccess:  [1008]
+<ce> 所以你殺了巨型蝙蝠。別太
+<ce> 得意。牠們不過是巨型蝙蝠。
+
+QuestorPostfailure:  [1009]
+<ce> 你連巨型蝙蝠都應付不了。
+<ce> 你沒救了，%pcn。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的戰士公會要我清除
+ _house_ 裡侵擾的巨型老鼠或蝙蝠。
+ 我有一天完成。
+
+Message:  1011
+<ce> 你隱約聽見幾隻老鼠爪子刮地的聲音。
+<ce> 牠們似乎正在靠近。
+
+Message:  1012
+<ce> 你隱約聽見幾隻蝙蝠吱吱叫。
+<ce> 牠們似乎正在靠近。
+
+Message:  1020
+<ce> 大部分都解決了。戰士公會
+<ce> 不會為剩下的計較。

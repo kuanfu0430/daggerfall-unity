@@ -1,0 +1,149 @@
+-- Quest: C:\QUESTS\WORKING\K0C01Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 01
+-- QuestId: 0
+Messages: 21
+Quest: K0C01Y00
+DisplayName: 成全命運
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>想像一下我有多高興：過去兩年那個
+<ce>哭哭啼啼、欺騙成性的情人被綁走，
+<ce>大概也死了。然後想像我有多絕望：
+<ce>發現那=victim_居然還活著。
+<ce>接著想像我有多覺得好笑：%g3的綁匪
+<ce>竟來要贖金。最後，請想像我有多惱火：
+<ce>%g3的表親居然答應付贖金。這不行。
+<ce>我需要有人確保這贖人失敗。你願意幫我嗎？
+
+RefuseQuest:  [1001]
+<ce>%oth，什麼態度。
+<ce>你那自私的道德總有一天會害了你。
+
+AcceptQuest:  [1002]
+<ce>%oth，%oth，還有%oth。
+<ce>依我看，有三種辦法阻止這場贖人。
+<ce>一是確保親愛的_victim_在=queston1_天的
+<ce>贖金期限前意外死去。當然，我不知道%g在哪，
+<ce>所以這條不好辦。下一條是在同樣期限內
+<ce>讓%g3的表親意外死去。那表親叫=cousin_，
+<ce>住在___mondung2_，那是座防守嚴密的要塞。
+<ce>所以也有難處。最後，你可以從___mondung2_
+<ce>取走=cousin_打算用來贖人的_gem_。
+<ce>無論你用哪種辦法，在=queston1_天內或更早
+<ce>帶著消息回來，你就會多出_gold_金幣。
+<ce>祝你好運，老%ra。
+
+QuestComplete:  [1004]
+<ce>這麼說，可憐的_victim_不會回家了？
+<ce>幹得好，我的朋友。這是我答應的_gold_金幣。
+<ce>這錢花得最值。
+
+RumorsDuringQuest:  [1005]
+可憐的_qgiver_。哀傷真可怕。你知道嗎，%g看起來年輕了十歲。
+<--->
+=cousin_懷疑_qgiver_其實不想讓_victim_回來。
+
+RumorsPostfailure:  [1006]
+_qgiver_不知為何對一個叫%pcn的%ra大發雷霆。
+
+RumorsPostsuccess:  [1007]
+看來_victim_真的再也不會回到___qgiver_了。
+<--->
+_qgiver_如今為_victim_深深哀悼。真叫人難過。
+
+QuestorPostsuccess:  [1008]
+你讓我免於那肥蟾蜍_victim_，%pcf。別以為我忘了。
+
+QuestorPostfailure:  [1009]
+<ce>我只求你做一件事，還給了你三種辦法。
+<ce>而你失敗了。我為什麼要跟你說話，
+<ce>你這醃過的一桶糞餅？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_、__qgiver_的
+ _qgiver_派我去阻止%g3那不受待見的情人被贖回。
+ 我可以找到並殺掉這_victim_，
+ 但完全不知道%g在哪。或者我可以去
+ ___mondung2_，%g3表親=cousin_的要塞，
+ 殺掉%g2，或偷走%g打算用來贖人的_gem_。
+ 無論如何，我必須在贖金到期的=queston1_天內
+ 辦成某件事，並回到老_qgiver_那兒。
+
+Message:  1011
+<ce>_victim_一見到%ra傭兵，
+<ce>便驚嚇得心臟停了。
+<--->
+<ce>「來吧，暴烈的死亡，」
+<ce>_victim_說著，飲下一口毒藥。
+<ce>「我將在來世與真愛_qgiver_重逢。」
+<--->
+<ce>「刺客！刺客！」
+<ce>_victim_歇斯底里地斷了氣。
+
+
+Message:  1013
+%pcf，
+ 
+     _victim_被關在___mondung_。
+ 盡你所能吧。
+ 
+     我們不介意。那些綁匪是該死的散戶。
+ 
+ 
+<ce>盜賊公會
+
+Message:  1015
+<ce>一個不起眼的傢伙把字條塞進你手裡，
+<ce>眨眨眼，便離開了。
+
+Message:  1017
+%qdt:
+ 我收到盜賊公會的信。看來那些綁匪
+ 不是公會成員，所以他們毫不猶豫地把
+ 地點告訴我：___mondung_。
+ 若我想結束那不受待見的_victim_的性命，
+ 就該去那兒。
+
+Message:  1018
+<ce>你這該死的、混蛋的%ra，真疼！
+<--->
+<ce>你大概以為這很疼，對吧？
+
+Message:  1019
+<ce>_victim_的表親，%g3唯一的希望，
+<ce>被送上了黃泉。
+<--->
+<ce>=cousin_如今誰也贖不了了。
+
+Message:  1020
+<ce>你找到了=cousin_打算用來
+<ce>贖回_victim_的_gem_。
+
+
+-- Symbols used in the QRC file:
+--
+--              %dat occurs 1 time.
+--                %g occurs 4 times.
+--               %g2 occurs 1 time.
+--               %g3 occurs 6 times.
+--              %oth occurs 4 times.
+--              %pcf occurs 83 times.
+--              %pcn occurs 1 time.
+--              %qdt occurs 1 time.
+--               %ra occurs 9 times.
+--          =cousin_ occurs 6 times.
+--        =queston1_ occurs 3 times.
+--          =victim_ occurs 1 time.
+--      ___mondung2_ occurs 3 times.
+--       ___mondung_ occurs 2 times.
+--        ___qgiver_ occurs 3 times.
+--             _gem_ occurs 3 times.
+--            _gold_ occurs 2 times.
+--          _qgiver_ occurs 7 times.
+--          _victim_ occurs 14 times.

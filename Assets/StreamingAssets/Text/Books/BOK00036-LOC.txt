@@ -1,5 +1,5 @@
-Title: On Lycanthropy
-Author: Varnard Karessen
+Title: 論獸化症
+Author: 瓦納德·卡雷森
 IsNaughty: False
 Price: 419
 IsUnique: False
@@ -8,34 +8,34 @@ Content:
 
 [/font=2]
 
-[/center]On Lycanthropy
+[/center]論獸化症
 
 [/font=4]
 
- How does one become interested in studying the disease lycanthropy? I have interviewed a number of my peers, and discovered that to a man, they have all entered the field after a horrifying encounter with a lycanthrope of some variety. I am no exception.
+  人是怎麼對研究獸化症這疾病產生興趣的？我訪問過不少同行，發現他們毫無例外，都是在與某種獸化者可怕相遇之後才踏入這個領域。我也不例外。
 
- In Skyrim, it is an old tradition to rub canis root on the trees surrounding your house as a ward against werebears. When I was young and stupid (as opposed, I guess, to being old and stupid as I am now), I always had hoped to meet a werebear to see if they were as impressive as legend suggested. I would follow strange tracks in the woods until they disappeared, with no fear or even thought about what I would do after I had found my quarry. By Thorig's beard, I was lucky that my investigations were fruitless.
+  在天際，有個古老傳統：把犬根擦在房屋四周的樹上，用來驅趕熊人。我年輕又愚蠢的時候（相對於我現在——我想——年老又愚蠢），總盼著遇見一頭熊人，看看他們是否真如傳說那般驚人。我會跟著林中奇怪的足跡走到消失為止，既不害怕，甚至也不去想找到獵物之後該怎麼辦。憑索里格的鬍鬚起誓，我真幸運，那些探查都一無所獲。
 
- When I did finally see a lycanthrope, it was not a werebear. It was a werewolf, the "common" lycanthope, which can be found in every part of Tamriel. My father was a priest and during the coldest part of the winter, he allowed the beggars and riffraff of Falcrenth to stay in the relative warmth of the cellar of his temple. We would even supply warm barley stew. My sisters and brothers and I actually enjoyed this bit of philanthropy, for in the cellars during the winter, it seemed there was a constant party. There were always travellers with interesting stories and eccentricities, and the atmosphere in the cellars was always light and friendly. Until that night.
+  我真正見到獸化者時，卻不是熊人。那是狼人，所謂「常見」的獸化者，泰姆瑞爾各地都能找到。我父親是祭司，在冬季最冷的時節，他允許法爾克倫斯的乞丐與雜七雜八的人待在神殿地窖相對溫暖的地方。我們甚至會提供熱麥粥。我的兄弟姐妹和我其實很喜歡這份善舉，因為冬天的地窖裡彷彿永遠在辦派對。總有帶著有趣故事與怪癖的旅人，地窖裡的氣氛總是輕快友善。直到那個夜晚。
 
- By an established tradition, the beggars who were sick or wanted rest more than food and companionship would go to the cots at the farthest, darkest end of the cellar when they could be assured at least relative quiet. We were enjoying a song, and my sister Gethessa was dancing to the amusement of all. The song ended, but a chorus continued from the darkness at the far end of the cellar. As drunk and incomprehensible as most of the carolers were, it took a minute for us to realize that the sound we were hearing was not singing, but screaming.
+  依既定慣例，生病或比起食物與陪伴更想休息的乞丐，會到地窖最遠、最暗的那頭床鋪去，至少能有相對安靜。我們正享受一首歌，妹妹格瑟莎跳舞給眾人取樂。歌停了，可是合唱卻從地窖遠處的黑暗裡繼續下去。那些唱歌的人多半醉得語無倫次，我們過了一分鐘才明白，聽見的不是歌唱，而是尖叫。
 
- No one was too concerned, for some of the older tramps often suffered from vivid nightmares. Nevertheless, one of father's priests went to silence the screamer and the moment he disappeared into the murk, we heard another sound. The snarl of a wolf. Then we heard the priest screaming as the original scream died off.
+  沒人太擔心，因為有些年長的流浪漢常做鮮明的噩夢。儘管如此，父親手下一名祭司還是前去讓那尖叫的人安靜；他剛沒入幽暗，我們就聽見另一種聲音。狼的低吼。接著我們聽見祭司的尖叫，原來的尖叫則漸漸止息。
 
- "Werewolf!" cried the old bard who had been leading the song. The cellar exploded into chaos.
+  「狼人！」領唱的老吟遊詩人喊道。地窖頓時陷入混亂。
 
- I was pushed out the cellar door into the snow with the first wave of panic, but I could see that some of the more brave (or more drunk) hobos were rushing into the darkness to do battle with the lycanthrope. They were all, of course, almost instantly killed.
+  我隨著第一波恐慌被推出地窖門，來到雪地裡，卻仍看得見一些比較勇敢（或比較醉）的流浪漢衝進黑暗，要去對付那獸化者。他們當然幾乎立刻全死了。
 
- My father, upon hearing of his unwelcome visitor, sealed off the cellar after the last survivor of the carnage had left. A seasoned battlemage from the Falcrenth Mages Guild, who owed father a favor, went into the cellar and slew the beast.
+  父親聽說這位不請自來的訪客後，等最後一名倖存者離開那場屠殺，便封死了地窖。法爾克倫斯法師公會一名欠父親人情、經驗豐富的戰鬥法師走進地窖，殺了那頭野獸。
 
- "Not too tough," he said as he emerged, carrying the carcass with him. "Winter must have been tough on him too." Despite his bold words, the blood on his face and chest did not only come from his foe.
+  「不太難對付。」他出來時帶著屍體說。「冬天大概也讓他不好過。」儘管他話說得大膽，臉上與胸口的血卻不只來自敵人。
 
- Werewolves do not revert to their human forms upon death, despite what legends will tell you. I had the opportunity to look at the monster's steaming body out in the snow before it was carried away to be burned. The teeth, clotted with the flesh of the beggars, were horrifying, but the claws shocked me even more. I have since seen live lycanthropes battle golems, atronachs, and other beings not harmed by mundane weapons, and concluded that they act as naturally enchanted weapons.
+  狼人死後不會變回人形，無論傳說怎麼講。我有機會在雪地裡看那怪物還在冒熱氣的屍體，直到它被抬走焚燒。那些牙齒黏著乞丐的血肉，固然可怕，更讓我震驚的卻是利爪。此後我見過活的獸化者與魔像、侍靈，以及其他不受凡俗武器傷害的存在交戰，斷定那些爪子作用如同天生附魔的武器。
 
- Because the werewolf is the most ubiquitous of lycanthropes, the term lycanthropy has been used since ancient days to describe the disease that transforms men into half-beast, although lycanthrope only strictly should refer to men who change into werewolves. But that is semantics. There are certainly differences between the seven documented forms of lycanthropy in Tamriel, but more similarities.
+  因為狼人是最普遍的獸化者，自古以來「獸化症」一詞便用來形容使人變成半獸的疾病，雖然嚴格說來此詞只該指變成狼人的人。不過這是語義之爭。泰姆瑞爾有文獻記載的七種獸化症當然有差異，相似之處卻更多。
 
- In Black Marsh and southern Morrowind, werecrocodiles stalk the swamps. Black Marsh also shares with the Imperial Province and the wetter parts of Elsweyr the vile presence of werelions. Valenwood's werevultures are not found in any other province. The wereboar has found both the climates of High Rock and Hammerfell amenable. As I mentioned before, the werebear is the most common lycanthrope in Skyrim, and is also found in the northern parts of High Rock, the Imperial Province, and Morrowind. The werewolf can be found in every province. The seventh lycanthrope, which I have never seen but my trusted peers have assured me exists, is a wereshark that roams the oceans around Tamriel.
+  在黑沼與晨風南部，鱷人潛伏沼澤。黑沼也與帝國行省以及艾斯維爾較濕潤的地帶一樣，有邪惡獅人出沒。瓦倫林地的鷲人不見於其他行省。豬人覺得高岩與落錘省的氣候都合宜。如前所述，熊人是天際最常見的獸化者，也見於高岩北部、帝國行省與晨風。狼人則遍布每一個行省。第七種獸化者我從未親眼見過，但可信的同行向我保證確實存在：在泰姆瑞爾四周海洋遊弋的鯊人。
 
- I have spent my life categorizing and observing lycanthropes, but I sometimes feel that I am still a child trapped in a cellar in my attempts to understand them. I know, for example, that lycanthropy can be cured shortly after infection, but after that time, the victim is doomed. No one of my acquaintance has cured themselves after undergoing the first transformation. On the other hand, I have a colleague investigating a coven of witches in the Glenpoint foothills of High Rock who are rumored to have a cure. I remain dubious.
+  我一生都在為獸化者分類、觀察，有時卻仍覺得自己還是那個困在地窖裡的孩子，試圖理解他們。我知道，例如，獸化症在感染後不久可以治癒，過了那段時間，受害者就注定了。我認識的人裡，沒有誰在第一次變形之後還治好自己。另一方面，有位同事正在調查高岩格倫角丘陵一群據說擁有療法的女巫會。我仍持懷疑。
 
- Perhaps it is because they are doomed that makes lycanthropes so aggressive. I have removed the contents of a werewolf's stomach and found more remnants of roots and berries than animal flesh. My conclusion is that they do not need to attack and devour humans to survive. Yet, for some reason they do. Does lycanthropy drive them mad, or do lycanthropes feel the need to spread the disease as a form of procreation? I do not know. I am not certain that any of us who are not lycanthropes ourselves will ever know. And then, of course, it's too late.
+  或許正因為注定如此，獸化者才這般兇暴。我剖開過狼人的胃，發現根莖與漿果的殘渣比動物血肉還多。我的結論是：他們並不需要攻擊、吞食人類才能存活。然而，出於某種原因，他們還是這麼做。是獸化症使他們發狂，還是獸化者覺得必須傳播疾病，當作一種繁衍？我不知道。我不敢確定，我們這些自己不是獸化者的人，究竟能不能明白。而到了那一步，當然，也就太遲了。

@@ -1,0 +1,140 @@
+-- Quest: C:\QUESTS\WORKING\N0C00Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 11
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: N0C00Y11
+DisplayName: 取得一份材料
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            我是 _qgiver_。
+<ce>                   原則上只有公會成員才有酬勞。
+<ce>                   不過我有件小事需要人做。
+<ce>                    若你願意免費去做，我會
+<ce>                    在公會裡替你說好話。
+<ce>                    你願意嗎？
+                                     <--->
+<ce>                       我是 _qgiver_。公會差事
+<ce>                   只給公會成員。不過我有件
+<ce>                  沒人願意做的小事。我們有位
+<ce>                   古怪的導師堅決要一份
+<ce>                       _ingredient_ 樣本，
+<ce>                   而我們剛好用完了。若你幫我弄來，
+<ce>                     我會非常感激。
+<ce>                      你在公會的評價
+<ce>                         肯定會提升。
+
+RefuseQuest:  [1001]
+<ce>                     早該知道。我厭倦這場談話了，
+<ce>                       %pcn。
+<ce>                               日安。
+
+AcceptQuest:  [1002]
+<ce>                      態度很好，%pcf。
+<ce>                       我需要一些 _ingredient_。
+<ce>                     我目前知道的唯一樣本
+<ce>                      在 ___dungeon_。你有
+<ce>                  =traveltime_ 天把它帶回來。
+
+QuestComplete:  [1004]
+<ce>                     我見過更好的樣本。你該不會
+<ce>                   一路坐在上面吧？
+<ce>                     無論如何，將就用吧。我會
+<ce>                    確保公會廳裡對你的評價
+<ce>                     是正面的。
+
+RumorsDuringQuest:  [1005]
+公會那個瘋子法師堅稱 ___dungeon_ 有最好的 _ingredient_。
+
+RumorsPostfailure:  [1006]
+前幾天我長了個膿瘡……不過已經好了。
+<--->
+我剛跟人聊了三個鐘頭的天氣。
+<--->
+這時節的天氣還算平常。
+<--->
+以這個時節來說，%cn好像有點涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我祖姑要去灣對岸看專科醫生。
+<--->
+這附近天黑的時間總是讓人覺得奇妙。
+<--->
+我們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一則超棒的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有優點也有缺點。
+
+RumorsPostsuccess:  [1007]
+前幾天我長了個膿瘡……不過已經好了。
+<--->
+我剛跟人聊了三個鐘頭的天氣。
+<--->
+這時節的天氣還算平常。
+<--->
+以這個時節來說，%cn好像有點涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我祖姑要去灣對岸看專科醫生。
+<--->
+這附近天黑的時間總是讓人覺得奇妙。
+<--->
+我們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一則超棒的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有優點也有缺點。
+
+QuestorPostsuccess:  [1008]
+我沒忘記你，%pcf。你就是弄到 _ingredient_ 的那個 %ra。
+
+QuestorPostfailure:  [1009]
+<ce>               我要你做的事並不困難，
+<ce>                      %pcf。不過是幫我弄點
+<ce>                 _ingredient_。你卻連這都做不到。
+<ce>                      我何必再對你浪費口舌？
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我受託去找一份
+ _ingredient_ 樣本，
+ 據說藏在
+ ___dungeon_。
+ ___qgiver_ 法師公會的
+ _qgiver_
+ 給我 =traveltime_ 天
+ 把它交還給 %g2。
+
+Message:  1040
+<ce>                     這一定就是 _qgiver_
+<ce>                      要你找的 _ingredient_。
+
+Message:  1080
+<ce>                     作為法師公會的特別感謝，
+<ce>                    請收下這張通往 ___newdung_
+<ce>                   的地圖。我聽說像你這種人
+<ce>                       對這種東西會流口水。

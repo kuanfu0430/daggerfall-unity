@@ -1,61 +1,60 @@
-1.	Of all disagreeable types, you have the
-	most personal hatred for ___.
-a.	Sanctimonious priests
+1.	在各種討厭的人當中，你最痛恨
+	___。
+a.	道貌岸然的祭司
 	#4650
 	!4651
 	AE M 8 12 +3
-b.	Diabolic wizards
+b.	邪惡的巫師
 	#4652
 	!4653
 	AE M 8 2 +4
-c.	Power-mad robber barons
+c.	權力狂的強盜領主
 	#4654
 	!4655
 	AE M 8 17 +4
-d.	Greedy Merchants
+d.	貪婪的商人
 	#4656
 	!4657
 	AE M 8 11 +2
 
-2.	The one skill you could not work
-	without must be ___.
-a.	Lockpicking
+2.	你不可或缺的技能必定是___。
+a.	開鎖
 	#4522
 	13 +6
-b.	Pickpocketing
+b.	扒竊
 	#4523
 	15 +6
-c.	Stealthy Movement
+c.	潛行移動
 	#4524
 	16 +6
-d.	Dodging
+d.	閃避
 	#4525
 	20 +6
-e.	Climbing
+e.	攀爬
 	#4526
 	18 +6
-f.	Backstabbing
+f.	背刺
 	#4527
 	19 +6
 
-3.	Where is your expertise in combat?
-a.	Short-bladed weapons
+3.	你的戰鬥專長是？
+a.	短刃
 	#4200
 	IT 3 0 2
 	28 +6
-b.	Hand-to-hand combat
+b.	徒手
 	#4201
 	30 +6
 	IT 2 1 0
-c.	Axe fighting
+c.	斧
 	#4202
 	31 +6
 	IT 3 14 0
-d.	Blunt weapons
+d.	鈍器
 	#4203
 	32 +6
 	IT 3 11 0
-e.	Archery
+e.	箭術
 	#4204
 	33 +6
 	IT 3 16 0
@@ -66,147 +65,145 @@ e.	Archery
 	IT 3 18 0
 	IT 3 18 0
 
-4.	In gratitude for services rendered, the
-	Emperor gave you ___.
-a.	Over 200 gold pieces
+4.	為感謝你的貢獻，皇帝賜給你___。
+a.	兩百多枚金幣
 	#4528
 	GP +250
-b.	An ebony dagger
+b.	一把烏木匕首
 	#4529
 	IT 3 0 7
-c.	An interesting book
+c.	一本有趣的書
 	#4530
 	IT 7 0 0
-d.	A ruby
+d.	一顆紅寶石
 	#4531
 	IT 14 0 0
-e.	A silver staff
+e.	一根銀法杖
 	#4532
 	IT 3 2 2
-f.	An amulet
+f.	一枚護符
 	#4192
 	IT 25 0 0
 
-5.	As a child, your nickname was ___.
-a.	Rabbit
+5.	小時候，別人給你的綽號是___。
+a.	兔子
 	3 +6
-b.	Guppy
+b.	小魚
 	17 +6
-c.	Quicksilver
+c.	水銀
 	21 +6
-d.	Scrapper
+d.	好鬥鬼
 	30 +6
-e.	Monkey
+e.	猴子
 	18 +6
 
-6.	You are friendlier than most with ___.
-a.	the savage Harpies
+6.	你比大多數人更親近___。
+a.	野蠻的鷹身女妖
 	5 +6
-b.	the simple Giants
+b.	單純的巨人
 	6 +6
-c.	the glorious Dragons
+c.	光榮的巨龍
 	7 +6
-d.	the immodest Nymphs
+d.	不羈的寧芙
 	8 +6
-e.	the infernal Daedra
+e.	煉獄的迪德拉
 	9 +6
-f.	the bucolic Spriggans
+f.	鄉野的樹精
 	10 +6
-g.	the primitive Centaurs
+g.	原始的半人馬
 	11 +6
-h.	the mischevious Imps
+h.	淘氣的小惡魔
 	12 +6
 
-7.	Since childhood, you have saved ___.
-a.	100 gold pieces
+7.	從童年起，你存下了___。
+a.	100 枚金幣
 	GP +100
-b.	Your favorite book
+b.	一本心愛的書
 	IT 7 0 0
-c.	A cuirass
+c.	一件胸甲
 	IT 2 0 0
-d.	A pearl
+d.	一顆珍珠
 	IT 22 1 0
 
-8.	As much as you are able, you ___.
-a.	socialize with aristocrats
+8.	只要能力所及，你就會___。
+a.	與貴族交際
 	1 +6
 	r3 +5
 	r0 -5
-b.	learn streetsmarts
+b.	學習街頭智慧
 	2 +6
 	r0 +2
 	r4 +3
 	r3 -5
-c.	practice acrobatics
+c.	練習雜技
 	3 +2
 	20 +2
 	18 +2
-d.	trespass
+d.	非法侵入
 	13 +6
-e.	study economics
+e.	學習經濟學
 	14 +6
-f.	swim
+f.	游泳
 	17 +6
-g.	spar
+g.	對打
 	34 +6
 
-9.	What motivates you into a life of
-	adventure?
-a.	Riches
+9.	是什麼驅使你走上冒險之路？
+a.	財富
 	GP +500
-b.	Fame
+b.	名聲
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	知識
 	IT 7 0 0
-d.	Fun
+d.	樂趣
 	1 +3
 	2 +3
-e.	Helping Others
+e.	助人
 	r0 +10
 
-10.	What god, if any, do you worship?
-a.	None
+10.	你崇拜哪位神祇（若有的話）？
+a.	無
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	阿凱，誕生與死亡之神
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	澤尼薩爾，商業之神
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	瑪拉，母親女神
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	迪貝拉，美之女神
 	rf98 +5
-f.	Julianos, God of Logic
+f.	朱利安諾斯，邏輯之神
 	rf94 +5
-g.	Akatosh, God of Time
+g.	阿卡托什，時間之神
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	斯丹達爾，慈悲之神
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	凱娜瑞斯，空氣女神
 	rf36 +5
 
-11.	Before you set out for the Imperial City,
-	you brought with you ___.
-a.	100 gold pieces
+11.	動身前往帝都之前，你帶上了
+	___。
+a.	100 枚金幣
 	GP +100
-b.	A book
+b.	一本書
 	IT 7 0 0
-c.	A buckler
+c.	一面小圓盾
 	IT 2 7 1
-d.	Gauntlets
+d.	一副護手
 	IT 2 1 0
 
-12.	You have the most trouble ___.
-a.	Resisting poisons
+12.	你最不擅長___。
+a.	抵抗毒素
 	RP -10
-b.	Staying awake and alert
+b.	保持清醒與警覺
 	FT -5
-c.	Getting along with others
+c.	與人相處
 	RR -5
-d.	Avoiding diseases
+d.	避免疾病
 	RD -5
-e.	Resisting magic 
+e.	抵抗魔法
 	MR -5
-f.	Fighting 
+f.	戰鬥
 	TH -5
 

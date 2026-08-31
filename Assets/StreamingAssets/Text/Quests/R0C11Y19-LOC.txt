@@ -1,0 +1,90 @@
+-- Quest: C:\QUESTS\WORKING\R0C11Y19.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 11
+-- QuestId: 19
+Messages: 22
+Quest: R0C11Y19
+DisplayName: 皇帝的贈禮
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               我正處於相當棘手的處境，%pcf。
+<ce>              若我能指望你的勤快與沉默，你可以從我的窘境中
+<ce>                 賺到，比方說，_reward_ 金幣。
+<ce>                            聽起來誘人嗎？
+
+RefuseQuest:  [1001]
+<ce>                        %oth，該死，又是%oth！
+<ce>                 我被冷漠的懶骨頭包圍了！
+<ce>                        不是針對你，%pcf。
+
+AcceptQuest:  [1002]
+<ce>                嗯，這總算不錯。不久前財政停滯時，
+<ce>                我把皇帝親自賜給我的戒指當掉了。
+<ce>                我以為烏列爾·塞普丁從不會來到帝國這個角落，
+<ce>                 但現在聽說他的密使就在附近，我必須把那枚戒指拿回來。
+<ce>                  ___contact_ 的 __contact_ 的 _contact_
+<ce>           只會再替我保管 =1stparton_ 天。這是贖回戒指的金幣。
+<ce>                 祝你好運，願%god保佑你的旅途。
+
+QuestFail:  [1003]
+<ce>                        我的戒指，%pcf？我派你去拿的那枚
+<ce>                    被%god詛咒的戒指？它在哪？若你弄丟了，
+<ce>                    我就剝了你這腐爛的%ra皮！
+
+QuestComplete:  [1004]
+<ce>               喔好，喔好，是戒指。喔謝謝你，謝謝你，%pcf。
+<ce>                  這是我答應的 _reward_ 金幣。
+<ce>                    這趟運送很貴，但每一枚都值得。
+
+RumorsDuringQuest:  [1005]
+聽說皇帝的人進城時不會大張旗鼓。
+<--->
+他們不太張揚；皇帝的人說不定此刻就在這裡。
+
+RumorsPostfailure:  [1006]
+聽說 _questgiver_ 與帝國來人的會面不太愉快。
+<--->
+不知為何，_questgiver_ 失寵於皇帝。
+
+RumorsPostsuccess:  [1007]
+據我所知，_questgiver_ 以盛大排場招待了帝國政要。
+<--->
+帝國政要顯然對這次造訪非常滿意。
+
+QuestorPostsuccess:  [1008]
+啊，你好，持戒人。我能為你做什麼？
+<--->
+你幫我維持了與帝國的良好關係。現在，我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>                    帝國使節沒發現戒指不見了，感謝%god。
+<ce>                 不過，你現在可不是我最喜歡的人，%pcf。
+
+QuestLogEntry:  [1010]
+<ce>                    你一定是%pcf。你來得真巧。
+<ce>                 我正要把戒指賣給一個非常熱切的第三方。
+<ce>              好了，若我沒理解錯，_questgiver_ 想在帝國政要
+<ce>                         到達前拿回戒指，你最好上路了。
+<ce>                      你只剩一點時間。
+
+Message:  1015
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 派我前往 ___contact_ 的 __contact_，
+ 那裡 _contact_ 正保管著 _questgiver_
+ 當掉的一枚戒指。我需要用 _questgiver_
+ 給我的金幣贖回戒指，再趕回 __questgiver_。
+ 全部必須在不到 =1stparton_ 天內完成。
+
+Message:  1020
+<ce>                     把戒指給我。這可以好聚好散，
+<ce>                      也可以很難看。全看你。
+<ce>                       無論如何，戒指都會到我們手上。
+
+Message:  1021
+<ce>                      傻瓜。現在你得死。你真以為
+<ce>                       我們會讓證人活著？

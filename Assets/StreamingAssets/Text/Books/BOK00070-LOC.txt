@@ -1,5 +1,5 @@
-Title: Jokes
-Author: Butha Sunhous
+Title: 笑話集
+Author: 布薩·桑豪斯
 IsNaughty: True
 Price: 667
 IsUnique: False
@@ -8,98 +8,98 @@ Content:
 
 [/font=2]
 
-[/center]Jokes
+[/center]笑話集
 
 [/font=4]
 
- "How is your wife," asked Zalither.
+  「尊夫人可好？」扎利瑟問。
 
- "She's in bed with laryngitis," replied Harlyth.
+  「她在床上陪喉炎。」哈利斯答。
 
- "Is that Argonian bastard back in town again?"
-
-[/center]
-
- "I keep seeing spots before my eyes."
-
- "Have you seen a healer?"
-
- "No, just spots."
+  「那個亞龍人渾蛋又回城了？」
 
 [/center]
 
- A big Nord named Julgen was set on by a gang of thieves. He fought them furiously, but in the end, they beat him into semiconsciousness. They searched his pockets and discovered that he only had three gold pieces on him.
+  「我眼前一直出現斑點。」
 
- "Do you mean to tell us you fought us like a mad lupe for three lousy gold pieces?" sneered one of the thieves.
+  「你去看過治療師嗎？」
 
- "No," answered Julgen. "I was afraid you were after the four hundred gold pieces in my boot."
-
-[/center]
-
- During the War of Betony, the Bretons in the Isle of Craghold were under siege for several days. After the island was liberated, Lord Bridwell found the ruins of the castle where a crowd of survivors were hidden away in the dark. It was going to be a difficult job freeing them, as part of the roof had collapsed trapping them all within. Bridwell stuck his head in the only opening and shouted to the Bretons below: "Are there any expectant mothers down there?"
-
- "It's hard to say, your Lordship," said a young woman. "We've only been down here for a few days."
+  「沒有，只看到斑點。」
 
 [/center]
 
- An elderly Breton met with an contemporary of his at a guild meeting. "Harryston, old man, I wanted to express my sympathy. I hear that you buried your wife last week."
+  一個名叫朱爾根的大塊頭諾德人遭到一幫盜賊襲擊。他奮力搏鬥，最後還是被打到半昏迷。他們搜他的口袋，發現他身上只有三枚金幣。
 
- "Had to, old boy," replied Harryston. "Dead, you know."
+  「你的意思是，為了三枚可憐的金幣，你像頭瘋狼一樣跟我們打？」一個盜賊譏笑道。
 
-[/center]
-
- Why was the Sentinel army so useless during the War of Betony?
-
- The cannons were too heavy, so all three garbage scows sunk.
+  「不是，」朱爾根答。「我怕你們要找的是我靴子裡那四百枚金幣。」
 
 [/center]
 
- What does a new Sentinel private learn first as a combat technique?
+  貝托尼戰爭期間，峭壁堡島上的布萊頓人被圍困數日。島嶼解圍後，布里德威爾領主在城堡廢墟裡發現一群倖存者躲在黑暗中。要救出他們會很困難，因為部分屋頂坍塌，把他們全困在裡面。布里德威爾把頭伸進唯一的開口，對下面的布萊頓人喊：「下面有沒有孕婦？」
 
- How to retreat.
-
-[/center]
-
- What is the thinnest book in the world?
-
- Redguard Heroes of the War of Betony.
+  「難說，領主閣下，」一名年輕女子說。「我們才下來幾天。」
 
 [/center]
 
- A Dark Elf man killed his wife after catching her making love with another man. When the magistrate asked him why he killed her instead of her lover, the man replied, "I considered it better to kill one woman than a different man every week."
+  一位年邁布萊頓人在公會集會上遇見同輩。「哈里森，老傢伙，我想向你致哀。聽說上週你把妻子埋了。」
+
+  「沒辦法，老弟，」哈里森答。「她死了，你知道的。」
 
 [/center]
 
- A Dark Elf woman was being shown around Daggerfall. When she was shown the magnificent Castle Daggerfall, she smiled sweetly to her guild and whispered, "It reminds me of sex."
+  為什麼哨兵城軍隊在貝托尼戰爭中那麼沒用？
 
- "That's odd," said her guild. "Why does our Castle Daggerfall remind you of sex?"
-
- The Dark Elf sighed, "Everything does."
+  大炮太重，三艘垃圾駁船全沉了。
 
 [/center]
 
- Yelithah told Vathysah that she was having dinner with a Dark Elf named Morleth that night.
+  哨兵城新兵最先學會的戰鬥技術是什麼？
 
- "I hear he's an animal," said Vathysah. "He'll rip your dress right off you."
-
- "Thank you for telling me," said Yelithah, "I'll be sure to wear an old dress."
+  怎麼撤退。
 
 [/center]
 
- How do separate sailors in the Khajiiti navy?
+  世上最薄的書是什麼？
 
- With a hammer and tongs.
-
-[/center]
-
- "This orchard has sentimental value to me," said Mojhad, the Khajiit, to his friend, Hasillid. "Under that tree, for example, is where I first made love. And that tree, is where her mother stood, watching us."
-
- "She watched you while you made love to her daughter?" said Hasillid, clearly impressed. "Didn't she say anything?"
-
- "Meow."
+  《貝托尼戰爭中的紅守衛英雄》。
 
 [/center]
 
- What do you call a Wood Elf who doesn't lie or cheat or steal?
+  一名黑暗精靈男子捉到妻子與另一個男人做愛，便殺了妻子。長官問他為何殺她而不殺她的情人，那人答：「我覺得殺一個女人，總好過每週殺一個不同的男人。」
 
- A dead Wood Elf.
+[/center]
+
+  一名黑暗精靈女子被人帶著參觀匕首雨。當她看見宏偉的匕首雨城堡，便對公會同伴甜甜一笑，低聲說：「它讓我想起性愛。」
+
+  「真奇怪，」她的公會同伴說。「為什麼我們的匕首雨城堡會讓你想起性愛？」
+
+  黑暗精靈嘆了口氣：「什麼都會。」
+
+[/center]
+
+  耶莉莎告訴瓦西莎，當晚她要和一個叫莫勒斯的黑暗精靈共進晚餐。
+
+  「聽說他是頭畜生，」瓦西莎說。「他會把你的裙子撕下來。」
+
+  「謝謝你告訴我，」耶莉莎說，「我一定穿件舊裙子。」
+
+[/center]
+
+  怎麼把卡吉特海軍的水手分開？
+
+  用鐵鎚和火鉗。
+
+[/center]
+
+  「這座果園對我有紀念價值，」卡吉特莫哈德對友人哈西利德說。「比方說，那棵樹下是我第一次做愛的地方。而那棵樹，是她母親站著看我們的地方。」
+
+  「她看著你跟她女兒做愛？」哈西利德顯然印象深刻。「她沒說什麼嗎？」
+
+  「喵。」
+
+[/center]
+
+  你怎麼稱呼一個不說謊、不欺騙、不偷竊的木精靈？
+
+  一個死掉的木精靈。

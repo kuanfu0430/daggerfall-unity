@@ -1,0 +1,84 @@
+-- Quest: C:\QUESTS\WORKING\B0B60Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 60
+-- QuestId: 12
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0B60Y12
+DisplayName: 永恆安息
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    我可有件好差事給你。
+<ce>                        看來_nobleman_剛讀到
+<ce>                      一則古老的家族詛咒。現在%g
+<ce>                     嚇得魂不附體。%G想找人去消滅
+<ce>                    %g3的高高高祖母，深怕她正以
+<ce>                      不死怪物之姿在世間遊蕩。
+<ce>                           有興趣嗎，%pct？
+                                     <--->
+<ce>                 這也許不過是到墳墓裡隨便戳一戳，
+<ce>                      但_nobleman_請我們調查
+<ce>                    %g3高高高祖母的安息之地。
+<ce>                    顯然%g做了個夢，夢見她復活，
+<ce>                    並將在=2dung_天內逃出家族墓塚。
+<ce>                   也許全是胡話，也許不是。
+<ce>                   你願意去調查嗎，%pct？
+
+RefuseQuest:  [1001]
+<ce>                   若你碰上可能願意接這差事的騎士，
+<ce>                     請叫他們來找我。
+
+AcceptQuest:  [1002]
+<ce>                     _nobleman_的遠古先祖葬在一座
+<ce>                    名叫___dungeon_的陵墓裡，
+<ce>                   那是為防盜墓而設計的。
+<ce>                     沒證據證明她真是不死者。
+<ce>                     多半只是一具屍體。若是如此，
+<ce>                    就以正當的火葬堆燒掉遺體。
+<ce>                   務必在=2dung_天內回來，否則
+<ce>                   _nobleman_說詛咒就會觸發。
+
+QuestComplete:  [1004]
+<ce>                     真沒想到。我沒料到
+<ce>                       _nobleman_的先祖
+<ce>                    真的是行屍走肉！
+<ce>                    你為當地人免除了許多苦難。
+
+RumorsDuringQuest:  [1005]
+_nobleman_是個迷信的傻瓜，但%g3的曾祖母確實古怪。
+<--->
+_nobleman_出身奇怪的家族。也許%g3的曾祖母真是殭屍。
+
+RumorsPostfailure:  [1006]
+%kno查過_nobleman_的說法，我猜，他們認定那是騙局。
+
+RumorsPostsuccess:  [1007]
+_nobleman_的高高祖母居然真是不死者！真沒想到？
+
+QuestorPostsuccess:  [1008]
+從我們原先不知道的不死威脅中拯救了%reg之後，我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+事實上，我知道_nobleman_的說法不是騙局，你這懶蟲！
+<--->
+我碰巧知道___dungeon_裡真有怪物，你這隻睡鼠！
+<--->
+你辜負_nobleman_之時，也辜負了%kno，%pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_責成我火化
+ _nobleman_遠古先祖的遺體，
+ 就在___dungeon_。有可能那是
+ 不死的恐怖存在，必須予以安息。
+ 我有=2dung_天完成任務。
+
+Message:  1011
+<ce>                    那_monster_已得安息。
+<ce>                       _nobleman_如今不必再擔心
+<ce>                         那詛咒了。

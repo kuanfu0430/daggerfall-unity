@@ -1,0 +1,69 @@
+-- Quest: C:\QUESTS\WORKING\C0B10Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 10
+-- QuestId: 5
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 13
+Quest: C0B10Y05
+DisplayName: 詛咒武器
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            %pcn，我們有一項非常危險的任務給你。
+<ce>                  神殿得到一件邪惡的魔法武器，獸人長期以來都在尋找。
+<ce>                   神殿已被那些生物攻擊兩次。它需要被送到安全之地。
+<ce>                   你願為我們做這事嗎？神殿會支付_gold_金幣。
+
+RefuseQuest:  [1001]
+<ce>                        你對神殿的忠誠如此之低，令我悲傷。
+<ce>                        但鑒於危險，我原諒你。
+
+AcceptQuest:  [1002]
+<ce>                         帶上這_evilitem_。
+<ce>                            在___dungeon_，
+<ce>                       你會找到_custodian_，
+<ce>                   多年來侍奉本神殿的僕人。%G會守護此物，
+<ce>                  不讓它落入獸人手中。我們已用法術捆縛它，
+<ce>                   保護你不受其邪惡影響。
+<ce>                  然而，這些法術會在=traveltime_天後失效。
+
+QuestComplete:  [1004]
+<ce>                         啊，這就是_qgiver_所說的
+<ce>                        那件邪惡_evilitem_。我會把它留在這裡，
+<ce>                       此處有許多防禦能確保它安全。
+<ce>                          _qgiver_說我該付給你_gold_金幣，
+<ce>                       作為安全送達的酬勞。
+
+RumorsDuringQuest:  [1005]
+獸人一直在攻擊__qgiver_的商隊。
+
+RumorsPostfailure:  [1006]
+獸人終於得到了那_evilitem_。
+
+RumorsPostsuccess:  [1007]
+那_evilitem_已安全，遠離獸人之手。
+
+QuestorPostsuccess:  [1008]
+聽說你把那_evilitem_處理掉了。那麼，我能幫你什麼？
+
+QuestorPostfailure:  [1009]
+我把_evilitem_託付給你，看看結果如何。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_給了我一件邪惡的_evilitem_，
+ 要送到___dungeon_，以免落入獸人手中。
+ 我有=traveltime_天完成遞送。
+
+Message:  1011
+<ce>                       你必是嘯人者的持有者，
+<ce>                       那件神聖的獸人戰爭武器。殺死這人類！
+<ce>                        我們必須得到那_evilitem_。
+
+Message:  1012
+<ce>            那邪惡的_evilitem_迸出火花，崩解了。
+<ce>                      你突然覺得非常不適。

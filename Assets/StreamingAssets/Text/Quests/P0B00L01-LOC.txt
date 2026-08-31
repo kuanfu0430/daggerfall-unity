@@ -1,0 +1,172 @@
+-- Quest: C:\QUESTS\WORKING\P0B00L01.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 0
+-- QuestId: 1
+Messages: 27
+Quest: P0B00L01
+DisplayName: 吸血鬼的信
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                                你可有
+<ce>                         幾晚空閒
+<ce>                               為 %vam 效勞？
+
+RefuseQuest:  [1001]
+<ce>                      「不」可不是我預期的
+<ce>                     答案。往後試著為 %vam
+<ce>                        多花點時間與心力吧，
+<ce>                       小鬼。你不會想被
+<ce>                          拋棄的。
+
+AcceptQuest:  [1002]
+<ce>                      %pcf，我需要你把一封信
+<ce>                      送給 %vam 的一名盟友。
+<ce>               _pawn_ 會在 ___pawn_ 的 __pawn_
+<ce>                    等候，至多不超過
+<ce>                 =1stparton_ 夜。別錯過這個約定。
+<ce>           我期望你在 =1stparton_ 夜內回到這裡。
+<ce>                                再見。
+
+QuestFail:  [1003]
+<ce>                         除非我的信已交到
+<ce>                            _pawn_ 那雙汗津津的
+<ce>                       手上，否則我沒興趣
+<ce>                           跟你說話，%pcf。
+
+QuestComplete:  [1004]
+<ce>                 謝謝你這麼迅速把那封信
+<ce>                    送到，%pcf。那封信相當
+<ce>                   重要。這段時間我也沒閒著。
+<ce>                      收下這件 _reward_，當作
+<ce>                          出色完成工作的禮物。
+
+RumorsDuringQuest:  [1005]
+__pawn_ 那個 =pawn_ 在等人。聽說那人會在夜裡到。
+<--->
+有人說 %t 終於要對吸血鬼的威脅採取行動了。
+
+RumorsPostfailure:  [1006]
+那個緊張的 =pawn_ 終於離開了 __pawn_。想必錯過了 %g3 夜間會面。
+<--->
+__vampire_ 那個 =vampire_ 一直在嘀咕那個總跟著 %g 的 %ra。
+
+RumorsPostsuccess:  [1007]
+看來 %rt 改變了主意，不再認定 %reg 有吸血鬼。
+<--->
+%rt 本來要加派夜間守衛，後來又改變了主意。
+
+QuestorPostsuccess:  [1008]
+向你致意，%pcf。希望 _pawn_ 對你夠有禮貌。
+
+QuestorPostfailure:  [1009]
+<ce>                      我派你去找 _pawn_，
+<ce>                   是指望你真的去見 %g2，%pcf。
+<ce>                        別……惹我生氣。
+
+QuestLogEntry:  [1010]
+<ce>                        是的，我叫 _pawn_。
+<ce>                          你、你一定是 %pcn。
+<ce>                          告訴 _vampire_，
+<ce>                   一切我會處理。務必讓 %g
+<ce>                   知道我忠心不貳。什麼都
+<ce>                     沒變。謝謝你。我會確保
+<ce>                        一切妥當。
+
+Message:  1011
+_vampire_？一位很有魅力的 =vampire_，我想是住在 __vampire_。
+<--->
+_vampire_ 就是 __vampire_ 那個 =vampire_。
+
+Message:  1012
+_vampire_ 是 %vam 的吸血鬼之一。
+<--->
+_vampire_ 是一名導師，%vam 血脈中相當年輕的成員。
+
+Message:  1013
+_pawn_，
+ 
+    我們再次聽說，%t
+ 正考慮增加 %reg 夜間巡邏
+ 的人數，以對付那些來歷不明的
+ 襲擊。%t
+ %rt 將會接待一名來自
+ %vam 的訪客，這件事
+ 便能妥善解決。
+    請依慣例協助處理此事。
+ %vam 對我們必須一再處理
+ 這同一個潛在問題，
+ 並不感到有趣。
+    順便一提，%t 的家人近來
+ 相當健康。這並非巧合。
+ 也不是沒有解藥的局面。
+ 
+<ce>                              —— _vampire_
+
+Message:  1014]
+_pawn_ 是 __pawn_ 一名緊張的 =pawn_，在這裡的 %di 邊。
+<--->
+_pawn_ 是我在 __pawn_ 見到的那個 =pawn_ 的名字。那地方在 %di 邊。
+
+Message:  1015]
+_pawn_ 是 %vam 吸血鬼的棋子，據點在 __pawn_。
+<--->
+那個 =pawn_ 是 %vam 吸血鬼的盟友——%g 住在 __pawn_。
+
+Message:  1020
+%pcn，
+     %vam 召喚你
+ 前往 ___vampire_。到那裡
+ 找我，並出示此信。
+ 
+ 以將絕之息，
+<ce>                               _vampire_
+
+Message:  1021
+<ce>                      你收到一封信。
+
+Message:  1025
+%qdt:
+  %vam 的 _vampire_ 在
+  __vampire_，___vampire_
+  派我把一封信帶給 ___pawn_
+  某種 =pawn_，那人有個不幸的
+  名字叫 _pawn_。顯然，
+  我必須在 =1stparton_ 夜內
+  於 __pawn_ 見到 %g2，
+  這至關重要。
+
+Message:  1026
+%qdt:
+  ___vampire_ 的 _vampire_
+  已召喚我前往 __vampire_，
+  處理 %vam 的事務。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 32 times.
+--                %g occurs 31 times.
+--               %g2 occurs 2 times.
+--               %g3 occurs 3 times.
+--              %pcf occurs 11 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 2 times.
+--               %ra occurs 1 time.
+--              %reg occurs 2 times.
+--               %rt occurs 3 times.
+--                %t occurs 7 times.
+--              %vam occurs 36 times.
+--       =1stparton_ occurs 13 times.
+--            =pawn_ occurs 6 times.
+--         =vampire_ occurs 3 times.
+--          ___pawn_ occurs 2 times.
+--       ___vampire_ occurs 3 times.
+--           __pawn_ occurs 36 times.
+--        __vampire_ occurs 10 times.
+--            _pawn_ occurs 10 times.
+--          _reward_ occurs 1 time.
+--         _vampire_ occurs 10 times.

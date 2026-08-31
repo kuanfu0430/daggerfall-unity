@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\R0C4XY23.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 4X
+-- QuestId: 23
+Messages: 31
+Quest: R0C4XY23
+DisplayName: 迪德拉之書
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               %pcf，老朋友，真高興你在這裡。
+<ce>             我跟一群迪德拉鬧了麻煩，正需要有人把一份
+<ce>                 稀有手稿交給我的熟人。酬勞會極為豐厚，
+<ce>              但迪德拉插手的可能性相當高。你有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>                     我理解，%pcf。你是個忙碌的%ra。
+
+AcceptQuest:  [1002]
+<ce>                  出色。這是那本書，_item_。
+<ce>                    現在，_contact_ 必須在
+<ce>                   =queston_ 天內於 __contact_ 收到它。
+<ce>                    我想你還趕得上。只要提防迪德拉。
+<ce>                              祝你好運。
+
+QuestFail:  [1003]
+<ce>              除非你已經把書送達，否則我們沒什麼好談的。
+
+QuestComplete:  [1004]
+<ce>                     啊，很高興見到你，%pcf。還有
+<ce>                  _item_ 也到了。出色。希望迪德拉沒給你
+<ce>                   太多麻煩。哈！若牠們真知道我能用這本
+<ce>                 小書做什麼，會派兩倍的人手來阻止你！
+<ce>                   這是你出色工作的酬勞。
+
+RumorsDuringQuest:  [1005]
+今夜迪德拉很興奮。空氣裡都能感覺到。
+<--->
+_questgiver_ 到底做了什麼，把迪德拉惹成這樣？
+
+RumorsPostfailure:  [1006]
+最近有人在這附近找到一本非常稀有的書。
+<--->
+聽說 _questgiver_ 對某個%ra冒險者氣得要命。
+
+RumorsPostsuccess:  [1007]
+<ce>有個 =contact_ 剛來過，揮舞著一本舊書，對%g2自己咯咯笑。
+                                      <--->
+聽說有家珠寶店報了失竊，丟了一顆大紅寶石。
+
+QuestorPostsuccess:  [1008]
+我告訴接應人，你比任何迪德拉都硬。看來你證明了。
+<--->
+向你致敬，躲過迪德拉的人。你的朋友能為你做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>                 迪德拉太難對付了，是嗎，%pcf？
+<ce>                     我很失望。我對你期望高得多。
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_ 派我前往 ___contact_，
+ 把某本書 _item_ 交給 ___contact_ 的 _contact_。
+ 我有 =queston_ 天送達才能領酬勞。
+ 一群迪德拉顯然想讓我的任務失敗。
+
+Message:  1011
+<ce>             致敬，%pcn。我一直在等你。
+<ce>             我是 _oblivion_，願為你效勞。我在湮滅的朋友
+<ce>              告訴我，你捲入了牠們的事務。我或許還能安撫牠們，
+<ce>           但我必須拿到你帶著的書。我該警告你，迪德拉記仇很久。
+<ce>              現在，把它給我，趁還不晚！
+
+Message:  1012
+<ce>               你交出書時，一個陰影身形顯現：
+<ce>                                    
+ 「湮滅感謝你的效勞，%pcf。
+ 我們一直在看著你。看來我們的興趣
+ 是有道理的。」
+<ce>                                    
+<ce>                   你感覺書從手中消失，
+<ce>               那身影也再次隱沒。
+
+Message:  1013
+_oblivion_ 是住在 ___oblivion_ 的強大法師。
+<--->
+___oblivion_ 的 _oblivion_？聽說%g與迪德拉勾結。
+
+Message:  1014
+_oblivion_ 是某種術士，我想。試試 ___oblivion_ 的 __oblivion_。
+<--->
+<ce>  一個插手迪德拉事務的危險好事者。你會在 ___oblivion_
+<ce>                     的 __oblivion_ 找到 _oblivion_。
+
+Message:  1020
+<ce>                你給了那迪德拉可怕的一擊，但牠仍站了一會兒，
+<ce>             雙眼鎖定你，沙啞的聲音從血喉中發出：
+<ce>                                    
+ 「你可以殺死我的凡軀，%pcn，
+ 但我的同胞會無情追獵你，
+ 直到從你冰冷的手中奪回那本書。
+ 若你想躲過這命運，去找 _oblivion_，
+ 把書交給%g2。作為你的世界與我的世界之間的調停者，
+ 唯有%g能說服我的主君召回這場狩獵。」
+
+Message:  1025
+<ce>             無禮的小狗！你來求我幫忙，卻拒絕我的建議？
+<ce>         願湮滅收了你！
+
+Message:  1030
+<ce>                這張羊皮紙揭示了伊卡隆斯凱芬頓女巫集會的位置，
+<ce>                 不管那是什麼。

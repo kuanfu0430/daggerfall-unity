@@ -1,0 +1,81 @@
+-- Quest: C:\QUESTS\WORKING\M0B30Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 30
+-- QuestId: 3
+Messages: 81
+Quest: M0B30Y03
+DisplayName: 獵殺迪德羅斯
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 出了件事。除了你，我不知道
+<ce> 還有誰能應付，%pcf。___mondung_
+<ce> 裡有隻壞畜生，一隻
+<ce> 迪德羅斯。我沒騙人——沒人知道
+<ce> 牠為什麼在那，但人人都想牠走。
+<ce> _reward_ 金幣，你覺得扛得住嗎，
+<ce> %pcf？
+
+RefuseQuest:  [1001]
+<ce> 不怪你，%pcf。
+<ce> 我也不想去打迪德羅斯。
+
+AcceptQuest:  [1002]
+<ce> 嘿，好吧，那是你的葬禮，%pcf。
+<ce> 聽著，幹掉那迪德羅斯，在
+<ce> =1stparton_ 天內回來領酬。
+<ce> 我不知道那東西還會待多久，所以
+<ce> 你得趕快動身。還有，聽我這句，%pcf——
+<ce> 準備好打一場地獄般的硬仗。
+
+QuestFail:  [1003]
+<ce> 你是在等那迪德羅斯老死嗎，
+<ce> %pcf？
+
+QuestComplete:  [1004]
+<ce> 嘿，你這 %ra 比我強，
+<ce> %pcf。迪德羅斯殺手。我喜歡。
+<ce> 這是你的金幣。
+
+RumorsDuringQuest:  [1005]
+我不知道 ___mondung_ 那大蜥蜴是什麼，但我不喜歡。
+<--->
+人人都在談論 ___mondung_ 那又大又噁心的東西。
+
+RumorsPostfailure:  [1006]
+我不知道那迪德羅斯怎麼了。牠還在這附近某處。
+<--->
+我最喜歡知道迪德羅斯在哪的時候。現在不知道哪裡安全。
+
+RumorsPostsuccess:  [1007]
+感謝 %god 有戰士公會來對付迪德羅斯。
+<--->
+不知道那又大又噁心的蜥蜴到底是什麼。
+
+QuestorPostsuccess:  [1008]
+<ce> 你就是替我在 ___mondung_ 殺死
+<ce> 迪德羅斯的 %ra。
+<ce> 讓我握握你的手。
+
+QuestorPostfailure:  [1009]
+<ce> 戰士公會對失敗可不輕看。
+<ce> 若你應付不了迪德羅斯，就不該接。
+<ce> 我有更好的事要做，沒空浪費時間
+<ce> 跟你說話。
+
+Message:  1020
+<ce> 迪德羅斯死了。
+
+Message:  1030
+%qdt:
+ ___questgiver_ 的戰士公會會付我
+ _reward_ 金幣，只要我在 =1stparton_ 天內
+ 殺死 ___mondung_ 的迪德羅斯。
+
+Message:  1080
+<ce> 既然你殺迪德羅斯連眼都不眨，
+<ce> 拿這張通往 ___newdung_ 的地圖。
+<ce> 對你這種 %pct 來說夠好玩。

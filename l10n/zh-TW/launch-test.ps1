@@ -1,4 +1,4 @@
-﻿#Requires -Version 5.1
+#Requires -Version 5.1
 <#
 .SYNOPSIS
   把目前分支的繁中譯文同步進本機 DFU 測試包，然後啟動遊戲。
@@ -31,7 +31,15 @@ $TranslatedFiles = @(
     'GameSettings.txt',
     'ModSystem.txt',
     'Internal_Settings.csv',
-    'Internal_Strings.csv'
+    'Internal_Strings.csv',
+    'Internal_RSC.csv',
+    'Internal_Items.csv',
+    'Internal_MagicItems.csv',
+    'Internal_Spells.csv',
+    'Internal_Factions.csv',
+    'Internal_Flats.csv',
+    'Internal_Locations.csv',
+    'Example_MageLight.csv'
 )
 
 function Write-Step([string]$Message) {
@@ -159,13 +167,54 @@ function Sync-Translations {
         Copy-Item -LiteralPath $src -Destination (Join-Path $dstText $name) -Force
         Write-Step "已同步 $name"
     }
+
+    $srcBooks = Join-Path $srcText 'Books'
+    $dstBooks = Join-Path $dstText 'Books'
+    if (Test-Path $srcBooks) {
+        New-Item -ItemType Directory -Force -Path $dstBooks | Out-Null
+        Copy-Item -Path (Join-Path $srcBooks 'BOK*-LOC.txt') -Destination $dstBooks -Force
+        Write-Step '已同步 Books'
+    }
+
+    $srcQuests = Join-Path $srcText 'Quests'
+    $dstQuests = Join-Path $dstText 'Quests'
+    if (Test-Path $srcQuests) {
+        New-Item -ItemType Directory -Force -Path $dstQuests | Out-Null
+        Get-ChildItem -LiteralPath $srcQuests -Filter '*-LOC.txt' | Copy-Item -Destination $dstQuests -Force
+        Write-Step '已同步 Quests *-LOC'
+    }
+
+    $srcBiog = Join-Path $RepoRoot 'Assets\StreamingAssets\BIOGs'
+    $dstBiog = Join-Path $Streaming 'BIOGs'
+    if (Test-Path $srcBiog) {
+        New-Item -ItemType Directory -Force -Path $dstBiog | Out-Null
+        Copy-Item -Path (Join-Path $srcBiog 'BIOG*.TXT') -Destination $dstBiog -Force
+        Write-Step '已同步 BIOGs'
+    }
 }
 
 function Get-TranslationCharset {
     $srcText = Join-Path $RepoRoot 'Assets\StreamingAssets\Text'
     $set = New-Object 'System.Collections.Generic.SortedSet[char]'
+    $files = New-Object System.Collections.Generic.List[string]
     foreach ($name in $TranslatedFiles) {
-        $text = [System.IO.File]::ReadAllText((Join-Path $srcText $name))
+        $files.Add((Join-Path $srcText $name))
+    }
+    $books = Join-Path $srcText 'Books'
+    if (Test-Path $books) {
+        Get-ChildItem -LiteralPath $books -Filter 'BOK*-LOC.txt' | ForEach-Object { $files.Add($_.FullName) }
+    }
+    $quests = Join-Path $srcText 'Quests'
+    if (Test-Path $quests) {
+        Get-ChildItem -LiteralPath $quests -Filter '*-LOC.txt' | ForEach-Object { $files.Add($_.FullName) }
+    }
+    $biogs = Join-Path $RepoRoot 'Assets\StreamingAssets\BIOGs'
+    if (Test-Path $biogs) {
+        Get-ChildItem -LiteralPath $biogs -Filter 'BIOG*.TXT' | ForEach-Object { $files.Add($_.FullName) }
+    }
+    foreach ($path in $files) {
+        if (-not (Test-Path $path)) { continue }
+        $text = [System.IO.File]::ReadAllText($path)
         foreach ($ch in $text.ToCharArray()) {
             $code = [int]$ch
             if ($code -ge 0x80) { [void]$set.Add($ch) }

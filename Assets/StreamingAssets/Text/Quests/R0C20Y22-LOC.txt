@@ -1,0 +1,118 @@
+-- Quest: C:\QUESTS\WORKING\R0C20Y22.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 20
+-- QuestId: 22
+Messages: 31
+Quest: R0C20Y22
+DisplayName: 與獸人交易
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   啊，%pcf，很高興你在這裡。
+<ce>            若你願意受僱，我正需要有人把一件特別的 _item_
+<ce>                 交給我的一位熟人。酬勞，我想，
+<ce>                 你會覺得極為豐厚，以補償任務的危險。
+<ce>                          你有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>              真的？或許太忙了。真可惜。
+
+AcceptQuest:  [1002]
+<ce>                     出色。這是 _item_。
+<ce>                    現在，_contact_ 必須在
+<ce>          =queston_ 天內於 ___contact_ 收到它。時間應該很充裕，
+<ce>               我希望。_contact_ 很好找——到 __contact_
+<ce>               找一名 =contact_ 即可。順便一提，你可能會遇上
+<ce>           不想讓這批貨送達的獸人。我相信你知道怎麼對付牠們。
+<ce>                               祝你好運。
+
+QuestFail:  [1003]
+<ce>              速度至關重要，%pcf。夜間已有人看見獸人
+<ce>                在 ___questgiver_ 附近徘徊。
+<ce>                你最好在牠們更大膽之前上路。
+
+QuestComplete:  [1004]
+<ce>                   啊，很高興見到你，%pcf。還有
+<ce>                 _item_ 也到了。出色。這點小飾品
+<ce>               算是辛苦費。希望你喜歡紅色。保重。
+
+RumorsDuringQuest:  [1005]
+聽說 _questgiver_ 還在幹走私這行。
+<--->
+<ce>  聽說衛兵昨晚趕走了幾個獸人。不知道牠們進城來做什麼？
+
+RumorsPostfailure:  [1006]
+最近有人在這附近找到一件非常漂亮的 _item_。
+<--->
+聽說 _questgiver_ 對某個%ra冒險者氣得要命。
+
+RumorsPostsuccess:  [1007]
+有個 =contact_ 剛來過，揮舞著什麼 _item_。
+<--->
+聽說有家珠寶店報了失竊，丟了一顆大紅寶石。
+
+QuestorPostsuccess:  [1008]
+聽說你的任務成功了，%pcf。很好。非常好。
+<--->
+聽說那趟運送成功了，我很高興。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>                    你就是那個沒完成運送的信差，對吧？
+<ce>                  我再對你浪費口舌豈不是傻瓜？
+<ce>                   順便說，這是反問句。
+
+QuestLogEntry:  [1010]
+%qdt: 
+ _questgiver_ 雇我把一件 _item_
+ 交給 ___contact_ 一個名叫 _contact_ 的人。
+ %G會在 =queston_ 天內於 __contact_ 與我會面給酬勞，
+ 前提是我還沒被同樣在追 _item_ 的獸人剁碎。
+
+Message:  1012
+你不會想跟 ___orsinium_ 那個愛獸人的傢伙有任何瓜葛。
+<--->
+___orsinium_ 的 _orsinium_？他們說%g居然跟獸人說話。
+
+Message:  1013
+_orsinium_ 在 ___orsinium_ 以獸人同情者聞名。
+<--->
+<ce>我確知 _orsinium_ 是個骯髒的愛獸人者。我親眼見過%g2
+<ce> 在 ___orsinium_ 城外跟那些畜生會面。%G該被趕出城，若你問我。
+
+Message:  1015
+_questgiver_ 會否認，但他們說%g在幹走私這行。
+<--->
+<ce>_questgiver_ 據說捲入走私集團，把從舊奧辛紐姆劫來的贓物運進來。
+
+Message:  1016
+<ce>若 _questgiver_ 繼續買賣奧辛紐姆的劫掠物，會把獸人引到我們所有人頭上。
+<ce> _orsinium_ 已公開指控 _questgiver_，當然什麼都沒做。
+                                      <--->
+<ce>不知道 _questgiver_ 從哪弄來的，但我最近看見%g2戴著
+<ce> 一些精美的古董珠寶。若我沒認錯，是古代奧辛紐姆工藝。
+
+Message:  1020
+<ce>                   很高興你來找我，%pcn。
+<ce>            你該知道你帶著的 _item_ 是從奧辛紐姆——
+<ce>       獸人的古都——偷來的。_questgiver_ 像大多數人一樣，
+<ce>              把獸人當糞土，所以牠們只好用暴力
+<ce>      奪回被偷的財產。不過，我希望你比你的雇主更開明。
+<ce>       若你把 _item_ 給我，我會確保它回到真正的主人手上。
+
+Message:  1021
+<ce>                        你要把 _item_ 交出來嗎？
+
+Message:  1022
+<ce>              很高興我沒看錯你。謝謝你，%pcf。
+<ce>                    我們不會忘記這件事。
+
+Message:  1023
+<ce>                這真令人遺憾。好吧，人人都有自己的理由。
+<ce>                 希望你能承受這個決定。
+
+Message:  1030
+<ce>            那獸人倒地時，用幾乎聽不懂的口音喘著說：
+<ce>                 「_orsinium_……去……_orsinium_……」

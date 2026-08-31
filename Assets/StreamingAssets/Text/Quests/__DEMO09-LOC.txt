@@ -1,0 +1,87 @@
+---- Example quest based on M0B00Y16 (kill a random creature inside a local building)
+---- Have modified as only testing specific parts of this quest
+
+Quest: __DEMO09
+
+
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我是 _qgiver_。
+<ce> 有位當地居民提出請求。
+<ce> 似乎有隻野獸闖進入他家。
+<ce> 需要有人去把那東西殺掉。
+<ce> 公會願付 _gold_ 金幣。
+<ce> 你要接嗎，%pcn？
+
+RefuseQuest:  [1001]
+<ce> 我相信會有別人願意
+<ce> 去處理這頭討人厭的熊。
+
+AcceptQuest:  [1002]
+<ce> 「好，%pcf。去鎮上的 _house_。
+<ce> 一天內搞定。誰都不想讓野獸
+<ce> 在自家裡亂竄。野獸死了再回來，
+<ce> 報酬會在這兒等你。」
+<ce>
+<ce> _qgiver_ 喊道：「喂，_house_ 裡
+ 到底是什麼動物？」
+
+QuestComplete:  [1004]
+<ce> 幹得好，%pcf。
+<ce> 這是你的 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說了嗎？有隻動物闖進鎮上
+<ce> 一棟房子。希望他們趕快殺掉。
+
+RumorsPostfailure:  [1006]
+<ce> 戰士公會把闖進 _house_ 的那頭熊殺了。
+<ce> 幸好有他們在。
+
+RumorsPostsuccess:  [1007]
+<ce> 那隻畜生在被趕出城前還抓傷了某個女人。
+<ce> 真可憐。
+
+QuestorPostsuccess:  [1008]
+<ce> 幹掉那隻野獸，做得好。
+<ce> 有什麼需要幫忙的？
+
+QuestorPostfailure:  [1009]
+<ce> 聽說有隻畜生把屋主給吃了。
+<ce> 讓我們名聲掃地。下次好好表現。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的戰士公會
+ 要我除掉闖進入 _house_ 的野獸。
+ 必須在一天內完成。
+
+Message:  1011
+<ce> 熊死了。
+
+Message:  1012
+<ce> 鷹身女妖死了。
+
+Message:  1013
+<ce> 蜘蛛死了。
+
+Message:  1014
+<ce> 老虎死了。
+
+Message:  1021
+<ce> 你聽見樓上有人喊：「是熊。」
+
+Message:  1022
+<ce> 你聽見樓上有人喊：「是鷹身女妖。」
+
+Message:  1023
+<ce> 你聽見樓上有人喊：「是蜘蛛。」
+
+Message:  1024
+<ce> 你聽見樓上有人喊：「是老虎。」
+
+Message:  1080
+<ce> 對了，看你跟那隻野獸玩得挺開心，
+<ce> 這張 ___newdung_ 的地圖送給你。
+<ce> 好好享受吧。

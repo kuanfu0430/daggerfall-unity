@@ -1,0 +1,141 @@
+-- Edited for Daggerfall Unity by Jay_H
+Quest: K0C00Y03
+DisplayName: 走私
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>幫我做點走私該沒問題吧，
+<ce>%pcf？有風險的可能，
+<ce>但我們倆穩賺。你那份是
+<ce>_gold_金幣。你說呢？
+<--->
+<ce>「走私」這詞難聽，對吧？
+<ce>我比較喜歡說：我需要把一些法律上
+<ce>含糊的東西送到某個地方——
+<ce>有些人會歡迎，另一些人，
+<ce>尤其是官府，則不會。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>那我們就當沒見過。記住這點，%pcf。
+<--->
+<ce>那樣的話，我會否認見過你。
+
+AcceptQuest:  [1002]
+<ce>太好了。計劃是這樣，%pcf。
+<ce>我有點副業，把_item_出口到__conhouse_，
+<ce>但我的常規人手正被%t的衛兵盯著。
+<ce>若你能把_item_帶進__conhouse_，
+<ce>送到一處名叫_conhouse_的地方，
+<ce>我的客戶_contact_會把我說的
+<ce>_gold_金幣給你。手上拿著_item_時
+<ce>別跟任何執法人說話，也別沒能在
+<ce>=queston_天內趕到_conhouse_，
+<ce>否則我會把毀掉你在官府、黑道、
+<ce>以及所有我想得到的地方的名聲
+<ce>當成畢生事業。不過我相信你不會讓我失望。
+<ce>祝你好運，孩子。讓_qgiver_感到驕傲。
+
+QuestComplete:  [1004]
+<ce>坐在這兒等你，神經都快繃斷了，%pcf。
+<ce>啊，_item_。成色不錯。
+<ce>來，這是_gold_金幣。
+<ce>跟你和_qgiver_做生意很高興。
+
+RumorsDuringQuest:  [1005]
+___qgiver_和__conhouse_之間的_item_走私是%reg的恥辱。
+<--->
+%t發誓要對這陣_item_走私風潮有所作為。
+
+RumorsPostsuccess:  [1007]
+他們永遠杜絕不了%reg的_item_走私。需求太大了。
+<--->
+%rt %rn任命_qgiver_為打擊走私的特派執法人。
+
+QuestorPostsuccess:  [1008]
+_contact_告訴我你平安抵達了。為此，我謝謝你。
+
+QuestorPostfailure:  [1009]
+<ce>也許你出賣了我，也許你只是
+<ce>走私本事不行。不管怎樣，滾開。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的_qgiver_
+ 給了我一些_item_，要我走私進__conhouse_。
+ 那兒的接頭人名叫_contact_，
+ %g會在_conhouse_等我。
+ 這樁買賣我當然得小心城衛。
+ 我有=queston_天時間趕到。
+
+Message:  1011
+親愛的%pcf：
+ 
+      你被設套了。_contact_
+ 不在_conhouse_。一名叫=guard_
+ 的騎士在那兒等著伏擊你。
+ 若你想把那_item_脫手，
+ 把它帶到我這兒，
+ ___contact2_的__contact2_。
+ 
+ 
+ _contact2_
+
+Message:  1012
+<ce>有人把一封信塞進了你手裡。
+
+Message:  1013
+%qdt:
+ 我收到一封署名_contact2_的信，
+ 說_conhouse_是個陷阱。
+ 對方給我另一個選擇：把_item_
+ 交給這名_contact2_，
+ 在___contact2_、__contact2_
+ %g3那間酒館。
+
+Message:  1014
+<ce>啊，你收到我的信了。對你來說
+<ce>真是好事。有個糟糕的局面正在醞釀，
+<ce>我不想讓你捲進去。我收下那_item_，
+<ce>作為幫你撇清這樁砸鍋走私案的報酬。
+<ce>不必謝我。
+
+Message:  1015
+<ce>等一下，孩子。我們要的不是你。
+<ce>只要_qgiver_和那_item_。
+<ce>交出來，你就可以走，好嗎？
+<--->
+<ce>聽著，孩子，別往心裡去。把_item_
+<ce>給我，我就跟上頭說你跑了。成交？
+
+Message:  1016
+<ce>你這孩子挺聰明。現在，滾吧。
+
+Message:  1017
+<ce>_qgiver_不會高興你還攥著
+<ce>那_item_，但現在送到哪兒都太遲了。
+<ce>你或許能找個地方把它賣掉……
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 1 time.
+--               %g3 occurs 1 time.
+--              %pcf occurs 7 times.
+--              %qdt occurs 2 times.
+--              %reg occurs 2 times.
+--               %rn occurs 1 time.
+--               %rt occurs 1 time.
+--                %t occurs 2 times.
+--           =guard_ occurs 1 time.
+--         =queston_ occurs 6 times.
+--      ___contact2_ occurs 4 times.
+--        ___qgiver_ occurs 2 times.
+--       __conhouse_ occurs 4 times.
+--       __contact2_ occurs 2 times.
+--        _conhouse_ occurs 5 times.
+--        _contact2_ occurs 3 times.
+--         _contact_ occurs 4 times.
+--            _gold_ occurs 3 times.
+--            _item_ occurs 14 times.
+--          _qgiver_ occurs 8 times.

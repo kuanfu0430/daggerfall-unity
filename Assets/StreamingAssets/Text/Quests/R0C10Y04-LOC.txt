@@ -1,0 +1,93 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y04.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 4
+Messages: 21
+Quest: R0C10Y04
+DisplayName: 邪惡巫師
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              在我靠近 ___mondung_ 的土地上耕作的農人
+<ce>                    長久以來一直抱怨那座地城裡
+<ce>                 有人在施展邪惡巫術。這回看來
+<ce>                他們或許說對了。我需要一名刺客，
+<ce>                 有足夠時間前往 ___mondung_，
+<ce>                      消滅那裡的死靈術士。
+<ce>               我願意為此支付 _reward_ 金幣。
+<ce>                          你有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>            真的？我還以為這正是你會接的差事。
+<ce>                  真不湊巧。
+
+AcceptQuest:  [1002]
+<ce>                %oth，太好了。我需要這名巫師
+<ce>          在 =1stparton_ 天內被除掉，所以你大概得立刻上路。
+<ce>           祝你好運，%pcf，不必留情。
+
+QuestFail:  [1003]
+<ce>           那名術士沒死之前，我不想再見到你。
+
+QuestComplete:  [1004]
+<ce>          大英雄回來了！農人們為土地擺脫黑魔法而歡喜，
+<ce>             我也同感。請收下這 _reward_ 金幣，
+<ce>                        %pcf，這是我的謝意。
+
+RumorsDuringQuest:  [1005]
+幾乎能感覺到惡意的魔力在累積。
+<--->
+有個術士發誓要把 _questgiver_ 的土地夷為平地。
+
+RumorsPostfailure:  [1006]
+___mondung_ 那個術士顯然已經搬走了。
+<--->
+看來有個冒險者把術士從 ___mondung_ 嚇跑了。
+
+RumorsPostsuccess:  [1007]
+___mondung_ 的瘋狂巫師顯然被一名勇敢的%ra殺死了。
+<--->
+若那名術士還活著，_questgiver_ 可就麻煩大了。
+
+QuestorPostsuccess:  [1008]
+啊，殺死瘋狂巫師的人回來了。近來可好，我的朋友？
+<--->
+很高興再見到你，瘋狂巫師的剋星。
+
+QuestorPostfailure:  [1009]
+<ce>                  你該不會指望沒殺掉那個巫師
+<ce>                  還能領酬勞吧。你沒被鞭打
+<ce>                    就算走運了。
+                                      <--->
+<ce>                         唷，%ra回來了。
+<ce>                   我想，你沒殺掉的那個巫師
+<ce>                     也會回來。快走吧。
+
+Message:  1011
+<ce>              _questgiver_ 是個貴族，對名叫
+<ce>                   _fakename_ 的術士恨之入骨。
+                                      <--->
+<ce>             _questgiver_ 是個貴族，長期被名叫
+<ce>                    _fakename_ 的術士纏擾。
+
+Message:  1012
+巫師 _fakename_ 死了。
+
+Message:  1015
+%qdt:
+___questgiver_ 的 __questgiver_
+ 的 _questgiver_
+ 派我前往 ___mondung_，
+ 去殺死一名瘋狂巫師。
+ 若我能在 =1stparton_ 天內完成此事
+ 並回到%g2身邊，
+ 就能賺到金幣。
+
+Message:  1020
+<ce>                   你一定就是 _questgiver_
+<ce>                    雇來殺我的最新一個可憐蟲。
+<ce>                  你的骨頭很快就會加入那些同伴，
+<ce>                  散落在我的地城裡！

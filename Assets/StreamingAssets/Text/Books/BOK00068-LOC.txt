@@ -1,5 +1,5 @@
-Title: Rude Song
-Author: Anonymous
+Title: 下流歌
+Author: 佚名
 IsNaughty: False
 Price: 513
 IsUnique: False
@@ -8,112 +8,112 @@ Content:
 
 [/font=2]
 
-[/center]Rude Song
+[/center]下流歌
 
 [/font=4]
 
-[/center]In the spring of the year
+[/center]一年春來時
 
-[/center]Doth propriety disappear
+[/center]禮數全不知
 
-[/center]In the courts and the ports
+[/center]海灣的宮廷與港埠
 
-[/center]Of the Bay.
+[/center]都失儀。
 
-[/center]Drinking new beer,
+[/center]新釀喝下肚，
 
-[/center]Everybody feels queer
+[/center]人人發糊塗
 
-[/center]And the Earls and the churls
+[/center]伯爵與粗漢
 
-[/center]Go astray.
+[/center]齊迷路。
 
-[/center]The bee and the bird
+[/center]蜜蜂與鳥兒
 
-[/center]Don't have to tell us a word.
+[/center]不必開口提。
 
-[/center]Our bodies for naughtie
+[/center]我們的身子
 
-[/center]Are prime.
+[/center]正好做那檔事。
 
-[/center]If you haven't heard,
+[/center]若你還沒聽說，
 
-[/center]You can let yourself be lured
+[/center]儘可讓人勾引去
 
-[/center]For the youth, for things uncouth,
+[/center]青春年少，不拘禮數，
 
-[/center]It is time.
+[/center]正是時。
 
-[/center]Oh, it's lovely to sit in a field, harvested into rows
+[/center]啊，坐在收成後的田壟上真美好
 
-[/center]It's lovelier still to do the same not wearing any clothes.
-
-[/center]
-
-[/center]People of the Bay bless
-
-[/center]The flowered court of Wayrest
-
-[/center]For showing us the gentle way of sin
-
-[/center]The bonny Dark Elf queen
-
-[/center]Likes to see and to be seen
-
-[/center]With cobblers, thieves,
-
-[/center]And tavernkeeps,
-
-[/center]And slaves, and fish-er-men
-
-[/center]In the court of Lainlyn,
-
-[/center]Right upon the mainland
-
-[/center]With sex, the whole place is in a whirl
-
-[/center]The Baroness likes to play
-
-[/center]With men who come her way,
-
-[/center]While the Baron likes the little boys and girls.
-
-[/center]Oh, it's lovely to give your lady a kiss upon her nose
-
-[/center]It's lovelier still to do the same not wearing any clothes.
+[/center]不穿衣服做同樣的事更美妙。
 
 [/center]
 
-[/center]In Daggerfall,
+[/center]海灣的人們讚頌
 
-[/center]they hold a ball
+[/center]途歇城繁花似錦的宮廷
 
-[/center]And all of society indulges in a variety
+[/center]教我們溫柔的罪惡之道
 
-[/center]Of scandal, they can handle -- A lot.
+[/center]那位標緻的黑暗精靈女王
 
-[/center]The Captain of the Guard
+[/center]愛看人也愛被人瞧
 
-[/center]Has to search very hard
+[/center]鞋匠、盜賊、
 
-[/center]For a bean that the Queen
+[/center]酒館老闆、
 
-[/center]Has in her pants.
+[/center]奴隸，還有漁——夫
 
-[/center]And the Court Sorceress
+[/center]在萊恩林的宮廷，
 
-[/center]Will grant you a wish
+[/center]就在大陸上
 
-[/center]To cause the King to fling
+[/center]整座城為情慾團團轉
 
-[/center]About his lance.
+[/center]男爵夫人愛玩
 
-[/center]Oh, it's lovely to give your love a single perfect rose
+[/center]過路的男人她都要，
 
-[/center]It's lovelier still to do the same not wearing any clothes.
+[/center]男爵卻愛那些小男孩小女孩。
 
-[/center]Oh, it's lovely to abandon all your cares and fears and woes
+[/center]啊，吻一吻夫人的鼻尖真美好
 
-[/center]It's lovelier still to do the same not wearing any clothes.
+[/center]不穿衣服做同樣的事更美妙。
 
-[/center]Yes sir, it's lovely not wear any clothes!"
+[/center]
+
+[/center]在匕首雨，
+
+[/center]他們開舞會
+
+[/center]上流社會盡情享受各種
+
+[/center]醜聞，他們應付得了——很多。
+
+[/center]衛隊隊長
+
+[/center]得拼命去找
+
+[/center]女王褲子裡
+
+[/center]那顆豆子。
+
+[/center]宮廷女術士
+
+[/center]會答應你一個願望
+
+[/center]讓國王把長槍
+
+[/center]甩來甩去。
+
+[/center]啊，送愛人一朵完美的玫瑰真美好
+
+[/center]不穿衣服做同樣的事更美妙。
+
+[/center]啊，拋開一切憂愁恐懼真美好
+
+[/center]不穿衣服做同樣的事更美妙。
+
+[/center]沒錯，不穿衣服真美好！」

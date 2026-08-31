@@ -1,0 +1,71 @@
+-- Quest: C:\QUESTS\WORKING\B0B00Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 0
+-- QuestId: 1
+Messages: 12
+Quest: B0B00Y01
+DisplayName: 報應
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    我們__qgiver_裡出了叛徒，
+<ce>                 一個背棄同袍的卑劣_monster_。
+<ce>                 我們的榮譽危在旦夕，%pct。
+<ce>                            加入我們正義的怒火吧。
+                                     <--->
+<ce>                      __qgiver_被一名背信棄義的
+<ce>                       _monster_出賣了。
+<ce>                  你可願幫我們追蹤那怯懦的惡徒，
+<ce>                     並摧毀%g2？
+
+RefuseQuest:  [1001]
+<ce>                 這答覆可不高貴。我原本期望更好。
+
+AcceptQuest:  [1002]
+<ce>                 很好。叛徒是一名叫=monster_的
+<ce>                     _monster_，已逃到%di邊的
+<ce>                      ___mondun_藏身。
+<ce>                     若你未能在=queston_天內歸來，
+<ce>                 你的榮譽將被剝奪，另有人接替你。
+<ce>                     此事不可讓我們失望，%pcf。
+
+QuestFail:  [1003]
+<ce>                 那_monster_還沒死。別想說服我
+<ce>                       事情不是這樣。
+
+QuestComplete:  [1004]
+<ce>                幹得好。你有理由感到自豪。
+
+RumorsDuringQuest:  [1005]
+那_monster_逃往___mondun_，簡直像地獄獵犬在後面追。
+<--->
+_qgiver_不能就這麼放過=monster_，看%g對%kno做了什麼。
+
+RumorsPostfailure:  [1006]
+看來=monster_比_qgiver_想像的更難對付。好一次逃脫。
+<--->
+聽說=monster_往北去了，但%g3的陰影仍困擾著騎士團。
+
+RumorsPostsuccess:  [1007]
+=monster_的下場正好證明一件事：別跟%kno開玩笑。
+<--->
+我一直以為騎士團對=monster_這種蠢才會更仁慈些。
+
+QuestorPostsuccess:  [1008]
+你在=monster_那檔事裡證明了自己。我們能為你做什麼？
+
+QuestorPostfailure:  [1009]
+__qgiver_因=monster_那檔事顏面掃地。你現在又想怎樣？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的%kno派我去尋找並擊殺
+ 一名叫=monster_的_monster_，
+ 就在%g3的藏身處___mondun_。
+ 我有=queston_天完成此事。
+
+Message:  1011
+<ce>               你已殺死=monster_，那名_monster_。

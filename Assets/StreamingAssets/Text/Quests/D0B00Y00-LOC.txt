@@ -1,0 +1,98 @@
+-- Quest: C:\QUESTS\WORKING\D0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Akatosh
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: D0B00Y00
+DisplayName: 為龍復仇
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>若你碰巧在找工作，
+<ce>輕鬆賺_reward_金幣那種，
+<ce>我這兒或許有一樁。
+<ce>免不了要動武，不過看你這樣子，
+<ce>應該不介意。
+<ce>聽起來有沒有興趣？
+
+RefuseQuest:  [1001]
+<ce>這樣啊。真叫人失望。
+
+AcceptQuest:  [1002]
+<ce>很好。你知道阿卡托什是
+<ce>時間之神，祂同時也是
+<ce>龍神，我們以龍為聖徽。
+<ce>我們戰鬥騎士團——時辰騎士團——
+<ce>有一名成員顯然發了狂，
+<ce>竟在我們的聖林裡
+<ce>攻擊我們的龍。
+<ce>這名兇手當然必須被制止。
+<ce>你會在___mondung_
+<ce>找到那名屠龍者。
+<ce>若你未能在=1stparton_天內成功，
+<ce>我們就會派出時辰騎士團，
+<ce>你的報酬也將被沒收。
+<ce>願阿卡托什庇佑你的任務。
+
+QuestFail:  [1003]
+<ce>你最好快點動身，%pcf。
+<ce>殺掉那屠龍者的時間
+<ce>已經所剩不多了。
+
+QuestComplete:  [1004]
+<ce>很高興見到你回來，%pcf。
+<ce>而且任務成功了。如約，
+<ce>這是你的_reward_金幣。
+<ce>感謝你的效力。
+
+RumorsDuringQuest:  [1005]
+阿卡托什聖堂氣壞了，自己人裡竟出了屠龍者。
+<--->
+我說那偷偷摸摸的傢伙完全有權殺龍。兇殘的畜生。
+
+RumorsPostfailure:  [1006]
+幸好那屠龍者逃掉了。
+<--->
+這下會有更多龍被殺。
+<--->
+聽說時辰騎士團正追著那屠龍者跑遍%reg。
+
+RumorsPostsuccess:  [1007]
+不知道阿卡托什聖堂是不是打算把每個屠龍者都攔下來。
+<--->
+唉，現在連殺條龍都會惹麻煩了。
+
+QuestorPostsuccess:  [1008]
+偉大的護龍者%pcf，有什麼我能效勞的？
+
+QuestorPostfailure:  [1009]
+我曾信任你去除掉那屠龍者，%pcf。再也不會了。
+
+Message:  1020
+<ce>「阿卡托什聖堂……贏了。我
+<ce>只想……讓龍……自由。」
+<ce>屠龍者死了。
+
+Message:  1030
+%qdt:
+ 阿卡托什聖堂要我去追捕
+ 一名在他們聖林裡攻擊龍的人。
+ 我必須前往___mondung_，
+ 殺死那屠龍者，並在=1stparton_天內
+ 回到___questgiver_的聖堂。
+
+-corrected %qdat to %qdt
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 12 times.
+--             %qdat occurs 1 time.
+--              %reg occurs 1 time.
+--       =1stparton_ occurs 4 times.
+--       ___mondung_ occurs 2 times.
+--    ___questgiver_ occurs 4 times.
+--          _reward_ occurs 2 times.

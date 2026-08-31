@@ -1,0 +1,149 @@
+-- Quest: C:\QUESTS\WORKING\P0B10L07.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 10
+-- QuestId: 7
+Messages: 18
+Quest: P0B10L07
+DisplayName: 威嚇
+-- Message panels
+QRC:
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+<ce>                         _knight_ 已經嚇得
+<ce>                    半瘋了，%pcf。你真是個恐怖。
+<ce>                           %vam 認為
+<ce>                    你配得上這件 _jewelry_，
+<ce>                   以表彰你的忠誠，以及此事中
+<ce>                    出色的……克制。
+<ce>                     幹得好，族人。
+
+RumorsDuringQuest:  [1005]
+_knight_ 若再不小心，那些吸血鬼就要反過來對付 %g2 了。
+<--->
+_knight_ 自以為懂吸血鬼。但其實 %g 是個傻瓜。
+
+RumorsPostfailure:  [1006]
+_knight_ 已遷到灣對岸，但 %g 仍在盯著那些吸血鬼。
+<--->
+_knight_ 不怕任何吸血鬼。聽說 %g 殺過成千上萬隻。
+
+RumorsPostsuccess:  [1007]
+_knight_ 學到了一輩子最深刻的一課。跟吸血鬼作對划不來。
+<--->
+_knight_ 是個愚蠢的善心人。我說，別去惹那些吸血鬼。
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+               __vamp_
+                ___vamp_
+ 
+ 
+ 親愛的 %pcn，
+ 
+      %vam 需要你。立刻
+ 前來。
+ 
+ 
+                死蔭敬上，
+ 
+ 
+                _vamp_
+
+Message:  1011
+<ce>                  啊，晚安，我的族人。我們
+<ce>                   與一名當地軍閥起了糾紛——儘管
+<ce>                  我們多次、多次以禮貌的口頭
+<ce>                   與書面威脅，%g 仍繼續對
+<ce>                 %vam 開戰。按理說，這名惱人的騎士
+<ce>                    數週前就該到彼岸去了。
+<ce>                   我們的慈悲並非出於多情。
+<ce>                      我們能把 _knight_ 當作
+<ce>                   %reg 的盟友，但 %g 需要被教導
+<ce>                  服從。我要你到 ___mondung_
+<ce>                        去跟 %g2 談談——
+<ce>                   那是 %g 自覺最安全的地方。別
+<ce>                  殺 %g2——只要把 %g2 好好收拾一頓。
+<ce>                 我期望你在 =queston_ 天內回來，
+<ce>                           那時 _knight_ 已經
+<ce>                           ……軟化了。
+
+Message:  1012
+%qdt:
+ 我收到 ___vamp_ 的
+ %vam 的 _vamp_
+ 來信。我得盡快到
+ __vamp_。
+
+Message:  1013
+%qdt:
+  _vamp_ 要我前往
+  ___mondung_，去教訓
+  _knight_——一名拒絕屈從
+  %vam 意志的騎士。我被
+  命令不可殺死 %g2，只要嚇嚇
+  %g2，並在 =queston_ 天內
+  回到 ___vamp_。
+
+Message:  1014
+<ce>                         仁慈的 %god，告訴 %vam
+<ce>                         我什麼都願意做！
+<ce>                          只要別殺我！
+                                      <--->
+<ce>                          %oth，我投降！
+<ce>                      他們要什麼我都做，
+<ce>                      只求你，以
+<ce>                            %god 之名，別殺
+<ce>                                  我！
+
+Message:  1015
+<ce>                           _knight_ 死了。
+<ce>                           _vamp_ 不會
+<ce>                                高興的。
+
+Message:  1016
+<ce>                       我已經聽說了，%pcf。
+<ce>                           你殺了 _knight_，
+<ce>                 儘管我明確只要你嚇嚇
+<ce>                       %g2。%oth，你跟
+<ce>                    暴徒有什麼兩樣？
+<ce>                          %vam 和我都非常
+<ce>                          失望，%pcf。
+
+Message:  1017
+<ce>                     一個蒼白的少年把一封信
+<ce>                      交給你，隨即以驚人的敏捷
+<ce>                        竄走。
+
+
+-- Symbols used in the QRC file:
+--
+--              %dat occurs 1 time.
+--                %g occurs 5 times.
+--               %g2 occurs 8 times.
+--               %g3 occurs 2 times.
+--              %god occurs 2 times.
+--              %oth occurs 2 times.
+--              %pcf occurs 5 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 1 time.
+--              %vam occurs 7 times.
+--         =queston_ occurs 14 times.
+--       ___mondung_ occurs 2 times.
+--          ___vamp_ occurs 9 times.
+--         _jewelry_ occurs 1 time.
+--          _knight_ occurs 12 times.
+--            _vamp_ occurs 5 times.

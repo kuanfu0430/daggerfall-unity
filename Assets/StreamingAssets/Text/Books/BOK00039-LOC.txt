@@ -1,5 +1,5 @@
-Title: The Asylum Ball
-Author: Waughin Jarth
+Title: 瘋人院舞會
+Author: 沃金·賈斯
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,31 +8,31 @@ Content:
 
 [/font=2]
 
-[/center]The
+[/center]瘋人院
 
-[/center]Asylum Ball
+[/center]舞會
 
 [/font=4]
- My great great uncle was a warder at an asylum in Torval (maybe he was my great great great uncle -- it was quite a long time ago), and this is the story that has been passed down in my family from his generation to mine. Perhaps it is purely apocryphal, but when I was told it, it was whispered in such a way that it was meant to be taken seriously. Not having any children of my own to whisper to, and being in need of some gold, I have elected to publish my story.
+  我的曾曾叔公曾在托瓦爾一所瘋人院當看守（也許是曾曾曾叔公——那是很久以前的事了），下面這個故事便是從他那一代傳到我家這一輩的。或許純屬杜撰，可當初有人告訴我時，是用那種必須當真的耳語說的。我自己沒有孩子可以再去耳語，又缺些金幣，便決定把故事刊行出來。
 
- The asylum my great great uncle worked in was apparently very posh. Only the right class of lunatics were admitted. Eccentric dukes, mad baronesses, touched lords, and daft ladies filled the asylums tapestried and gilded halls. Still, it was a time of great excitement when the rumor began that the unhinged Emperor of Tamriel, Pelagius III, was transferring there from a resort in Valenwood. When the rumor became a reality, the asylum went into nice, calm, restive chaos. Pelagius was given an entire wing of the asylum for his own use, for, though he was madder than a jackal, he was still His Terrible Majesty, the Emperor of Tamriel.
+  我曾曾叔公任職的那所瘋人院顯然非常講究。只有夠格的瘋子才收得進去。古怪的公爵、發狂的男爵夫人、神智不清的領主、傻氣的淑女，填滿掛著掛毯、鍍金的廳堂。即便如此，當謠言傳開，說泰姆瑞爾精神錯亂的皇帝佩拉吉烏斯三世要從瓦倫林地的一處休養地轉來這裡時，院裡仍掀起一陣不小的興奮。謠言成真時，瘋人院陷入一種體面、平靜、歇息式的混亂。佩拉吉烏斯分到整整一翼供他專用，因為他雖然比豺狼還瘋，卻仍是可怖的陛下，泰姆瑞爾皇帝。
 
- The Emperor was remarkably well behaved, my great great uncle supposedly asserted. Of course, he did not have to face the commoners who came on all sorts of pretenses to gawk at their overlord, the loon. When one of the warders (not, I have been assured, my uncle) forgot himself and let His Terrible Majesty know that people had been there to see him, the Emperor grew very excited. He made up his mind right there and then to have a ball. A huge party with musicians, dancing, and dinner, right at the lunatic asylum. Or precisely, in his wing of the asylum.
+  據稱我曾曾叔公斷言，皇帝出奇地守規矩。當然，他不必面對那些找盡各種藉口來盯著他們主上——那個瘋子——看的平民。當一名看守（我得到保證，不是我叔公）忘了分寸，讓可怖的陛下知道有人來看過他時，皇帝變得非常興奮。他當場決定要辦一場舞會。一場盛大的宴會，有樂師、舞蹈與晚宴，就在瘋人院裡。確切地說，在他那一翼。
 
- Rumors of the Emperor's interest in holding a ball spread throughout Torval and eventually it reached the ears of the Emperess Regent Katariah, Pelagius' dear wife, in the Imperial City. Eager to make her husband happy, she sent a caravan laden with gold to the asylum so a ball might be held befitting the Imperial dignity.
+  皇帝有意辦舞會的謠言傳遍托瓦爾，最終傳到帝都攝政女皇卡塔莉亞——佩拉吉烏斯親愛的妻子——耳中。她急於讓丈夫高興，便派了一支滿載金幣的商隊到瘋人院，好讓舞會配得上帝國尊嚴。
 
- The Emperor picked a date for the ball, and preparations began immediately. The old asylum walls were beautifully decorated, but needed cleaning. A pit had to be constructed to house the orchestra; servants for cooking and serving the food had to be hired; gold and ebony candelebras and matching chandeliers were ordered; the old rugs were destroyed, and new rugs embroidered with gems were weaved; lists of guests had to be compiled, reconsidered and recompiled. The Emperor knew that the guest list had to be very exclusive, and he relied on his advisors to tell him who was alive, who was dead, and who was imaginary.
+  皇帝選定舞會日期，準備立刻開始。舊瘋人院的牆壁裝飾華美，卻需要清掃。必須挖一個樂池安置樂團；必須雇用烹飪與上菜的僕人；訂製金與黑檀的燭臺與配套的枝形吊燈；舊地毯毀掉，織上鑲寶石的新地毯；賓客名單必須編纂、再考慮、再編纂。皇帝知道賓客名單必須極為挑剔，他依賴顧問告訴他誰還活著、誰已死、誰是想像出來的。
 
- The party was set to begin at nine o'clock. At six, the hairdresser he had hired from Torval finished his Imperial coiffure. At seven, he was fully dressed in the robes he had ordered for the ball: voluminous black silk and piled velvet crusted with red diamonds. At eight, he walked down the newly reconstructed staircase to supervise the final preparations -- the lighting of the candles, the opening of the wine, the murder of the first course. At nine o'clock, he took his seat at the facsimile throne he had ordered and awaited the first guests.
+  宴會定於九點開始。六點，他從托瓦爾請來的髮型師完成了皇帝的髮式。七點，他穿好為舞會訂製的袍服：寬大的黑絲與堆疊的天鵝絨，嵌滿紅鑽。八點，他走下新重建的樓梯，監督最後準備——點燃蠟燭、開啟酒罈、宰殺第一道菜。九點，他坐上訂製的仿王座，等候第一批客人。
 
- At nine thirty, his advisor, seeing the royal eyes beginning to glaze over with madness, said, "Your Terrible Majesty surely knows that it is not fashionable to arrive at any ball for at least an hour after the desired time, yes?"
+  九點半，顧問見陛下的雙眼開始蒙上瘋狂的釉光，便說：「可怖的陛下想必知道，任何舞會，至少要過了預定時間一小時才算時髦到場，對吧？」
 
- The Emperor just stared.
+  皇帝只是瞪著。
 
- At ten thirty, the Emperor called for some food and wine, and sat at his throne, looking at the open door, eatting. Thirty minutes later, he ordered the orchestra to begin playing. For the next three hours, they played gaily for the empty, candlelit ballroom.
+  十點半，皇帝叫了些食物和酒，坐在王座上望著敞開的門，吃著。三十分鐘後，他命令樂團開始演奏。接下來三小時，他們在空蕩蕩、燭光搖曳的舞廳裡歡快地演奏。
 
- At one o'clock, the Emperor announced his intention to retire for the evening. My uncle was one of the warders who assisted His Terrible Majesty up the staircase. Halfway to his room, Pelagius threw himself on the floor in a hysteria, screaming and laughing, ordering more wine (my mother was good at this part of the story, rolling her eyes and shreiking, "More wine! More wine! Wine!"), and, in short, imagining that he was possessed by all the revellers at his party that never was.
+  一點，皇帝宣布今晚要歇息。我叔公是扶可怖的陛下上樓的看守之一。走到房間一半，佩拉吉烏斯便撲倒在地，歇斯底里地尖叫大笑，要更多酒（我母親講到這一段特別拿手，翻著白眼尖叫：「再來酒！再來酒！酒！」），簡而言之，想像自己被那場從未發生的宴會上所有狂歡者附了身。
 
- Two days later, he was still not better. He had cut himself and those who tried to grapple him horribly with the red diamonds of his robe. Eventually it was decided that the Torval asylum was not equipped to deal with a lunatic of his severity, and he was sent to a more secure location in Black Marsh. It was only three months later, my uncle heard that the Emperor had died.
+  兩天後，他仍未好轉。他用袍上的紅鑽把自己和試圖抓住他的人割得慘不忍睹。最終判定托瓦爾瘋人院沒有能力應付如此嚴重的瘋子，便把他送到黑沼一處更嚴密的所在。僅僅三個月後，我叔公聽說皇帝死了。
 
- One of my uncle's duties was to clear out the personal property of the inmates after their death. Being primarily landed nobility, the personal property was often quite extensive. Several years after the asylum ball, my uncle was called to clear out the apartment of a duchess whose chief eccentricity was a propensity to pilfer. Kleptomania, I believe it's called. Locked away in a secret door in her desk, protected by a trap armed with a barbed needle, was a variety of jewels, piles of gold, and a five large stacks of beautifully engraved invitations signed in the Emperor's childlike handwriting.
+  叔公的職責之一，是在住院者死後清理其私人物品。由於多半是有地產的貴族，私人物品往往相當可觀。瘋人院舞會過後數年，叔公被叫去清理一位公爵夫人的寓所，她主要的怪癖是愛順手牽羊。我相信那叫偷竊癖。鎖在書桌暗門裡、由帶倒刺的針陷阱保護著的，是各式珠寶、成堆金幣，以及五大疊精美鐫刻的請柬，上面是皇帝孩子氣的簽名。

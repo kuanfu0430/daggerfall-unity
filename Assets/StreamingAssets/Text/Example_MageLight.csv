@@ -1,0 +1,13 @@
+Key,Value
+about,此 CSV 提供範例自訂法術「法師之光」的文本紀錄。
+groupName,法師之光
+subGroupNames,"煉獄
+霜凍
+毒液
+風暴
+奧術"
+effectDescription,在施法者周圍產生柔和光芒。
+durationSpellMaker,持續時間：你將被照亮的回合數。
+durationSpellBook,持續時間：%bdr + 每 %cld 級 %adr
+chance,機率：不適用
+magnitude,強度：不適用

@@ -1,0 +1,94 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 8
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 34
+Quest: A0C00Y08
+DisplayName: 刺客
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我的名字不重要。你只需要知道，我需要一個不怕濺點血的人，
+<ce> 報酬大概 _gold_ 金幣。若不感興趣現在就說。你願意接這差事嗎？
+                                     <--->
+<ce> 噓！小聲點。在我再說之前，你是那種會為金幣殺人的 %ra 嗎？
+<ce> _gold_ 金幣怎麼樣？
+                                     <--->
+<ce> 我在找不會見血就昏倒的人。人血。給你 _gold_ 金幣，你願意殺人嗎？
+
+RefuseQuest:  [1001]
+<ce> 你從沒見過我。
+                                     <--->
+<ce> 滾開。我不想讓人看見我們在說話。
+                                     <--->
+<ce> 好。隨你便。
+
+AcceptQuest:  [1002]
+<ce> 我要 _darkb_ 死。問題是黑暗兄弟會不肯接這單。
+<ce> 好像欠了什麼人情。我需要獨立作業的人。
+<ce> 一週內幹完回來找我，我就付你 _gold_ 金幣。只要問 _questgiver_。
+<ce> 我會在這兒等你。
+
+QuestComplete:  [1004]
+<ce> 復仇是我的了！對了，你最好離開這鎮子。聽說兄弟會風聞此事了。
+<ce> 這是你的錢，%pcf。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說 _questgiver_ 恨 _darkb_。
+                                     <--->
+<ce> _darkb_ 跟黑暗兄弟會有關係。
+
+RumorsPostsuccess:  [1007]
+<ce> 有人殺了 _darkb_，還是當眾下手！
+                                     <--->
+<ce> 聽說那樁謀殺了嗎？_darkb_ 被刺客殺了。
+                                     <--->
+<ce> 我從來就不喜歡 _darkb_。很高興終於有人幹掉 %g2。聽說是黑暗兄弟會幹的。
+
+QuestorPostsuccess:  [1008]
+<ce> 小聲點。你替我殺了 _darkb_，我承認這份人情，
+<ce> 但我不想讓人以為我跟這事有關。
+
+QuestorPostfailure:  [1009]
+<ce> 我雇你做事，你卻辦不到。不過是殺 _darkb_ 而已。
+<ce> 現在太遲了，黑暗兄弟會在追我。離我遠點。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我接下了殺死 _darkb_ 的合約。
+ 我有一週時間把事做完，回去找
+ ___questgiver_ 的 _questgiver_。
+
+Message:  1015
+<ce> _darkb_ 還沒死！你當我是什麼傻瓜，%pcf？
+
+Message:  1021
+<ce> 救命！殺人了！救命！
+
+Message:  1022
+<ce> 混蛋！你算哪門子刺客？拿起武器！拿起武器！
+
+Message:  1023
+<ce> 我中招了！%oth。
+
+Message:  1024
+<ce> 懦夫！你毫無理由、毫無挑釁地攻擊我。
+
+Message:  1030
+<ce> _questgiver_？我對 %g2 所知不多。
+<ce> 總是獨來獨往。
+
+Message:  1031
+<ce> 聽說 _questgiver_ 有些相當見不得光的朋友。
+<ce> 但你可不是從我這兒聽說的。
+
+Message:  1032
+<ce> 一位正直的好市民。去問誰都一樣。
+
+Message:  1033
+<ce> _darkb_ 通常在 _place_，但我不建議你捲入 %g3 的事。
+<ce> 這只是友善的忠告。

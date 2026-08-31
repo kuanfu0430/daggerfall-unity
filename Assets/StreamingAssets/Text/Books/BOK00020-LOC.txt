@@ -1,5 +1,5 @@
-Title: Ghraewaj
-Author: Tidasus
+Title: 格萊瓦吉
+Author: 提達蘇斯
 IsNaughty: False
 Price: 691
 IsUnique: False
@@ -8,16 +8,16 @@ Content:
 
 [/font=2]
 
-[/center]Ghraewaj and the Harpies
+[/center]格萊瓦吉與鷹身女妖
 
 [/font=4]
 
- On the twelfth of Hearth Fire every year, the people of the Hammerfell township and barony of Lainlyn celebrate Riglametha. Riglametha in the Banthan dialect of the ancient Redguard tongue means "grateful-offering" and is a festival of the graces the gods have granted the people of Lainlyn over the centuries. Tradition dictates the performance of a number of plays about the great moments from Lainlyn's past, and one of the most popular is Ghraewaj, which may be translated as "The Crows Who Were Punished" or "The Crows Who Punish." Old Redguard is somewhat vague with its objective case.
+ 每年爐火月十二日，落錘省萊恩林鎮與男爵領的人民慶祝瑞格拉梅薩。瑞格拉梅薩在古紅守衛語的班薩方言裡意為「感恩之獻」，是慶祝諸神數世紀來賜予萊恩林人民種種恩典的節日。傳統規定要演出若干關於萊恩林過去偉大時刻的戲，其中最受歡迎的一齣是格萊瓦吉，或可譯為「受罰的群鴉」或「施罰的群鴉」。古紅守衛語的賓語格有些含糊。
 
- The story of Ghraewaj, as any Lainlyn child will tell you, is of the wicked sisterhood of daedra worshippers who craft lies, curses, murders, and suicides to hurt the people of Lainlyn. Most of all, they use their beauty as a weapon to drive men to mayhem. Their leader, the temptress Noctyr-a, seduces the unnamed baron of Lainlyn and is about to force him to commit suicide to prove his love, when the baroness arrives. The baroness tricks Noctyr-a into wearing a beautiful white robe from the baroness' closet: "See how the robe glows with the lumniscience of pearl, but the inside is soft, feathered with down." Noctyr-a puts on the robe and the trap is sprung: the robe is magical and transforms Noctyr-a into an giant black bird. The baron, no longer enchanted, slays the great bird and calls in his cook.
+ 格萊瓦吉的故事，任何萊恩林的孩子都會告訴你，講的是一群邪惡的迪德拉崇拜者姊妹會，她們用謊言、詛咒、謀殺與自殺傷害萊恩林的人民。最甚者，她們以美貌為武器，驅使男人陷入暴行。她們的首領、誘惑者諾克提拉，誘惑了萊恩林那位未具名的男爵，正要迫使他以自殺來證明愛情時，男爵夫人到了。男爵夫人騙諾克提拉穿上她衣櫥裡一件美麗的白袍：「看這袍子如何因珍珠的光輝而發亮，裡頭卻柔軟，覆著絨羽。」諾克提拉穿上袍子，陷阱發動：袍子有魔法，把諾克提拉變成一隻巨大的黑鳥。男爵不再受蠱惑，殺掉那巨鳥，叫來他的廚師。
 
- The sisterhood has, by this time, taken over Lainlyn castle and turned it into a orgy-filled den of decadence. At the height of their frenzied debauch, the cook arrives with an enormous roast to keep their energy high. They dig into the deliciously prepared meal, and at the crescendo of their gorging, the baron and baroness appear to tell them all that they have just devoured their leader, Noctyr-a. The women scream and caw and suddenly they too are transformed by the magic of the robe, into harpies, vicious half-bird creatures.
+ 此時姊妹會已占領萊恩林城堡，把它變成充滿狂歡的墮落巢穴。在她們最瘋狂的放蕩高潮，廚師帶著一只巨大的烤肉進來，好讓她們保持精力。她們埋頭大嚼那烹調得極為美味的一餐，在饕餮的最高潮，男爵與男爵夫人現身，告訴她們剛剛吞食的正是她們的首領諾克提拉。女人們尖叫、發出鴉叫，忽然她們也被袍子的魔法所變，成為鷹身女妖——凶惡的半鳥生物。
 
- The interesting thing about Ghraewaj from a scholarly perspective is how much the story has changed and continues to change over the years. In some versions of the story, Noctyr-a is an innocent peasant seamstress and it is the baroness who is the cruel and wicked leader of the harpies. Noctyr-a prays to Dibella and is given the charm to make the magical robe, and she and the baron live happily ever after once the harpies have feasted on the tranformed baroness. During the long reign of the virgin baroness of Lainlyn, Viana the Pure (2E 120 - 2E 148), the baron was portrayed as a willing conspirator of Noctyr-a. The harpies thus have two birds to dine on.
+ 從學術角度看，格萊瓦吉有趣之處在於這故事這些年來改變了多少，並且仍在改變。有些版本裡，諾克提拉是無辜的農家女裁縫，反而是男爵夫人是鷹身女妖們殘忍邪惡的首領。諾克提拉向迪貝拉祈禱，獲賜製作魔法袍的符咒，等鷹身女妖們吃完被變的男爵夫人，她與男爵便從此幸福地生活。在萊恩林童貞男爵夫人「純潔的維安娜」漫長統治期間（第二紀元120年－第二紀元148年），男爵被描繪成諾克提拉的自願共謀。於是鷹身女妖便有兩隻鳥可吃。
 
- It is unlikely that trying to find the truth in the story is profitable research. Harpies are indeed a common nuisance in the Iliac Bay, particularly around Lainlyn. They do have their own tongue, and the few who have mastered it and not been devoured by their interviewees suggest that the harpies have no more idea about their origins than we do. In a different vein, one of the best known of the Daedra Princes is named Nocturnal, who is often portrayed as a beautiful dark woman holding two black crows. It is not a difficult etymologic trick to derive the name Noctyr-a from Nocturnal, or vice-versa.
+ 試圖從故事中找出真相，大概不是有利可圖的研究。鷹身女妖在伊利亞克灣的確是常見的禍害，尤其在萊恩林一帶。她們有自己的語言，少數掌握了那語言、又沒被受訪者吞食的人表示，鷹身女妖對自身起源的了解並不比我們多。從另一條線索看，最著名的迪德拉親王之一名叫諾克特納爾，常被描繪為一位美麗的黑暗女子，手持兩隻黑鴉。用詞源學把戲從諾克特納爾推出諾克提拉，或反之，並不困難。

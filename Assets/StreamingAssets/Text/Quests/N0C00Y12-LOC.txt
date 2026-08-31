@@ -1,0 +1,87 @@
+-- Quest: C:\QUESTS\WORKING\N0C00Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 12
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: N0C00Y12
+DisplayName: 逃脫的寵物小鬼
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       你可以叫我 _qgiver_。
+<ce>                 通常我只能把差事交給公會成員。
+<ce>                不過我有個學生出了點小麻煩，
+<ce>               傳出去會很難看。我付不了錢，
+<ce>               但若你願意去追一隻逃脫的實驗體，
+<ce>                風險不大，我會感激到足以
+<ce>              在其他公會成員面前替你美言。
+
+RefuseQuest:  [1001]
+<ce>                   那你為什麼還來跟我要差事？
+<ce>                  有時候我真搞不懂
+<ce>                        你們這些普通冒險者。
+
+AcceptQuest:  [1002]
+<ce>                很好。我的學生養了一隻寵物小鬼。
+<ce>               這些魔法生物並不太危險，
+<ce>                但對他來說可能相當難堪。
+<ce>                我們的占卜顯示小鬼逃到了
+<ce>                    ___mondung_。
+<ce>                  殺了它，並在 =1stparton_ 天內
+<ce>                        向我回報。
+
+QuestFail:  [1003]
+<ce>               我今天稍早占卜過。小鬼還活著。
+<ce>                    你在這兒做什麼？
+
+QuestComplete:  [1004]
+<ce>                 總算鬆口氣。我欠你一份小人情，
+<ce>                      %pcn。你在法師公會的
+<ce>                      評價提升了。
+
+RumorsDuringQuest:  [1005]
+聽說前幾天夜裡有東西從法師公會實驗室逃出來了。
+<--->
+%oth，昨晚我看見有個小影子在暗處鬼鬼祟祟。
+
+RumorsPostfailure:  [1006]
+法師公會的實驗室保全出了點小醜聞。
+<--->
+看來法師公會又丟了一個實驗體。
+
+RumorsPostsuccess:  [1007]
+聽說法師公會實驗室裡會折磨小鬼！
+<--->
+<ce>                    那些小鬼可壞了。
+<ce>                  %nam 的房子被老鼠佔領，
+<ce>                就因為拿掃把追過它。
+                                     <--->
+<ce>                 聽說有隻小鬼使魔從法師公會
+<ce>                逃了。他們說巫師失去使魔後，
+<ce>                 就容易受到敵人法術的傷害。
+
+QuestorPostsuccess:  [1008]
+你好嗎，%pcf？希望別再有小鬼的麻煩了，嗯？
+
+QuestorPostfailure:  [1009]
+<ce>                 我派你去對付那隻小鬼，記得嗎。
+<ce>              我不覺得有理由再對你
+<ce>                    浪費口舌。
+
+QuestLogEntry:  [1010]
+<ce>                      「我寧死也不願回
+<ce>                        法師公會
+<ce>                              實驗室。」
+
+Message:  1020
+%qdt:
+ ___qgiver_ 的法師公會
+ 雇我去找一隻從他們實驗室
+ 逃出的小鬼。
+ 顯然它躲在 ___mondung_。
+ 我必須在 =1stparton_ 天內殺死它，
+ 並回到 ___qgiver_。

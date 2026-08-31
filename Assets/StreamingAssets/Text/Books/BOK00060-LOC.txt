@@ -1,5 +1,5 @@
-Title: Biography of Queen Barenziah, Vol. II
-Author: Stem Gamboge
+Title: 巴蘭茲雅女王傳，卷二
+Author: 斯特姆·甘伯格
 IsNaughty: False
 Price: 406
 IsUnique: False
@@ -8,22 +8,22 @@ Content:
 
 [/font=2]
 
-[/center]Biography of
+[/center]巴蘭茲雅
 
-[/center]Queen Barenziah,
+[/center]女王傳，
 
-[/center]Vol. II
+[/center]卷二
 
 [/font=4]
 
- The first volume of this series told the story of Barenziah's origin, heiress of the throne of Mournhold until her father king rebelled against His Excellency Tiber Septim and brought ruin to the province of Morrowind. Due to the benevolence of the Emperor, the child Barenziah was not destroyed with her parents, but reared by the Baron Sven of Blackmoor. She grew beautiful, pious, and trusting in his care. This trust was exploited by a wicked orphan stable boy at Baron Sven's estate, who with lies, tricked her into fleeing Blackmoor with him. After many adventures on the road, they settled in Rifton, a Skyrim city on the border of Morrowind.
+  本系列第一卷講述了巴蘭茲雅的出身：她本是哀傷之城王位的女繼承人，直至其父王反抗泰伯·塞普汀陛下，為晨風行省帶來毀滅。因皇帝的仁慈悲憫，孩童巴蘭茲雅未與雙親一同滅亡，而由黑沼的斯文男爵撫養。在他照料下，她長得美麗、虔敬而輕信。這份信任被男爵莊園裡一個邪惡的孤兒馬僮利用，他以謊言騙她一同逃離黑沼。路途歷盡波折後，他們在裂谷城定居——那是天際一座鄰近晨風邊境的城市。
 
- The stable boy Straw was not altogether evil. He did love Barenziah in his own selfish fashion, and the lie was the only way he could think of that he might have her. She, of course, felt only friendship for him, but he was hopeful that she would change her mind. He wanted to buy a small farm and settle down in marriage, but his earnings were barely enough to feed and shelter them.
+  馬僮稻草並非全然邪惡。他以自己自私的方式愛著巴蘭茲雅，而謊言是他能想到唯一擁有她的辦法。她對他自然只有友情，他卻指望她會改變心意。他想買一小塊農地，結婚安頓下來，可他的收入幾乎只夠兩人餬口蔽身。
 
- After only a short time in Rifton, Straw fell in with a bold villian of a Khajiit thief named Therris, who proposed that they rob the Imperial commandant's house. Therris said that he had a client, a traitor to the Empire, who would pay well for the information they would find there. Barenziah happened to overhear this plan and was appalled. She stole from their rooms and walked the streets of Rifton in desperation, torn between loyalty to the Empire and to her friend.
+  在裂谷城只待了不久，稻草便結識一個大膽的惡棍——卡吉特盜賊瑟里斯，對方提議去搶帝國指揮官的宅邸。瑟里斯說他有個客戶，是帝國的叛徒，願出高價購買他們在那兒找到的情報。巴蘭茲雅碰巧聽見這計劃，大為震驚。她溜出房間，絕望地走在裂谷城街頭，在對帝國的忠誠與對友人的情誼之間撕裂。
 
- In the end, loyalty to the Empire prevailed over personal friendship, and she approached the commandant's house, revealed her true identity and warned him of her friends' plan. The commandant listened to her tale, praised her courage and assured her that no harm would come to her.
+  最終，對帝國的忠誠壓過了私人友情。她前往指揮官宅邸，表明真實身分，並警告友人的計劃。指揮官聽完她的故事，讚揚她的勇氣，並向她保證不會有傷害降臨到她身上。
 
- General Symmachus had been scouring the countryside in search of her since her disappearance had just arrived in Rifton, hot in pursuit. He took her into his custody, and informed her that, far from being sold, she was to be instated as Queen of Mournhold as soon as she turned eighteen. Until that time, she was to live with the Imperial family in the new Imperial City, where she would learn something of Imperial government and make the acquaintance of people of importance.
+  西瑪庫斯將軍自她失蹤以來便在鄉間四處搜尋，剛趕到裂谷城，緊追不捨。他將她置於監護之下，並告知她：她遠非被賣掉，而是一滿十八歲便將被立為哀傷之城的女王。在那之前，她將與帝國家族同住新建的帝國城，學習帝國政務，並結識重要人物。
 
- And so it came to pass. In the Imperial City, Barenziah became great friends with Tiber Septim during the last years of his reign; Tiber's heir Pelagius also came to love her as a sister. The ballads of the day praised her beauty, chastity, wit, and learning. On her eighteenth birthday, the entire Imperial City turned out to watch her procession back to Mournhold. Sorrowful as they were at her departure, all knew that she was ready to be the glorious sovereign of the new kingdom of Mournhold.
+  事情便如此發生了。在帝國城，巴蘭茲雅於泰伯·塞普汀統治的最後幾年與他成為至交；泰伯的繼承人佩拉吉烏斯也愛她如姊妹。當時的歌謠讚頌她的美貌、貞潔、機智與學識。十八歲生日那天，整座帝國城出動觀看她返回哀傷之城的行列。眾人雖為她的離去悲傷，卻都知道她已準備好成為哀傷之城新王國的光榮君主。

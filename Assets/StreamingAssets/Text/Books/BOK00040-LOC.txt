@@ -1,5 +1,5 @@
-Title: Mysticism
-Author: Tetronius Lor
+Title: 神秘系
+Author: 泰特羅尼烏斯·洛爾
 IsNaughty: False
 Price: 661
 IsUnique: False
@@ -8,21 +8,19 @@ Content:
 
 [/font=2]
 
-[/center]Mysticism:
+[/center]神秘系：
 
-[/center]The
+[/center]深不可測的
 
-[/center]Unfathomable
-
-[/center]Voyage
+[/center]航程
 
 [/font=4]
- Mysticism is the school of magic least understood by the magical community, most difficult to explain to novices mages. The spells effects commonly ascribed to the School of Mysticism are as wildly disparate as Soul Trap -- the creation of a cell for a victim's spirit after death -- to Silence -- the extinction of sound. But these effects are simply that: effects. The sorcery behind them is veiled in a mystery that may go back to the oldest civilizations of Tamriel, and beyond.
+  神秘系是魔法社群最不理解的學派，也最難向初學法師解釋。通常歸於神秘學派的法術效果差異極大，從靈魂陷阱——為受害者死後的靈魂製造囚室——到沉默——使聲音滅絕。但這些效果僅僅是效果。其背後的巫術籠罩在謎團中，或許可以追溯到泰姆瑞爾最古老的文明，甚至更遠。
 
- The Psijics of the Order of Artaeum's term for Mysticism is the Old Way. The phrase becomes bogged in a semantic quagmire, because the Old Way also refers to the religion and customs of the Psijics which may, or may not, be part of the magic of Mysticism.
+  阿塔尤姆修會的賽伊克稱神秘系為「古道」。這個詞會陷入語義泥沼，因為「古道」也指賽伊克的宗教與習俗，而那可能是、也可能不是神秘系魔法的一部分。
 
- There are few mages who devote their lives to the study of Mysticism. The other schools are far more predictable and fathomable. Mysticism seems to derive its power from its cunundrums and paradoxes; the act of experimentation, no matter how objectively implemented, can influence the magicka by its very existance. Thus, the Mystic mage must regulate himself to finding consistant patterns in an imbroglio of energy. In the time it takes him to find a source with a consistant trigger and result, his peers researching in other schools may have researched and documented dozens of new spells and effects. The Mystic mage is a patient and uncompetitve scholar.
+  很少有法師把一生獻給神秘系的研究。其他學派遠更可預測、可理解。神秘系似乎從它的謎題與悖論中汲取力量；實驗這一行為，無論執行得多麼客觀，其存在本身就會影響魔力。因此，神秘系法師必須約束自己，在一團糾結的能量中找出一貫的模式。等他找到一個有穩定觸發與結果的來源，研究其他學派的同儕可能已經研究並記錄了數十種新法術與效果。神秘系法師是耐心且不爭競的學者。
 
- For centuries, mostly during the Second Era, scholarly journals publishes theory after theory about the aspect or aspects of magicka that we call Mysticism. In the tradition of the Mages Guild to find answers to all things, respected researchers suggested the energy source as coming from Aetherius or the Daedra themselves to explain the seemingly random patterns of Mysticism; some ventured to guess that Mysticism comes from unused elements of successfully or unsuccessfully cast spells; discussion with the Order of Artaeum after its reappearance has led some scholars to postulate that Mysticism is more spiritual in nature, either the intellect or emotion of the believer influences the energy pattern and flow.
+  數百年來，尤其在第二紀元，學術期刊發表了一個又一個關於我們稱為神秘系的那一面或多面魔力的理論。依循法師公會要為萬物找出答案的傳統，受尊敬的研究者提出能量來源來自以太瑞斯，或來自迪德拉本身，以解釋神秘系看似隨機的模式；有人猜測神秘系來自成功或失敗施放的法術中未使用的成分；與重新出現的阿塔尤姆修會討論後，有些學者推測神秘系本質上更偏靈性，信徒的智識或情感會影響能量的模式與流動。
 
- None of these explanations is truly satisfactory. For the beginning student of Mysticism, it is best to simple learn the patterns distinguished in the maelstrom in the centuries past. The more patterns are found, the clearer the remaining ones become. Until, of course, they change. And then the journey begins anew.
+  這些解釋沒有一個真正令人滿意。對神秘系的初學者而言，最好先單純學習過去數世紀在那漩渦中辨認出的模式。找到的模式越多，其餘的就越清晰。直到，當然，它們改變。然後旅程重新開始。

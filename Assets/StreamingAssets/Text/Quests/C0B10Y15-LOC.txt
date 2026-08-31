@@ -1,0 +1,90 @@
+-- Quest: C:\QUESTS\WORKING\C0B10Y15.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 10
+-- QuestId: 15
+Messages: 41
+Quest: C0B10Y15
+DisplayName: 聖物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     %pct，__questgiver_需要你執行一項危險任務，
+<ce>                  取回%god失落的_item_之一。
+<ce>                    你必須違抗其創造者=lich_的力量——
+<ce>                   他後來背叛神殿、沉淪邪惡。如今他是巫妖，
+<ce>                  仍守護著那_item_。你願意嗎？
+
+RefuseQuest:  [1001]
+<ce>                  我理解。巫妖對你這般年輕無經驗之人
+<ce>                   是可怕的對手。也許等你更成熟時再接這差事。
+<ce>                       願%god與你同行。
+
+AcceptQuest:  [1002]
+<ce>                  我欽佩你的勇氣，但一想到你即將面對的危險就發抖。
+<ce>                   =lich_在___mondung_守護他那件%god的_item_。
+<ce>                   記住，不必斬殺巫妖，只要取回_item_，
+<ce>                  送回這裡的__questgiver_。若=qtime_天內沒有你的消息，
+<ce>                    我們會為你唱逝者之歌。
+<ce>                    願%god的祝福加於你身，%pcn。
+
+QuestFail:  [1003]
+<ce>                我理解你不願動身，%pcf，但等待不會讓危險變少。
+
+QuestComplete:  [1004]
+<ce>                   讚美偉大的%god！我原先不敢指望你真能成功。
+<ce>                     %god的恩寵必因這功績照耀你。
+<ce>                      作為神殿感謝的小小信物，請收下這附魔的_reward_。
+
+RumorsDuringQuest:  [1005]
+<ce>        __questgiver_希望找回失落已久的_item_，
+<ce>        但他們能找到誰願意面對巫妖=lich_？
+
+RumorsPostfailure:  [1006]
+<ce>            聽說__questgiver_現在認為那_item_
+<ce>               根本從來不在___mondung_。
+
+RumorsPostsuccess:  [1007]
+<ce>         你聽說了嗎？有個%ra進了___mondung_，
+<ce>               帶著__questgiver_的_item_回來了？
+
+QuestorPostsuccess:  [1008]
+<ce>                %pcf，你敢對抗那巫妖之後，這裡永遠歡迎你！
+
+QuestorPostfailure:  [1009]
+<ce>              我不能怪你沒從___mondung_取回我們的_item_，
+<ce>                 但我失望的是你接下了自己完成不了的任務。
+
+Message:  1015
+<ce>                一個陰森的聲音憑空低語：
+<ce>                                    
+<ce>               「那_item_不屬於你，也不屬於__questgiver_
+<ce>                   那些多愁善感的傻瓜。因此我收回本就屬於我的東西。」
+<ce>                                    
+<ce>                          那_item_消失了。
+
+Message:  1020
+%qdt:
+ ___questgiver_的__questgiver_
+ 派我去___mondung_取回一件聖物，一件_item_。
+ 問題是它由巫妖=lich_守護。不過我不必斬殺
+ =lich_，只要取回_item_，在=qtime_天內
+ 回到_questgiver_身邊。
+
+Message:  1030
+<ce>                    這必定是__questgiver_失落已久的_item_。
+
+Message:  1035
+<ce>                     什麼？你不但取回了神聖的_item_，
+<ce>                   還殺了邪惡的=lich_？你真是%god所眷顧之人。
+<ce>                     你必能在我們教團中大展宏圖。
+
+Message:  1040
+<ce>                        =lich_憤怒地嘶聲：
+<ce>                                    
+<ce>                       「你們__questgiver_的走狗
+<ce>                       永遠得不到我的_item_！
+<ce>                        是我製造了它，也由我保有。
+<ce>                       沒有什麼能阻止我，連墳墓也不行。」

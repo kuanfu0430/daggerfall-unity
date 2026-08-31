@@ -1,0 +1,131 @@
+-- Quest: C:\QUESTS\WORKING\S0000006.Qbn.
+-- Main story quest.
+-- QuestId: 6
+Messages: 31
+Quest: S0000006
+DisplayName: 艾莉薩娜的長袍
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      你好，%pcf。我是艾莉薩娜，
+<ce>               伊德懷爾國王的孩子，途歇城的準繼承人。
+<ce>                也許你能幫我擺脫一點難堪的困境。
+<ce>                長老議會的資深成員，我父親的好友
+<ce>               卡斯特利安領主，已離宮度假，而我忘了
+<ce>                把向他借來的斗篷還回去。若這對你
+<ce>                 不太無聊，可否幫我送到
+<ce>                    ___casfort_給他？我可以給你
+<ce>                    一件漂亮的_jewelry_作為酬勞。
+
+RefuseQuest:  [1001]
+<ce>                             不行？喔，%oth。
+
+AcceptQuest:  [1002]
+<ce>                 你肯幫忙，真是好得嚇人，像我這樣
+<ce>               傻乎乎的女孩。長袍在這兒。現在，
+<ce>                 非常重要的是，卡斯特利安大人很快
+<ce>                就能拿到長袍。他在___casfort_的
+<ce>                     其中一處宅邸_casfort_。
+<ce>               卡斯特利安領主應該不難找，只要四處
+<ce>                   打聽他或_casfort_，把長袍交給他。
+<ce>                我真的很感謝，%pcf。去___casfort_
+<ce>              再回來不該超過=queston_天，所以
+<ce>                          到時見。
+
+QuestFail:  [1003]
+<ce>                我知道卡斯特利安領主還沒拿到
+<ce>                 長袍，而他可不是有耐心的人。
+
+QuestComplete:  [1004]
+<ce>             喔，你真了不起。來，讓我把答應你的
+<ce>               _jewelry_給你。希望卡斯特利安領主
+<ce>             會欣賞我在長袍上多下的工夫。它現在
+<ce>              真的很能引人注目。讓我再多給你一點
+<ce>                  不只是_jewelry_，%pcf。我父親
+<ce>             對一件名叫泰伯·塞普丁圖騰的古代遺物
+<ce>               非常感興趣。他到處安插密探尋找它。
+<ce>             他們找到時，我父親會需要人去取得它。
+<ce>             顯然，被選中的人會得到極其豐厚的報酬。
+<ce>              我會把你的名字告訴他。這是我至少能做的。
+
+RumorsDuringQuest:  [1005]
+卡斯特利安領主正在支持讓赫爾塞斯成為準繼承人的立法。
+<--->
+艾莉薩娜公主在長老議會資深成員那裡失寵了。
+
+RumorsPostfailure:  [1006]
+卡斯特利安領主從_casfort_回到途歇城城堡。假期結束了。
+<--->
+艾莉薩娜公主看見卡斯特利安領主度假回來，臉色不太好看。
+
+RumorsPostsuccess:  [1007]
+卡斯特利安領主從他度假的_casfort_消失了。
+<--->
+伊德懷爾國王懷疑卡斯特利安領主失蹤另有陰謀。
+
+QuestorPostsuccess:  [1008]
+漂亮的長袍。沒什麼特別不尋常的地方。
+<--->
+做工極佳。有人在刺繡上下了許多心血。
+
+QuestorPostfailure:  [1009]
+布料上繡著某種迪德拉咒文。
+<--->
+這件長袍上繡著召喚迪德拉的儀式。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 艾莉薩娜公主要我把一件長袍帶給途歇城
+ 長老議會資深成員卡斯特利安領主，他在
+ ___casfort_的莊園_casfort_。
+ 我需要在=queston_天內回到途歇城城堡。
+
+Message:  1020
+<ce>                     傻瓜！某個有心人給了你一件
+<ce>                       召喚我來殺你的長袍。
+<ce>                            多美味啊！
+
+Message:  1021
+<ce>                       刺殺卡斯特利安領主的
+<ce>                     叛徒該死！
+                                      <--->
+<ce>                       你會為殺害我的領主
+<ce>                            付出代價。
+                                      <--->
+<ce>                     刺客！卡斯特利安領主是
+<ce>                    最好的人。你會為所做的事
+<ce>                           而死。
+
+Message:  1022
+<ce>                   「艾莉薩娜女士的禮物。謝謝你，
+<ce>                         %pcn。它合身得
+<ce>                            像手套一樣。」
+<ce>                                    
+<ce>                    你感到一陣撕裂聲，彷彿
+<ce>                   現實的織物正被撕開。
+
+Message:  1023
+<ce>                     離開此地，小小的%ra。
+<ce>                      我們來帶走卡斯特利安領主。
+<ce>                    你已盡了本分，送來召喚我們的
+<ce>                       葬衣。
+
+Message:  1030
+卡斯特利安領主是途歇城最有權勢的議員。
+<--->
+據說艾莉薩娜公主對卡斯特利安領主沒有多少好感。
+<--->
+卡斯特利安領主毫不掩飾想迎娶艾莉薩娜公主的心意。
+
+
+-- Symbols used in the QRC file:
+--
+--              %oth occurs 2 times.
+--              %pcf occurs 3 times.
+--              %pcn occurs 1 time.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--         =queston_ occurs 3 times.
+--       ___casfort_ occurs 9 times.
+--         _jewelry_ occurs 4 times.

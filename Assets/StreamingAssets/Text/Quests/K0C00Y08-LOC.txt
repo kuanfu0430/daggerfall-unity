@@ -1,0 +1,141 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 8
+Messages: 13
+Quest: K0C00Y08
+DisplayName: 珍本書
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>你聽過_book_嗎？
+<ce>那是極為罕見的典籍，幾乎見不到，
+<ce>但我找到一本埋在%reg某處地城裡。
+<ce>我現在給你_upfront_金幣，書到手後再給_gold_金幣。
+<ce>同意嗎？
+<--->
+<ce>我在找一本非常特別的書，店裡買不到，
+<ce>至少不是天價買不到。最近聽說有一本
+<ce>在離此不遠的地城裡現身。若你願意接下
+<ce>尋找這部典籍的任務，我現在給你
+<ce>_upfront_金幣，回來時再給_gold_金幣。
+<ce>成交嗎，%pcf？
+
+RefuseQuest:  [1001]
+<ce>那好吧。我再另找傭兵。
+
+AcceptQuest:  [1002]
+<ce>很好。我給你=queston_天時間把書
+<ce>從___mondung_取出並回來。逾期則
+<ce>_gold_金幣作廢。書名是_book_。
+<ce>祝你好運，%pcf。
+
+QuestComplete:  [1004]
+<ce>啊，太好了。這是我答應的_gold_金幣。
+<ce>非常感謝，%pcf。
+
+RumorsDuringQuest:  [1005]
+前幾天我長了個癤子……不過已經好了。
+<--->
+我剛跟人聊了三個小時天氣。
+<--->
+這種時節的天氣一向如此。
+<--->
+%cn這時節好像有點偏涼。
+<--->
+今天比去年這個時候暖和多了。
+<--->
+我姨婆要去灣對岸看專科醫師。
+<--->
+這附近天黑的時間總是讓人覺得奇怪。
+<--->
+咱們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真搞不懂。
+<--->
+昨晚我做了個怪夢。
+<--->
+我聽到一則好笑的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有好有壞。
+
+RumorsPostfailure:  [1006]
+前幾天我長了個癤子……不過已經好了。
+<--->
+我剛跟人聊了三個小時天氣。
+<--->
+這種時節的天氣一向如此。
+<--->
+%cn這時節好像有點偏涼。
+<--->
+今天比去年這個時候暖和多了。
+<--->
+我姨婆要去灣對岸看專科醫師。
+<--->
+這附近天黑的時間總是讓人覺得奇怪。
+<--->
+咱們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真搞不懂。
+<--->
+昨晚我做了個怪夢。
+<--->
+我聽到一則好笑的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有好有壞。
+
+RumorsPostsuccess:  [1007]
+_qgiver_為%g3的新收藏開心得像鷹身女妖。
+
+QuestorPostsuccess:  [1008]
+為我帶來_book_的%ra啊，我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>_book_又一次失落了，你還來煩我，
+<ce>品味可真成問題。給我滾。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_、__qgiver_的
+ _qgiver_派我去___mondung_
+ 尋找極為罕見的_book_。
+ 若我在=queston_天內或更短時間回來，
+ 可得_gold_金幣。
+
+Message:  1011
+<ce>你撿起了_book_。
+
+Message:  1012
+<ce>_qgiver_會生氣的。把書帶給%g2
+<ce>的期限已經過了。
+
+
+-- Symbols used in the QRC file:
+--
+--               %cn occurs 2 times.
+--               %g2 occurs 3 times.
+--               %g3 occurs 1 time.
+--              %jok occurs 6 times.
+--              %oth occurs 10 times.
+--              %pcf occurs 5 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 2 times.
+--              %reg occurs 3 times.
+--         =queston_ occurs 7 times.
+--       ___mondung_ occurs 2 times.
+--        ___qgiver_ occurs 2 times.
+--            _book_ occurs 17 times.
+--            _gold_ occurs 14 times.
+--          _qgiver_ occurs 3 times.
+--         _upfront_ occurs 2 times.

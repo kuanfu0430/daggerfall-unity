@@ -1,5 +1,5 @@
-Title: Fools' Ebony, Part the Sixth
-Author: Frincheps
+Title: 愚人烏木，其六
+Author: 弗林切普斯
 IsNaughty: False
 Price: 317
 IsUnique: False
@@ -8,503 +8,503 @@ Content:
 
 [/font=2]
 
-[/center]Fools' Ebony,
+[/center]愚人烏木，
 
-[/center]Part the
+[/center]其
 
-[/center]Sixth
+[/center]六
 
 [/font=4]
 
 [/center]
 
- Dramatis Personae
+ 登場人物
 
- Prologue; The Adventurer, A Dark Elf Rascal; Komon, A Priest of Akatosh; Lheban, Another Priest of Akatosh; Epilogue; Stete, A Priest of Julianos; Raic, Another Priest of Julianos; Shub, A Mage; Shub, A Different Mage of the Same Name; Nephron, A Somewhat Sleazy Merchant; 5 Armorers; Ortho; Crunn, Husband of Millie; A Lusty Contessa; Millie, Innkeep and Philosopher; Gurnsey, Bovine Wench; Assorted Wenches and Cads of the Taverns; Soldiers; Dwarves; Giants.
+ 開場白；冒險者，一名黑暗精靈無賴；科蒙，阿卡托什的祭司；勒班，另一名阿卡托什的祭司；收場白；斯特特，朱利安諾斯的祭司；雷克，另一名朱利安諾斯的祭司；舒布，一名法師；舒布，另一名同名的法師；奈夫隆，一名有點下流的商人；五名鑄甲師；奧索；克朗，明妮之夫；一位好色的女伯爵；明妮，旅店老闆兼哲學家；格恩西，牛一般的女侍；酒館裡各色女侍與無賴；士兵；矮人；巨人。
 
- Daggerfall and Environs in the Doldrums of the 3rd Era
+ 第三紀沉悶時期的匕首雨及其四郊
 
- Scene 1: In The Adventurer's suite at the Dead Daedra Inn.
+ 第一場：死迪德拉旅店，冒險者的套房。
 
- Enter Prologue, the Adventurer, and Ortho. Ortho climbs into bed.
+ 開場白、冒險者與奧索上。奧索爬上床。
 
- Prologue: Thank you for allowing us the time to change the meager set, while our bard sang that old favorite, "Hail and Farewell." Now then, imagine, if you will, the luxuriant and langorous suite of that Dark Elven rogue, the Adventurer, at the Dead Daedra Inn. The time is shortly after the last scene, which if you've forgotten, ended with our hero and his partner-in-crime, Nephron, making some arrangements to swindle from the mages, priests, and armorers. All are interested in getting their hands on a lode of Fools' Ebony, a miraculous burning mineral, and the priests and mages each consider the Adventurer their ally. The Armorers know better and have assigned one of their apprentices, Ortho, to watch the Adventurer's movements. Now, as Ortho slumbers, the Adventurer has his first moment of peace in days. I should mention that in the interest of common decency, this scene has been abbreviated from the original by order of the Guild of Playwrites, Actors, and Dramatists. It now contains little material of relevance. A full copy may be obtained from the playwrite after the show for a mere 50 g.p. copying fee. Now is the time for poor Prologue to shuffle away.
+ 開場白：感謝各位容我們更換這簡陋的佈景，同時我們的吟遊詩人唱了那首老歌〈萬歲與再會〉。好了，請想像——若你願意——那位黑暗精靈無賴冒險者，在死迪德拉旅店那奢華慵懶的套房。時間就在上一場之後不久；若你忘了，上一場以我們的英雄和他的犯罪夥伴奈夫隆，安排要從法師、祭司與鑄甲師那兒詐騙作結。所有人都想染指一脈愚人烏木，那神奇的燃燒礦物，而祭司與法師各自以為冒險者是自己的盟友。鑄甲師們心知肚明，派了他們的一名學徒奧索監視冒險者的一舉一動。此刻奧索沉睡，冒險者幾天來第一次得到片刻安寧。我該提一句，為了公序良俗，本場已依劇作家、演員與戲劇家公會之令，從原作大幅刪節。如今幾乎不含相關內容。完整抄本可於演出後向劇作家索取，僅需五十金幣抄寫費。現在可憐的開場白該溜之大吉了。
 
- (Exit Prologue)
+ （開場白下）
 
- (The Adventurer begins to get undressed)
+ （冒險者開始寬衣）
 
- (Tap-tap at the door. Adventurer jumps, startled)
+ （門上傳來叩叩聲。冒險者跳起，受驚）
 
- (Snore from Ortho)
+ （奧索的鼾聲）
 
- Adventurer: Who's there? I'm coming!
+ 冒險者：誰啊？我來了！
 
- (Opens door - carefully)
+ （小心開門）
 
- (Enter Contessa)
+ （女伯爵上）
 
- Adventurer: Er, well ... er ... Come In! Please.
+ 冒險者：呃，這個……呃……請進！請。
 
- (The Adventuer steps back, tripping over his trousers around his ankles ...)
+ （冒險者後退，被褪到腳踝的褲子絆倒……）
 
- Contessa: So sorry to surprise you, but I thought that we might find something in common ... Oh! You poor man, you have a wound! Here, let me fix that bandage ... it looks very fresh.
+ 女伯爵：真抱歉嚇到你，但我覺得我們或許能找到一些共通之處……噢！可憐的人，你受傷了！來，讓我重新包紮……看起來很新。
 
- (Fixing bandage, properly this time)
+ （這回好好地包紮繃帶）
 
- Adventurer: Well, I ... just opened it up again. Evening exercises, calisthenics, so on...
+ 冒險者：這個，我……剛剛又把它扯開了。晚間鍛鍊，健身操，諸如此類……
 
- Contessa: How did you get this cut - if you do not mind me asking?
+ 女伯爵：這傷口是怎麼來的——若你不介意我問？
 
- Adventurer: No, not at all. I was ... in a fight, earlier. These three crazy people jumped me.
+ 冒險者：不，一點也不。我……稍早打了一架。三個瘋子撲上來。
 
- Contessa: Really? This cloth looks like part of a Mage's robe.
+ 女伯爵：真的？這布料看起來像法師袍的一部分。
 
- Adventurer: Well, yes, two of them were Mages.
+ 冒險者：這個，是的，其中兩個是法師。
 
- Contessa: Oh My! You must have been very good, to defeat them.
+ 女伯爵：我的天！你一定很厲害，才能打敗他們。
 
- Adventurer: Oh, ah, well, I've been in one or two fights. Not to be rude, but who are you?
+ 冒險者：噢，啊，這個，我打過一兩場。無意無禮，可你是誰？
 
- Contessa: Oh, I am so sorry, I quite forgot the proper introductions. I am the Contessa Aveet Videspreed -- call me Ave. From the Court at Daggerfall.
+ 女伯爵：噢，真抱歉，我完全忘了正式介紹。我是阿維特·維德斯普里德女伯爵——叫我阿維就好。來自匕首雨宮廷。
 
- Adventurer: (aside) By Oblivion, what now?
+ 冒險者：（旁白）以湮滅之名，這又是怎麼回事？
 
- Contessa: Here, help me off with this robe, these inn rooms are always ... so hot. And let me check that bandage again, poor man. Ooh, you are wearing an ebony belt of stamina, and bracers of strength. Ooh, a bracelet of endurance. This is my lucky night.
+ 女伯爵：來，幫我脫掉這件袍子，這些旅店房間總是……這麼熱。讓我再檢查一下那繃帶，可憐的人。噢，你戴著烏木耐力腰帶，還有力量護腕。噢，還有耐久手鐲。今晚是我的幸運夜。
 
- Adventurer: (aside) Help.
+ 冒險者：（旁白）救命。
 
- Contessa: Here, let me help you off with that old shirt - got to check you for any more cuts - they can go bad so easily, you know.
+ 女伯爵：來，讓我幫你脫掉那件舊襯衫——得檢查你有沒有別的傷口——你知道，它們很容易惡化。
 
- Adventurer: (aside) Well, its [sic] not the Armorers this time. Maybe my luck has turned.
+ 冒險者：（旁白）好吧，這回不是鑄甲師。也許我的運氣轉了。
 
- Contessa: Well, everything seems all right...very all right, in fact...
+ 女伯爵：嗯，一切似乎都好……事實上非常好……
 
- Adventurer: Er...well, Ave - tell me about ... er ... yourself.
+ 冒險者：呃……那麼，阿維——跟我說說……呃……你自己吧。
 
- Contessa: If you want - just for a bit -
+ 女伯爵：若你想聽——就一會兒——
 
- Adventurer: Here, have some wine ...
+ 冒險者：來，喝點酒……
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: Here our worthy playwrite's speech has been heavily edited by the Guild of Playwrites, Actors, and Dramatists. I will endeavor to fill in those removed passages. I should first mention that the Contessa is not meant to be a relative of any noble currently in Castle Daggerfall. The Contessa Aveet regales the Adventurer with tales of the peculiar and hearty members of her royal family. She has many brothers and sisters. They are all very -- close.
+ 開場白：在此，我們可敬劇作家的台詞已被劇作家、演員與戲劇家公會大幅刪改。我將盡力填補那些被刪去的段落。首先我該說明，這位女伯爵並非意指匕首雨城堡當前任何貴族的親戚。阿維特女伯爵向冒險者講述她王室家族那些奇特而精力旺盛的成員。她有許多兄弟姐妹。他們都非常——親密。
 
- Contessa: I think I must have been a bastard. I was the only one with red hair, and an affinity for magicka. Everyone else tried to hide this skill of mine. I remember one spanking very well ...
+ 女伯爵：我想我一定是私生子。我是唯一長紅髮、對魔力有親和的人。其他人都試圖隱瞞我這項技能。我記得一次打屁股記得很清楚……
 
- Prologue: The Contessa relates futher [sic] differences between her siblings.
+ 開場白：女伯爵進一步講述她與兄弟姐妹的差異。
 
- Contessa: While my sisters were learning to curtsey in ten different modes, and my brothers were learning flower-arranging, I used to sneak off into the woods or town. I soon learnt how to get what I wanted, from just about anyone. Just for example, there was this merchant who had three sons ...
+ 女伯爵：當我的姐妹們學習十種不同的屈膝禮，我的兄弟們學習插花時，我總溜進樹林或城裡。我很快學會如何從幾乎任何人那兒得到我想要的。舉例來說，有個商人有三個兒子……
 
- Prologue: The Contessa goes into detail about her training.
+ 開場白：女伯爵詳述她的訓練。
 
- Contessa: I became quite good at the school of illusion. You never noticed me, downstairs, did you?. I also learned how to use some weapons. Let me tell you how I learned hand-to-hand ...
+ 女伯爵：我在幻術學派變得相當出色。你沒注意到樓下的我，對吧？我也學會使用一些武器。讓我告訴你我是怎麼學會徒手格鬥的……
 
- Prologue: The Contessa relates an amusing anecdote, and then continues.
+ 開場白：女伯爵講了一則有趣的軼事，然後繼續。
 
- Contessa: And on bad days, I used to dig in my father's library. He had a marvelous collection of old texts. I was fascinated by Old Dwarvish, managed to learn it quite well, I think. Of course, no one has seen or spoken to one in years and years. So its probably perfectly useless knowledge. But I've always had an interest in collecting new knowledge. At the Mages Guild, they taught me an old High Elven tradition. You spread this potion all over your body ...
+ 女伯爵：壞日子裡，我常在父親的藏書室裡挖掘。他有了不起的古籍收藏。我迷上了古矮語，自以為學得相當不錯。當然，已經許多年沒人見過或跟矮人說過話了。所以這大概是完全沒用的知識。但我向來有蒐集新知識的興趣。在法師公會，他們教我一種古老的高精靈傳統。你把這種藥劑塗滿全身……
 
- Prologue: The Contessa relates her current state of boredom.
+ 開場白：女伯爵講述她目前的無聊狀態。
 
- Contessa: The life up at the Palace bores me so. My sisters ...
+ 女伯爵：宮裡的生活讓我無聊透了。我的姐妹們……
 
- Prologue: The Contessa's sisters are entertaining some visitors.
+ 開場白：女伯爵的姐妹正在招待一些訪客。
 
- Contessa: And my brothers are now studying Advanced Floral Theory, so I come down here, do a little ... er ...business. I keep all my relations supplied with their favourite vices -- so I can blackmail the whole rotten lot.
+ 女伯爵：而我的兄弟們現在在研究高等花卉理論，所以我下到這兒，做一點……呃……生意。我讓所有親戚都有他們最愛的惡習供應——這樣我就能勒索這整窩爛人。
 
- Adventurer: But is'nt it dangerous, down here? Did I not hear that some young Contessa got killed, recently?
+ 冒險者：可這下面難道不危險嗎？我不是聽說最近有位年輕女伯爵被殺了？
 
- Contessa: That little twit was my cousin, and as far as I'm concerned, she got what she deserved. She thought she could just borrow a maids dress, muss up her hair, and pass for some commoner. She was spotted the first minute she left the Palace gates. Now, I use illusion, craft, guile -- and I carry weaponry. By the way, that was a neat scheme you and Neph cooked up.
+ 女伯爵：那個小傻瓜是我表妹，就我而言，她罪有應得。她以為只要借件女僕洋裝、弄亂頭髮，就能冒充平民。她踏出宮門第一分鐘就被認出來了。而我用幻術、手腕、詭計——而且我帶著武器。對了，你和奈夫搞的那套計劃挺巧妙的。
 
- Adventurer: Well, lets change the subject, can we? ... Just what do you carry? I can't see anything ... like a weapon, I mean ...
+ 冒險者：好吧，我們換個話題，行嗎？……你到底帶了什麼？我什麼都看不見……我是說，像武器之類的……
 
- Contessa: Here, let me show you ...
+ 女伯爵：來，讓我給你看……
 
- Adventurer: Oh my, those are nice ... knives...
+ 冒險者：噢我的，那些真漂亮……刀子……
 
- Contessa: And there're more ...
+ 女伯爵：還有更多……
 
- Adventurer: Oh yes ...
+ 冒險者：噢是的……
 
- Contessa: But we don't need these silly nasty weapons now, do we?
+ 女伯爵：可我們現在不需要這些無聊討厭的武器了，對吧？
 
- Adventurer: My, my -- now those are what I call weapons ... Oh yes ... heavy duty, high class ones too, my ...
+ 冒險者：我的天——那些才叫武器……噢是的……重型的、高級貨，我的……
 
- Contessa: I think its time that we put that ebony to the test ... to say nothing of your Mages Staff ...
+ 女伯爵：我想是時候讓那烏木接受考驗了……更別提你的法師杖……
 
- Prologue: At this point, extensive material has been removed. However, please remember that any scholar who truly wishes to peruse this material can obtain a copy for only 50 g.p. - hand-drawn illustrations are of course extra. The Contessa, after a bit of fun, volunteers to be a part of the Adventurer's party to find the fools' ebony lode. I know, I know. It didn't make much sense in the original draft either, if you want to know the truth.
+ 開場白：至此，大量材料已被刪除。不過請記住，任何真正想細讀這些材料的學者，只需五十金幣便可取得抄本——手繪插圖當然另計。女伯爵玩過一陣之後，自願加入冒險者的隊伍，去尋找愚人烏木礦脈。我知道，我知道。原草稿裡這也不太說得通，若你想聽實話。
 
- (Exit Prologue)
+ （開場白下）
 
- Adventurer: Sure you want to go out there in the wilds?
+ 冒險者：你確定想去野外？
 
- Contessa: Oh, yes. I am so bored here. Well, not right here and now, but generally. And I can really be of assistance. I'm pretty good with woods survival, knife work, hand-to-hand ... and it gets cold out there at night, even for big ebony-wearing men like you ...
+ 女伯爵：噢，是的。我在這兒無聊死了。嗯，不是此時此地，而是大體上。而且我真的能幫忙。我相當擅長林中求生、刀術、徒手格鬥……而且那兒夜裡很冷，即使對你這種戴滿烏木的大男人……
 
- Adventurer: All right, then. Do you know where and why we are going?
+ 冒險者：那好吧。你知道我們要去哪、為什麼去嗎？
 
- Contessa: Oh, of course. It's all over Daggerfall. Everyone is watching and waiting to see what happens. There is even a lottery or two running ...
+ 女伯爵：噢，當然。全匕首雨都傳開了。人人都在看、在等，看會發生什麼。甚至有一兩場彩正在開……
 
- Adventurer: On what ..?
+ 冒險者：賭什麼……？
 
- Contessa: Oh, your life.
+ 女伯爵：噢，你的命。
 
- Adventurer: Oh dear Oh dear! Oh my!
+ 冒險者：噢親愛的噢親愛的！噢我的天！
 
- Contessa: Look, don't worry -- I know all about the double-dealings with mages, priests, merchants, those crude armorers. And I intend that we come out on top. I love being on top. With the goods and the profits. I'll have yet another vice to sell to my stupid relatives in their boring palaces.
+ 女伯爵：聽著，別擔心——我全知道你跟法師、祭司、商人、那些粗鄙鑄甲師的雙面交易。而且我打算讓我們勝出。我喜歡在上面。帶著貨物和利潤。我又會多一種惡習賣給宮裡那些無聊的蠢親戚。
 
- Adventurer: But won't it be us two against hordes?
+ 冒險者：可那不會是我們兩個對上大群人嗎？
 
- Contessa: Oh no. Most everyone is waiting here in town to see what and who comes back. And I will have a surprise arranged for our 'escorts' - Ortho included. Out in the wilderness, they can be dealt with easily.
+ 女伯爵：噢不會。大多數人都在城裡等著看什麼人、什麼東西回來。而我會為我們的「護送者」安排一個驚喜——包括奧索。到了荒野，他們很容易對付。
 
- (Ortho snores)
+ （奧索打鼾）
 
- Adventurer: Tell me more.
+ 冒險者：再說仔細點。
 
- Contessa: Certainly. But first ... lets see how many uses you have left in that ebony. Mmm, your Mages' Staff is in good shape ...
+ 女伯爵：當然。但首先……讓我們看看那烏木還剩多少用途。嗯，你的法師杖狀況良好……
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: Exactly. Sorry to interrupt again, but we're going to have to stop this scene right here. After a frenzied night comes the placid dawn, tripping onto the sky like a budding rose. And then another day doth dawn, and then another. Ten dawns and ten frenzied nights pass as our wily Adventurer, the wanton Contessa, the clever and naughty Nephron, the loutish Ortho, and an assemblage of randy armorers and backsliding maidens take to the road. Imagine now that we are in the wildy wilderness of High Rock near the Wrothgarian Mountains.
+ 開場白：正是如此。抱歉又打斷，但我們得在此結束這一場。狂亂的一夜之後是平靜的黎明，如含苞玫瑰踏上天空。然後又一個白晝降臨，然後又一個。十個黎明與十個狂亂的夜晚過去，我們狡猾的冒險者、放蕩的女伯爵、聰明而淘氣的奈夫隆、粗鄙的奧索，以及一群好色的鑄甲師與墮落的少女上路了。現在請想像我們身在高岩荒野、靠近沃斯加里安山脈之處。
 
- Scene 2
+ 第二場
 
- (Enter Nephron and assorted lads and lasses)
+ （奈夫隆與各色少男少女上）
 
- (Exit Prologue)
+ （開場白下）
 
- Contessa: I do so love a bucolic frolic.
+ 女伯爵：我真喜歡鄉野嬉遊。
 
- Adventurer: It's getting pretty wild now. I guess the dangerous part is coming up tomorrow...?
+ 冒險者：現在愈來愈荒了。我猜危險的部分明天就要來了……？
 
- Contessa: Yes, one last stop tonight, at that old inn up here -- Minnie's Inn.
+ 女伯爵：是的，今晚最後一站，在上頭那家老旅店——明妮旅店。
 
- Adventurer: Minnie's Inn? Oh, those two old scholars who gave it all up, came to run the inn out here. they must get all of two customers a year.
+ 冒險者：明妮旅店？噢，那兩個放棄一切、跑來這兒開旅店的老學者。他們一年大概有兩個客人。
 
- Contessa: I think they like the solitude. It gives them time to study. They know a lot about old Dwarvish stuff -- get them started on that, they will wear you ears out.
+ 女伯爵：我想他們喜歡獨處。給他們時間研究。他們對古矮人的東西知道很多——一讓他們談起來，會把你的耳朵磨穿。
 
- Adventurer: Er ... when does your surprise happen? I should probably know.
+ 冒險者：呃……你的驚喜什麼時候發生？我大概該知道。
 
- Contessa: Don't fret, dear. At the Inn tonight. Just sit back and enjoy the show.
+ 女伯爵：別煩，親愛的。今晚在旅店。坐好欣賞表演就行。
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: Time passes, the carts roll, things happen in the backs of the carts. And there are strange furtive movements unnoticed by all, on the high ridges around. When next we see our players, they are at Minnie's Inn, home of Minnie and Crunn, the philosopher- innkeeps. Imagine, if you will, the rather dusty dining room of Minnie's Inn.
+ 開場白：時間流逝，馬車滾動，馬車後廂裡發生了一些事。而高處山脊上有奇怪鬼祟的動靜，無人察覺。下次我們再見到演員時，他們已在明妮旅店，明妮與克朗這對哲學家旅店老闆的家。請想像——若你願意——明妮旅店那相當積塵的餐廳。
 
- (Enter Minnie, Crunn, and Gurnsey)
+ （明妮、克朗與格恩西上）
 
- (Exit Prologue)
+ （開場白下）
 
- (Gurnsey goes to Orthos' table with more ale for him. She sits down suddenly. She stares into Orthos' eyes, Ortho stares into hers. Mouths drop open.)
+ （格恩西走向奧索的桌子，為他再添麥酒。她突然坐下。她盯進奧索的眼，奧索盯進她的眼。嘴巴張開。）
 
- Minnie: ... er ... Crunn ...
+ 明妮：……呃……克朗……
 
- Crunn: ... yes ... Minnie ...
+ 克朗：……是的……明妮……
 
- Minnie: ... I was thinking ...
+ 明妮：……我在想……
 
- Crunn: ... yes, you were thinking, Minnie ...
+ 克朗：……是的，你在想，明妮……
 
- Minnie: ... er .... thinking ...
+ 明妮：……呃……在想……
 
- Crunn: ... yes ...so was I ....
+ 克朗：……是的……我也是……
 
- Minnie: ... can't remember now ...
+ 明妮：……現在記不得了……
 
- Crunn: ... yes, Minnie ... Minnie ...
+ 克朗：……是的，明妮……明妮……
 
- Minnie: ... Yes ..?
+ 明妮：……什麼……？
 
- Crunn: ... Shut up ...
+ 克朗：……閉嘴……
 
- Gurnsey and Ortho (Together): Moo ... oooh ... moo.
+ 格恩西與奧索（齊）：哞……噢……哞。
 
- Adventurer: Moo?
+ 冒險者：哞？
 
- Contessa: See, Adventurer, Ortho's fixed.
+ 女伯爵：看，冒險者，奧索搞定了。
 
- Adventurer: Is he?
+ 冒險者：是嗎？
 
- Contessa: You just watch.
+ 女伯爵：你看著就好。
 
- Adventurer: And what about the other armorers?
+ 冒險者：那其他鑄甲師呢？
 
- Contessa: Any minute now.
+ 女伯爵：隨時都會。
 
- (Ortho and serving girl arise, approach Adventurers' table. The floor shakes.)
+ （奧索與女侍起身，走向冒險者的桌子。地板震動。）
 
- Ortho: This Gurnsey. Ortho love Gurnsey, oooh.
+ 奧索：這格恩西。奧索愛格恩西，噢噢。
 
- Gurnsey: Gurnsey love Ortho ... moo ...
+ 格恩西：格恩西愛奧索……哞……
 
- Ortho: We go get marry, we is.
+ 奧索：我們去結婚，我們是。
 
- Adventurer: Well, congratulations! And that was a fine long speech, Ortho!
+ 冒險者：好，恭喜！奧索，這可是一篇挺長的精彩演說！
 
- Ortho: We go raise piggies.
+ 奧索：我們去養小豬。
 
- Gurnsey: Grows animals too, farmers be we.
+ 格恩西：也種動物，我們當農夫。
 
- (Exit Ortho and Gurnsey)
+ （奧索與格恩西下）
 
- Adventurer: Extraordinary. Ave, I think that you must have been up here before.
+ 冒險者：非凡。阿維，我想你以前一定來過這兒。
 
- Contessa: Oh yes. I often come up here to get away from the Palace and talk dwarves with Minnie and Crunn.
+ 女伯爵：噢是的。我常來這兒遠離王宮，跟明妮和克朗談矮人。
 
- Adventurer: You mean that these two ancient ... er, Scholar-Inn Keeps can actually talk and about dwarves?
+ 冒險者：你是說這兩個古老的……呃，學者旅店老闆真的能說話，還能談矮人？
 
- (All but Adventurer, Contessa, Minnie, and Crunn fall asleep in their meat pies.)
+ （除冒險者、女伯爵、明妮與克朗外，全員在肉派裡睡著。）
 
- Contessa: Oh yes, you must just be very patient. But look over at our other escorts ...
+ 女伯爵：噢是的，你只須非常有耐心。可看看我們其他護送者……
 
- Adventurer: By the Lady!
+ 冒險者：以女神之名！
 
- Contessa: Minnie was an Alchemist before she met Crunn, and knows a lot of old forgotten Dwarvish potions.
+ 女伯爵：明妮遇見克朗之前是煉金術士，知道許多被人遺忘的古矮人藥劑。
 
- Adventurer: But what do we do with the bodies?
+ 冒險者：可屍體怎麼辦？
 
- Contessa: Wait ...
+ 女伯爵：等著……
 
- (Enter Major)
+ （少校上）
 
- Contessa: Adventurer, meet Major Bloodnok, head of my own ...private little bodyguard. He's been with me since I was a mere girl. Served me very well, haven't you, Major?
+ 女伯爵：冒險者，見見布拉德諾克少校，我自己的……小小私人衛隊首領。從我還是小女孩他就跟著我。把我伺候得很好，對吧，少校？
 
- Major: We give our all, milady.
+ 少校：我們鞠躬盡瘁，夫人。
 
- Adventurer: Pleased to meet you, Major.
+ 冒險者：很高興認識你，少校。
 
- Contessa: How are my other men?
+ 女伯爵：我其餘的人呢？
 
- Adventurer: (aside) Other men?
+ 冒險者：（旁白）其餘的人？
 
- (Enter Other Men in Khajiit suits)
+ （其他穿卡吉特裝的人上）
 
- Major: All present and accounted for, milady. Had a spot of bother with what looked like a party of Merchants following you. But they are out of the picture now, down a ravine. Only one thing.
+ 少校：全員到齊，夫人。跟一隊像是跟在你們後面的商人有點麻煩。但他們現在不在畫面裡了，掉進峽谷了。只有一件事。
 
- Contessa: Yes?
+ 女伯爵：什麼？
 
- Major: Me and my men, we've been noticing sort of furtive movements, up on cliffs, on ridges -- always just out of the corners of our eyes. And we keep getting this feeling of being watched. Now, me and my men, we're the best but there's something out there. Don't like it, not one bit.
+ 少校：我和我的人，一直注意到有點鬼祟的動靜，在懸崖上、山脊上——總是在眼角邊緣。而且我們一直有被監視的感覺。聽著，我和我的人是最優秀的，但外頭有什麼東西。不喜歡，一點也不。
 
- Contessa: Oh Dear - and just when it was getting to be fun.
+ 女伯爵：噢親愛的——正好玩起來的時候。
 
- Major: Its not anything human. Not Mages, Armorers, Priests. And its not the usual werewolves, harpies, orcs, daedra. Nothing like that, not at all.
+ 少校：那不是人類。不是法師、鑄甲師、祭司。也不是尋常的狼人、鷹身女妖、獸人、迪德拉。完全不是那一類。
 
- Minnie: Dwarves!
+ 明妮：矮人！
 
- Crunn: Where? ... oh ... Minnie ... you mean ... up ... there ... here ...
+ 克朗：在哪？……噢……明妮……你是說……上面……那兒……這兒……
 
- Minnie: ... Dwarves, up there ...
+ 明妮：……矮人，在上面……
 
- Crunn: ... How exciting ... mmmm ...
+ 克朗：……多令人興奮……嗯嗯……
 
- Minnie: ... There, there, Crunn, calm down ... just dwarves ... I knew that one day they would ...
+ 明妮：……好了好了，克朗，冷靜……只是矮人……我就知道有一天他們會……
 
- Crunn: ... Wake up ..?
+ 克朗：……醒來……？
 
- Minnie: ... Come back ...
+ 明妮：……回來……
 
- Crunn: ... But ... I didn't go anywhere ...
+ 克朗：……可是……我哪也沒去……
 
- Minnie: ... The dwarves, Crunn ...
+ 明妮：……矮人啊，克朗……
 
- Crunn: ... Oooh ... Back ... So excited ... Dwarves! ... oooh ...
+ 克朗：……噢噢……回來……太興奮了……矮人！……噢噢……
 
- Contessa: Well Major, is it possible?
+ 女伯爵：那麼少校，有可能嗎？
 
- Major: Anything's possible, especially up here. Dwarves? I don't know. Me and my men, we'll get rid of this lot. There's a good deep mine shaft out back.
+ 少校：什麼都有可能，尤其在這兒。矮人？我不知道。我和我的人，會把這批處理掉。後面有口夠深的礦井。
 
- (Exit All, but the Adventurer and Contessa)
+ （全員下，只留冒險者與女伯爵）
 
- Adventurer: Dwarves, Ave! Is that trouble? I mean, they sort of own all the ebony down here, don't they?
+ 冒險者：矮人，阿維！那會有麻煩嗎？我是說，他們差不多擁有這下面所有的烏木，不是嗎？
 
- Contessa: Maybe. I guess we just have to push on, see what develops. I can try to talk to them, maybe? Oh, and Adventurer, you'll have to drive the first cart. I'll take old Nephron's. We'll leave the other here -- Spares for later.
+ 女伯爵：也許。我想我們只能繼續推進，看事態如何發展。我可以試著跟他們談，也許？噢，還有冒險者，你得趕第一輛車。我趕老奈夫隆的。其餘的留在這兒——以後當備用。
 
- Adventurer: What, no more bucolic frolics?
+ 冒險者：什麼，不再鄉野嬉遊了？
 
- Contessa: Sorry, but we've got to get to the site and out again before the weather goes bad.
+ 女伯爵：抱歉，但我們得在天氣變壞之前趕到現場再出來。
 
- Adventurer: Can't your Major and his men, handle the carts?
+ 冒險者：你的少校和他的人不能趕車嗎？
 
- Contessa: Oh, no. They will cover us from all sides and make certain there are no surprises.
+ 女伯爵：噢，不行。他們會從四面掩護我們，確保沒有意外。
 
- Adventurer: Oh well. All good things end, I guess.
+ 冒險者：唉。美好的事物總會結束，我猜。
 
- Contessa: Not quite. If you have any charges left in your bracelets of endurance, we can go upstairs and see what develops.
+ 女伯爵：不完全是。若你的耐久手鐲還有電荷，我們可以上樓去，看事態如何發展。
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: Well, I guess we all saw that coming. Scene 3 takes place some time later at the site. Flanked by the Major's men, the Adventurer and the Wanton Contessa successfully follow the map of the dear, departed mages. Imagine great veins of glistening ebonyesque material piercing the surface of the ground, and a nice warm fire of Fools Ebony where the Adventurer and the Contessa sprawl. To the west are signs that the weather is turning and the first major snowstorm of the year is coming. For some time, they have been mining and the Adventurer is beginning to feel the strain of actual labor.
+ 開場白：好吧，我想我們都看出來了。第三場發生在稍後的現場。在少校部下的兩翼掩護下，冒險者與放蕩女伯爵成功跟隨已故親愛法師們的地圖。請想像巨大的烏木狀礦脈刺出地表，以及一堆愚人烏木燃起的溫暖火堆，冒險者與女伯爵躺在旁邊。西邊有跡象顯示天氣正在轉變，今年第一場大雪將至。他們開採了一段時間，冒險者開始感到真正勞動的壓力。
 
- (Exit Prologue)
+ （開場白下）
 
- Scene 3
+ 第三場
 
- Adventurer: I've got blisters on my hands from shovelling that black rot, blisters on my rear from that cart bench, and we are running out of ale. My bracelet is running down and my fingers are getting frostbite.
+ 冒險者：鏟子鏟那黑腐爛物鏟出水泡，馬車板凳磨得我臀部起泡，麥酒也快沒了。我的手鐲快沒電，手指開始生凍瘡。
 
- Contessa: What, your bracelet is running down? Oh, now that is serious.
+ 女伯爵：什麼，你的手鐲快沒電了？噢，那可嚴重了。
 
- (Enter Major, running)
+ （少校上，奔跑）
 
- Major: Dwarves! Milady, dwarves, dozens of the little buggers caught my men! I'm sorry, milady.
+ 少校：矮人！夫人，矮人，幾十個小傢伙抓住了我的人！抱歉，夫人。
 
- (The Contessa jumps to her feet)
+ （女伯爵跳起）
 
- Contessa: Major, get out of here now. If you get away, you can maybe help us later. I'll try to talk to them.
+ 女伯爵：少校，現在就離開這兒。若你逃掉，或許以後能幫我們。我試著跟他們談。
 
- (Exit Major)
+ （少校下）
 
- (Enter Dwarves)
+ （矮人上）
 
- Contessa: Hhjgys jjvvu klpss Jjqqx zzyzx.
+ 女伯爵：Hhjgys jjvvu klpss Jjqqx zzyzx.
 
- Dwarves (Together): Jjpoo Kalagloo gashnoo bibloo franoo Xxnadoo
+ 矮人（齊）：Jjpoo Kalagloo gashnoo bibloo franoo Xxnadoo
 
- Contessa: Jnik? Balpo?
+ 女伯爵：Jnik? Balpo?
 
- Dwarves (Together): Gabloo! Wazzikoo! Eppapupu!
+ 矮人（齊）：Gabloo! Wazzikoo! Eppapupu!
 
- Contessa: Glooky, glooky, glooky.
+ 女伯爵：Glooky, glooky, glooky.
 
- Adventurer: Ave, whats going on?
+ 冒險者：阿維，怎麼回事？
 
- Contessa: Relax. I think I've impressed them by talking their language. I don't understand everything, but it seems that they have only just 'woken up' or something. And that they will not let us take any of this Fool's Ebony -- it's somehow related to the real stuff or something. And it really belongs to the Lords of Oblivion -- the Dwarves are just care or something.
+ 女伯爵：放鬆。我想我用他們的語言說話給他們留下了印象。我不是全都懂，但似乎他們才剛「醒來」或什麼的。而且他們不讓我們帶走任何愚人烏木——它不知怎的跟真貨有關或什麼的。而且它其實屬於湮滅的領主們——矮人只是看管或什麼的。
 
- Adventurer: Very interesting. Now, what about us?
+ 冒險者：很有趣。那我們呢？
 
- Contessa: I made a deal with them the only way I could see. I told them about Minnie and Crunn, how those two old ones know lots of dwarven tales and legends. The dwarves tells me that, having just 'woken up' or something, they want three things -- ale, women, and us to leave the Fools' Ebony alone.
+ 女伯爵：我用我能想到的唯一辦法跟他們成交。我告訴他們明妮和克朗的事，那兩個老人知道許多矮人傳說。矮人告訴我，才剛「醒來」或什麼的，他們要三樣東西——麥酒、女人，以及我們別碰愚人烏木。
 
- Adventurer: Ah, flog my log.
+ 冒險者：啊，抽我的木頭。
 
- Contessa: Well, I told them about all the ale down at Minnie's Inn. And about the 2 redheads there. They are going there, leaving right now. We may take one empty cart, 2 horses. And they will keep us guarded all the way there. They also said that they will -- I don't know how -- destroy all the Fool's Ebony here. It shouldn't be on the surface like this, they say.(aside) Dwarvish is a remarkably compact language.
+ 女伯爵：嗯，我告訴他們明妮旅店下面有的是麥酒。還有那兒的兩個紅髮。他們要去那兒，現在就走。我們可以帶走一輛空車、兩匹馬。他們會一路看守我們到那兒。他們還說會——我不知道怎麼做——摧毀這兒所有的愚人烏木。他們說它不該像這樣露出地表。（旁白）矮語是種相當精煉緊湊的語言。
 
- Adventurer: By the great roaring buttocks of Sheogorath! All these blisters and backache for nothing! Ah well. At least we are still alive. For now ...
+ 冒險者：以謝古拉特那咆哮的大屁股發誓！這些水泡和背痛全白費了！唉。至少我們還活著。目前……
 
- (Exeunt)
+ （同下）
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: Farnoo Lickety Kanoo Gadfloo. Oh, I'm terribly sorry. As Scene 4 begins, we are back at Minnie's Inn, where the dwarves appear to be on holiday.
+ 開場白：Farnoo Lickety Kanoo Gadfloo。噢，非常抱歉。第四場開始時，我們回到明妮旅店，矮人似乎在度假。
 
- (Enter the Adventurer, the Wanton Contessa, Minnie, Crunn, and Dwarves)
+ （冒險者、放蕩女伯爵、明妮、克朗與矮人上）
 
- (Exit Prologue)
+ （開場白下）
 
- Scene 4
+ 第四場
 
- Minnie: ... ga ... sszx ... spnoo? ...
+ 明妮：……ga……sszx……spnoo？……
 
- Crunn: ... glurky ...
+ 克朗：……glurky……
 
- Dwarves (Together): Jotcha potchka lazzo lanni joopy hoopy qui me amat, amat et canem meam
+ 矮人（齊）：Jotcha potchka lazzo lanni joopy hoopy qui me amat, amat et canem meam
 
- Adventurer: Ave, any ideas? I can't seem to work my magical items. And when the ale runs out ...
+ 冒險者：阿維，有主意嗎？我好像用不了魔法物品了。等麥酒喝完……
 
- Contessa: Your ebony material is useless against them. Dwarves fashion the ebony, so I guess they can suppress it or something. Don't worry - just think, these dwarves have been asleep or something for hundreds of years. And Minnie has a huge stock of ale. Not many customers come this way, and she knows how to salt the ale just right to keep from spoiling for decades.
+ 女伯爵：你的烏木材料對他們沒用。矮人打造烏木，所以我猜他們能壓制它或什麼的。別擔心——只要想想，這些矮人已經沉睡或什麼了幾百年。而明妮有巨大的麥酒庫存。這條路沒多少客人，她知道怎麼恰到好處地給麥酒加鹽，能保存幾十年不壞。
 
- Adventurer: Oh, that's why my tongue always looks like a chunk of leather after a pint or two.
+ 冒險者：噢，所以喝一兩品脫後我的舌頭總像一塊皮革。
 
- Contessa: Dwarves apparently love ale. I expect them all to pass out in an hour or so.
+ 女伯爵：矮人顯然愛麥酒。我預料他們一個時辰左右全會醉倒。
 
- (Dwarves fall into comas)
+ （矮人陷入昏迷）
 
- Contessa: If not sooner. Come on, Adventurer. Grab a sack and start collecting! When the dwarves wake up, they'll finish the ale, and then us.
+ 女伯爵：若不更快的話。來，冒險者。抓個袋子開始蒐集！等矮人醒來，他們會喝完麥酒，然後解決我們。
 
- (The Wanton Contessa and Adventurer pillage the dwarves)
+ （放蕩女伯爵與冒險者洗劫矮人）
 
- Adventurer: South, as fast as our horses will take us in this weather.
+ 冒險者：往南，在這天氣裡能跑多快就多快。
 
- Contessa: If we make enough distance before they wake up, we'll be all right - I don't think that they will leave their precious mountains. I hope not.
+ 女伯爵：若我們在他們醒來前拉開足夠距離，就會沒事——我不認為他們會離開他們寶貴的山脈。希望不會。
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: The wailing wintery wind whirls wickedly, wafts whipping, wading waist-high, oh never mind. The Adventurer and the Contessa get lost in the snow storm. Several days later, we find them desperate for warmth and exhausted.
+ 開場白：哀號的冬風邪惡地旋轉，吹拂鞭打，齊腰涉過，噢算了。冒險者與女伯爵在暴風雪中迷路。數日後，我們發現他們急需溫暖、精疲力竭。
 
- (Exit Prologue)
+ （開場白下）
 
- Adventurer: The horses have had it. They can't go another step and its going to snow again. No ale left, and just one loaf.
+ 冒險者：馬不行了。它們一步也走不動，而且又要下雪。麥酒沒了，只剩一條麵包。
 
- Contessa: It will have to do.
+ 女伯爵：那就將就吧。
 
- (Suddenly, a party of giants leaps on our hero and heroine. But after some quick work with Bracers of Firestorm, really dead giants lie around in heaps)
+ （突然，一隊巨人撲向我們的英雄與女英雄。但憑火焰風暴護腕一陣快工，真正死去的巨人成堆躺著）
 
- Adventurer: Anything left, Ave?
+ 冒險者：還剩什麼嗎，阿維？
 
- Contessa: No, no more fire anything - just my daggers
+ 女伯爵：沒了，再也沒有火焰類的了——只剩我的匕首
 
- Adventurer: Same here, just a common shortsword. Curse Sheogorath for those dwarves! Those oafs chewed up our horses! Do you think the Major made it out?
+ 冒險者：我也一樣，只剩一把普通短劍。詛咒那些矮人的謝古拉特！那些笨蛋把我們的馬咬了！你覺得少校逃出去了嗎？
 
- Contessa: If anyone can, it's him. Guess we'll find out in town. Interesting thought just occured [sic] to me. Don't giants hunt in several groups? Is that more I hear?
+ 女伯爵：若有人能，就是他。我想我們進城就知道了。剛想到一件有趣的事。巨人不都是分成幾群打獵嗎？我是不是又聽見了？
 
- (sound of grumbling and gargling offstage)
+ （台側傳來咕噥與漱口聲）
 
- Adventurer: Yes, there are more giants out there. Quick, Ave. Help me with this one.
+ 冒險者：是的，外頭還有更多巨人。快，阿維。幫我弄這個。
 
- (The Adventurer starts to disembowel a giant's body)
+ （冒險者開始剖開一具巨人的肚子）
 
- Contessa: What on Tamriel are you doing? This is not the time for studying anatomy!
+ 女伯爵：你到底在泰姆瑞爾幹什麼？現在可不是研究解剖的時候！
 
- Adventurer: Don't argue, climb inside!
+ 冒險者：別爭了，爬進去！
 
- Contessa: Poppydash and Baldercock! Inside that smelly dead giant? My dear Adventurer, I'm a Lady.
+ 女伯爵：一派胡言！進那發臭的死巨人裡面？我親愛的冒險者，我可是淑女。
 
- Adventurer: It's our only hope! The giant smell will hide our scent, and live giants never touch dead ones. Quick!
+ 冒險者：這是我們唯一的希望！巨人的氣味會掩蓋我們的氣味，活巨人從不碰死的。快！
 
- (The Adventurer and the Contessa climb inside the steaming giant's body)
+ （冒險者與女伯爵爬進熱氣騰騰的巨人身體）
 
- Adventurer: Here, help me pull the skin shut - and try not to throw up. Don't make a sound.
+ 冒險者：來，幫我把皮拉上——試著別吐。別出聲。
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: A few hour pass.
+ 開場白：幾個時辰過去。
 
- (Exit Prologue)
+ （開場白下）
 
- (The Adventurer and the Wanton Contessa poke their heads out of the giant's belly.)
+ （冒險者與放蕩女伯爵從巨人肚子裡探出腦袋。）
 
- Adventurer: They've all left, but it's snowing hard. Definitely getting real cold. We better stay here.
+ 冒險者：他們全走了，可雪下得很大。顯然真的愈來愈冷。我們最好待在這兒。
 
- Contessa: It indeed is warm.
+ 女伯爵：確實很暖。
 
- Adventurer: It will keep us warm, safe from the storm and giants, for a day or soif we can stand the smell. Here, want some bread?
+ 冒險者：它能讓我們保暖，避開暴風雪和巨人，一天左右，若我們受得了這氣味。來，要麵包嗎？
 
- (The Contessa falls victim to nausea)
+ （女伯爵不敵噁心）
 
- (Enter Prologue)
+ （開場白上）
 
- Prologue: For this, the last scene of the play, please forgive us, but we need to change the set. Remove the "giant corpses" and what not. Please be patient while our bard performs the timeless classic "Whither Goest Thou?"
+ 開場白：為了這齣戲的最後一場，請原諒我們，但我們需要更換佈景。移除「巨人屍體」之類。請耐心等候我們的吟遊詩人演奏永恆經典〈汝往何方？〉
 
- (Bard plays "Whither Goest Thou?" If the scenarists take too long, he also plays "For Further Consideration.")
+ （吟遊詩人演奏〈汝往何方？〉。若佈景師花太久，他也演奏〈容後再議〉。）
 
- Prologue: Ah, here we are, back at the Dead Daedra Inn. The Contessa and the Adventurer made it, after all. They had to pay three times the normal rate, for they were very dirty and stinky. Now poor Prologue will bid you farewell, goodly people.
+ 開場白：啊，我們回到死迪德拉旅店。女伯爵與冒險者畢竟還是做到了。他們得付三倍的常規房價，因為他們非常髒、非常臭。現在可憐的開場白將向你們道別，善良的人們。
 
- Scene 6
+ 第六場
 
- Contessa: Thank the Gods for hot water and soap! I thought I would smell like a giant forever.
+ 女伯爵：感謝諸神有熱水與肥皂！我還以為會永遠有巨人味。
 
- Adventurer: Me too. Where did you go while I was bathing? And why no mages, priests, armorers, or merchants outside yelling for our blood?
+ 冒險者：我也是。我洗澡時你去哪了？而且為什麼外頭沒有法師、祭司、鑄甲師或商人喊著要我們的血？
 
- Contessa: I took a quick trip to the Palace. I've fixed it so some cousins have told the armorers and merchants that we don't have cartloads of the Fools' Ebony.
+ 女伯爵：我去王宮走了一趟。我安排了一些表親告訴鑄甲師和商人，我們沒有整車的愚人烏木。
 
- Adventurer: Pity that that's actually true.
+ 冒險者：可惜那其實是真的。
 
- Contessa: But at least no one's interested in us anymore. Seems that some priests turned up dead in an old temple, up on Edward's Mountain. They were found with some girl, all dead from 'bad green powder' or something. And some old mages named Shub have gone missing ...
+ 女伯爵：但至少沒人再對我們感興趣了。似乎有些祭司在愛德華山之上一座舊神殿裡被發現死了。他們跟某個女孩在一起，全死於「壞綠粉」或什麼的。還有幾個叫舒布的老法師失蹤了……
 
- Adventurer: Now then, what did you stuff in those sacks thats so important?
+ 冒險者：那麼，你塞進那些袋子裡那麼重要的是什麼？
 
- Contessa: Here, dump them out, take a look.
+ 女伯爵：來，倒出來，看看。
 
- Adventurer: By the Gods, just look at that!
+ 冒險者：以諸神之名，看看那個！
 
- Contessa: Yes, those dwarves were just loaded with ebony. Look. Rings, torcs, bracers, belts, helms All solid old ebony.
+ 女伯爵：是的，那些矮人滿載烏木。看。戒指、項圈、護腕、腰帶、頭盔。全是堅實的古烏木。
 
- Adventurer: And this stuff feels just loaded with magicka. Why, I bet that this ring alone has a thousand uses... whatever it does.
+ 冒險者：而且這東西感覺滿載魔力。嘿，我敢打賭單這枚戒指就有一千次用途……不管它做什麼。
 
- Contessa: Ooh! Look! Bracers of Extreme Endurance and a Belt of Strength! Put them on, Adventurer, let's celebrate!
+ 女伯爵：噢！看！極致耐久護腕和力量腰帶！戴上，冒險者，讓我們慶祝！
 
- Adventurer: (aside) Help!
+ 冒險者：（旁白）救命！
 
- Enter Epilogue
- Epilogue: As I feared, all the loose threads of the play were ended by wholesale slaughter. More of the adventures of the Adventurer will follow, unless, of course, they don't. We thank you for your tempered patience. Don't forget to tip your worthy wenches on your way out this evening, and enjoy our bard's rendition of the Khajiiti classic, "It's A Matter of Luck." Goodnight.
+ 收場白上
+ 收場白：如我所懼，這齣戲所有鬆散的線頭都以大規模屠殺收場。冒險者更多的冒險將接續，除非，當然，它們不接續。感謝各位有節制的耐心。別忘了今晚離開時給可敬的女侍小費，並欣賞我們吟遊詩人演唱的卡吉特經典〈事關運氣〉。晚安。
 
- (Flourish)
+ （樂聲）
 
- (Exeunt Omnes)
+ （全員下）

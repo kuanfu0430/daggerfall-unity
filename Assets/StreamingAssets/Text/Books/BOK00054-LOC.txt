@@ -1,5 +1,5 @@
-Title: The Sage
-Author: Aegrothius Goth
+Title: 賢者
+Author: 艾格羅修斯·戈斯
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,46 +8,46 @@ Content:
 
 [/font=2]
 
-[/center]The Sage
+[/center]賢者
 
 [/font=4]
 
- Crackle, snap, hiss ... Flicker, bright, dim ... The fire in the hearth provides light and heat. Neither seem to affect the old man. His reclining figure stares into the flames and flames reflect back from his deep dark eyes. Indigo blue robes reflect and yet absorb the firelight and highlights of golden threads twinkle as the flames flicker. His beard and hair are long and snowy white; in the firelight they almost appear to be ethereal like that of a godling. At his side is a tall pointed hat which is the same color as his robe and also twinkles with highlights of gold. The face is lined with age, yet almost appears youthful; wisdom and intellect exude from his personage. This is the Sage who is known in all of Tamriel as the champion and counselor to all users of magic. His thoughts wander, and he remembers ...
+  劈啪、爆裂、嘶嘶……閃爍、明亮、昏暗……爐中的火提供光與熱。兩者似乎都不影響那老人。他斜倚的身影凝視火焰，火焰又從他深暗的眼中反射回來。靛藍藍袍既反射又吸收火光，金線的亮點隨火焰閃爍而閃爍。他的鬍鬚與頭髮又長又雪白；在火光裡幾乎顯得空靈，像神嗣一般。他身旁是一頂高尖帽，顏色與袍子相同，也閃著金光。那張臉布滿歲月的紋路，卻幾乎顯得年輕；智慧與才智從他整個人散發出來。這就是賢者，在全泰姆瑞爾被稱為所有魔法使用者的擁護者與顧問。他的思緒遊走，他記得……
 
-[/center]...
+[/center]……
 
- Gyron Vardengroet was born to a poor and humble Breton family in the village of Moonguard. The only child of Frieda and Horstle Vardengroet entered life during a rare eclipse of Tamriel's moons. It was soon apparent that he was unusually gifted in the magical arts. He was found levitating the family dog when he was only a year old. Most Bretons have a great talent for magic, but as he grew Gyron displayed a talent far greater than that of his peers. The village wizard began to take an interest in young Gyron and soon took him under his wing. In spite of the young man's proclivities for being rowdy, the old Wizard Grungdingler liked him and worked hard to teach him the magical arts to the extent of his own skills.
+  蓋隆·瓦登格羅特生於月衛村一個貧窮謙卑的布萊頓家庭。弗里達與霍斯特爾·瓦登格羅特唯一的孩子，在泰姆瑞爾雙月一次罕見的蝕中降生。很快就顯而易見，他在魔法技藝上天賦異常。才一歲，他就被發現讓家裡的狗漂浮起來。多數布萊頓對魔法有大才，可隨著長大，蓋隆展現的天賦遠超同儕。村裡的巫師開始對年輕的蓋隆產生興趣，很快把他收在翼下。儘管這年輕人有愛吵鬧的傾向，老巫師格隆丁格勒喜歡他，努力盡自己的本事教他魔法技藝。
 
- Finally the day came when Grungdingler could teach Gyron no more. The young mage had surpassed his master, and he was somewhat unsettled with the apprentice mage's questions about life, death and immortality. Grundingler called Gyron to him and gave him a letter addressed to Morkledder, the Guildmagister of the Mages Guild in Shornhelm. The young mage told his parents of his fortune, packed his meager belongings, and set out for the journey to Shornhelm. After many months of travel through the foothills of the Kurallian Mountains, Gyron arrived at the gates to the great City-State of Shornhelm high in the mountainous terrain of High Rock.
+  終於有一天，格隆丁格勒再也教不了蓋隆什麼。年輕法師已超越師傅，而他對生命、死亡與不朽的問題，也讓師傅有些不安。格隆丁格勒把蓋隆叫來，給了他一封寫給肖恩赫姆法師公會公會法師長莫克雷德的信。年輕法師把這好運告訴父母，收拾微薄的行李，出發前往肖恩赫姆。經過庫拉利安山脈山麓許多個月的旅行，蓋隆抵達高岩山區那偉大城邦肖恩赫姆的城門。
 
- After the life of a quiet Breton village, Shornhelm was a wonder to Gyron. He explored the city from one end to the other, and eventually found the Mages Guild. Presenting Grungdingler's letter to Morkledder, Gyron was received warmly. Morkledder explained to Gyron that he would need to be tested before any commitment to further training could be made. After a night of rest and meditation, Gyron was shown into the main hall of the Mages Guild which was now filled with magic users of all kinds. It was very quiet. The young mage felt as if his heart was in his throat as he approached the Council of Three, the leaders of the mages in this City-State. Morkledder rose and explained to Gyron the various tests he would be subjected to to prove his worth as a mage. The youth then turned and left the Council Chamber, the eyes of the many mages on him, and went forth to complete the tasks that had been defined for him.
+  過慣布萊頓安靜村莊的生活，肖恩赫姆對蓋隆是個奇觀。他從城這頭探到那頭，終於找到法師公會。把格隆丁格勒的信呈給莫克雷德，蓋隆受到熱情接待。莫克雷德向蓋隆解釋，在作出進一步訓練的任何承諾之前，他需要接受考驗。經過一夜休息與冥想，蓋隆被帶進法師公會大廳，如今擠滿各式各樣的魔法使用者。非常安靜。年輕法師覺得心像堵在喉嚨，走近三人議會——這個城邦法師的領袖。莫克雷德起身，向蓋隆解釋他將接受的各種考驗，以證明作為法師的價值。年輕人然後轉身離開議事廳，許多法師的目光落在他身上，前去完成為他訂下的任務。
 
- Returning to Shornhelm several years later, Gyron was admitted to the Mages Guild and shown to the Council Chamber where he was met by Morkledder. The ancient mage reviewed the journal entries, the artifacts gathered, and most especially the spellbook entries presented to him by Gyron. An expression of amazement spread across the old wizard's face; there had never been a novice to accomplish what Gyron had during the testing. Morkledder then called a full session of the Guild presenting Gyron as a full Wizard.
+  數年後回到肖恩赫姆，蓋隆獲准進入法師公會，被帶到議事廳，莫克雷德在那兒迎接他。古老的法師審閱蓋隆呈上的日誌條目、收集的神器，尤其是法術書條目。驚愕的表情掠過老巫師的臉；從未有見習者在考驗中完成蓋隆所完成的。莫克雷德隨即召開公會全體會議，將蓋隆介紹為正式巫師。
 
- Gyron remained with Morkledder for several years and studied hard. In private session several years after the testing, Morkledder admitted to Gyron that the Guild at Shornhelm could teach him no more and that he should seek further enlightenment at the Crystal Tower on Sumurset Isle.
+  蓋隆與莫克雷德又待了數年，努力學習。考驗數年後的一次私下會談中，莫克雷德向蓋隆承認，肖恩赫姆的公會再也教不了他什麼，他該到夏暮島的水晶塔尋求進一步啟蒙。
 
- After packing his possessions once again, Gyron set off on another long journey. He arrived at the Crystal Tower several years later after having traversed the province of Hammerfell where he had many adventures, met many other mages and shared his experiences and knowledge with them. He heard stories of wonderful plants that when combined with other elements could restore life to those dead, prolong life to those yet living, and in the proper combination bestow immortality on the user. Gyron was always quick to advise and guide mages who were less experienced than himself. He loved being able to help. He made many friends and stories began to spread across the land about this exceptional user of magic.
+  再次收拾行李後，蓋隆踏上又一段漫長旅程。數年後抵達水晶塔，其間穿越落錘省，經歷許多冒險，遇見許多其他法師，與他們分享經驗與知識。他聽說奇妙植物的故事，與其他成分結合時能讓死者復生、延長尚存者的生命，以適當組合還能賦予使用者不朽。蓋隆總是很快為經驗不如自己的法師提供建議與指導。他喜歡能幫上忙。他交了許多朋友，關於這個傑出魔法使用者的故事開始傳遍大地。
 
- When he entered the Crystal Tower, he was greeted by several mages all clamoring for his attention. His reputation had preceded him. However, the crowd hushed and parted at the arrival of a very imposing figure dressed all in indigo blue robes trimmed in gold, wearing a high pointed hat and carrying the most beautifully carved staff Gyron had ever seen. The Elder of the Council of Wizards, Esthlainder, looked closely at the young wizard, nodded and turned to walk back into the tower. Without delay, Gyron followed him. The audience that followed stunned the young mage.
+  他進入水晶塔時，被幾個法師迎接，都爭著要他注意。他的名聲已先他而至。然而，人群在一個非常威嚴的人物到來時安靜分開：那人全身穿著鑲金的靛藍藍袍，戴高尖帽，拿著蓋隆見過最美麗雕刻的法杖。巫師議會的長老埃斯特蘭德仔細看著年輕巫師，點頭，轉身走回塔裡。蓋隆毫不遲疑地跟著他。隨後的接見讓年輕法師震驚。
 
- Esthlainder explained to him that Gyron's coming had been foretold for many years, and he had been expected. The mages had been told by the Gods that one of their own would come along to provide guidance, knowledge and aid. Gyron was that promised champion and leader. Gyron was confused and uncertain. How could he be such an extraordinary person? What must he do to fulfill his destiny? Many questions spilled from him to which Esthlainder could not provide the answers. The Elder suggested that Gyron stay with them in the Crystal Tower for a while and study. This he did.
+  埃斯特蘭德向他解釋，蓋隆的到來已被預言許多年，人們一直在等候他。法師們被眾神告知，他們當中會有一人前來提供指導、知識與援助。蓋隆就是那位被許諾的擁護者與領袖。蓋隆困惑而不確定。他怎會是如此非凡的人？他必須做什麼來實現命運？許多問題從他口中湧出，埃斯特蘭德無法提供答案。長老建議蓋隆與他們在水晶塔待一陣子學習。他照做了。
 
- The day finally came when The Elder admitted to Gyron that the Crystal Tower could no longer provide anything new and that he needed to travel the lands of Tamriel and seek the wisdom and knowledge. The Elder sighed and told Gyron how sad he was that the Crystal Tower was losing him, but that his destiny must be fulfilled. With this, the Elder presented Gyron with a package wrapped in the same beautiful indigo blue as the Elder's Robes. Gyron was told to take the package with him but open it only when he was at least a day's travel from the Crystal Tower.
+  終於有一天，長老向蓋隆承認，水晶塔再也無法提供任何新東西，他需要走遍泰姆瑞爾的土地，尋求智慧與知識。長老歎息，告訴蓋隆水晶塔失去他有多悲傷，可他的命運必須實現。說著，長老把一個包裹交給蓋隆，包裹用與長老袍服相同的美麗靛藍藍包裹。蓋隆被吩咐帶上包裹，但只在離水晶塔至少一天路程時才打開。
 
- After a long day's walk, Gyron set up camp in a beautiful glade next to a brook of crystal clear water. Finally, he thought, I can open the Elder's package. As he untied the golden cord that had bound the package, he found that the wrapping was not wrapping at all but an exquisitely tailored robe identical to the one worn by the Elder. As he opened the robe, a high pointed wizard's hat popped out of the package, and with a "whoosh" and "pop," the same intricately carved staff that the Elder had carried appeared. A note from the Elder advised that the garments were indestructible and that the staff had many magical properties for Gyron to discover. It went on further to explain that from this day forward Gyron would be known as The Sage.
+  走了漫長的一天後，蓋隆在美麗的林間空地、一條水晶般清澈的小溪旁紮營。終於，他想，我可以打開長老的包裹了。他解開綁包裹的金色繩索時，發現那包裹根本不是包裹，而是一件剪裁精美的袍子，與長老穿的一模一樣。他打開袍子時，一頂高尖巫師帽從包裹裡彈出來，隨著一聲「呼」和「啪」，長老拿過的那根同樣精雕的法杖出現了。長老的一張便條說，衣物堅不可摧，法杖有許多魔法特性等蓋隆去發現。它還進一步解釋，從這天起蓋隆將被稱為賢者。
 
- Tired from his walking and with an inner glow of accomplishment, The Sage settled down for the first night of his long pilgrimage across the lands.
+  因行走而疲倦，帶著成就的內在光輝，賢者安頓下來，度過漫長朝聖之旅的第一夜。
 
- After many months of further travels and adventures, The Sage returned to Moonguard and was warmly welcomed by the villagers and most especially by his parents, Frieda and Horstle. News of his coming had preceded him and the whole village had worked hard to build and furnish a cottage for the mage in the pleasant forest just outside the town. After a festive banquet that evening, Gyron retired to his new home.
+  又經過許多個月的旅行與冒險，賢者回到月衛，受到村民、尤其是父母弗里達與霍斯特爾的熱烈歡迎。他要來的消息已先他而至，全村努力為法師在鎮外宜人的森林裡建了一座小屋並加以布置。當晚熱鬧的宴會之後，蓋隆退回新家。
 
- The Sage settled into his life outside Moonguard. He received many visitors who have traveled from near and far to seek his guidance, help, and training. The years passed. It was not long before first Horstle and then Frieda died. The Sage was devastated by his loss. In his grief he swore to dedicate the rest of his life to defeating death so that grief like his could be avoided by others.
+  賢者安頓在月衛外的生活。他接待許多從遠近趕來尋求指導、幫助與訓練的訪客。歲月過去。不久先是霍斯特爾、然後弗里達去世。賢者被這損失摧毀。在悲痛中他發誓把餘生獻給戰勝死亡，好讓別人能避免像他這樣的悲痛。
 
- He returned to the Great Library at the Crystal Tower and researched the many flowers, herbs and plants that he had heard about and seen during his travels. In his cottage, he labored tirelessly over the spellbooks, vials and collection of flora from all over the lands. He tested the potions on himself. The years went by, but The Sage seemed not to age anymore. At some point he had found the right combination in his experiments, but could not determine which combination it had been as the change had been most subtle. He had secured a life without end. And the years continued to pass.
+  他回到水晶塔的大圖書館，研究旅途中聽說和見過的許多花、草藥與植物。在小屋裡，他不知疲倦地在法術書、藥瓶和來自各地的植物收藏上勞作。他在自己身上試驗藥劑。歲月過去，賢者卻似乎不再衰老。在某個時刻他在實驗中找到了正確組合，卻無法確定是哪一種，因為變化極為細微。他獲得了沒有盡頭的生命。歲月繼續過去。
 
- Mages came to him for help which he freely gave. The Sage settled into his life of advising and guiding and the years continued to pass. Unfortunately, his fame became so great that the call for his help was unmanageable. He reluctantly packed his possessions for the last time, and moved far into the Kurallian Mountains and built a magical fortress. Only the most worthy magic user could gain access and help from The Sage.
+  法師來向他求助，他慷慨給予。賢者安頓在顧問與指導的生活中，歲月繼續過去。不幸的是，他的名聲變得如此之大，求助的呼喚無法應付。他不情願地最後一次收拾行李，遷到庫拉利安山脈深處，建了一座魔法要塞。只有最配得上的魔法使用者才能進入並得到賢者的幫助。
 
- However, following his heart, even today The Sage often leaves his mountain abode and travels the land helping young mages gain experience and to grow.
+  然而，追隨內心，即使今天賢者也常常離開山中住所，走遍大地，幫助年輕法師獲得經驗並成長。
 
-[/center]...
+[/center]……
 
- Snap, crackle ... The firelight flickers... The old mage stirs as the memories fade and flicker like the firelight. Bang, bang, bang... echoes from the pounding knocker on the great oaken doors of the fortress... The Sage rises and heads for the doors knowing that yet another mage in need has found him and is worthy of help.
+  爆裂、劈啪……火光閃爍……老法師動了動，記憶像火光一樣淡去、閃爍。砰、砰、砰……回響來自要塞巨大橡木門上沉重門環的敲擊……賢者起身走向門，知道又有一個需要幫助的法師找到了他，並且配得上幫助。

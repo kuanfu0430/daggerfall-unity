@@ -1,5 +1,5 @@
-Title: King Edward, Part I
-Author: Anonymous
+Title: 愛德華王，其一
+Author: 佚名
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,86 +8,86 @@ Content:
 
 [/font=2]
 
-[/center]King Edward, Part I
+[/center]愛德華王，其一
 
 [/font=4]
 
 [/center]
 
-[/center]Departure from Daggerfall
+[/center]離開匕首雨
 
- Long, long ago, when the world was in its springtime, before the Redguards came and the glorious Septim Empire was formed, but after the goblins had driven the dwarves out of Hammerfell, a son, Edward, was born to King Corcyr I of Daggerfall and his Queen, Aliera of Wayrest.
+ 很久很久以前，世界還在它的春天，紅守衛尚未到來、輝煌的塞普丁帝國尚未形成，但哥布林已把矮人趕出落錘省之後，匕首雨的科西爾一世國王與途歇城的艾莉菈王后生下一子，愛德華。
 
- The young boy lay drowsing in the palace orchard, high on a breezy hill overlooking the deep blue bay of Daggerfall. The constant autumn fog of Daggerfall had blown away for the nonce and the sky was a deep endless blue. Moments like this were rare for young Prince Edward; this afternoon was the result of days of scheming, for he craved solitude as the other nobles he knew craved companionship. Now his tutor believed him engaged in extra arms practice, the master of arms believed him to be chasing deer with the huntmaster, who thought he was studying Elvish. His father had no idea where he was and didn't care, being occupied with his young wife and their sons and other pleasures of noble life ...
+ 小男孩躺在王宮果園裡打盹，高處迎風的山丘俯瞰匕首雨深藍色的海灣。匕首雨終年的秋霧此刻被吹散，天空是深邃無盡的藍。這樣的時刻對年輕的愛德華王子極為難得；這個下午是他連日謀劃的成果，因為他渴求獨處，正如他認識的其他貴族渴求作伴。此刻他的導師以為他在加練兵器，兵器教頭以為他在跟獵場總管追鹿，獵場總管則以為他在學精靈語。他父親不知道他在哪，也不在乎，正忙於年輕的妻子、他們的兒子，以及貴族生活的其他樂趣……
 
- At the plop of an apple barely missing his head, he opened his pale grey eyes; there was a sweet rotten smell in his nostrils. He sighed and stared up into the blue. Why should things fall down instead of up? If you stared at the sky long enough you could feel as if you were falling into it ... his eyes glazed and the pupils grew huge as the dark-ringed irises dilated. He was weightless, drifting ... another apple fell, grazing his ear, and he thudded to earth, crying out as first his rump struck and then his head. A silvery laugh sounded. Edward sat up abruptly and stared around, jaw hanging slack. Two mounted men stood ten feet away, still as if they were carved from stone, regarding him intently. Princes are not easily intimidated, not even the gentle souled kind, but Edward had never seen or imagined anything like this pair. One had golden skin and eyes, was clad in white cloth trimmed with gold and rode a (Edward blinked. It is was still there) a unicorn! Beside the unicorn was a golden dragon, wings neatly folded. And on his back was a man clad in dark chain mail, a long sword at his side. He was bareheaded; his eyes glowed red in his dark face ... and his pointed ears ... "You're elves! What--!"
+ 一顆蘋果啪地落下，險些砸中他的頭，鼻間有一股甜腐氣味。他嘆口氣，仰望藍天。為什麼東西往下掉而不是往上？若你盯著天空夠久，會覺得自己正墜入其中……他的眼睛發直，瞳孔變大，深色環繞的虹膜擴張。他失重了，漂浮……又一顆蘋果落下，擦過他的耳朵，他砰地摔回地面，先是臀部著地，然後是頭，他叫出聲來。一陣銀鈴般的笑聲響起。愛德華猛地坐起，環顧四周，下巴鬆開。兩名騎者站在十尺外，靜得彷彿由石頭雕成，專注地打量他。王子不容易被嚇到，即使是性情溫和的那種，可愛德華從未見過或想像過這樣的一對。一個有金色的皮膚和眼睛，身著鑲金白衣，騎著一匹（愛德華眨眨眼。它還在）獨角獸！獨角獸旁邊是一條金龍，翅膀整齊收攏。背上是一名身著深色鎖子甲的男子，腰間佩長劍。他沒戴頭盔；黑暗的臉上眼睛發紅……還有他尖尖的耳朵……「你們是精靈！什麼——！」
 
- "He's a clever child." The dark elf's voice was sardonic. He spoke perfect Bretic, Edward noticed, his mind still working, although something seemed to have gone wrong with the rest of him.
+ 「他是個聰明的孩子。」黑暗精靈的聲音帶著嘲諷。他說著完美的布萊頓語，愛德華注意到，他的腦子仍在運轉，雖然身體其餘部分好像出了問題。
 
- "So it would seem. He did that mostly of himself. Remarkable for an untrained child. I merely helped him to--- concentrate." The high elf also spoke Bretic, but hesitantly and with a slight singing accent. Edward's tutor said that elves were incapable of human speech.
+ 「看來如此。那多半是他自己做的。對一個未受訓練的孩子而言了不起。我不過幫他——集中。」高精靈也說布萊頓語，卻有些猶豫，帶著輕微的歌唱口音。愛德華的導師說過，精靈無法說人類的語言。
 
- Edward's gaze shifted rapidly over the four beings in front of him, unable to find a comfortable resting place. He hoped briefly, fervently, that he was dreaming. His mind seethed with questions and demands, then quite suddenly his tongue came unstuck. "But I wasn't concentrating at all! My masters all say I'm incapable--." Edward clamped his jaw down hard, suddenly realizing that it might be unwise to argue with beings such as these.
+ 愛德華的目光在面前四個存在之間迅速游移，找不到一個舒適的落點。他短暫而熱切地希望自己在做夢。他腦子裡湧滿問題與要求，然後突然舌頭解開了。「可我根本沒有集中！我的師父們都說我沒能力——。」愛德華猛地咬緊牙關，突然意識到跟這樣的存在爭辯可能並不明智。
 
- But the golden elf smiled broadly, showing perfect white teeth, "Exactly." He radiated such warm approval, that Edward felt his skin tingle pleasantly. It was a feeling that he'd only known with his long-gone mother. But the other elf's face was expressionless; the red eyes bored into Edward as if they would pierce his soul.
+ 可那金色精靈燦爛地微笑，露出完美的白牙，「正是如此。」他散發出如此溫暖的讚許，愛德華感到皮膚愉快地發麻。那種感覺他只在早已離去的母親身邊體會過。可另一個精靈面無表情；紅眼睛刺入愛德華，彷彿要穿透他的靈魂。
 
- "Moraelyn! You're Moraelyn! The witch-king!" He jumped to his feet and faced the dark elf. "You stole my mother! My father will kill you."
+ 「莫瑞林！你是莫瑞林！巫王！」他跳起來面對黑暗精靈。「你偷走了我母親！我父親會殺了你。」
 
- "I am. I did. Will he? Shall we call him and find out?" The dark elf straightened and his eyes glowed deeper. A tiny puff of steam escaped the dragon's nostrils. A glowing aura appeared around his companion. Edward knew he wasn't going to call the guard. Why should they be slaughtered? These two looked capable of -- anything. Quite suddenly he was no longer afraid. If they were here to hurt him, they'd have done it by now. But a feeling of impotent rage remained. They'd taken his mother. And now--
+ 「我是。我做了。會嗎？要我們叫他來看看嗎？」黑暗精靈挺直身子，眼睛燒得更深。一絲蒸汽從龍的鼻孔逸出。他的同伴周遭出現發光的光暈。愛德華知道自己不會叫衛兵。為什麼要讓他們被屠殺？這兩人看起來能做——任何事。突然間他不再害怕。若他們是來傷害他的，早就下手了。可無力的怒火仍在。他們帶走了他的母親。而現在——
 
- "Why are you here?" he demanded.
+ 「你們為什麼在這兒？」他質問。
 
- "Edward, will you come with us?" The high elf spoke. Hearing him was like hearing a harp, cool as a breeze, warm as a fireside...
+ 「愛德華，你願意跟我們走嗎？」高精靈開口。聽他說話像聽豎琴，涼如微風，暖如爐火……
 
- The boy stood very still. He wanted very much to say yes, to his own amazement. He wanted to ask if he would see his mother, but instead "My father---" he croaked.
+ 男孩站得很靜。他非常想說願意，連自己都吃驚。他想問能否見到母親，卻說出「我父親——」他沙啞地說。
 
- "Will miss you no doubt." The irony was back in Moraelyn's voice, a voice that make [sic] Edward think of icicles sparkling and dripping in winter sun. But there was a sort of hunger in his glowing eyes, a longing?
+ 「無疑會想念你。」嘲諷又回到莫瑞林的聲音裡，那聲音讓愛德華想起冬日陽光下閃爍滴落的冰柱。可他發光的眼裡有一種飢渴，一種渴望？
 
- His father wouldn't miss him and he knew it. Shame ran through the boy, but he looked up at the broad-shouldered elf defiantly. "Are you my father?" Edward had meant the question to match the elf's sarcasm, but his hand crept to his ear as if of itself. He wasn't anything like his short-tempered, hearty, red-haired father ... and Roane often said he had an elfin look.
+ 他父親不會想念他，他知道。羞愧湧過男孩，可他抬起頭，挑釁地看著那寬肩的精靈。「你是我父親嗎？」愛德華本想讓這問題配得上精靈的諷刺，可他的手卻不由自主地爬向耳朵。他一點也不像他那脾氣暴躁、熱絡、紅髮的父親……而蘿安常說他有精靈的相貌。
 
- There was a heavy silence and Edward sensed that Moraelyn was taking the question at face value but that truth had nothing to do with what Moraelyn would say next. He would give the expedient answer. Still--.
+ 一陣沉重的沉默，愛德華感覺到莫瑞林把這問題當真了，但真相與莫瑞林接下來會說的毫無關係。他會給出權宜的答案。然而——
 
- "No." It came reluctantly. He might be lying, of course, but Edward felt a deep wave of relief.
+ 「不是。」來得不情願。他當然可能在說謊，但愛德華感到一陣深深的寬慰。
 
- "Does my mother have -- other sons?" Suddenly Edward knew she did not and that the question would hurt the dark elf. And was glad.
+ 「我母親有——別的兒子嗎？」突然愛德華知道她沒有，而這問題會傷害黑暗精靈。他為此高興。
 
- "Your mother might be dead, for all you know. Or care, it seems." The dark elf's narrow nostrils twitched as if Edward stank, and the lines around his mouth deepened.
+ 「就你所知，你母親可能已經死了。或者在乎，看來如此。」黑暗精靈狹窄的鼻孔抽動，彷彿愛德華發臭，嘴邊的紋路加深。
 
- She was not dead. Edward would have known. The bitter injustice of Moraelyn's contempt stung. "Did she send you to me?"
+ 她沒有死。愛德華會知道的。莫瑞林輕蔑的不公刺痛了他。「是她派你來找我的嗎？」
 
- "Do you take me for an errand boy!" he snapped, and spoke to his companion "Let us take him now and be gone; we may discuss it at leisure."
+ 「你把我當成跑腿的嗎！」他厲聲說，然後對同伴說：「現在就帶他走；我們可以從容討論。」
 
- The golden elf held up his hand, "Patience, my cousin." and, to Edward, "Well, youngling, will you come?"
+ 金色精靈舉起手，「耐心，我的表親。」然後對愛德華說：「那麼，年輕人，你願意來嗎？」
 
- Dark tales were told of human children kidnapped by elves, who hungered for young humans ...
+ 有陰暗的傳聞說精靈綁架人類孩子，他們渴求年幼的人類……
 
- "I don't know your name," Edward temporized.
+ 「我不知道你的名字。」愛德華拖延道。
 
- "Do you love your life here so much?"
+ 「你如此熱愛這兒的生活嗎？」
 
- Edward looked at the palace in the distance, the banners floating lazily above ... the town below, the sparkling bay, the distant mountains. "I love Daggerfall."
+ 愛德華望向遠處的王宮，旗幟懶洋洋地飄揚……下方的城鎮，閃爍的海灣，遠方的群山。「我愛匕首雨。」
 
- "Ah. And you shall return to hold it, Prince Edward. I, I'ric Harad Egun the ArchMagister, swear it to you." Moraelyn swung about, protesting sharply in Elvish. The dragon spat a bit of flame, but the unicorn did not move; its golden eyes regarded Edward steadily. "Unicorns do not abide any sort of falsity." The words floated through his mind in his mother's voice.
+ 「啊。而你將回來據有它，愛德華王子。我，大法師伊瑞克·哈拉德·埃貢，向你起誓。」莫瑞林猛地轉身，用精靈語尖銳地抗議。龍噴出一點火焰，獨角獸卻不動；它金色的眼睛穩穩地看著愛德華。「獨角獸不容任何虛妄。」話語以他母親的聲音飄過他的心。
 
- "I'ric Harad Egun the ArchMagister, I will come with you."
+ 「伊瑞克·哈拉德·埃貢大法師，我願跟你們走。」
 
- "You must ride with Moraelyn. The Lord Akatosh has consented to this--necessity. The elf made a sweeping gesture toward the dragon." [sic]
+ 「你必須與莫瑞林同騎。阿卡托什領主已同意這——必要。」精靈朝龍做了個開闊的手勢。
 
- He wasn't fit to touch a unicorn, of course. "Very well, then. I--I don't suppose I could bring my dog?" Where was he? Shag was always with him. Asleep in the grass! Shag, the ever-alert? Edward knelt to touch him. A heated discussion in Elvish ensued, during which the dragon scorched the grass. Moraelyn swung down and picked Shag up with distaste. "Very well, then, but I warn you that Akatosh is at the limit of his patience. Mount, then."
+ 他當然不配觸摸獨角獸。「那好吧。我——我想我不能帶我的狗吧？」它在哪？沙格總是跟著他。在草裡睡著了！永遠警覺的沙格？愛德華跪下去摸它。一場激烈的精靈語討論隨之爆發，期間龍燒焦了草地。莫瑞林翻身下馬，厭惡地抱起沙格。「那好吧，但我警告你，阿卡托什的耐心已到極限。那就上吧。」
 
- "Lord Akatosh, I am most deeply obliged by your indulgence. If ever I may repay it--".
+ 「阿卡托什領主，我深深感謝您的寬容。若有一日我能報答——」。
 
- "You will," Moraelyn interrupted; he seized Edward by the belt and tossed him up onto the dragon. Edward settled himself between the dragon's neck and wings and the sleeping Shag was draped limply in front of him. "There isn't room for --" Edward began, and jerked in astonishment as the dragon shifted beneath him and grew larger. Much, much, much larger. Moraelyn vaulted up behind with a prodigious leap for one in armor. The unicorn jumped the nine foot wall, clearing it neatly. The dragon's great wings stretched; he crouched, then leapt into the air. His riders swayed wildly. The dark elf muttered something Edward couldn't understand in elvish and they steadied. The wings beat strongly and the dragon circled low over the Keep, gaining altitude slowly. People were running about now, shouting and pointing. Edward saw his old nurse and waved and shouted, "Goodbye! Goodbye! I'll be back sometime..." Arrows flew through the air as bowmen shot, while the nurse screamed and clutched at the arms of those nearest. King Corcyr ran naked onto the battlements, screaming and waving his fists. "Child of a demon, come back and I'll thrash you within an inch of your worthless life. Moraelyn, come down and fight, like the man you aren't."
+ 「你會的。」莫瑞林打斷；他抓住愛德華的腰帶把他拋上龍背。愛德華在龍的頸與翼之間坐好，睡著的沙格軟軟地搭在他前面。「沒有位子給——」愛德華剛開口，就吃驚地感到身下的龍挪動並變大。大得多、多、多。莫瑞林穿著鎧甲仍以驚人的一躍翻上身後。獨角獸躍過九尺高牆，利落地越過。龍巨大的翅膀展開；它蹲下，然後躍入空中。騎者猛烈搖晃。黑暗精靈用愛德華聽不懂的精靈語喃喃了什麼，他們便穩了下來。翅膀有力地拍打，龍在城堡上空低低盤旋，慢慢爬升。人們開始奔跑，喊叫、指點。愛德華看見他的老奶媽，揮手喊道：「再見！再見！我過些時候會回來……」弓箭手放箭，箭矢飛過空中，奶媽尖叫著抓住身旁人的手臂。科西爾國王赤裸著衝上城垛，尖叫著揮舞拳頭。「惡魔的孩子，回來，我要把你打得只剩半條不值錢的命。莫瑞林，下來打，像個你並不是的男人。」
 
- Moraelyn's loud laughter rang clear as temple bells, cascading over the Keep. He shouted, "Be glad I don't, little King of the Small Cock!" The dragon circled almost lazily and let out a huge gout of flame. Arrows clinked harmlessly off his golden scales. "I'm off to see my mother!" Edward screamed down, noting the upturned faces of his stepmother and her red-haired sons. Roane had a fur-trimmed robe clutched round her, but her long hair floated wildly. Four pairs of eyes fastened on him, not Moraelyn, glittering with fury and hatred. Edward stopped waving and clutched Shag tightly with both hands. Moraelyn's mail clad arm was securely about his waist. Edward slumped against him, feeling quite safe for the first time in a very long while. The bowmen had stopped shooting; most of them were looking at the royal family. The king danced with rage. The great dragon's wings beat harder now and they headed due south out over the water.
+ 莫瑞林響亮的笑聲清澈如神殿鐘聲，傾瀉過城堡。他喊道：「慶幸我不下去吧，小雞雞的小國王！」龍幾乎懶洋洋地盤旋，噴出一大股火焰。箭矢無害地叮在它金色的鱗上。「我去見我母親了！」愛德華朝下尖叫，看見繼母和她紅髮兒子們仰起的臉。蘿安把一件鑲毛皮的袍子緊緊裹在身上，長髮卻狂野地飄揚。四雙眼睛盯著他，不是莫瑞林，閃爍著怒火與仇恨。愛德華停止揮手，雙手緊緊抱住沙格。莫瑞林鎖甲的手臂穩穩環著他的腰。愛德華靠向他，感到許久以來第一次相當安全。弓箭手已停止射擊；多數人在看王室。國王氣得直跳。巨龍的翅膀此刻拍打得更用力，他們朝正南飛出海面。
 
- "Aren't we going to Ebonheart?" the boy twisted round and looked up at Moraelyn. "Your mother awaits you at Firsthold in Sumurset, little Prince."
+ 「我們不是去烏木之心嗎？」男孩扭過身抬頭看莫瑞林。「你母親在夏暮島的初持等你，小王子。」
 
- "Why did you wait so long to fetch me?"
+ 「你們為什麼等這麼久才來接我？」
 
- "Querulous child, do you think dragons and unicorns do the bidding of elves or men? Your mother came to me full willing, but she could not bring you; you were too closely guarded by your father's men. Would you have had us lay waste your land to take you by force? She thought you would be safe and cared for ... and she was desperate. No, this was the dragon's plan."
+ 「愛抱怨的孩子，你以為龍和獨角獸聽精靈或人的差遣嗎？你母親心甘情願到我這兒來，卻不能帶你；你被你父親的人看得太緊。你寧願我們為了強行帶走你而踏平你的土地嗎？她以為你會安全、被照料……而她當時走投無路。不，這是龍的計畫。」
 
- Of all the astonishing events of the afternoon, this was the most surprising -- the notion that a dragon should take an interest in him, when not even his own family did. But, willing, the elf said, full willing!
+ 午後所有驚人事件中，這最令人驚訝——一條龍會對他感興趣，連他自己的家人都不感興趣。可是，心甘情願，精靈說，完全心甘情願！
 
- "You are the focus of large events, youngling. Your task is to prepare yourself to be a king--a king such as your people have never known. Our task is to aid you. Sleep now."
+ 「你是重大事件的焦點，年輕人。你的任務是讓自己準備好成為國王——一個你的人民從未認識過的國王。我們的任務是幫助你。現在睡吧。」
 
- Waves of sleep assaulted Edward's mind, one after another. "But--" he meant to ask Moraelyn about his mother, but the last wave was too big; it crashed right over him and he slipped into dark fire-shot dreams.
+ 一陣又一陣睡意襲擊愛德華的心智。「可是——」他本想問莫瑞林關於母親的事，可最後一波太大；它整個淹沒了他，他滑入黑暗、閃著火光的夢。

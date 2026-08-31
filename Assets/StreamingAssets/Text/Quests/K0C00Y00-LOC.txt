@@ -1,0 +1,144 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 17
+Quest: K0C00Y00
+DisplayName: 殺雞儆猴
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>或許你正適合我心裡那樁小差事。
+<ce>有個對手搶走了我的契約，還建立了
+<ce>非法——至少不道德——的貿易關係。
+<ce>我要糾正這局面，也要傳個訊息，
+<ce>好讓_competitor_別再繼續侵佔。
+<ce>這可能意味著有人得砸碎幾顆腦袋。
+<ce>_reward_金幣能打動你接下這活嗎？
+
+RefuseQuest:  [1001]
+<ce>%oth，原則讓我性子急了。
+
+AcceptQuest:  [1002]
+<ce>太好了。_competitor_在__storehouse_
+<ce>有間叫_storehouse_的店，裡面有件
+<ce>_mitem_，我要你去「解放」它。
+<ce>出門時，請把這張字條隨便丟在店裡。
+<ce>我忍不住。_competitor_會在
+<ce>=2storehouse_天內把那_mitem_
+<ce>轉移到更安全的地方，所以你得動作快。
+<ce>若你沒能在那之前回來，金幣就沒了。
+<ce>還用說_storehouse_會有人看守嗎？
+<ce>大概不必。祝你好運。
+
+QuestFail:  [1003]
+<ce>這可不是演戲，%pcf。
+<ce>這活得辦成。
+
+QuestComplete:  [1004]
+<ce>幹得漂亮，%pcf。啊對，
+<ce>可愛、可愛的_mitem_。毫無疑問，
+<ce>這正是_competitor_的合夥人
+<ce>交給%g2作擔保的那件_mitem_。
+<ce>你確實配得上這_reward_金幣。
+
+RumorsDuringQuest:  [1005]
+這年頭生意競爭變得特別血腥。
+<--->
+_qgiver_和_competitor_的仇，比戈斯瑞德和阿柯瑞西還深。
+
+RumorsPostfailure:  [1006]
+_competitor_正把%g3最新那筆生意往_qgiver_臉上蹭。
+<--->
+結果_competitor_比_qgiver_夢想中還難對付。
+
+RumorsPostsuccess:  [1007]
+_competitor_丟了%g費盡心思從_qgiver_搶來的那份契約。
+<--->
+_qgiver_拿回了%g3舊契約，開心得像吃飽的鷹身女妖。
+
+QuestorPostsuccess:  [1008]
+你把_mitem_給我弄來了，我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+我沒什麼好跟_competitor_的走狗說的。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的_qgiver_派我
+ 去__storehouse_的_storehouse_，
+ 「解放」存放在那兒的_mitem_，
+ 並丟下一張字條。若我能辦到
+ 並在=2storehouse_天內回到__qgiver_，
+ 就能賺到_reward_金幣。
+
+Message:  1011
+
+ _competitor_，
+ 
+ 
+ 給你的擔保再找個擔保吧。
+ 
+ 
+ 
+<ce>你親愛的朋友
+
+Message:  1012
+ __competitor_
+ ___competitor_
+ 
+ 
+ 親愛的%pcn：
+ 
+      我收到你的字條了。挺有意思。現在我有個
+ 提議請你考慮。把偷來的_mitem_帶給我，
+ 我會用一顆_gem_報答你。若你把那_mitem_
+ 交給你的雇主，你就樹了一個敵人。
+ 
+ 
+<ce>_competitor_
+
+Message:  1013
+<ce>一個小男孩把信塞給你就跑了，
+<ce>你還沒來得及問他話。
+
+Message:  1014
+<ce>你要把_mitem_交給_competitor_，
+<ce>換取那顆_gem_嗎？
+
+Message:  1015
+<ce>明智的決定，%pcf。這或許是
+<ce>一段有利可圖關係的開端。另一方面，
+<ce>_qgiver_還能賺錢的日子，
+<ce>恐怕就要過去了。
+
+Message:  1016
+<ce>那你來這兒幹什麼。
+<ce>現在就離開，%pcf。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 1 time.
+--               %g2 occurs 1 time.
+--               %g3 occurs 2 times.
+--              %oth occurs 1 time.
+--              %pcf occurs 6 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 1 time.
+--     =2storehouse_ occurs 2 times.
+--    ___competitor_ occurs 5 times.
+--        ___qgiver_ occurs 1 time.
+--     __competitor_ occurs 1 time.
+--         __qgiver_ occurs 1 time.
+--     __storehouse_ occurs 2 times.
+--      _competitor_ occurs 16 times.
+--             _gem_ occurs 3 times.
+--           _mitem_ occurs 11 times.
+--          _qgiver_ occurs 7 times.
+--          _reward_ occurs 13 times.
+--      _storehouse_ occurs 3 times.

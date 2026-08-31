@@ -1,5 +1,5 @@
-Title: Holidays of the Iliac Bay
-Author: Theth-i
+Title: 伊利亞克灣的節日
+Author: 特斯-伊
 IsNaughty: False
 Price: 379
 IsUnique: False
@@ -8,24 +8,24 @@ Content:
 
 [/font=2]
 
-[/center]Holidays
+[/center]伊利亞克灣
 
-[/center]of the
+[/center]的
 
-[/center]Iliac Bay
+[/center]節日
 
 [/font=4]
 
- The region of the Iliac Bay has a rich history, and not surprisingly, a number of holidays unique to it because of this history. The Breton and the Redguard cultures have many similarities, but just as many distinctions. An analysis of the holidays is one way to study the people.
+ 伊利亞克灣地區有豐富的歷史，因此不足為奇，也有若干因此歷史而獨有的節日。布萊頓與紅守衛文化有許多相似之處，區別也同樣多。分析節日是研究這些人民的一種方式。
 
- As any schoolchild could tell you, the Redguards are a relatively new culture to Tamriel. Their arrival from their homeland is actually well recorded, though it occured several thousand years ago, in the 808th year of the 1st Era. Hammerfell was a great desert encompassed by almost impassable mountains -- unclaimed and unwanted. Many of the holidays extant in modern Hammerfell seem to be direct translations of older Redguard festivals before their migration to Tamriel.
+ 任何學童都能告訴你，紅守衛對泰姆瑞爾而言是相對較新的文化。他們從故鄉抵達的事實際上記載良好，雖然發生在數千年前，第一紀元808年。落錘省曾是被幾乎無法逾越的群山環抱的大沙漠——無人認領，也無人想要。現代落錘省仍存的許多節日，似乎是紅守衛遷入泰姆瑞爾之前更古老節日的直接翻譯。
 
- The orgiastic seasonal celebrations seem unusual in a province with few changes in the weather from month to month. Yet on the 28th of Suns Dawn, the Redguards of the Banthan jungle celebrate Aduros Nau to relieve the wintertide lethargy; on the 1st of Mid Year, the people of Abibon-Gora celebrate Drigh R'Zimb in honor of the sun, which no normal Redguard worships in this day; similarly, on the 29th of Suns Height, the festival in the Desert called Fiery Night, seems almost perverse in such an environment; the Koomu Alezer'i on the 11th of Last Seed in Sentinel has been translated as a harvest thanksgiving, though many scholars have suggested that it was once a springtide holiday; similarly, the Feast of the Tiger in the Bantha on the 14th of Last Seed was probably once a religious holiday to a Tiger God, instead of a thanksgiving.
+ 那些放縱的季節慶典，在一個月與月之間天氣幾乎沒有變化的行省裡顯得不尋常。然而在日曉月28日，班薩叢林的紅守衛慶祝阿杜羅斯·瑙，以解除冬日的怠惰；年中月1日，阿比邦-戈拉的人民慶祝德里格·爾津布，向太陽致敬，而當今沒有正常的紅守衛崇拜太陽；同樣，日高月29日，沙漠中稱為火夜的節日，在那樣的環境裡幾乎顯得乖僻；哨兵城末種月11日的庫穆·阿勒澤里被譯為收穫感恩，儘管許多學者認為它一度是春日節日；同樣，班薩末種月14日的虎宴，很可能一度是獻給虎神的宗教節日，而非感恩宴。
 
- Other old Redguard holidays have either been acknowledged as part of the old culture or adjusted to fit with the climate of Hammerfell. The Serpent's Dance, for example, of Satakalaam is patently an old festival honoring a Serpent God of the homeland who evidently did not survive the journey to Hammerfell. The significance of the date, the 3rd of Suns Dusk, has been lost with the Serpent Priests. Baranth Do, on the 18th of Evening Star, and Chil'a, on the 24th of the same month, are both New Years festivals. Most likely, they have been moved from their original dates to correspond with the notion of the year defined in Tamriel.
+ 其他古老的紅守衛節日，要麼被承認為舊文化的一部分，要麼被調整以適應落錘省的氣候。例如薩塔卡拉姆的蛇舞，顯然是紀念故鄉一位蛇神的古老節日，那神顯然未能活過前往落錘省的旅程。日期的意義，日暮月3日，已隨蛇祭司一道失落。晚星月18日的巴蘭思·多，以及同月24日的奇拉，都是新年節日。它們很可能已從原初日期挪動，以對應泰姆瑞爾所定義的年的概念。
 
- The Bretons have been in Tamriel since before recorded history. Their holidays have remained almost unchanged since primitive times, though new holidays have been created to replace those which have lost popularity.
+ 布萊頓人在有文字記載的歷史之前便已在泰姆瑞爾。他們的節日自原始時代以來幾乎未曾改變，雖然新節日已被創造，以取代那些失去人氣的。
 
- The oldest holidays still observed in High Rock must include Waking Day, on the 18th of Morning Star, when the people of the Yeorth Burrowland wake the spirits of nature after the winter, very nearly in the tradition of their more reverential ancestors. Flower Day, held on the 25th of First Seed in the smaller villages of High Rock is most likely just as older or older. The old cult of the flower is also remembered as Gardtide in Tamarilyn Point on the 1st of Rains Hand. Daggerfall's Day of the Dead, on the 13th of Rains Hand, suggests the ancestor worship that marked the Breton religion of antiquity. Finally, the ancient goddess of the moons, Secunda, is remembered in the Moon Festival in Glenumbra Moors on the 8th of Suns Dusk, just as the nights begin to grow longer.
+ 高岩仍在慶祝的最古老節日，必包括喚醒日，在晨星月18日，約斯地穴地的人民在冬後喚醒自然之靈，幾乎沿襲更為敬畏祖先的傳統。初種月25日在高岩較小村落舉行的花日，很可能同樣古老或更古老。古老的花之崇拜也在雨手月1日以塔馬里林岬的園藝節被記起。匕首雨的亡者日，在雨手月13日，暗示著標誌古代布萊頓宗教的祖先崇拜。最後，古老的月之女神塞昆達，在日暮月8日格倫溫布拉沼地的月之節中被記起，正值夜晚開始變長。
 
- The more recently created holidays of High Rock are those like Tibedetha, "Tibers Day," celebrated every 24th of Mid Year in honor of Alcaire's most famous, son, Tiber Septim. Likewise, Othroktide on the 5th of Suns Dawn is held in honor of the first and most illustrious Baron of Dwynnen. In quite extreme contrast, Marukh's Day on the 9th of Second Seed, is a solemn holiday, immortalizing the lessons of the equally solemn 1st Era prophet Marukh. My favorite of the modern Breton festivals has to be Mad Pelagius, held in mock honor of the most eccentric of the Septim Emperors. Pelagius was, after all, a prince of Wayrest before he became King of Solitude, and then Emperor of Tamriel. The Bretons like to boast that it was his time in High Rock that drove him mad.
+ 高岩較晚近創造的節日，則如提貝德薩，「泰伯之日」，每年年中月24日慶祝，以紀念阿爾凱最著名的兒子泰伯·塞普汀。同樣，日曉月5日的奧斯羅克節是為紀念德溫南第一位也是最顯赫的男爵。作為相當極端的對比，次種月9日的馬魯克之日是莊嚴的節日，使同樣莊嚴的第一紀元先知馬魯克的教訓不朽。我最喜歡的現代布萊頓節日，當屬瘋王佩拉吉奧斯節，以嘲謔的方式紀念塞普汀皇帝中最古怪的一位。畢竟，佩拉吉奧斯在成為獨孤城國王、再成為泰姆瑞爾皇帝之前，是途歇城的王子。布萊頓人喜歡誇口，正是他在高岩的時光把他逼瘋。

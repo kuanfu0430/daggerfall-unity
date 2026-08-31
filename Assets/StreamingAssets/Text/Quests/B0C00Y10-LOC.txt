@@ -1,0 +1,67 @@
+-- Quest: C:\QUESTS\WORKING\B0C00Y10.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: knight
+-- Repute: 0
+-- QuestId: 10
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0C00Y10
+DisplayName: 獸人風波
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        我是_qgiver_。你不是
+<ce>                  本騎士團的成員。我們還不確定能否信任你。
+<ce>                 若你能斬殺侵擾本地的獸人盜匪首領，
+<ce>                  也許能改變我們的看法。
+<ce>                 你有膽量幹這活嗎？
+
+RefuseQuest:  [1001]
+<ce>                        我怎麼一點也不意外？
+<ce>                      等你準備好贏得我們的敬意再來。
+
+AcceptQuest:  [1002]
+<ce>                     盡量多殺獸人，但務必殺死
+<ce>                           他們的首領=monster_。
+<ce>                     那夥污穢之物藏在___dungeon_。
+<ce>                         若你未能在=2dung_天內回來，
+<ce>                      我就知道你是人人所說的懦夫。
+
+QuestComplete:  [1004]
+<ce>                    嗯。也許我們該考慮讓你入團。
+<ce>                     幹得還不賴，%pcn。
+
+RumorsDuringQuest:  [1005]
+那獸人部落至今仍躲過了騎士們。
+<--->
+沒了首領，那獸人部落就完了。
+
+RumorsPostfailure:  [1006]
+獸人還會回來。他們的首領還活著。
+
+RumorsPostsuccess:  [1007]
+某個%ra不知從哪冒出來，殺了獸人首領，然後走了。
+
+QuestorPostsuccess:  [1008]
+我能為你做什麼，獸人殺手？
+
+QuestorPostfailure:  [1009]
+你不值得我花時間，獸人迷。
+<--->
+我幹嘛要跟一個爛獸人愛好者說話？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_騎士團的
+ _qgiver_交付我掃平一夥
+ 盤據在___dungeon_的獸人盜匪。
+ 尤其必須除掉首領，某個=monster_。
+ 我得在=2dung_天內回到%g2身邊，
+ 否則%g會當我已死。
+
+Message:  1011
+<ce>                          =monster_死了。
+<ce>                      沒了首領，這些獸人
+<ce>                  頂多再成個麻煩而已。

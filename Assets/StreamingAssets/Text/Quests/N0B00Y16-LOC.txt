@@ -1,0 +1,141 @@
+-- Quest: C:\QUESTS\WORKING\N0B00Y16.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 16
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 52
+Quest: N0B00Y16
+DisplayName: 開啟箱子
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   %pct，我需要會施放
+<ce>                    開啟法術的人。  拜託告訴我
+<ce>                     你現在已經學會了。
+
+RefuseQuest:  [1001]
+<ce>                  說真的，你若想在公會裡
+<ce>                    往上爬，就該好好
+<ce>                         做功課。
+
+AcceptQuest:  [1002]
+<ce>                 嗯，總算有個開頭。  我要你做的
+<ce>                 差事其實很簡單。  大概連小孩
+<ce>                都做得來，但現在是你來做。
+<ce>                  本地商人 _merchant_ 買了
+<ce>                一口古董箱子，卻打不開。
+<ce>                  __shop_ 最厲害的鎖匠
+<ce>                     都試過了，還是失敗，
+<ce>                所以 %g 來問我們能不能幫忙。
+<ce>              這種芝麻小事我們其實沒空理，
+<ce>                  但公會用得著 %g3
+<ce>                贊助，所以我答應派人去。
+<ce>                依我聽說的情形，這八成是
+<ce>                   _mage_ 的機關盒。  %G 當年
+<ce>                 做了好幾百個，多半是
+<ce>                 送給 %g3 朋友的禮物，到現在
+<ce>               偶爾還會冒出來，畢竟手工
+<ce>               真的出色……我說到哪兒了？
+<ce>                對了，這些盒子的祕密在於
+<ce>               幾乎打不開，除非用那道簡單、
+<ce>               標準的開啟法術。  %G 特意把它們
+<ce>             做成能抵抗 %g3 朋友愛用的那些
+<ce>              花俏替代法術。  是啊，%g 總愛把
+<ce>              %g3 可觀的才華浪費在這種玩笑上。
+<ce>                 真可惜。  好了，去吧。
+
+QuestFail:  [1003]
+<ce>                %pct，讓我安靜一下，你快走吧。
+<ce>                    我有事要忙，你也一樣，
+<ce>                          若我沒記錯的話。
+
+QuestComplete:  [1004]
+<ce>                  嗯？  你想怎樣？  喔對，那個
+<ce>                   機關盒。  想必沒給你添什麼麻煩。
+<ce>                   替法師公會賺點好名聲
+<ce>                     之類的廢話。  幹得好。
+
+RumorsDuringQuest:  [1005]
+<ce>        聽說 _merchant_ 了嗎？  %G 買了口舊箱子
+<ce>                現在卻打不開。  真好笑！
+
+RumorsPostfailure:  [1006]
+<ce>_merchant_ 終於放棄那口魔法盒子，轉手賣給別人了。
+
+RumorsPostsuccess:  [1007]
+<ce>  _merchant_ 請法師公會打開了 %g3 機關盒，結果
+<ce>            裡面是空的！  至少我是這麼聽說的。
+
+QuestorPostsuccess:  [1008]
+<ce>        嗨，%pcn。  我記得你。  _mage_ 的魔法盒子，對吧？
+
+QuestorPostfailure:  [1009]
+<ce>         老天，你現在又想怎樣？  你就是那個
+<ce>      連 _merchant_ 的機關盒都打不開的傻瓜。
+
+Message:  1020
+%qdt:
+ ___questgiver_ 法師公會的
+ _questgiver_ 要我幫本地商人
+ _merchant_ 打開一口舊箱子。
+ _questgiver_ 認為那大概是
+ 機關盒，只有標準的
+ 開啟法術打得開。
+ 我想做完之後
+ 該回去見 %g2。
+
+Message:  1030
+<ce>                 法師公會派你來的？  太好了。
+<ce>                   我就知道老朋友 _questgiver_
+<ce>                   不會讓我失望。  盒子在這兒。
+<ce>                   希望你知道怎麼打開。
+<ce>                  我已經智窮力竭了。
+
+Message:  1040
+<ce>                  你對箱子施放開啟法術時，
+<ce>                 蓋子彈開，一隻小鬼飛了出來。
+<ce>                                    
+<ce>                「生日快樂，=mage2_ 你這老東西！」
+<ce>                   小鬼用極不自然的
+<ce>                          低沉沙啞嗓子咯咯笑著。
+
+Message:  1041
+<ce>                  你對箱子施放開啟法術時，
+<ce>                  聽見鎖扣喀一聲。  裡面有一根魔杖，
+<ce>                  上面刻著：「獻給 =mage3_，祝你
+<ce>                   一百一十歲生日快樂。  用我來預覽
+<ce>                         你的一百二十歲生日吧！」
+
+Message:  1042
+<ce>                你對箱子施放開啟法術時，
+<ce>               煙霧湧出。  蓋子彈開，露出
+<ce>                           一張刻字卡片：
+<ce>                                    
+ 親愛的 =mage4_，
+ 
+ 希望你喜歡新居。  搬家前
+ 有沒有記得叫除蟲的來？
+ 
+ 你的朋友，
+ 
+ _mage_
+
+Message:  1043
+<ce>                    箱子蓋彈開了。
+<ce>                      裡面只有幾片
+<ce>                       褪色的碎彩紙。
+
+Message:  1050
+<ce>                    請告訴 _questgiver_，我感謝
+<ce>                   %g2 派人來幫忙……大概吧。
+<ce>                     當然，要是我早知道
+<ce>                      裡面是什麼，說不定
+<ce>                       就不會這麼急著打開了！
+
+Message:  1051
+<ce>                     你打不開的話，就
+<ce>                        自己留著吧。  我已經
+<ce>                         用不上它了。

@@ -1,0 +1,118 @@
+-- Quest: C:\QUESTS\WORKING\P0B20L09.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 20
+-- QuestId: 9
+Messages: 22
+Quest: P0B20L09
+DisplayName: 先鋒
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called
+
+QuestComplete:  [1004]
+<ce>                  我向你致敬，獸化生物的殺戮者。
+<ce>                 你的血父會很高興聽到
+<ce>                  你這次剿滅如此有效。
+<ce>                 留下 =wereboar_ 的獠牙，
+<ce>                    作為你在 %vam 中的榮譽徽記。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 是誰都不該踏入的地城。永遠不該。
+
+RumorsPostfailure:  [1006]
+前幾晚 ___mondung_ 裡傳來得意的嚎叫。
+
+RumorsPostsuccess:  [1007]
+___mondung_ 又恢復平靜，靜得像墳墓。
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called
+
+QuestLogEntry:  [1010]
+                    __vamp_
+                     ___vamp_
+ 
+ 
+ 親愛的 %pcn，
+ 
+       %vam 需要你。
+ 立刻前來。
+ 
+ 
+                   死蔭敬上，
+ 
+                   _vamp_
+
+Message:  1011
+<ce>                      尊貴的 %pcn，晚安。
+<ce>                %vam 的遠古者不久將在 %reg 會面，
+<ce>               可像是存心嘲弄一般，一群獸化人
+<ce>                 已在 ___mondung_ 安營——
+<ce>                  那正是遠古者計劃集會之處。
+<ce>                懇請你讓這些害蟲及其同類明白，
+<ce>                 ___mondung_ 屬於 %vam，
+<ce>          我們不容任何入侵者。盡可能多殺它們，
+<ce>           包括它們的首領，一頭野豬人。帶著它的
+<ce>             一顆獠牙，在 =queston_ 夜內回到這裡，
+<ce>             %vam 將感激不盡。願你一路平安。
+
+Message:  1012
+%qdt:
+ 我收到 %vam 的 _vamp_
+ 來信，緊急要求我前往
+ ___vamp_ 的 __vamp_。
+
+Message:  1013
+%qdt:
+  _vamp_ 派我前往
+  ___mondung_，一群無禮的
+  獸化生物竟敢侵入
+  %vam 的地盤。我要讓這些畸形
+  生物明白自己的錯誤，
+  並在 =queston_ 夜內帶著它們首領的獠牙
+  作為戰利品，回到 _vamp_ 處。
+
+Message:  1017
+<ce>                    一個蒼白、眼神狂野的男孩把
+<ce>                   一封信交給你，隨即消失在
+<ce>                             黑暗中。
+
+Message:  1020
+<ce>                    你已殺死獸化人的首領
+<ce>                    =wereboar_。它們如今該知道
+<ce>                    不該擅自踏入
+<ce>                        %vam 的據點。
+
+Message:  1021
+<ce>                 別逼我殺你，吸血鬼。
+<ce>                 滾回去告訴 %vam，是 =wereboar_
+<ce>              把你打發回家的，因為你不守規矩。
+ 
+
+-- Symbols used in the QRC file:
+--
+--              %dat occurs 1 time.
+--              %pcn occurs 3 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 1 time.
+--              %vam occurs 26 times.
+--         =queston_ occurs 2 times.
+--        =wereboar_ occurs 3 times.
+--       ___mondung_ occurs 23 times.
+--          ___vamp_ occurs 16 times.

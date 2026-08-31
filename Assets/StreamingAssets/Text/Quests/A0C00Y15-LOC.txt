@@ -1,0 +1,94 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y15.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 15
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: A0C00Y15
+DisplayName: 信差
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我聽過你，%pcn。我是 _questgiver_。能求你幫個忙嗎？
+<ce> 你最近會經過 ___pickupregion_ 嗎？若會，我需要把一個包裹送到那兒某人手上。
+<ce> 我樂意付你 _gold_ 金幣。
+                                     <--->
+<ce> 你的名聲先到了，%pcn。我需要一名信差。
+<ce> 你會不會正好要去 ___pickupregion_？能託你在那兒幫我放下一個包裹嗎？
+<ce> 我會付你 _gold_ 金幣作為辛苦費。
+
+RefuseQuest:  [1001]
+<ce> 真可惜。
+                                     <--->
+<ce> 我得另找願意靠勞動過活的人。
+                                     <--->
+<ce> 你一定不是我聽過那麼多事的那個 %pcn。
+
+AcceptQuest:  [1002]
+<ce> 太好了！把這包裹拿到 ___pickupregion_，打聽 _pickupregion_。
+<ce> %G 會付錢給你。必須在 =traveltime_ 天內送到。這是包裹。
+                                     <--->
+<ce> 真幸運！我的朋友是 ___pickupregion_ 的 _pickupregion_。
+<ce> 四處問問，人人都認識 %g2。%G 會立刻付錢。
+<ce> 若超過 =traveltime_ 天，你大可把它扔掉。拿去。
+
+QuestComplete:  [1004]
+<ce> 我一直希望 _questgiver_ 能及時把這個送到。
+<ce> %G 最近太忙了。這是答應你的 _gold_。
+
+RumorsDuringQuest:  [1005]
+<ce> 獸人又在製造麻煩了。
+
+RumorsPostfailure:  [1006]
+<ce> 據說已故萊桑達斯國王的亡魂在匕首雨被看見了。
+
+RumorsPostsuccess:  [1007]
+<ce> 一場海上風暴在匕首雨岸外摧毀了一艘船。聽說上面載著皇帝的使者。
+
+QuestorPostsuccess:  [1008]
+<ce> 謝謝你把那個包裹送到 ___pickupregion_。
+
+QuestorPostfailure:  [1009]
+<ce> 惡棍！你把我的包裹怎麼了？賣掉了？它從沒抵達 ___pickupregion_。離開吧。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 派我把包裹送到 ___pickupregion_
+ 的 _pickupregion_。
+ 必須在 =traveltime_ 天內送到。
+
+Message:  1011
+<ce> 這本書有些紀念價值。_pickupregion_ 已經好幾年沒見過 _book_ 了。
+
+Message:  1012
+<ce> _pickupregion_ 需要這份 _ingredient_ 來調製 %g 正在做的特殊釀造。
+
+Message:  1013
+<ce> 這件 _jewelry_ 是給 _pickupregion_ 的禮物，將敲定我與 %g2 的安排。
+
+Message:  1014
+<ce> 這是我母親為慶典替 _pickupregion_ 做的特別 _mensclothing_。
+
+Message:  1015
+<ce> _pickupregion_ 委託了這幅 _painting_。明天 %g3 聚會需要它。
+
+Message:  1016
+<ce> _pickupregion_ 盡快需要這瓶 _potion_。
+
+Message:  1017
+<ce> _pickupregion_ 受到威脅。這把 _weapon_ 該能讓 %g3 安心。
+
+Message:  1018
+<ce> 我為 _pickupregion_ 的婚禮買了這件精美的 _womensclothing_。
+<ce> 若趕不到會非常難堪。
+
+Message:  1019
+<ce> 你想怎樣？_questgiver_？
+<ce> 對，%g 答應寄包裹給我。若再不收到，就太遲了。
+
+Message:  1020
+<ce> 我知道你有 _questgiver_ 的包裹。交出來，就沒人會受傷。

@@ -1,0 +1,71 @@
+-- Quest: C:\QUESTS\WORKING\M0B30Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 30
+-- QuestId: 8
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B30Y08
+DisplayName: 家務糾紛
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 有點荒唐的家務糾紛，%pcf。
+<ce> 好像 __house_ 有個女人
+<ce> 要人把她丈夫從家裡趕走。問題是
+<ce> 他已經死了。你願意接嗎？
+
+RefuseQuest:  [1001]
+<ce> 可惜。這種差事通常只有神殿才接。
+<ce> 你錯過了一份好的，%pcn。
+
+AcceptQuest:  [1002]
+<ce> 她丈夫是殭屍。白天他躲在某處。
+<ce> 那時她在 _house_ 看不見他。夜裡
+<ce> 他在那地方遊蕩。讓他解脫，
+<ce> 在 =2dung_ 天內回來，這對你值
+<ce> _gold_ 金幣。
+
+QuestComplete:  [1004]
+<ce> 那老家伙是不是真像他們說的那麼臭？
+<ce> 像抽屜裡的內褲在雨裡放了一個月。
+<ce> 好了，這是你的酬勞，%pcn。
+
+RumorsDuringQuest:  [1005]
+<ce> 你聽說了嗎？有個老太婆說她丈夫
+<ce> 從墳墓回來纏著她。
+
+RumorsPostfailure:  [1006]
+<ce> 他們在她家發現一個女人死了。
+<ce> 她死去已久的丈夫那腐爛屍體
+<ce> 就在她旁邊。
+
+RumorsPostsuccess:  [1007]
+<ce> 聽說戰士公會派了個硬漢去處理
+<ce> 那殭屍。公會這幫人還不錯。
+
+QuestorPostsuccess:  [1008]
+<ce> 那殭屍你幹得漂亮，%pcn。
+
+QuestorPostfailure:  [1009]
+<ce> 殭屍太難了，嗯？永遠不該接自己
+<ce> 幹不了的差事。
+
+QuestLogEntry:  [1010]
+於 %qdt，
+ ___qgiver_ 的戰士公會雇我清除
+ __house_ 的 _house_ 裡纏著人的殭屍。
+ 我有 =2dung_ 天完成任務。
+
+Message:  1011
+<ce> _monster_ 死了。
+<ce> 他妻子可以安心睡覺了。
+
+Message:  1080
+<ce> 嘿 %pcf，若你覺得殺殭屍
+<ce> 好玩，拿這張通往怪物盤據、
+<ce> 名叫 ___newdung_ 的洞穴的地圖。
+<ce> 對你這種 %ra 來說，
+<ce> 該像度假。

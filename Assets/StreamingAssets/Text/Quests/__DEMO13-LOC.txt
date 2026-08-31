@@ -1,0 +1,23 @@
+---- Example quest to freely spawn multiple foes inside a dungeon environment
+---- Player will be teleported automatically to target dungeon
+
+Quest: __DEMO13
+
+
+QRC:
+
+Message:  1020
+<ce>已經殺了五隻。該逃出這地方了。
+
+Message:  1030
+%qdt:
+ 我被下藥，囚禁在某處地城裡。
+ 鷹身女妖在上空盤旋，但我絕不當牠們的晚餐。
+ 我打算至少殺掉五隻再逃出去，
+ 然後找出是誰把我丟在這裡等死。
+
+Message: 1040
+<ce>喝下杯中之物後，你的頭一陣暈眩。
+<ce>你醒悟得太遲——已經被下藥了！
+<ce>過了一段時間，你在黑暗的封閉處醒來。
+<ce>附近傳來尖銳的叫聲。

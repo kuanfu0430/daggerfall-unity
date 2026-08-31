@@ -1,0 +1,62 @@
+-- Quest: C:\QUESTS\WORKING\O0B10Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 10
+-- QuestId: 6
+Messages: 11
+Quest: O0B10Y06
+DisplayName: 珠寶竊案
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       這可正對你的路子。
+<ce>                    珠寶竊案在籌備中。想加入嗎？
+<ce>                         公會標準酬勞
+<ce>                          _gold_ 金幣。
+
+RefuseQuest:  [1001]
+<ce>                      再見。得找個願意接這差事的
+<ce>                       公會成員。
+
+AcceptQuest:  [1002]
+<ce>                        %oth，太出色了。
+<ce>                          去 __mansion_ 的
+<ce>                             _mansion_。
+<ce>                           找到那件 _jewelry_，
+<ce>                         帶回來這兒。
+<ce>                       睜大眼睛。那破地方
+<ce>                        據說有某種守護者。
+
+QuestComplete:  [1004]
+<ce>                            幹得好，%pcn。
+<ce>                         這是你的公會酬勞。
+
+RumorsDuringQuest:  [1005]
+他們說 _mansion_ 堅不可摧。
+
+RumorsPostfailure:  [1006]
+有人試圖闖進 _mansion_，但失敗了。
+
+RumorsPostsuccess:  [1007]
+_mansion_ 被搶了。簡直難以置信。
+<--->
+連 _mansion_ 都會被搶，那就沒有安全的地方了。
+
+QuestorPostsuccess:  [1008]
+你好嗎，%pcf？那 _gold_ 金幣還沒花光吧？
+
+QuestorPostfailure:  [1009]
+<ce>                      %oth，是你。擁有 _mansion_
+<ce>                      的那個人已經把 _jewelry_
+<ce>                   搬走了，整件事結束了。多謝你
+<ce>                     所謂的辛苦工作。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的 _qgiver_
+ 雇我去 ___mansion_ 的
+ _mansion_ 把那件 _jewelry_
+ 悄悄拿走。我有
+ =traveltime_ 天把它交還給 %g2。

@@ -1,0 +1,73 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 7
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B00Y07
+DisplayName: 不速之客
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 偶爾我們會碰上這種白痴客戶。
+<ce> 某個傻瓜把後門開著，結果
+<ce> 野生動物闖了進去。他自己好像
+<ce> 也搞不清是熊還是劍齒虎，但
+<ce> 不管怎樣，那東西想吃他。我們
+<ce> 需要你去把動物殺了。標準
+<ce> 酬勞是 _gold_ 金幣。
+<ce> 要接嗎，%pcn？
+
+RefuseQuest:  [1001]
+<ce> 懂了。那就讓劍齒虎吃了他。
+<ce> 這傢伙一開始就讓它進來，
+<ce> 本來就是傻瓜，對吧？
+
+AcceptQuest:  [1002]
+<ce> 太好了。到 __house_ 的
+<ce> _house_ 去。我給你 =2dung_
+<ce> 天把它殺掉並回來找我。
+
+QuestComplete:  [1004]
+<ce> 沒碰上什麼大麻煩吧？
+<ce> 我想也是。這是你的
+<ce> _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說有隻劍齒虎被困在
+<ce> _house_。他得花錢
+<ce> 請人去殺。
+
+RumorsPostfailure:  [1006]
+有隻劍齒虎在某個可憐傢伙自己家裡殺了他。真是慘劇。
+
+RumorsPostsuccess:  [1007]
+闖進 _house_ 那隻發狂的劍齒虎，不是你殺的嗎？
+
+QuestorPostsuccess:  [1008]
+那劍齒虎幹得漂亮。
+
+QuestorPostfailure:  [1009]
+劍齒虎很難對付。或許我們該先讓你從花栗鼠練起。真是個笨蛋。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的 _qgiver_ 派我去殺死
+ 闖進 __house_ 的 _house_ 的劍齒虎或熊。
+ 若我在 =2dung_ 天內回來，就能拿到
+ _gold_ 金幣。
+
+Message:  1011
+<ce> _monster_ 死了。
+
+Message:  1012
+<ce> _bear_ 死了。
+
+Message:  1080
+<ce> 嘿，我剛想起來，有個
+<ce> 成員剛找到這張通往
+<ce> ___newdung_ 的地圖。
+<ce> 別一天就把什麼都殺光。

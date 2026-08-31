@@ -1,0 +1,61 @@
+-- Quest: C:\QUESTS\WORKING\M0C00Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 11
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: M0C00Y11
+DisplayName: 獵殺巨型蠍子
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 你可以叫我 _qgiver_。
+<ce> 我們通常只把差事給公會成員。但你看起來
+<ce> 有前途，%pcn。這樣吧。我接到請求，要
+<ce> 除掉一隻巨型蠍子。幹完這件，我看看
+<ce> 公會能不能對你的聲望網開一面。成交嗎？
+
+RefuseQuest:  [1001]
+<ce> 我想對你好點，看看得到什麼。
+<ce> 滾出去。
+
+AcceptQuest:  [1002]
+<ce> 你有膽，%pcf，這我承認。顯然這蠍子
+<ce> 是從誰的私人收藏裡逃出來的。現在牠被困在
+<ce> _house_。今天把那東西殺了，
+<ce> 我會替你美言。
+
+QuestComplete:  [1004]
+<ce> 看來你不是人人說的那種膝蓋發軟的水母。
+<ce> 我會確保該知道的人聽見這事。
+
+RumorsDuringQuest:  [1005]
+<ce> 你聽說那個可憐傻瓜在家裡發現巨型蠍子
+<ce> 了嗎？他現在正在灌酒。
+
+RumorsPostfailure:  [1006]
+<ce> 某個醉漢跌跌撞撞進了自己家，被巨型蠍子
+<ce> 殺死。好像他以為戰士公會已經處理了那野獸。
+
+RumorsPostsuccess:  [1007]
+<ce> 戰士公會這幫人還不錯。
+<ce> 他們殺了闖進別人家的巨型蠍子。
+
+QuestorPostsuccess:  [1008]
+<ce> 那巨型蠍子幹得漂亮。
+<ce> 照這速度，你很快就能進公會。
+
+QuestorPostfailure:  [1009]
+<ce> 我不過要你殺一隻巨型蠍子。
+<ce> 你真沒用，%pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的戰士公會讓我去殺死
+ 闖進 _house_ 的巨型蠍子。必須今天完成。
+
+Message:  1011
+<ce> _monster_ 死了。

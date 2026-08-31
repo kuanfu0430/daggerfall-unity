@@ -1,0 +1,150 @@
+-- Quest: C:\QUESTS\WORKING\A0C01Y13.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 01
+-- QuestId: 13
+Quest: A0C01Y13
+DisplayName: 誹謗
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 日安。我叫 _giver_。你最近或許聽過我。有人在街上散播關於我私生活的可怕謊言。
+<ce> 誰能制止他們，我就付 _gold_ 金幣。你怎麼說？
+                                     <--->
+<ce> 那些惡意、簡直是誹謗的謠言必須立刻停止。我需要一個匿名的人，
+<ce> 把這些謠言追溯到可惡的源頭。_gold_ 金幣夠不夠買下你的調查本事？
+
+RefuseQuest:  [1001]
+<ce> 我猜你聽過那個說我不守承諾的傳聞。全是該死的謊言！
+
+AcceptQuest:  [1002]
+<ce> 你願意？好極了。等你有證據證明是誰在散播這些惡毒謠言再回來。那時我會給你金幣。
+<ce> 若一個月內沒回來，我會假定你已失敗。
+
+QuestFail:  [1003]
+%qdt:
+ 有人在 ___giver_ 散播關於 _giver_ 的謠言。
+ %G 雇我去制止，報酬 _gold_ 金幣。我有一個月帶著成功的證據回來。
+
+QuestComplete:  [1004]
+<ce> 你很有榮譽，%pcn。我感謝你。
+<ce> 收下這把 _magicsword_，我最珍視的所有物。這是我能給的最起碼回報。
+<ce> 我們永遠是朋友，我欠你。把 _giver_ 和 _sister_ 交給我，我已經為他們安排了計劃。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說 _giver_ 蓄奴！
+<--->
+<ce> _giver_ 毆打 %g3 配偶。
+
+RumorsPostfailure:  [1006]
+<ce> _giver_ 成了賤民。鎮上沒人想跟 %g2 往來。你聽過 %g 做過的那些事嗎？
+
+RumorsPostsuccess:  [1007]
+<ce> _lover_ 被某個 %ra 從 ___dungeon_ 救出來。嘿！你不就是那個 %ra 嗎？
+
+QuestorPostsuccess:  [1008]
+<ce> 在我對妹妹的情人 _lover_ 做過那些事之後，你一定覺得我很可怕。讓我補償你。
+
+QuestorPostfailure:  [1009]
+<ce> 你讓我失望了！我妹妹不再跟我說話，都是你的錯。
+
+QuestLogEntry:  [1010]
+ %qdt:
+ 我得知 _giver_ 與 %g3 妹妹 _sister_ 達成協議，綁架她的情人 _lover_。
+ _giver_ 收到一封信，概述了這項計劃。
+
+Message:  1015
+_giver_：
+ 長話短說。_lover_ 太過分了，如你所說，嚇他一下或許是必要的。
+ 我今晚要出門旅行，所以明天日落時你該帶走他。
+ 我會再聯絡，但不覺得我們需要持續超過一週。
+<ce> ——_sister_
+
+Message:  1017
+<ce> 你說什麼？_giver_？我聽過一些……但我們得放低聲音。
+<ce> 似乎 %g3 妹妹 _sister_ 跟她的情人處得不好。我想他名叫 _lover_。
+<ce> 我確實知道 _giver_ 和 %g3 妹妹達成協議，要處理 _lover_。
+<ce> 我不確定怎麼處理，但一個我遇見的年輕人說，他送過一封 _sister_ 概述計劃給 _giver_ 的信。
+
+Message:  1018
+%qdt:
+ 我向 _giver_ 出示了概述綁架 _lover_ 計劃的信，
+ _giver_ 如今透露 %g 雇了一些土匪把他關在 ___dungeon_。
+ %G 求饒，並請我去救 _lover_。
+
+Message:  1020
+<ce> 謊言，全是謊言！我恨那些惡毒的街頭謠言。
+<ce> 拜託趕快制止它們！
+
+Message:  1021
+<ce> 什麼？！這是什麼？噢天……拜託，拜託別殺我！
+<ce> 是我妹妹慫恿我的……我沒惡意。她只是要我嚇他一下，讓他更珍惜她。
+<ce> 我知道不該那麼做。現在我惹上大麻煩……你看，我付錢請一群土匪把他帶走，關在 ___dungeon_。
+<ce> 我以為這會夠嚇到他……但他沒回來！我做得太過了……我知道。
+<ce> 拜託……你必須救他！我以為能掩蓋，但再也蓋不住了。
+<ce> 你得救他。若妹妹回來時他還不在……嗯，她肯定會殺了我！
+
+Message:  1022
+<ce> _giver_ 這陣子是熱門話題。
+                                     <--->
+<ce> _giver_ 一直住在 _givershouse_。
+                                     <--->
+<ce> _giver_ 妹妹的情人失踪了。
+                                     <--->
+<ce> 通常能在 __giver_ 找到 _giver_。
+                                     <--->
+<ce> _giver_？你可以在 __giver_ 或家裡的 _givershouse_ 找到 %g2。
+                                     <--->
+<ce> _giver_ 在 ___giver_ 很受歡迎。
+                                     <--->
+<ce> 你該試試 _inn_。好八卦總在那兒。
+                                     <--->
+<ce> _giver_ 常被人看見與 %g3 妹妹 _sister_ 一起購物。
+                                     <--->
+<ce> _giver_ 一直從 _inn_ 偷東西。還是別人？
+                                     <--->
+<ce> _giver_ 謀殺了他妹妹。
+                                     <--->
+<ce> _giver_ 的父親是被獸人養大的。
+                                     <--->
+<ce> _giver_ 找了個獸人情人。
+                                     <--->
+<ce> _giver_ 一直從神殿偷東西。
+                                     <--->
+<ce> _giver_ 與獸人勾結。
+                                     <--->
+<ce> 這週 ___giver_ 關於 _giver_ 的謠言比任何人都多。
+                                     <--->
+<ce> _giver_ 答應綁架 %g3 妹妹的情人。
+                                     <--->
+<ce> 這一帶盡是些無關緊要的閒話。
+                                     <--->
+<ce> _giver_ 不守 %g3 承諾。
+                                     <--->
+<ce> _giver_ 一直在隱瞞一些秘密。
+                                     <--->
+<ce> 這兒人人都有自己的故事。
+                                     <--->
+<ce> _inn_ 總有人在聊。
+
+Message:  1030
+<ce>_lover_ 是 _sister_ 的情人。你知道嗎，我最近沒見過他。
+<--->
+<ce>_lover_ 好幾天沒在鎮上出現。我打賭 _giver_ 跟這事有關。
+
+Message:  2000
+<ce> 感謝 %god 有人找到我了！我以為永遠出不去。這些通道我已經遊蕩好幾天，努力活命。
+<ce> 你說什麼？_sister_ 和 _giver_ 是幕後黑手？
+<ce> 好，你把我帶回 __sistershouse_ 的 _sistershouse_，我會好好酬謝你。
+<ce> 然後我會親自收拾那兩個人！
+
+Message:  2001
+%qdt:
+ 我找到了 _lover_，正護送他回
+ __sistershouse_ 的 _sistershouse_。
+
+Message:  2005
+<ce> _lover_ 說：
+<ce> 「謝謝你幫忙，%pcn，不過從這兒開始我會自己找路回家。」

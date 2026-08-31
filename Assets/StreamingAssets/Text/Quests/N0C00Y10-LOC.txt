@@ -1,0 +1,135 @@
+-- Quest: C:\QUESTS\WORKING\N0C00Y10.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 10
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 41
+Quest: N0C00Y10
+DisplayName: 失蹤的書
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     我叫 _giver_。你想接活，
+<ce>               卻不是法師公會成員？想必你明白，
+<ce>              我們只為會員提供像樣的差事。
+<ce>                不過，我倒有件小差事需要人做。
+<ce>                 我們丟了一本書。若你能找到
+<ce>              並送回來，我會視為私人人情，
+<ce>                這也會讓整個公會對你
+<ce>                             刮目相看。
+
+RefuseQuest:  [1001]
+<ce>                  顯然你對與法師公會
+<ce>               保持良好關係不感興趣。
+
+AcceptQuest:  [1002]
+<ce>               我們目前毫無線索。書名是
+<ce>                    _book_。你得四處打聽，
+<ce>                問人有沒有聽說什麼。找到的話
+<ce>               把書帶回來給我。
+
+QuestFail:  [1003]
+%qdt:
+ 我答應為 ___giver_ 的法師公會
+ 尋找 _book_ 這本書。
+ 若找到，必須交還給
+ _giver_，%g 會在公會裡
+ 替我說好話。
+
+QuestComplete:  [1004]
+<ce>                              啊，_book_。
+<ce>                           幹得好，%pcf。
+<ce>                      公會對你的觀感
+<ce>                       肯定改善了不少。
+
+RumorsDuringQuest:  [1005]
+法師公會有一本極為稀有的 _book_。或者該說，他們曾經有。
+<--->
+_book_ 本就是珍本，法師公會那一版更是稀有。
+
+RumorsPostfailure:  [1006]
+對法師公會來說是一大損失——那特藏版的 _book_。
+<--->
+法師公會的藏書樓大不如前，因為 _book_ 沒了。
+
+RumorsPostsuccess:  [1007]
+_book_ 重回架上，法師公會的藏書樓又豐富了。
+
+QuestorPostsuccess:  [1008]
+你拿著 _book_ 的時候有沒有讀？相當精彩。
+
+QuestorPostfailure:  [1009]
+<ce>                      我給過你機會，%pcf。
+<ce>                  記得嗎？若你找到了 _book_，
+<ce>                    我會很高興跟你說話。以
+<ce>                      現在的情況，你還是
+<ce>                               走開吧。
+
+QuestLogEntry:  [1010]
+<ce>                          你不妨去找
+<ce>                     _informant1_ 的 _informant_。
+<ce>                           %G 似乎對
+<ce>                        __informant1_ 四周發生的事
+<ce>                         無所不知。
+                                     <--->
+<ce>                         你該去本地酒館問問。
+<ce>                       那兒閒話多得很。
+                                     <--->
+<ce>                            你該去
+<ce>               _informant1_ 試試。那兒總有人在聊。
+                                     <--->
+<ce>                      那是從 _giver_ 那兒偷走的。
+                                     <--->
+<ce>               _giver_ 一直在打聽這件事。
+                                     <--->
+<ce>                  我讀的時候挺喜歡。
+                                     <--->
+<ce>                 你大概該去圖書館看看。
+
+Message:  1011
+<ce>        這一定就是從 __giver_ 偷走的那本書。
+
+Message:  1025
+<ce>                   你好，%pcn。聽說你一直
+<ce>                 在打聽我。這我該知道，
+<ce>                   __informant1_ 的消息
+<ce>                          都得經過這雙耳朵。
+<ce>              別談我了。我確實聽說 _giver_ 的倒霉事。
+<ce>                你要找的是 _thief_，%g 找
+<ce>                    _book_ 的初版已經找了
+<ce>                一陣子。而且 %g 也是那種
+<ce>                   不先問就拿走東西的人，
+<ce>                       你懂我意思。
+
+Message:  1027
+_thief_ 住在 __house_ 的 _house_。
+<--->
+_thief_ 確實住在 _house_。
+<--->
+_thief_ 晚上都待在 _house_。
+<--->
+你該去 _thief_ 家找，%g 確實住在 _house_。
+<--->
+_thief_ 常在 _store_ 做買賣。
+<--->
+你不妨去 _store_ 逛逛，_thief_ 也常去。
+<--->
+_store_ 是買賣贓物的熱門地點，_thief_ 手上這類東西可多了。
+<--->
+有人在 _store_ 見過 _thief_。
+<--->
+_inn_ 是許多盜賊消磨的地方。
+<--->
+_thief_ 喜歡在 _inn_ 喝酒。
+<--->
+_thief_ 最喜歡的酒館是 _inn_。
+<--->
+_thief_ 最愛的餐點在 _inn_ 供應。
+
+Message:  1040
+<ce>                聽說你一直在找 _thief_。
+<ce>             好，你找到 %g2 了。  趁我還沒真想
+<ce>                 揍你之前快滾。

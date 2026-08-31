@@ -1,0 +1,20 @@
+-- Quest: C:\QUESTS\WORKING\S0000104.Qbn.
+-- Main story quest.
+-- QuestId: 104
+Messages: 16
+Quest: S0000104
+-- Message panels
+QRC:
+
+Message:  1015
+<ce>                    地底之王要圖騰。你必須死。
+                                      <--->
+<ce>                   你對地底之王毫無忠誠。因此，你必須
+<ce>                  死，好讓他得到圖騰。
+                                      <--->
+<ce>                  我為泰伯·塞普丁圖騰而來。你將加入
+<ce>                    死者的行列。
+
+
+-- Symbols used in the QRC file:
+--    ***  None  ***

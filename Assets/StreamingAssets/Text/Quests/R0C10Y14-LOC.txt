@@ -1,0 +1,78 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y14.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 14
+Messages: 11
+Quest: R0C10Y14
+DisplayName: 遺忘的裝備
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  你是否碰巧有空接一項幾乎不費時、
+<ce>                  還能讓你多賺 _reward_ 金幣的小差事？
+
+RefuseQuest:  [1001]
+<ce>                               不？可惜。
+
+AcceptQuest:  [1002]
+<ce>                      %oth，太好了。我有個相當愚鈍的
+<ce>                    同夥出門辦事卻忘了帶%g3的 _item_。
+<ce>                    我需要立刻把它趕到 ___contact_。
+<ce>                    那裡有個叫 __contact_ 的小地方，
+<ce>                     你可以找到一名叫 _contact_ 的
+<ce>                            =contact_。
+<ce>                          把 _item_ 交給%g2，
+<ce>                   %g就會給你 _reward_ 金幣。最後提醒，
+<ce>                     %g會在 =queston_ 天後離開
+<ce>                       __contact_，不論有沒有 _item_，
+<ce>                     所以你最好上路了。
+
+QuestFail:  [1003]
+<ce>                我已經把 _item_ 給你，也告訴你要送到哪。
+<ce>               還有什麼好談的？
+
+QuestComplete:  [1004]
+<ce>                   你是 _questgiver_ 派來的？%oth，
+<ce>                   我的 _item_！也該到了！我還以為
+<ce>                  得空著手離開。你怎麼這麼慢？
+<ce>                   什麼，我還得為自己的 _item_ 付錢？
+<ce>                   好吧，若 _questgiver_ 是這麼跟你說的。
+<ce>                   現在，我已經浪費夠多時間了。
+<ce>                   我必須上路了。
+
+RumorsDuringQuest:  [1005]
+若我有 _item_，我會賣給 __contact_ 那個 =contact_。看起來急得很。
+<--->
+那個 =contact_ 已經在 __contact_ 悶了好幾天。
+
+RumorsPostfailure:  [1006]
+可憐的 _contact_——%g3的貨始終沒到，%g只好空著手離開。
+<--->
+不知道 _contact_ 到底在等什麼。奇蹟嗎？
+
+RumorsPostsuccess:  [1007]
+_contact_ 離開 __contact_ 時開心得像隻鷹身女妖。看來%g拿到了需要的東西。
+<--->
+_questgiver_ 一直在讚美%g雇的某個%ra傭兵。
+
+QuestorPostsuccess:  [1008]
+啊，我親愛的朋友。你回來真好。近來如何？
+<--->
+我得知你的任務成功了。由衷感謝你。
+
+QuestorPostfailure:  [1009]
+<ce>                   你沒找到我的接應人，卻還回來找我。
+<ce>                  行為相當古怪。
+
+QuestLogEntry:  [1010]
+%qdt:
+我被 _questgiver_ 派往 ___contact_，
+ 那裡有一名叫 _contact_ 的 =contact_
+ 在一處名叫 __contact_ 的地方
+ 等一件特別的 _item_。
+ 這位 _contact_ 打算在 =queston_ 天後
+ 離開 ___contact_，不論有沒有 _item_，
+ 所以我得趕快。

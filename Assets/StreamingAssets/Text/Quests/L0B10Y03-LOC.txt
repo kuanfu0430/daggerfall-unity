@@ -1,0 +1,111 @@
+-- Quest: C:\QUESTS\WORKING\L0B10Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 10
+-- QuestId: 3
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 15
+Quest: L0B10Y03
+DisplayName: 擅自缺席
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 兄弟會自豪於隨時知道
+<ce> 每位兄弟身在何處。我能
+<ce> 告訴你上個提爾達斯你在
+<ce> 哪，誤差不到一呎泥土。
+<ce> 然而有名兄弟在執行任務時
+<ce> 失蹤了。你要設法找到
+<ce> =target_，
+<ce> 除非 %g 對 %g3 缺席有合理
+<ce> 藉口，否則你要了結 %g2。
+<ce> 我相信你有時間，對吧？
+                                      <--->
+<ce> 如你所知，沒有人能離開
+<ce> 黑暗兄弟會。有名兄弟在
+<ce> 任務中失蹤，我們必須知道
+<ce> =target_
+<ce> 是死是活。這份差事
+<ce> 選中了你。
+
+RefuseQuest:  [1001]
+<ce> 真的？也好，我覺得你
+<ce> 偶爾拒絕一次任務也是
+<ce> 你的權利。
+
+AcceptQuest:  [1002]
+<ce> 很好。=target_ 在
+<ce> ___contact_ 有個表親——
+<ce> 一個叫 _contact_ 的
+<ce> =contact_，
+<ce> 通常能在 __contact_ 找到。
+<ce> 跟 %g2 談——語氣要硬——
+<ce> 問出 %g3 表親在哪。我給你
+<ce> =queston_ 天處理完這事並回來。
+
+QuestComplete:  [1004]
+<ce> =target_ 是
+<ce> 吸血鬼？那就解釋得通了。
+<ce> 若你還沒去，最好到神殿
+<ce> 把傷治好，免得自己
+<ce> 也加入 =target_
+<ce> 那吸血的家族。
+
+RumorsDuringQuest:  [1005]
+沒有人，絕對沒有人，敢出賣黑暗兄弟會。
+<--->
+據說 =target_ 失蹤前，曾去 %reg 某處追殺一名男爵。
+
+RumorsPostfailure:  [1006]
+有人說 =target_ 死了。但也有人見過 %g2……而且只在夜裡。
+
+RumorsPostsuccess:  [1007]
+好笑，兄弟會居然幹掉那個吸血鬼。還以為他們會處得來。
+<--->
+看來 =target_ 最後的目標，比 %g 預期的還難對付。
+
+QuestorPostsuccess:  [1008]
+你好，%pcf。希望你跟那吸血鬼打完後，已經讓祭司看過。
+
+QuestorPostfailure:  [1009]
+<ce> 我對任務失敗者只有
+<ce> 輕蔑。滾開，%pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 黑暗兄弟會的 _qgiver_
+ 要我追查一名失蹤的兄弟；若沒有
+ 合理解釋，就把帳了結。這人名叫
+ =target_，在 ___contact_ 有個表親，
+ 是個叫 _contact_ 的 =contact_。
+ 我有 =queston_ 天問出這表親知道的事、
+ 找到 =target_，並回到 __qgiver_。
+
+Message:  1011
+<ce> 自從 =target_ 去
+<ce> ___mondung_ 找那個男爵後，
+<ce> 我就沒再聽到 %g 的消息。
+<ce> 那個男爵很怪。白天從不露面，
+<ce> 住在那陰森地方。難怪有人想
+<ce> 要他死。不過，若有人要打斷
+<ce> 我表親在兄弟會的前程，
+<ce> 我可不會料到是那個瘦削蒼白
+<ce> 的男爵。
+
+Message:  1012
+%qdt:
+ _contact_ 告訴我，
+ =target_ 去了
+ ___mondung_，要找某個神秘男爵了結。
+ 下一站就是 ___mondung_。
+
+Message:  1013
+<ce> 「讓我把男爵賜給我的
+<ce> 不朽與你分享，」
+<ce> =target_ 嘶聲說。
+
+Message:  1014
+<ce> 吸血鬼 =target_
+<ce> 終於安息了。

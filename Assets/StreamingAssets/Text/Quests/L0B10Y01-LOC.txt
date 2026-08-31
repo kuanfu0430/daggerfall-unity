@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\L0B10Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 10
+-- QuestId: 1
+Messages: 21
+Quest: L0B10Y01
+DisplayName: 致命之歌
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 這筆了結挺好笑，或許能對上
+<ce> 你那病態的幽默感。據說有個
+<ce> 沒才華的吟遊詩人，愛對
+<ce> 從前的主顧寫下流打油詩。
+<ce> 結果 %g3 家譜知識不夠，
+<ce> 對著新主顧——那位公爵的
+<ce> 女兒——唱了一首亂倫公爵之歌。
+<ce> 有興趣用 _reward_ 金幣了結這名
+<ce> 無禮的藝人嗎？
+
+RefuseQuest:  [1001]
+<ce> 我是聽錯了，還是你真的說不？
+<ce> 你若連宰一個爛樂手的時間
+<ce> 都沒有，還怎麼體會
+<ce> 人性這幅豐富織錦？
+
+AcceptQuest:  [1002]
+<ce> 我就知道這會對你胃口。顯然
+<ce> 那吟遊詩人知道我們的契約，
+<ce> 正躲在一個名叫 ___mondung_
+<ce> 的陰暗洞穴。
+<ce> 應該只是小打小鬧，但
+<ce> 別掉以輕心。走投無路的
+<ce> 歌者可能是難以預測的對手。
+<ce> =1stparton_ 天內回來
+<ce> 領取了結酬金。祝你好運。
+
+QuestFail:  [1003]
+<ce> 我敢打賭那吟遊詩人
+<ce> 還沒被送進湮滅。
+<ce> 可你人在這裡。這
+<ce> 在我看來很怪。你不覺得嗎？
+
+QuestComplete:  [1004]
+<ce> 啊，你有留下來聽那粗魯樂手
+<ce> 的最後一個音符嗎？這是你作為
+<ce> 吟遊詩人安魂曲之器的分成：
+<ce> _reward_ 金幣。好好享受。
+
+RumorsDuringQuest:  [1005]
+不知道那位公爵是不是真的跟女兒亂倫。
+<--->
+那個可憐的 _monster_ 連調都唱不準。
+
+RumorsPostfailure:  [1006]
+唉，=monster_ 或許已經走了，但我們永遠會記得 %g3 那些歌。
+<--->
+聽說那位公爵夫人對吟遊詩人逃走氣得比大法師還瘋。
+
+RumorsPostsuccess:  [1007]
+據說夜風裡還能聽見 =monster_ 那嘲諷的歌聲。
+<--->
+我個人很高興 =monster_ 死了；%g 真是無聊透頂。
+
+QuestorPostsuccess:  [1008]
+啊，你好，%pcf。再見到你，真是悅目的樂音。
+
+QuestorPostfailure:  [1009]
+<ce> 我該如何問候你，%pcf？
+<ce> 你沒能殺死那吟遊詩人。這在你的
+<ce> 紀錄上，確實是個走音的音符。
+
+QuestLogEntry:  [1010]
+<ce> 你已殺死 =monster_。
+
+Message:  1020
+%qdt:
+ 黑暗兄弟會派我去暗殺一名叫
+ =monster_ 的吟遊詩人，並在
+ =1stparton_ 天內回到 ___questgiver_
+ 的 _questgiver_ 處。這名吟遊詩人
+ 顯然躲在名叫 ___mondung_ 的地城。

@@ -1,0 +1,88 @@
+-- Quest: C:\QUESTS\WORKING\A0C01Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 01
+-- QuestId: 6
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 36
+Quest: A0C01Y06
+DisplayName: 意外之旅 第二部
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我叫 _qgiver_。我的主人要我找一名勇敢的冒險者執行危險任務。
+<ce> 我不能多說，只能告訴你成功者可得 _gold_ 金幣。你有興趣嗎？
+                                     <--->
+<ce> 叫我 _qgiver_。我認識一個可能有有趣差事的人。
+<ce> 誰能做成，就有 _gold_ 金幣。
+
+RefuseQuest:  [1001]
+<ce> 我會到別處尋找能完成主人之任務的英雄。
+
+AcceptQuest:  [1002]
+<ce> 去 _meetingplace_。你會在那兒找到我的主人 _master_。
+                                     <--->
+<ce> 在 _meetingplace_ 打聽 _master_，%g 會有差事給你。
+
+QuestComplete:  [1004]
+<ce> =mmaster_ 死了。你的敵人再想搞這種背叛，會三思而後行。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說今天鎮上有人看見獸人。希望他們抓住他。
+
+RumorsPostfailure:  [1006]
+<ce> 你聽過那個被傳送到地城底部的 %ra 嗎？超好笑的！噢。抱歉。
+
+RumorsPostsuccess:  [1007]
+<ce> 嘿！你就是殺掉那個獸人巫醫的 %ra！幹得好！
+
+QuestorPostsuccess:  [1008]
+<ce> 好啦好啦。那件獸人薩滿的事，我想我欠你一份。他被施法變成普通人的模樣。
+
+QuestorPostfailure:  [1009]
+<ce> 離遠點！我不是故意害人。那個獸人被施法變成普通人的模樣。
+<ce> 他把你傳到地城不是我的錯。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我在 ___qgiver_ 遇見 _qgiver_，
+ 對方說 %g3 主人 _master_
+ 願付 _gold_ 金幣，換一項未知但肯定危險的差事。
+ %G1 住在 __meetingplace_ 的 _meetingplace_。
+
+Message:  1011
+%qdt:
+ 叛徒 =mmaster_ 偽裝成 _master_，
+ 用法術把我送到 ___dungeon_。
+ 若我能出去，%g 會後悔我們的下一次會面。
+
+Message:  1012
+<ce> 認清我真正是誰。我是你的死敵，=mmaster_！我為你準備了特別的命運。
+
+Message:  1013
+<ce> 別傷害我，%pcn！我不知道 _master_ 在計畫什麼。我跟你沒仇，真的。
+<ce> %G 什麼都沒告訴我，我發誓，%g 只是付錢讓我把你送到 %g2 那兒。
+<ce> 你要找的是 %g2，不是我，對吧？聽說 %g 搬到 __hidingplace_ 去了。去那兒找 %g2。
+
+Message:  1014
+<ce> 我不知道你怎麼從 ___dungeon_ 逃出來的，%pcf。不過對你也沒多大好處。準備受死吧！
+
+Message:  1020
+<ce> _master_？不，我不覺得 %g 是本地人。
+                                     <--->
+<ce> _master_ 是新來鎮上的。我不確定 %g 從哪來。
+
+Message:  1021
+<ce> _master_ 一直在打聽某個 %ra。
+                                     <--->
+<ce> _master_ 住在鎮上。聽說 %g 問了很多關於某個 %ra 的問題。
+<ce> 你是 %ra，對吧？也許 %g 在找你？
+
+Message:  1030
+%qdt:
+ 我得知 =mmaster_ 如今藏在 __hidingplace_。
+
+Message:  1035
+獸人薩滿的吟唱聲越來越高。

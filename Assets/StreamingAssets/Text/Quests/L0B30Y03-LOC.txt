@@ -1,0 +1,90 @@
+-- Quest: C:\QUESTS\WORKING\L0B30Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 30
+-- QuestId: 3
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: L0B30Y03
+DisplayName: 法師契約
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我認得你那表情，%pcf。
+<ce> 你越來越傲慢、自負、虛榮。
+<ce> 真好看。不過你仍需要鍛鍊謙卑，
+<ce> 接下帶有危險政治意味的差事。
+<ce> 我們有一份針對法師公會
+<ce> 高階成員的契約。你扛得住嗎？
+
+RefuseQuest:  [1001]
+<ce> 那就先把那得意的笑容
+<ce> 從臉上抹掉，等你
+<ce> 長出點勇氣再說。
+
+AcceptQuest:  [1002]
+<ce> 你沒讓我失望，%pcf。
+<ce> 是的，我們受託了結這名巫師，
+<ce> 順便說，他可不是三腳貓法師。
+<ce> 更有意思的是，這名法師從不
+<ce> 離開法師公會——所以你得冒險
+<ce> 驚動境內數十名最優秀、
+<ce> 最具破壞力的施法者。你會在
+<ce> ___mondung_ 的法師公會
+<ce> 找到這名術士。契約有效期為
+<ce> =1stparton_ 天，屆時你
+<ce> 必須回來，而這巫師必須
+<ce> 已死。祝你好運，願地獄
+<ce> 殿下梅法拉引導你的手與腳。
+
+QuestFail:  [1003]
+<ce> 那術士還活著，
+<ce> %pcf。別在這份
+<ce> 差事上失敗。
+
+QuestComplete:  [1004]
+<ce> 驕傲的了結者歸來了，雙手
+<ce> 浸滿那可恨巫師的血。你現在
+<ce> 算是做成一件大事了，%pcf。
+<ce> 你有理由自豪。好好
+<ce> 享受你的 _reward_ 金幣，%pcf。
+<ce> 那笑容，你可以繼續掛著。
+
+RumorsDuringQuest:  [1005]
+法師公會裡安靜得很。讓我想起沉睡的龍。
+<--->
+總有一天會有人對那個邪惡術士做點什麼。
+
+RumorsPostfailure:  [1006]
+<ce> 唉，那法師離開了法師公會，
+<ce> 但我肯定我們還會再見到那惡棍。
+                                      <--->
+<ce> 那巫師離開，讓法師公會難得
+<ce> 熱鬧了一回。
+
+RumorsPostsuccess:  [1007]
+我覺得法師公會跟其他人一樣，對那法師的死鬆了口氣。
+<--->
+依我看，那巫師對法師公會本來就是壞影響。
+
+QuestorPostsuccess:  [1008]
+那 __mondung_ 一定糟透了，%pcf。真美妙。
+
+QuestorPostfailure:  [1009]
+<ce> 你讓那法師活著，還覺得
+<ce> 配佔用我的時間。你確實
+<ce> 夠自負，%pcf。
+
+Message:  1020
+%qdt:
+ 我從黑暗兄弟會接的最新獵物，是
+ __mondung_ 法師公會的一名巫師。
+ 那法師必須死，而我必須在
+ =1stparton_ 天內回到 ___questgiver_
+ 的兄弟會。
+
+Message:  1011
+<ce> 你已殺死那名法師。
+<ce> 兄弟會會感到驕傲。

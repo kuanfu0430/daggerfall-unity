@@ -1,0 +1,137 @@
+-- Quest: C:\QUESTS\WORKING\Q0C00Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 0
+-- QuestId: 3
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 14
+Quest: Q0C00Y03
+DisplayName: 公眾形象
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        ==qgiver_ 其實
+<ce>                   需要汝協助一件既荒謬又嚴肅的事。
+<ce>                  汝對 %reg 的女巫遭人憎惡
+<ce>                 並無幻想。無人長久信任我們，
+<ce>                        因我們的力量與隱居
+<ce>                  使我們難以被操控。我們已發現
+<ce>                  一個即將對我們發動的陷阱，
+<ce>                  需要像汝這樣的人去拆除它。
+<ce>                   汝可有興趣接下這項任務，
+<ce>                    以換取一顆 _gem_？
+
+RefuseQuest:  [1001]
+<ce>                         汝不願？%oth，
+<ce>                        ==qgiver_ 早已習慣
+<ce>                      盟友的怯懦。
+
+AcceptQuest:  [1002]
+<ce>                   汝願意？那就帶上這孩子，
+<ce>                        %g 說 %g3 名叫
+<ce>                _child_。數日前我們發現 %g2
+<ce>               被 %g3 的族人遺棄。顯然，%g 被放在
+<ce>               這裡，好讓敵人證明我們涉入——你猜呢？
+<ce>               活人獻祭？腐化無辜者？
+<ce>              我敢說不會只是尋常綁架那麼簡單。
+<ce>                       _child_ 告訴我們，%g3
+<ce>                   雙親住在 __home_ 的 _home_。
+<ce>               把孩子領回去，但要小心。我們那些
+<ce>                 出色的敵人寧可殺掉你們兩個，
+<ce>                也不願讓孩子回家。
+<ce>               在 =queston_ 天內回來，
+<ce>                        我們會把汝的 _gem_
+<ce>                          交給汝。祝你好運。
+
+QuestComplete:  [1004]
+<ce>                        _child_ 能回家，很好。
+<ce>                   或許 ==qgiver_ 所展現的善意
+<ce>                          能為下一代驅散
+<ce>                  一些關於我們罪惡的神話。這是
+<ce>                          汝的 _gem_。謝謝
+<ce>                           汝，%pcf。
+
+RumorsDuringQuest:  [1005]
+有人竊竊私語，說 ==qgiver_ 比綁匪還壞得多。
+<--->
+若找不到那個 _child_，==qgiver_ 就要被燒死。
+
+RumorsPostfailure:  [1006]
+據說 ==qgiver_ 綁走了一個 =child_。可憐的孩子。
+<--->
+==qgiver_ 無法證明自己沒有綁架孩子。
+
+RumorsPostsuccess:  [1007]
+==qgiver_ 並沒有綁架 _child_——%g 自己說她們沒有。
+<--->
+若能相信 _child_ 的話，%g 是受 ==qgiver_ 幫助，而非傷害。
+
+QuestorPostsuccess:  [1008]
+因汝對 _child_ 與 ==qgiver_ 的善意，我樂於與汝交談。
+
+QuestorPostfailure:  [1009]
+<ce>                    我們請汝護送小小的
+<ce>                         _child_ 回 %g3 家，
+<ce>                    但汝失敗了。這並非閒差，
+<ce>                隨之而來的譴責也不輕。離開
+<ce>                         ==qgiver_ 吧，
+<ce>                            受詛的 %ra。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我正把一個被遺棄在 =qgiver_
+ 巫會的孩子送回家。
+ 孩子 _child_
+ 住在 __home_ 的 _home_。
+ 據女巫所說，她們的敵人寧可殺掉我們，
+ 也不願讓孩子安全回家。之後我應
+ 返回 ___qgiver_，向 _qgiver_
+ 領取報酬。
+
+Message:  1011
+<ce>                    「這就是我住的地方！這是
+<ce>                           我家！」_child_
+<ce>                     在你臉上親了一下，
+<ce>                           「謝謝你，%pcf！」
+
+Message:  1012
+<ce>                        「女巫的相好！_daedra_
+<ce>                           的孩子！」一個聲音
+<ce>                                尖叫。
+                                      <--->
+<ce>                       「不可讓 ==daedra_ 與
+<ce>                      ==qgiver_ 的孩子活著！」
+<ce>                       有人喊道。
+                                      <--->
+<ce>                          「%god 堅定我的手，
+<ce>                     對付那地獄之輩 ==qgiver_
+<ce>                      的棋子與孩子！」一個
+<ce>                           聲音呼喊。
+
+Message:  1013
+<ce>                     「剩下的路我自己走就好，」
+<ce>                   孩子說著，溜走了，
+<ce>                       敏捷得令人吃驚。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 4 times.
+--               %g2 occurs 1 time.
+--               %g3 occurs 5 times.
+--              %oth occurs 1 time.
+--              %pcf occurs 4 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 3 times.
+--              %reg occurs 1 time.
+--         ==daedra_ occurs 1 time.
+--         ==qgiver_ occurs 17 times.
+--           =child_ occurs 1 time.
+--         =queston_ occurs 1 time.
+--           __home_ occurs 2 times.
+--           _child_ occurs 10 times.
+--          _daedra_ occurs 1 time.
+--             _gem_ occurs 5 times.
+--            _home_ occurs 2 times.

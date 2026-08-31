@@ -1,0 +1,103 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y18.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 18
+Messages: 22
+Quest: R0C10Y18
+DisplayName: 借出的物品
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 你有空花幾天幫我一個小忙嗎，%pcf？
+<ce>                   我只需要把借來的東西還給原主。
+<ce>                 不太費力，你還能多賺 _reward_ 金幣。
+<ce>                         很誘人的提議，對吧？
+
+RefuseQuest:  [1001]
+<ce>                      真可惜。那我就另雇別人。
+
+AcceptQuest:  [1002]
+<ce>                    %oth，這才對嘛！我有這件 _item1_，
+<ce>                  是向我的好友 _npc1_ 借的，
+<ce>                          ___npc1_ 的 __npc1_
+<ce>                           的一名祭司。
+<ce>                   得趕緊還給%g2——%g需要在
+<ce>                     =1stparton_ 天內拿到。所以請快點。
+<ce>                    謝謝你，%pcf。
+
+QuestFail:  [1003]
+<ce>                     我不是說了要快嗎，%pcf？
+
+QuestComplete:  [1004]
+<ce>                      啊，很好。這件 _item2_ 一如傳聞
+<ce>                    般精美。出色，%pcf。這是你的
+<ce>                    _reward_ 金幣，酬謝你的迅速與沉默。
+
+RumorsDuringQuest:  [1005]
+往來 __npc1_ 的人很多。不知道在搞什麼。
+<--->
+_npc1_ 一直在找%g3的 _item1_，我甚至不知道%g喜歡那些東西。
+
+RumorsPostfailure:  [1006]
+不知道 __npc1_ 當走私站已經多久了。真是醜聞。
+<--->
+他們把寶石藏在 _item1_ 裡走私。現在想來這麼明顯，你不覺得嗎？
+
+RumorsPostsuccess:  [1007]
+真怪。我知道有一批 _item1_ 送到 __npc1_，但看起來不太對勁。
+<--->
+據說 ___npc2_ 是 _item2_ 走私的溫床。一定偽裝得很好。
+
+QuestorPostsuccess:  [1008]
+看看誰回來了。你懂我為什麼不能告訴你那顆寶石的事，對吧？
+<--->
+唷，這不是%pcf嗎。那樁寶石走私你辦得漂亮，我的朋友。
+
+QuestorPostfailure:  [1009]
+<ce>                      你搞砸的可不是小任務，%pcf。
+<ce>                       或許過些時候我能原諒你。
+<ce>                                 或許。
+
+QuestLogEntry:  [1010]
+<ce>                喔，很好，我的 _item1_ 回來了。謝謝你，
+<ce>                      %pcf。但裡面好像卡了什麼。喔，
+<ce>                       我懂了……這顆石頭。你能否
+<ce>                 好心把這顆小石子帶給 _questgiver_ 的
+<ce>                        朋友，___npc2_ 的 __npc2_
+<ce>                          的 _npc2_？
+<ce>                  我想%g那裡有你的金幣，但你最好快點。
+<ce>                          若 _npc2_ 等超過
+<ce>                   =2ndparton_ 天，耐心就會用盡。
+
+Message:  1015
+%qdt:
+___questgiver_ 的 _questgiver_
+ 派我把一件 _item1_ 帶給
+ ___npc1_ 的一名祭司，
+ 一位叫 _npc1_ 的 =npc1_，
+ 我會在 __npc1_ 找到%g，
+ 前提是我在 =1stparton_ 天或更短時間內到達。
+
+Message:  1016
+%qdt:
+ _item1_ 裡藏著一件 _item2_。
+ 為了答應我的 _reward_ 金幣，我必須把
+ _item2_ 交給 ___npc2_ 的第三方，
+ __npc2_ 的 _npc2_。我有 =2ndparton_ 天
+ 完成此事。
+
+Message:  1020
+<ce>                        在%reg，只有盜賊公會
+<ce>                      被允許走私。我猜 _questgiver_
+<ce>                    以為%g可以凌駕規矩。
+<ce>                     %G錯了。你要把那件 _item2_
+<ce>                       交給我，而 _questgiver_
+<ce>                     會學會別跟盜賊公會作對。
+<ce>                    照做，否則我就殺了你。
+
+Message:  1021
+<ce>                      你去告訴所有你認識的人，
+<ce>                      別惹盜賊公會。現在滾出去。

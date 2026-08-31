@@ -1,0 +1,97 @@
+-- Quest: C:\QUESTS\WORKING\B0B70Y16.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 70
+-- QuestId: 16
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0B70Y16
+DisplayName: 屠龍者
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   噓！別讓別人聽見，%pct。我剛得到消息，
+<ce>               有人見到一條龍！嗯，不是成年巨龍，只是一隻
+<ce>               小幼龍。對==qgiver_的成員來說，沒有比屠龍
+<ce>                 更英勇的任務了。我知道牠在哪，你去殺。
+<ce>               榮耀咱們倆都能分。成交嗎？
+                                     <--->
+<ce>                    是時候證明你真正屬於==qgiver_了，
+<ce>                      %pct。是時候讓你去屠龍了。
+
+RefuseQuest:  [1001]
+<ce>                      你要是跟別人說這事，
+<ce>                     我就讓你被趕出==qgiver_。
+
+AcceptQuest:  [1002]
+<ce>                      龍蛋剛在___dungeon_孵化。
+<ce>                      我不知道那裡還有沒有別的幼龍。
+<ce>                       我能把這事保密=2dung_天。
+
+QuestComplete:  [1004]
+<ce>                         萬民歡呼%pcn，從此被稱為
+<ce>                      屠龍者！萬民歡呼
+<ce>                         _qgiver_，堅強的右臂、
+<ce>                       可貴的心腹！
+
+RumorsDuringQuest:  [1005]
+沒什麼特別有意思的事。
+<--->
+前幾天我長了個膿瘡……不過已經好了。
+<--->
+我剛跟人聊了三個鐘頭的天氣。
+<--->
+這時節的天氣還算平常。
+<--->
+以這個時節來說，%cn好像有點涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我祖姑要去灣對岸看專科醫生。
+<--->
+這附近天黑的時間總是讓人覺得奇妙。
+<--->
+我們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一則超棒的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有優點也有缺點。
+
+RumorsPostfailure:  [1006]
+%kno在___dungeon_裡亂闖一通，毫無理由。
+
+RumorsPostsuccess:  [1007]
+___dungeon_那條龍有五十呎長！
+<--->
+___dungeon_那條龍有一百呎長！
+<--->
+那名%ra所殺的龍，午餐能吃掉四十頭牛！
+
+QuestorPostsuccess:  [1008]
+我能為我的屠龍同僚做什麼？
+
+QuestorPostfailure:  [1009]
+那條龍的事你真讓我失望。別煩我。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_告訴我，一顆龍蛋
+ 在___dungeon_孵化了。
+ 我有=2dung_天去斬殺那頭野獸，
+ 並沐浴在這功績的榮耀之中。
+
+Message:  1011
+<ce>                        幼龍死了。
+<ce>                       ==qgiver_裡的人會把這事
+<ce>                          談論好幾年！

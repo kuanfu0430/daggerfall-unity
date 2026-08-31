@@ -1,5 +1,5 @@
-Title: King Edward, Part XI
-Author: Anonymous
+Title: 愛德華王，其十一
+Author: 佚名
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,130 +8,130 @@ Content:
 
 [/font=2]
 
-[/center]King Edward, Part XI
+[/center]愛德華王，其十一
 
 [/font=4]
 
 [/center]
 
- The Companions stayed the night at a crude but comfortable inn at a tiny village that called itself Raven Spring, located in the foothills of the Wrothgarian Mountains. The next morning they resumed their journey eastward, moving through rolling hills towards the Skyrim and Hammerfell borders, and camping the next two nights under clear early summer skies. When they resumed traveling the third morning, Moraelyn told everyone to watch the slopes north of the road for a notch opening to a high meadow that faced to the southwest. Shortly afterward everyone spotted it almost simultaneously when the group completed a bend around a rocky outcrop.
+ 同伴們在沃斯加里安山脈山腳一個自稱鴉泉的小村子裡一座簡陋卻舒適的旅店過夜。次日早晨他們繼續東行，穿過起伏的丘陵朝天際與落錘省邊界前進，接下來兩夜在晴朗的初夏天空下紮營。第三天早晨重新上路時，莫瑞林告訴所有人留意路北山坡上一個缺口，通向面向西南的高草地。不久所有人幾乎同時發現了它，當隊伍繞過一處岩石露頭完成一個彎道時。
 
- Silk and Beech went ahead to scout a good route, and to look for a campsite for the evening ahead. By dusk they had covered most of the distance to the meadow, but still faced some stiff climbing the next morning. They agreed that it was time to camp once again, but happily a lunchtime picnic seemed very likely the next day.
+ 絲爾克和畢奇先行去偵察好路線，並為當晚尋找營地。黃昏時他們已走完到草地的大部分路程，次日早晨仍面臨一些艱難的攀爬。他們同意該再次紮營，可高興的是次日午餐野餐似乎非常可能。
 
- By mid-day the next day, which was Loredas the 5th of Mid Year, the Companions were sprawled across a grassy slope within the Dragon Village, having been joined by Akatosh and one other dragon. This second dragon was smaller than Akatosh, and seemed to be a female, although characteristically Akatosh had just introduced the dragon as Debudjen, with no further explanations being forthcoming. The two dragons politely chatted with the humanoids as they enjoyed their repast, though Debudjen flew off afterwards, to arc gracefully above, and then swoop down upon a steer in a grassy field some distance away.
+ 次日正午，那是年中月5日土曜，同伴們橫躺在龍村內一片青草坡上，阿卡托什和另一條龍加入了他們。這第二條龍比阿卡托什小，似乎是雌性，雖然阿卡托什一如既往只把龍介紹為德布丁，沒有進一步解釋。兩條龍禮貌地與類人生物聊天，享受他們的餐食，不過德布丁隨後飛走，在上空優雅地劃弧，然後撲向遠處草地裡的一頭閹牛。
 
- Akatosh had been watching Edward's reaction to this, and asked: "Why did you flinch, Edward? Debudjen had not eaten recently, and really behaved no differently than you just have."
+ 阿卡托什一直看著愛德華對此的反應，問道：「你為什麼畏縮，愛德華？德布丁最近沒吃過，行為其實跟你們剛才沒有不同。」
 
- Edward replied with a small smile, "I don't think that our meal was quite that violent in nature."
+ 愛德華帶著小小的微笑回答：「我不認為我們的餐食本質上那麼暴力。」
 
- Akatosh returned the smile, but then responded. "A good reminder then, that we are only similar, rather than the same."
+ 阿卡托什回以微笑，然後回應。「那是個好提醒，我們只是相似，而不是相同。」
 
- Edward paused, squinting into the mid-afternoon sun, and then turned to the golden dragon: "Akatosh - why did you choose this spot for your village?"
+ 愛德華停頓，眯眼看著午後的太陽，然後轉向金龍：「阿卡托什——你為什麼選擇這地方做你們的村子？」
 
- "Well, it was high enough up into the mountains to suit us, but flat enough for raising the cattle ... with trees for the deer ... and it is very defensible for all of us. There is plenty of room for the humans to build their ranches and farms, and the elves are quite comfortable in the dense trees along the cliff edges. The adits in the surrounding cliff faces provide us the access to our lairs, which we have located within the mining tunnel system. All in all, an ideal site for such an experiment involving this many races of beings. It even opens to the southwest, providing reasonable warmth for the smaller beings, with some protection from the elements during the colder months."
+ 「這個，它夠高進入山脈適合我們，卻夠平坦養牛……有樹給鹿……而且對我們所有人都非常易守。有充足空間讓人類建牧場和農田，精靈在懸崖邊茂密的林木中相當舒適。周圍崖面的坑道為我們提供進入巢穴的通道，巢穴位於採礦隧道系統內。總之，對涉及這麼多種族的實驗是理想地點。它甚至朝向西南，為較小的存在提供合理的溫暖，寒冷月份對元素有些防護。」
 
- Edward responded, "It is difficult for me to get used to the notion of a village without some central concentration of buildings - but perhaps these will be developed in the future; at least, a few buildings for meetings and socializing. And, I suppose that there are also some beautiful sunsets to be seen."
+ 愛德華回應：「我很難習慣沒有某種中央建築集中的村子的概念——但或許這些將來會發展；至少，幾座開會和社交的建築。而且，我想也能看見一些美麗的日落。」
 
- The dragon smiled again, but replied "Quite so, but I am the only one of the dragonkind to show any interest, and that was not a legitimate consideration when we chose this site." Then wistfully: "I wish that I could assemble the words to describe some of them. I have attempted this many, many times, but the results just are not ...very admirable." More briskly: "And by the way, we do intend to erect a meeting hall for the humanoids, and also some stores for barter and other exchanges of goods."
+ 龍再次微笑，卻回答：「確實如此，可我是龍族中唯一表現出任何興趣的，而那在我們選擇這地點時並不是正當的考量。」然後若有所思：「但願我能組織詞語描述其中一些。我嘗試過許許多多次，結果只是……不太可敬。」更輕快地：「順便說，我們確實打算為類人生物建一座會議廳，還有一些以物易物和其他貨物交換的店鋪。」
 
- Moraelyn had wandered over and seated himself, and he asked, with a notable absence of the usual humanoid respect for dragons, "Whatever possessed you to attempt such a crazy experiment, Akatosh?"
+ 莫瑞林走過來坐下，以類人生物對龍通常缺乏的敬意問道：「究竟是什麼讓你嘗試這樣瘋狂的實驗，阿卡托什？」
 
- The dragon paused thoughtfully, and then replied "As is my wont I had been analyzing, in this case one might say the history of dragon behavior. Clearly our lengthy contest of resistance to these new Aurielian gods was futile, but it took many of our generations for us to realize and accept this. Then, our next pattern was to isolate ourselves, even from each other, and to resist intrusion from any and all beings. The exception of course was to mate among ourselves and procreate our race. However, aside from that one activity, we fought any and all for our precious privacy, and really for no good reason except that we can be an especially stubborn race."
+ 龍若有所思地停頓，然後回答：「如我慣常所為，我一直在分析，這次可以說是龍行為的歷史。顯然我們對這些新奧瑞爾諸神漫長的抵抗競賽是徒勞的，可我們花了許多代才意識到並接受這一點。然後，我們下一個模式是孤立自己，甚至彼此孤立，抵抗任何及所有存在的侵入。當然例外是在我們之間交配並繁衍種族。然而，除了那一項活動，我們為寶貴的隱私與任何及所有人戰鬥，真的沒有好理由，除了我們可以是特別固執的種族。」
 
- Edward said, "Then you maintained a pattern of behavior long after the reason for it was gone?"
+ 愛德華說：「那麼你們在理由消失之後很久仍維持一種行為模式？」
 
- Akatosh looked a bit embarrassed. He said stiffly, "I believe that is what I just said. We are not the only sentient race to fall prey to that."
+ 阿卡托什看起來有點尷尬。他生硬地說：「我相信那正是我剛說的。我們不是唯一落入那陷阱的有知覺種族。」
 
- Edward said, "The Archmagister has told me that much behavior is inborn."
+ 愛德華說：「大法師告訴我許多行為是天生的。」
 
- Moraelyn smiled at him, "And inborn behavior patterns are a particular problem for long-lived species who change slowly as conditions change. We elves suffer from it even more than you short-lived humans, which is why we like to keep things as they are, though life is change and to resist it utterly is death. Dragons live far, far longer than even elves, and, in consequence, breed even more slowly. Still, who can say what alterations being born into a social setting may produce, for good or ill, in dragon behavior."
+ 莫瑞林對他微笑，「而天生的行為模式對長壽、隨條件變化而緩慢改變的物種是特別的問題。我們精靈甚至比你們短命的人類更受此苦，這就是為什麼我們喜歡保持事物原樣，雖然生命就是改變，徹底抵抗它就是死亡。龍比精靈活得遠、遠更久，因此繁殖甚至更慢。不過，誰能說出生於社交環境可能對龍的行為產生什麼改變，無論好壞。」
 
- Aliera had by this time joined the conversation, and observed: "The Daedra must have been long pleased with dragon behavior."
+ 艾莉菈此時已加入談話，觀察道：「迪德拉一定長久滿意於龍的行為。」
 
- Akatosh responded, "Perhaps so, but I approached our ... queen with this suggestion moreso because it seemed clear to me that as a race we had fallen into a stasis, and we needed to break this shell in order to invigorate ourselves. She didn't quite agree with me, but, perhaps because of my reputation, she told me to go ahead and make this attempt."
+ 阿卡托什回應：「或許如此，可我向我們的……女王提出這建議，更多是因為在我看來，作為種族我們已陷入停滯，需要打破這外殼才能使自己恢復活力。她不完全同意我，可或許因為我的名聲，她告訴我繼續做這嘗試。」
 
- By this point, all of the Companions were sitting within hearing range, and Mats asked: "Did you have to get your queen's permission? And have there been many difficulties among the various races?"
+ 到這時，所有同伴都坐在聽得見的範圍內，馬茨問：「你必須得到女王的許可嗎？各族之間有過許多困難嗎？」
 
- "Permission is not quite accurate in this case, Mats; being the beings that we are, it was moreso that I was obliged to tell her of this so that she would have the information. For example, other dragons regularly come to me with potential military intelligence, following this same philosophy of preparedness."
+ 「許可在這情況下不完全準確，馬茨；以我們這樣的存在，更多是我有義務告訴她這件事好讓她有這資訊。例如，其他龍經常帶著潛在的軍事情報來找我，遵循同樣的備戰哲學。」
 
- Mats grinned and said, "You mean 'just in case', right? But what about these elves and humans?"
+ 馬茨咧嘴笑說：「你是說『以防萬一』，對吧？可這些精靈和人類呢？」
 
- "Ah, our humanoid Lord and Lady do set a most remarkable example of tolerance and respect for differing shapes and customs. I owe a debt of gratitude to Moraelyn for the loan of his smiths and miners, who have been most generous in sharing their knowledge and skills with the Bretons that my young friend Edward and I have, ah, persuaded to attempt settlement here. It is my experience that Bretons, well, many Bretons, will do virtually anything so long as it is profitable and they gain skill and knowledge from it. The Nordic lust for individual honor and glory makes the mithril armor and weapons produced here extremely profitable -- t'was sheer genius that inspired Aliera to insist that we sell only to the nobility -- while the delving opens new tunnels and provides access to -- that which we dragons require." Akatosh smiled a little slyly. He was very reticent on the subject of exactly what dragons required. "Beech and Willow have made it known among their people that wood elves are welcome here, so those who have long missed their ancient High Rock homes have returned to these hills."
+ 「啊，我們類人生物的領主與夫人樹立了對不同形狀和習俗最非凡的寬容與尊重的榜樣。我欠莫瑞林一筆感激，借用他的鐵匠和礦工，他們最慷慨地與我年輕的朋友愛德華和我，啊，說服嘗試在此定居的布萊頓人分享他們的知識和技能。依我經驗，布萊頓人，這個，許多布萊頓人，只要有利可圖並且從中獲得技能和知識，幾乎什麼都願做。諾德人對個人榮譽和榮耀的渴望使這兒生產的秘銀鎧甲和武器極其有利可圖——堅持我們只賣給貴族是艾莉菈啟發的純粹天才——而挖掘開闢新隧道並提供通往——我們龍所需要之物的通道。」阿卡托什有點狡猾地微笑。他對龍究竟需要什麼非常緘默。「畢奇和薇蘿已在他們族人中傳開木精靈在這兒受歡迎，所以那些長久思念古老高岩家園的人已回到這些丘陵。」
 
- "Fortunate for me that I'm now a Duke, and thus qualified to wear and carry mithril. If only I could afford more than a piece or two! But for the cost I might retire --" Mats said.
+ 「對我幸運的是我現在是公爵，因此有資格穿戴秘銀。只要我能買得起一兩件！可就那價錢我可以退休——」馬茨說。
 
- "If you retired you would not require the mithril," Moraelyn pointed out.
+ 「若你退休就不需要秘銀了。」莫瑞林指出。
 
- "And what of my son and daughter? Thinkst thou I will beg from thee for them?" Mats said indignantly. "My knees and wind may not be what once they were, I grant you. I'fact I'm somewhat tempted to remain up here, now I am here, yet I can still swing my axe with any!"
+ 「那我的兒子和女兒呢？你以為我會為他們向你乞求嗎？」馬茨憤慨地說。「我的膝蓋和氣力或許不如從前，我承認。事實上我有點想留在這兒，既然我已經在這兒，可我仍能跟任何人一樣揮斧！」
 
- Mith grinned delightedly, "Nords can't count. It's why they seek honor and glory, not profit. Honor and glory are not amenable to enumeration much past what one can tally on the fingers. Mats, if thou art but thirty-nine, thou wert the largest ten year old humanoid I ever met or hope to meet!"
+ 密斯高興地咧嘴笑，「諾德人不會數數。這就是為什麼他們追求榮譽和榮耀，不是利潤。榮譽和榮耀不適合枚舉，超過能用手指計數的就差不多了。馬茨，若你才三十九，你就是我見過或希望見到的最大的十歲類人生物！」
 
- "But what then are these benefits to those who neither delve nor smith?" Mats persisted, ignoring his old friend. "I would think that many would be terrified to live so close to such ... formidable beings" Mats spoke the last of this with a sly grin.
+ 「可那些既不挖掘也不打鐵的人有什麼好處？」馬茨堅持，無視他的老朋友。「我想許多人會害怕住得離這樣……可怕的存在那麼近」馬茨說最後這句時狡猾地咧嘴。
 
- "Well, on the other hand, the presence of the 'formidable beings' means that they are certainly well-protected. And this area is surprisingly fertile, so the crops seem to be growing well ... and although they provide the meat for us, we allocate one fifth of each herd to them for their own consumption. We've also been finding out what I have long suspected - the three sets of races, when combined, fight much more effectively than the sum of each when considered in isolation - that is, each race covers or cancels weaknesses of the others. At least it is certainly true that the local goblin population has been drastically reduced in a very short period of time."
+ 「這個，另一方面，『可怕存在』的存在意味著他們當然受到很好的保護。而且這地區出奇肥沃，所以作物似乎長得很好……雖然他們為我們提供肉，我們把每群的五分之一分配給他們自己消費。我們也一直在發現我長久懷疑的——三組種族結合時，戰鬥比各自孤立考慮的總和有效得多——也就是說，各族覆蓋或抵消彼此的弱點。至少確實本地哥布林人口在很短時間內急劇減少。」
 
- "Aye," Edward responded, "so Moraelyn proved in Morrowind."
+ 「是啊，」愛德華回應，「莫瑞林在晨風證明了這一點。」
 
- "With a bit of help from his friends," Moraelyn acknowledged. "I reap the praise, but i'truth I'm little more than the standard they wave -- and at times I feel more like the target they set up!"
+ 「靠朋友們一點幫助。」莫瑞林承認。「我收穫讚美，可說實話我比他們揮舞的旗幟多不了多少——有時我覺得更像他們樹立的靶子！」
 
- A wave of laughter greeted this remark. Edward persisted, "With you and the others up here, Akatosh, I feel my borders are well guarded, should Skyrim ever feel the urge to move its borders west again."
+ 一陣笑聲迎接這話。愛德華堅持：「有你和其他人在這兒，阿卡托什，我感到我的邊境守得很好，若天際再想把邊界往西移。」
 
- Aliera asked: "Was it easy to convince the other dragons to move to here?"
+ 艾莉菈問：「說服其他龍搬到這兒容易嗎？」
 
- "Actually, the most difficult part of that was moving our hoards to our new lairs" Akatosh responded with a lazy smile, "although once it was known that we had no use for the metals, gems and jewelry that we accumulate, everything went much more smoothly." But then more seriously: "Essentially I had to approach each dragon personally, and ... convince them that this idea had merit. Again, once I had persuaded a couple of our especially independent specimens, things went much more smoothly. However, there are only nine of us living in this area ... and there is really only room for two or three more of us. We shall have to see what develops hereafter."
+ 「實際上，最困難的部分是把我們的寶藏搬到新巢穴。」阿卡托什帶著懶洋洋的微笑回應，「雖然一旦知道我們對積累的金屬、寶石和珠寶沒有用處，一切就順利得多。」然後更嚴肅：「本質上我必須親自接近每條龍，並且……說服他們這主意有價值。再一次，一旦我說服了幾個特別獨立的標本，事情就順利得多。然而，只有九條龍住在這地區……而且其實只剩兩三條的空間。我們得看看此後會發展什麼。」
 
- Aliera now observed: "I think that now the gods and goddesses might look very favorably indeed on dragon behavior."
+ 艾莉菈現在觀察道：「我想現在諸神與女神可能會非常贊成龍的行為。」
 
- "That may be so, Aliera, but again that was not really why this was done. Besides, they still may remember and resent our long opposition to them."
+ 「或許如此，艾莉菈，可那同樣不是做這件事的真正原因。再說，他們仍可能記得並怨恨我們對他們長期的反對。」
 
- Beech asked deferentially "But what is the name of this village?"
+ 畢奇恭敬地問：「可這村子叫什麼名字？」
 
- Akatosh sighed, and then responded "I fear that we shall never reach a decision, since each race has decided opinions in that regard. Perhaps once the initial building phase is completed, we will able to be more contemplative about such matters."
+ 阿卡托什嘆口氣，然後回應：「我怕我們永遠達不成決定，因為各族對此都有堅定的意見。或許一旦最初的建設階段完成，我們能對這類事情更沉思。」
 
- Beech replied "That just doesn't seem right - everywhere should have a name, shouldn't it?"
+ 畢奇回答：「那就是不對——每個地方都該有名字，不是嗎？」
 
- Willow chuckled and then said "Perhaps to us this is so, but who knows how dragons think; and I'm sure that the humans and elves will squabble over the style of the name, besides the specifics of it."
+ 薇蘿輕笑然後說：「或許對我們是如此，可誰知道龍怎麼想；而且我確定人類和精靈會為名字的風格爭吵，更別提具體內容。」
 
- Moraelyn interrupted with great drama, "Surely you don't mean to imply that an elf can be overly stubborn!?" and the discussion dissolved into a period of laughter and teasing amongst the group.
+ 莫瑞林帶著極大戲劇性打斷：「你當然不是暗示精靈可能過於固執！？」討論溶解成一陣笑聲和群體中的打趣。
 
- Presently, Akatosh said, "I favor the name 'Section 22.'"
+ 過了一會兒，阿卡托什說：「我贊成『第二十二區』這名字。」
 
- Beech stared at him, "Akatosh, I see what thou dost mean about thy difficulties with the poetic. If you will allow my frank opinion? That is the single worst village name I have ever heard."
+ 畢奇盯著他，「阿卡托什，我明白你說的詩意方面的困難了。若你允許我坦率的意見？那是我聽過最糟的村名。」
 
- Akatosh sighed gustily, then pardoned himself hastily to Beech -- humanoids found dragon sighs quite unpleasant and sometimes actually hazardous. "Then thou seest what I mean by differences. To me, it is very meaningful, and most appropriate. Is 'Section 16' any better as a name? Not? Then is it the word 'Section' that offends you? In what way is it inferior to 'Keep' or 'Reich' or 'Glen' or 'Hold'?"
+ 阿卡托什呼地嘆了口氣，然後急忙向畢奇道歉——類人生物發現龍的嘆息相當不愉快，有時實際上有害。「那你明白我說的差異。對我來說，它非常有意義，最為恰當。『第十六區』作為名字有更好嗎？沒有？那是『區』這個詞冒犯了你嗎？它在哪方面劣於『堡』或『萊赫』或『谷』或『據』？」
 
- Edward said, "But Akatosh, a name should make some sense. At least humans think so. You should have 21 other sections first, if you're going to name this place '22'."
+ 愛德華說：「可阿卡托什，名字該有些意義。至少人類這麼想。若你要把這地方叫『二十二』，你該先有另外二十一區。」
 
- "Really?" Akatosh said, "Why is that? Are not all numbers equally valid? They serve well to distinguish one place from another. There could be many 'Greenvales' for instance. I myself know of four such villages. The number 'Twenty-two' does appeal to me....aesthetically, as well as possessing some 'sense' -- at least to me," he smiled secretively.
+ 「真的嗎？」阿卡托什說，「那是為什麼？難道不是所有數字同樣有效嗎？它們很好地把一個地方與另一個區分開。比方說可能有許多『綠谷』。我自己就知道四個這樣的村子。『二十二』這個數字確實吸引我……從審美上，也擁有某種『意義』——至少對我來說，」他祕密地微笑。
 
- Moraelyn said, "I think Lord Akatosh is enjoying what some call an 'in-joke'. Were I so rash as to instruct a dragon in manners--"
+ 莫瑞林說：「我想阿卡托什領主在享受有些人稱為『圈內笑話』的東西。若我魯莽到教導龍禮儀——」
 
- "Who," Silk said, "would ever accuse Moraelyn of being rash?"
+ 「誰，」絲爾克說，「會指控莫瑞林魯莽？」
 
- A bit later, Edward asked Akatosh: "Do you think that we could play a game or two of Battle? I brought the board and playing pieces with me."
+ 稍後，愛德華問阿卡托什：「你想我們能玩一兩局戰役嗎？我帶了棋盤和棋子。」
 
- Moraelyn interrupted "I'm afraid that Akatosh and I must discuss some matters this evening - and you'd only lose again anyway" he added with a fond smile.
+ 莫瑞林打斷：「恐怕阿卡托什和我今晚必須討論一些事——而且你反正又會輸」他帶著慈愛的微笑補上一句。
 
- Edward replied "But I can beat everyone else ... Akatosh, will I ever win a game with you?"
+ 愛德華回答：「可我能贏其他所有人……阿卡托什，我會贏你一局嗎？」
 
- "No, Edward, you won't", and Akatosh was slightly bemused by Edward's startled expression, and then the hearty laugh that quickly followed it.
+ 「不，愛德華，你不會」，阿卡托什對愛德華吃驚的表情有點困惑，然後迅速跟上的開懷大笑。
 
- "That wasn't very diplomatic of you, Akatosh. But why won't I ever win?"
+ 「你這樣不太圓滑，阿卡托什。可為什麼我永遠贏不了？」
 
- "Because I have been playing for much longer than you have Edward, and so long as I continue to play, you will not be able to catch up to me. Besides, this game is what I am starting to think of as a 'bounded problem', and that sort is most easily dealt with."
+ 「因為我玩的時間比你長得多，愛德華，只要我繼續玩，你就趕不上我。再說，這遊戲是我開始認為的『有界問題』，那一類最容易處理。」
 
- "What do you mean by 'a bounded problem', Akatosh?" asked Mats.
+ 「你說『有界問題』是什麼意思，阿卡托什？」馬茨問。
 
- "That is a problem that has a countable number of possible actions and results, Mats. There are only 81 squares on the board, and each side has exactly 27 playing pieces, each piece moves in a specific way, and so on."
+ 「那是有可數數量可能行動和結果的問題，馬茨。棋盤上只有八十一格，每邊正好二十七個棋子，每個棋子以特定方式移動，諸如此類。」
 
- "But the game is like a real battle, isn't it?" asked Ssa'ass.
+ 「可這遊戲像真正的戰役，不是嗎？」薩阿斯問。
 
- "No, it is very good practice for learning, and for thinking about how to execute a battle - but my Elven Archers never become tired or demoralized, and my Master Mage always does what I want. Such things seldom happen in a real battle."
+ 「不，它是學習和思考如何執行戰役的很好練習——可我的精靈弓箭手從不疲勞或士氣低落，我的大法師總做我想要的。這樣的事在真正戰役中很少發生。」
 
- Moraelyn nodded in agreement, and asked with mock slyness "Then what is an example of an unbounded problem?"
+ 莫瑞林點頭同意，帶著假裝的狡猾問：「那無界問題的例子是什麼？」
 
- "Certainly a real battle ... but also, to me a poem is an unbounded problem"
+ 「當然是真正的戰役……但對我來說詩也是無界問題」
 
- "But any poem can be analyzed, Akatosh" Aliera said chidingly.
+ 「可任何詩都可以被分析，阿卡托什」艾莉菈責難地說。
 
- "Of course - but only after it is written. I am unable to define, or bound, the act of writing it, though ... that is, the act of creating it. If I start to write a poem ... there are so many possibilities" and then wryly "I never get beyond the first line, because I start imagining all the things that I could put into the beginning and...."
+ 「當然——但只在寫成之後。我無法定義或界定寫它的行為……也就是，創造它的行為。若我開始寫一首詩……有那麼多可能性」然後諷刺地「我從未越過第一行，因為我開始想像所有我可以放進開頭的東西然後……」

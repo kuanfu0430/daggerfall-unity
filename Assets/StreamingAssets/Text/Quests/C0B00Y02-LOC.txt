@@ -1,0 +1,200 @@
+-- Quest: C:\QUESTS\WORKING\C0B00Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 2
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 27
+Quest: C0B00Y02
+DisplayName: 被附身的孩子
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 你可願協助一場驅魔，%pct？
+                                     <--->
+<ce>                      當地騎士_guardian_懇求我們
+<ce>                          幫助%g3的被監護人，
+<ce>                  對方已顯出迪德拉附身的跡象。若情況需要，
+<ce>                你可願協助驅魔？
+
+RefuseQuest:  [1001]
+<ce>                   真遺憾。希望我們能另找別人。
+
+AcceptQuest:  [1002]
+<ce>                      你願意？%oth，你的心胸跟%reg一樣寬廣，%pct。
+<ce>                     那孩子名叫_child_，是__house_這裡
+<ce>                          _house_的一名=child_，
+<ce>               但你該先談的人是%g3的監護人_guardian_，
+<ce>                         在_tavern_。若依%g所說，
+<ce>                 你覺得需要驅魔，就去__house3_的_house3_
+<ce>                         找_priest_。我期望這整件不幸之事
+<ce>                 在=queston_天內了結，到時在這裡見你。
+<ce>                       祝你好運，願%god與你同在。
+
+QuestComplete:  [1004]
+<ce>                      感謝%god，那事了結了。驅魔是否真有必要，
+<ce>                  一開始往往說不準。你做得很好，%pcf。
+<ce>       收下這_reward_，作為我們對你辛勞的小小謝禮。
+
+RumorsDuringQuest:  [1005]
+可憐的小_child_。可憐的_guardian_得看著%g3的被監護人受苦。
+<--->
+___house_的人心都向著_child_和%g3那可怕的危機。
+
+RumorsPostfailure:  [1006]
+_child_和_guardian_離開了___guardian_。
+<--->
+我們永遠不會知道_child_是否真的被附身。
+
+RumorsPostsuccess:  [1007]
+人人都在感謝%god，感謝那位救了小_child_性命的%ra。
+<--->
+小_child_一切都好轉了，看來%god還是在乎的。
+
+QuestorPostsuccess:  [1008]
+你在那場驅魔中幫了__qgiver_。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+你讓那孩子受苦。我沒什麼好跟你說的。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的_qgiver_
+ 要我去看看_house_一名叫_child_
+ 的=child_是否遭附身，若是，
+ 就治癒%g2。我得先與%g3的監護人、
+ _tavern_的_guardian_交談。
+
+Message:  1011
+<ce>                  你是從__qgiver_來的？拜託告訴我
+<ce>                 你能幫小_child_，我實在不忍看%g2受苦。
+<ce>               我不知道該拿%g2怎麼辦。拜託，看看%g2，
+<ce>                再看看能不能說服那位_priest_幫忙。
+<ce>                      _child_一向是那麼甜美的=child_，
+<ce>                可現在……若你想見%g2，%g在_house_。
+<ce>                       我不知道還能做什麼。
+
+Message:  1012
+<ce>                     你是從__qgiver_來的？感謝%god你來了。
+<ce>                    他們說你能見到_priest_，
+<ce>                       _house3_的驅魔人，
+<ce>                    而%g有某種專門對付這類附身的_item_。
+<ce>                  我自己說服不了_priest_把_item_給我，
+<ce>                  但像你這樣有__qgiver_權威的人可以。
+<ce>                       去__house3_跟%g2談。
+<ce>                     我知道你能說服%g2。
+
+Message:  1013
+%qdt:
+ _child_的監護人_guardian_
+ 請我先看看那孩子，再決定
+ __house3_的_house3_之_priest_
+ 是否需要執行驅魔。
+ _child_在_house_。
+
+Message:  1014
+%qdt:
+ _child_的監護人_guardian_
+ 請我去__house3_的_house3_
+ 向_priest_索取某種專門的_item_，
+ 用以驅除孩子身上的迪德拉魂靈。
+
+Message:  1015
+<ce>                      「=daedra_……哦，%oth……
+<ce>                       =daedra_離開我了……
+<ce>                       可是……牠還在這裡。」
+<ce>                          _child_跑開了。
+<ce>                  而你確實能感覺到_house_裡有異樣的存在。
+
+Message:  1016
+<ce>                          哦，%oth，%oth……
+<ce>                      我覺得……好多了。
+<ce>                          _guardian_告訴我
+<ce>                         那_item_會幫我們，%g是對的。
+<ce>                       哦謝謝你，好心的%pct。
+<ce>                            我會留著這_item_作防護。
+<ce>                               再見！
+
+Message:  1017
+<ce>                  咕呃，你這斜眼的凡人渣滓，
+<ce>                    我要把你的血管全剖開，在你熱氣蒸騰的血裡游泳。
+<ce>                  他們叫我=daedra_，舔貓糞的東西！
+                                     <--->
+<ce>                         可憐的小_child_，
+<ce>                   %g正在湮滅裡腐爛，沒人會幫%g2，
+<ce>                  只有善良、善良、善良、善良、善良、善良、善良、
+<ce>                     善良、善良、善良、善良、善良、
+<ce>                         善良、善良的=daedra_。
+                                     <--->
+<ce>                  從前有個女孩叫薇薇安，
+<ce>                     遇見了湮滅的=daedra_，
+<ce>                         他們決定交配，
+<ce>                          後來一起吃掉
+<ce>                    _child_，他們的孩子，嗯嗯。
+
+Message:  1018
+<ce>                        抱歉，%pcf，我不能把_item_
+<ce>                       隨便交給任何自認認識附身受害者的人。
+<ce>                這東西太稀有、太昂貴。你至少得先見到那孩子，
+<ce>                 我才同意交出_item_。
+
+Message:  1019
+<ce>                         =daedra_？_child_真的
+<ce>                      提到過=daedra_這個名字？
+<ce>                嗯，就算這附身是騙局，至少也是做足功課的騙局。
+<ce>                       那麼，這是_item_。
+<ce>                  下次跟那孩子說話時帶在身上即可。但當心，
+<ce>                       _child_提到的迪德拉
+<ce>                  是極強大的迪德拉獸。驅魔完成時，
+<ce>                    牠會離開%g2，出現在_house_別處。
+<ce>                      到時要準備戰鬥。祝你好運，
+<ce>                        %pcf。願%god與你同在。
+
+Message:  1020
+%qdt:
+ 我不知道=daedra_是誰，但那是
+ 我見到_child_時%g所喊的名字。
+ 那=child_要不是被附身、瘋了，
+ 就是___house_最會演戲的人。
+ 也許該去見見__house3_的驅魔人，
+ _house3_的_priest_。
+
+Message:  1021
+<ce>                       好心的%pcf，我無法充分感謝你
+<ce>                   為_child_所做的一切。如今
+<ce>                      %g又是個快樂、正常的孩子了。
+<ce>                       我已如此告知你__qgiver_的_qgiver_，
+<ce>                    %g正急著想向你道賀。再次謝謝你。
+
+Message:  1022
+<ce>                       我確實能告訴你那=guardian_
+<ce>                        _guardian_溜到哪兒去了。
+<ce>                  但除非你掏得出五十金幣換這消息，
+<ce>                      我什麼都不知道。
+
+Message:  1023
+<ce>                        日安，%pct。
+<ce>                   你大概在找那個=guardian_，_guardian_，
+<ce>                     %g吹噓從__qgiver_偷了某種_item_之後
+<ce>                   就溜了。若你有五十金幣分給朋友，
+<ce>                    我可以告訴你_guardian_去了哪。
+<ce>                        你意下如何？
+
+Message:  1024
+<ce>                     很高興跟你做生意，%pcf。
+<ce>                           你會在_house2_
+<ce>                         找到那個=guardian_。
+
+Message:  1025
+<ce>                      「別傷害我！」_guardian_
+<ce>                         把_item_塞給你，然後逃走了。
+
+Message:  1026
+%qdt:
+ _tavern_的一名=hooker_，_hooker_，
+ （收了五十金幣）告訴我，_child_從我這偷走
+ _item_之後，那_guardian_跑去了_house2_。
+ 附身顯然是騙局，_priest_和_qgiver_
+ 會要回那_item_。

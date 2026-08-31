@@ -1,0 +1,63 @@
+-- Quest: C:\QUESTS\WORKING\O0B2XY10.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 2X
+-- QuestId: 10
+Messages: 11
+Quest: O0B2XY10
+DisplayName: 珍藏藥劑
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                           %pcn，我叫
+<ce>                        _qgiver_。我打聽到一瓶
+<ce>                         _potion_。我需要有人
+<ce>                         幫我把它「請走」。
+<ce>                      我會付你 _gold_ 金幣。
+<ce>                       你說呢？
+
+RefuseQuest:  [1001]
+<ce>                       等你想幹正經活了再告訴我，
+<ce>                        %pcn。
+
+AcceptQuest:  [1002]
+<ce>                          在 __alchemyshop_ 的
+<ce>                        _alchemyshop_ 你會找到一瓶
+<ce>                         _potion_。拿走它，
+<ce>                        在 =traveltime_ 天內帶回來，
+<ce>                      我就付錢。這不難吧？
+
+QuestComplete:  [1004]
+<ce>                         不錯，%pcn。這是
+<ce>                           你的 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+_alchemyshop_ 有 __alchemyshop_ 一帶最好的材料。
+<--->
+你想要什麼幾乎都能在 __alchemyshop_ 的 _alchemyshop_ 找到。
+
+RumorsPostfailure:  [1006]
+_alchemyshop_ 曾有一瓶稀有的 _potion_，但現在放到更安全的地方了。
+
+RumorsPostsuccess:  [1007]
+有人直接從 _alchemyshop_ 偷走一瓶 _potion_。真有膽子！
+
+QuestorPostsuccess:  [1008]
+當然記得你，%pcf。那瓶 _potion_，對吧？
+
+QuestorPostfailure:  [1009]
+<ce>                  別告訴我。你大老远跑到
+<ce>                      _alchemyshop_，找到那瓶
+<ce>                       _potion_，然後不小心喝掉了，
+<ce>                    對吧？%oth，換個盜賊，
+<ce>                         還是老套故事。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的盜賊公會成員
+ _qgiver_ 給我一份差事，去
+ __alchemyshop_ 的 _alchemyshop_
+ 偷一瓶 _potion_。
+ 我有 =traveltime_ 天把它交給 %g2。

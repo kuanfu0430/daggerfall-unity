@@ -1,0 +1,224 @@
+-- Quest: C:\QUESTS\WORKING\40C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Nocturnal
+-- Repute: 0
+-- QuestId: 0
+Messages: 51
+Quest: 40C00Y00
+DisplayName: 諾克特納爾的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 你渴望力量，%pcn。
+<ce> 有了它，你才能揮向陰影並懷抱一絲希望。
+<ce> 若我把這份希望帶給你，你會帶什麼給我？
+<ce> 你願意摧毀那個帶給我痛苦的人嗎？
+
+RefuseQuest:  [1001]
+<ce> 正如我所料，毫無心肝。那麼我們不會有契約，
+<ce> 我將失望地回到我寒冷的宮殿。
+<ce> 那兒的靈魂並不比這裡更仁慈，但在那兒，他們會追隨。
+
+AcceptQuest:  [1002]
+<ce> 你願意？你願做我的麻醉劑？
+<ce> 你會去 ___mondung_ 的 _monster_ =monster_ 巢穴殺死 %g2？
+<ce> 啊，%pcf，為此我會把託付給奴隸 _qgfriend_ 的 _artifact_ 給你。
+<ce> =monster_ 倒下後，去 ___qgfriend_，在 __qgfriend_ 見我的奴隸。
+<ce> 你很容易認出 %g2——一名 =qgfriend_。
+<ce> 你會在那兒得到 _artifact_。
+<ce> 如今我必須回到我寒冷的湮滅宮殿。我會等待消息。
+
+QuestFail:  [1003]
+<ce> 不。你一定是在找另一個 =qgfriend_。
+<ce> 我的名字不是 _qgfriend_。
+
+QuestComplete:  [1004]
+<ce> 原來你就是 %pcn，對吧？我是 _qgfriend_。
+<ce> 我得說，我一直在想，是怎樣的 %ra 才能溜進 _monster_ 的據點，
+<ce> 謀殺主人，然後大搖大擺走出來。非常令人印象深刻。
+<ce> 諾克特納爾同樣對你感到興趣，因此有這份禮物：_artifact_。
+<ce> 小心使用，%pcf。
+
+RumorsDuringQuest:  [1005]
+=monster_ 很狡猾——%g 讓整個法師公會都受嫌疑。
+<--->
+知道 =monster_ 是成員後，我無法信任法師公會任何人。
+<--->
+法師們說 =monster_ 為躲避湮滅的怒火，藏在 ___fakedung_。
+<--->
+法師們正聚集起來，要在 ___fakedung_ 搜捕那個惡棍 =monster_。
+<--->
+我看見一群法師朝 ___fakedung_ 出發。
+<--->
+聽說叛徒 =monster_ 如今藏在 ___fakedung_。
+
+RumorsPostfailure:  [1006]
+我就知道 =monster_ 有麻煩，否則 %g 怎會走得那麼急？
+<--->
+法師公會一定認為 =monster_ 有損他們的形象。
+
+RumorsPostsuccess:  [1007]
+我不能說對 =monster_ 感到驚訝；%g3 過去追上了 %g2。
+<--->
+就算大法師聽說 =monster_ 死了，我想也不會難過。
+
+Message:  1011
+_qgfriend_ 是 __qgfriend_ 的常客之一，就在這裡的 %di。
+<--->
+_qgfriend_ 是出沒於 __qgfriend_ 的 =qgfriend_。在 %di 方向。
+
+Message:  1012
+_qgfriend_ 是諾克特納爾的代理人，從這裡 %di 的 __qgfriend_ 活動。
+<--->
+_qgfriend_ 是夜之迪德拉女士諾克特納爾的奴隸之一。
+
+Message:  1013
+諾克特納爾是神秘的夜之女士，迪德拉攝政之一。
+<--->
+諾克特納爾是湮滅的攝政，其領域是黑暗與神秘。
+
+Message:  1014
+_artifact_ 能打開任何鎖。
+
+Message:  1015
+法師們說 =monster_ 為躲避湮滅的怒火，藏在 ___fakedung_。
+<--->
+法師們正聚集起來，要在 ___fakedung_ 搜捕那個惡棍 =monster_。
+<--->
+我看見一群法師朝 ___fakedung_ 出發。
+<--->
+聽說叛徒 =monster_ 如今藏在 ___fakedung_。
+
+Message:  1016
+<ce> %oth！=monster_，
+<ce> 湮滅的代理人找上門了！
+<ce> 我已把最貴重的藥劑材料搬到 ___fakedung_，
+<ce> 打算等你處理掉那個討厭的 %ra 後在那兒與你會合。
+<ce>
+<ce> N.
+
+Message:  1017
+<ce> 一個聲音似乎在你耳邊迴響：=monster_
+<ce> ……確定……特別的地方……
+<ce> 消息……
+
+Message:  1018
+%qdt:
+ 我抵達 ___mondung_ 時，
+ 迴聲提到裡面有一處
+ 「特別的地方」。
+
+Message:  1019
+%qdt:
+ 我找到 =monster_ 的便條，說 %g 試圖賄賂我之後，
+ 預期會在 ___fakedung_ 出現。
+
+Message:  1020
+%qdt:
+ 我如今與諾克特納爾訂有契約，
+ 她是湮滅的迪德拉親王之一。我同意
+ 在 ___mondung_ 的據點殺死 _monster_ =monster_，
+ 以換取諾克特納爾的神器 _artifact_。
+ 我必須完成此事，並在 =1stparton_ 天內於
+ ___qgfriend_ 的 __qgfriend_ 見她的代理人 _qgfriend_，
+ 否則就算毀約。這可能意味著比得不到 _artifact_ 更糟的事。
+
+Message:  1021
+%qdt:
+ =monster_ 以 _bow_ 交換 %g3 性命，
+ 我無法抗拒。%G 說它在 ___bowdung_ 某處。
+ 既然我已背叛諾克特納爾，不妨去找找。
+
+Message:  1022
+%qdt:
+ =monster_ 以 _ring_ 交換 %g3 性命，
+ 我無法抗拒。%G 說它在 ___ringdung_ 某處。
+ 既然我已背叛諾克特納爾，不妨去找找。
+
+Message:  1023
+%qdt:
+ =monster_ 以 _staff_ 交換 %g3 性命，
+ 我無法抗拒。%G 說它在 ___staffdung_ 某處。
+ 既然我已背叛諾克特納爾，不妨去找找。
+
+Message:  1030
+<ce> 等等！我知道諾克特納爾派你來，也知道她答應給你 _artifact_。
+<ce> 但若你真正追求的是力量，我能開出更好的條件——
+<ce> 若你停止攻擊，我會告訴你哪裡能找到 _bow_。
+<ce> 你同意我的提議嗎？
+
+Message:  1031
+<ce> 等等！我知道諾克特納爾派你來，也知道她答應給你 _artifact_。
+<ce> 但若你真正追求的是力量，我能開出更好的條件——
+<ce> 若你停止攻擊，我會告訴你哪裡能找到 _ring_。
+<ce> 你同意我的提議嗎？
+
+Message:  1032
+<ce> 等等！我知道諾克特納爾派你來，也知道她答應給你 _artifact_。
+<ce> 但若你真正追求的是力量，我能開出更好的條件——
+<ce> 若你停止攻擊，我會告訴你哪裡能找到 _staff_。
+<ce> 你同意我的提議嗎？
+
+Message:  1035
+<ce> 你已殺死 =monster_。
+<ce> 諾克特納爾親王如今能更安穩地歇息。
+
+Message:  1040
+<ce> 好極了。我就知道你有傭兵的心腸。
+<ce> _bow_ 藏在 ___bowdung_。
+<ce> 你只要找到它，就會成為不可小覷的力量。
+<ce> 現在我向你道聲日安，免得你決定殺了我，
+<ce> 同時拿走 _bow_ 和 _artifact_。
+<ce> 像你這樣的傭兵心腸，不該被過度信任！
+
+Message:  1041
+<ce> 好極了。我就知道你有傭兵的心腸。
+<ce> _ring_ 藏在 ___ringdung_。
+<ce> 你只要找到它，就會成為不可小覷的力量。
+<ce> 現在我向你道聲日安，免得你決定殺了我，
+<ce> 同時拿走 _ring_ 和 _artifact_。
+<ce> 像你這樣的傭兵心腸，不該被過度信任！
+
+Message:  1042
+<ce> 好極了。我就知道你有傭兵的心腸。
+<ce> _staff_ 藏在 ___staffdung_。
+<ce> 你只要找到它，就會成為不可小覷的力量。
+<ce> 現在我向你道聲日安，免得你決定殺了我，
+<ce> 同時拿走 _staff_ 和 _artifact_。
+<ce> 像你這樣的傭兵心腸，不該被過度信任！
+
+QuestTimeLapse:  [1045]
+<ce> 嘲弄的笑聲在你心中迴盪，
+<ce>
+<ce> 「你早該知道不該信任我，%pcn。
+<ce> 也許這力量的影子能暫時滿足你的渴望，
+<ce> 讓你徒勞地對真正擁有力量的人發怒。比如我。
+<ce> 希望甜美的諾克特納爾不會太不滿你的背叛。」
+<ce>
+<ce> _bow_ 在你手中化為塵土。
+
+Message:  1046
+<ce> 嘲弄的笑聲在你心中迴盪，
+<ce>
+<ce> 「你早該知道不該信任我，%pcn。
+<ce> 也許這力量的影子能暫時滿足你的渴望，
+<ce> 讓你徒勞地對真正擁有力量的人發怒。比如我。
+<ce> 希望甜美的諾克特納爾不會太不滿你的背叛。」
+<ce>
+<ce> _ring_ 在你手中化為塵土。
+
+Message:  1047
+<ce> 嘲弄的笑聲在你心中迴盪，
+<ce>
+<ce> 「你早該知道不該信任我，%pcn。
+<ce> 也許這力量的影子能暫時滿足你的渴望，
+<ce> 讓你徒勞地對真正擁有力量的人發怒。比如我。
+<ce> 希望甜美的諾克特納爾不會太不滿你的背叛。」
+<ce>
+<ce> _staff_ 在你手中化為塵土。
+
+Message:  1050
+<ce> 諾克特納爾對你的大膽印象深刻，%pcn。
+<ce> 她要我迅速殺了你，作為對如此厚顏背叛的獎賞。

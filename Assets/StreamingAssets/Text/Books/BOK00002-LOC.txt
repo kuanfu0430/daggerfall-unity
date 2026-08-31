@@ -1,5 +1,5 @@
-Title: Fragment: On Artaeum
-Author: Taurce Anselma
+Title: 殘篇：論阿塔耶姆
+Author: 陶爾斯·安塞爾瑪
 IsNaughty: False
 Price: 676
 IsUnique: False
@@ -7,31 +7,31 @@ WhenVarSet:
 Content:
 
 [/font=2]
-[/center]Fragment:
+[/center]殘篇：
 
-[/center]On Artaeum
+[/center]論阿塔耶姆
 
 [/font=4]
-by Taurce il-Anselma, 3E 400
+陶爾斯·伊爾-安塞爾瑪 著，第三紀元400年
 
-[/center]The Isle of Artaeum (ar-TAY-um)
+[/center]阿塔耶姆島（ar-TAY-um）
 
- Artaeum is the third largest island in the Sumurset archipelago, located south of the Moridunon village of Potansa and west of the mainland village of Runcibae. It is best known for being the home to the Psijic Order, perhaps the oldest monastic group in Tamriel.
+ 阿塔耶姆是夏暮群島中第三大的島嶼，位於莫里杜農村莊波坦薩以南、大陸村莊朗西貝以西。它最為人知的，是身為賽伊克修會的所在地——那或許是泰姆瑞爾最古老的修道團體。
 
- The earliest written record of Psijics is from the twentieth year of the first era and tells the tale of the author, the renowned Breton sage Voernet, travelling to the Isle of Artaeum to meet with the Rite Master of the Psijics, Iachesis. Even then, the Psijics were the counselors of kings and proponents of the "Elder Way," taught to them by the original people of Tamriel. The Elder Way is a philosophy of meditation and study said to bind the forces of nature to the individual will. It differs from magicka in origin, but the effects are much the same.
+ 關於賽伊克最早的文字記載出自第一紀元二十年，講述作者、著名布萊頓賢者沃爾內特前往阿塔耶姆島，會見賽伊克儀式長伊阿切西斯的故事。即便在那時，賽伊克已是諸王的顧問，也是「古道」的倡導者——那是泰姆瑞爾原住民傳授給他們的。古道是一種冥想與研習的哲學，據說能把自然之力繫於個人意志。它與魔力的來源不同，效果卻大致相同。
 
- That being said, it is perhaps more than coincidence that the Isle of Artaeum literally vanished from the shores of Sumurset at the beginning of the second era at about the time of the founding of the Mages Guild of Tamriel. Various historians and scholars have published theories about this, but perhaps none but Iachesis and his own could shed light on this.
+ 話雖如此，阿塔耶姆島在第二紀元初、大約泰姆瑞爾法師公會創立之時，從夏暮沿岸真正消失，或許並非巧合。各路史家與學者對此發表過種種理論，但除了伊阿切西斯與他自己的人，恐怕無人能說明真相。
 
- Five hundred years passed and Artaeum returned. The Psijics on the Isle consisted of persons, mostly elves, who had disappeared and were presumed dead over the second era.
+ 五百年過去，阿塔耶姆歸來。島上的賽伊克由一些人組成，多半是精靈，他們在第二紀元期間消失，被推定已死。
 
- They could not or would not offer an explanation for Artaeum's wherebouts during that time or the fate of Iachesis and the original council of Artaeum.
+ 他們不能、或不願解釋那段時間阿塔耶姆身在何處，以及伊阿切西斯與阿塔耶姆原初議會的命運。
 
- Currently, the Psijics are led by the Lore Master Celarus who has presided over the Council of Artaeum for the last two hundred and fifty years. The Council's influence in world politics is tidal: the kings of Sumurset, particularly those of Moridunon, have often sought the Psijics' opinion; Uriel V was much influenced by the Council in the early, most glorious part of his reign, before his disasterous attack on Akavir; it has even been suggested that the fleet of King Orghum of Pyandonea was destroyed by a joint effort of Emperor Antiochus and the Psijic Order. The last four emperors, Uriel VI, Morihatha, Pelagius IV, and Uriel VII, have been suspicious of the Psijics, even enough to refuse ambassadors for the Isle of Artaeum in the Imperial City.
+ 如今，賽伊克由知識長塞拉魯斯領導，他主持阿塔耶姆議會已有兩百五十年。議會對世界政治的影響如潮汐般起落：夏暮的諸王，尤其是莫里杜農的諸王，常常徵求賽伊克的意見；尤利爾五世在其統治早期最輝煌的階段深受議會影響，直到他對阿卡維爾那場災難性的進攻；甚至有人認為，派安多尼亞的奧格努姆國王的艦隊，是安條克皇帝與賽伊克修會合力摧毀的。最近四位皇帝——尤利爾六世、莫里哈薩、佩拉吉奧斯四世，以及尤利爾七世——都對賽伊克心存疑忌，甚至拒絕讓阿塔耶姆島的使節駐於帝國城。
 
- The Isle of Artaeum is difficult to chart geographically. It is said that parts of it exist simultaneously in multiple dimensions and continuously shift either at random or by decree of Council. Visitors to the island are so rare to be almost unheard of. Anyone desirous of a meeting with a Psijic may find contacts in Potansa and Runcibae as well as many of the kingdoms of Sumurset.
+ 阿塔耶姆島在地理上難以測繪。據說它的某些部分同時存在於多重維度，並持續移動，或出於隨機，或出於議會法令。造訪此島的人極為罕見，幾乎聞所未聞。凡欲會見賽伊克者，可在波坦薩與朗西貝，以及夏暮的許多王國找到接洽之人。
 
- Were it more accessible, Artaeum would be a favored destination for travellers. I have been to the Isle once and still dream of the idylic orchards and pastures, the still and silent lagoons, the misty woodlands, and the unique Psijic architecture that seems to be as natural but wondrous as the surroundings. The Ceporah Tower in particular I would study, for it is a ruin from a civilization that predates the High Elves by several hundred years and is still used in certain rites by the Psijics.
+ 若更容易抵達，阿塔耶姆會是旅人偏愛的目的地。我曾到過此島一次，至今仍夢見那些田園般的果園與牧場、靜謐無聲的潟湖、霧氣瀰漫的林地，以及那看似與周遭一樣自然、卻又同樣奇妙的獨特賽伊克建築。我尤其想研究塞波拉塔，因為它是比高精靈還早數百年的文明遺址，賽伊克至今仍在某些儀式中使用它。
 
- Perhaps one day I might return.
+ 或許有朝一日我能再返。
 
- Note: The author is currently on the Isle of Artaeum by gracious consent of Master Sargenius of the Council of Artaeum.
+ 註：作者目前正蒙阿塔耶姆議會薩爾格尼烏斯大師惠准，身在阿塔耶姆島。

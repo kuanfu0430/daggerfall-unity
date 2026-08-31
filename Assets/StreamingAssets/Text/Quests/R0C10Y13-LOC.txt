@@ -1,0 +1,81 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y13.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 13
+Messages: 21
+Quest: R0C10Y13
+DisplayName: 求和之禮
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  我有一項頗具外交重要性的任務。
+<ce>                    一份必須送出的求和之禮。
+<ce>                 作為對我的人情，你願意把我的禮物
+<ce>                 帶給我的朋友 _contact_ 嗎？
+
+RefuseQuest:  [1001]
+<ce>                  是價錢、不便，還是任務太卑微
+<ce>                  讓你惱火，%pcf？沒關係，
+<ce>                     我很容易再找一個有興趣
+<ce>                        提升自己政治地位的%ra。
+
+AcceptQuest:  [1002]
+<ce>                           很好，%pcf。
+<ce>                現在仔細聽：把這件 _item_ 帶到
+<ce>            __palace_ 的宮殿，找一名 =contact_。
+<ce>                   那就是 _contact_。%G會在等你，
+<ce>                 很可能會為你的辛勞給酬勞。你最好上路了。
+<ce>                  別讓我失望，%pcf。
+
+QuestFail:  [1003]
+<ce>                     快點，走開！這不是閒聊的時候。
+<ce>                   你有事要做。
+
+QuestComplete:  [1004]
+<ce>                       喔，多漂亮的 _item_。
+<ce>                        是 _questgiver_ 送來的？
+<ce>                      或許這終究只是一場誤會。
+<ce>                     這是 _reward_ 金幣，酬謝你的
+<ce>                          出色效勞，%pcf。
+
+RumorsDuringQuest:  [1005]
+聽說 _contact_ 在考慮與 _questgiver_ 決裂。
+<--->
+_questgiver_ 最好做點什麼來鞏固與 _contact_ 的關係。
+
+RumorsPostfailure:  [1006]
+_questgiver_ 和 _contact_ 似乎比以往更疏遠。
+<--->
+若 _contact_ 和 _questgiver_ 徹底斷交，我也不會意外。
+
+RumorsPostsuccess:  [1007]
+據說 _contact_ 對 _questgiver_ 的禮物非常滿意。
+<--->
+感謝%god，_questgiver_ 把那件 _item_ 送到了 _contact_ 手上。否則可能很難看。
+
+QuestorPostsuccess:  [1008]
+啊，是我的和平使者。近來可好，我的朋友？
+<--->
+%oth，這不是我最喜歡的信差嗎。近來如何？
+
+QuestorPostfailure:  [1009]
+<ce>                   你沒把答應送達的 _item_
+<ce>                      帶給 _contact_，
+<ce>                 讓我的求和計畫變得更困難了，%pcf。
+<ce>                            滾出我的視線。
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_ 暗示
+ 若我前往 __palace_ 宮殿，
+ 把求和之禮 _item_ 帶給 _contact_，
+ 就會有酬勞。我必須在
+ =queston_ 天或更短時間內到達。
+
+Message:  1020
+<ce>                           _questgiver_
+<ce>                       沒給你帶東西給我嗎？
+<ce>                   該死，若這又是%g3的把戲……

@@ -1,0 +1,261 @@
+-- Quest: C:\QUESTS\WORKING\N0B00Y17.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 17
+Messages: 61
+Quest: N0B00Y17
+DisplayName: 方位向量
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  %pct，我正感到困惑。  或許你
+<ce>                    能幫我做些研究。
+                                     <--->
+<ce>                  嗯，對，若內部方位向量
+<ce>                真的在前極相交，那就應該能……嗯？
+<ce>                  喔，%pct，我沒看見你站在那兒。
+<ce>                  但來得正好！  我需要有人幫我做研究。
+<ce>                           你有空嗎？
+
+RefuseQuest:  [1001]
+<ce>                 喔，真可惜。  我說到哪兒了？  嗯，
+<ce>              方位向量，對。  讓我想想……
+
+AcceptQuest:  [1002]
+<ce>                 太好了！  你看，我正在處理一個
+<ce>               理論應用魔力上特別棘手的問題，
+<ce>                需要一件特定的魔法 _item_。
+<ce>                  由 _maker_ %g2自己製作。
+<ce>               據各方說法，是件精巧的小作品，
+<ce>              但依我的研究，卻不可能存在。
+<ce>             內部方位向量讓我無法調和
+<ce>              外顯的側向流線……嗯，能有實物
+<ce>             研究會幫我極大忙，但我一直找不到。
+<ce>             我唯一見到的記載提到一份目錄，
+<ce>              曾藏在……喔對，如今叫 ___hintdung_
+<ce>              的圖書館。你也可以去找我的一位同行，
+<ce>                _scholar_。  %G 是 _maker_ 的專家，
+<ce>              寫過權威傳記，雖然依我看……啊，沒時間
+<ce>                重提那場舊辯論。  你會在一個叫
+<ce>                 ___scholardung_ 的潮濕洞穴找到
+<ce>                 _scholar_。我真不懂 %g 怎能忍受
+<ce>          在那種地方工作。嗯，對，大概 =time1_ 天後
+<ce>            回來向我報告發現。  好嗎？  太好了。
+
+QuestFail:  [1003]
+<ce>                你覺得這些向量線怎麼樣？
+<ce>                 我試過用門西法定理調和係數，
+<ce>                 結果卻一團亂。  或許我該試試……
+
+QuestComplete:  [1004]
+<ce>               你是誰？  喔天哪，我想起來了。
+<ce>                _maker_ 的 _item_，當然！  就在這兒。
+<ce>                其實你不在的時候，我的研究有了
+<ce>               重大突破。  你看，關鍵根本不是
+<ce>                方位向量，整個問題的關鍵其實是……
+<ce>                重點是，我已經不需要那件 _item_ 了。
+<ce>                不過它確實是件美麗的作品，對吧？
+<ce>                你費了那麼大勁才找到，就留給你吧？
+<ce>                  現在請原諒，我必須回去工作了。
+
+RumorsDuringQuest:  [1005]
+<ce>  你昨晚看見 _questgiver_ 在街上遊蕩、喃喃自語嗎？
+<ce>              瘋老頭！
+
+RumorsPostfailure:  [1006]
+<ce>       瘋老頭 _questgiver_ 好像比平常更沮喪。
+
+RumorsPostsuccess:  [1007]
+<ce>    _questgiver_ 逢人就講有個 %ra 救了 %g3 研究。
+<ce>                嘿，那就是你，對吧？
+
+QuestorPostsuccess:  [1008]
+<ce>        嗯？  喔，我的好朋友 %pcf。  你為了那件我想要的
+<ce>                       _item_ 搜遍了整個 %reg。
+
+QuestorPostfailure:  [1009]
+<ce>                           嗯？  我們見過面嗎？
+
+Message:  1020
+%qdt:
+ ___questgiver_ 法師公會的
+ _questgiver_ 派我去尋找
+ 一件由 _maker_ 製作的魔法
+ _item_。  _questgiver_
+ 建議我可以去 ___hintdung_
+ 找一份舊目錄，或拜訪
+ _maker_ 的專家 _scholar_，
+ %g 目前在 ___scholardung_
+ 做研究。  我必須在
+ =time1_ 天內向 _questgiver_
+ 報告發現。
+
+Message:  1021
+%qdt:
+ 我在 ___scholardung_ 找到了 _scholar_，
+ 但 %g 無法幫我尋找
+ _maker_ 的 _item_。
+
+Message:  1022
+%qdt:
+ _scholar_ 建議我或許能在
+ 一處叫 ___itemdung_ 的地方
+ 找到 _maker_ 的 _item_。
+
+Message:  1023
+%qdt:
+ 我想我找到了關於 _item_ 的
+ 可靠線索。  ___hintdung_ 的舊目錄
+ 說它曾存放在
+ 一處叫 ___itemdung_ 的地方。
+
+Message:  1024
+%qdt:
+ 我在 ___hintdung_ 找到部分舊目錄，
+ 但沒有指出 _maker_ 的 _item_
+ 在何處。
+
+Message:  1025
+%qdt:
+ 我在 ___scholardung_ 與 _scholar_ 談過。
+ %G 無法幫我尋找那件 _item_，
+ 但我答應在 =time2_ 天內從
+ ___contact_ 的 __contact_ 的
+ _contact_ 那兒幫 %g2 取些煉金材料
+ 再回來。
+
+Message:  1030
+物品編號 476-A-LCX-08
+ 
+ 類型：_item_
+ 製作者：___maker_ 的 _maker_
+ 
+ 說明：
+ 這件 _item_ 是 _maker_ 較次要的作品，
+ 工藝不及 %g3 著名的「冗語之杖」，
+ 更遠遠比不上像 %g3「造型剪刀」那般
+ 大膽的傑作。  不過這件 _item_
+ 仍展現 _maker_ 獨特的風格，
+ 那些 %g 在所有作品上留下的細膩手法：
+ 帶 %g3 署名印記的浮雕黃銅配件、
+ 不尋常的琺瑯塗裝，尤其是沿外顯流線
+ 閃爍的柔和琥珀火花。
+ 
+ （借自 ___itemdung_）
+
+Message:  1031
+物品編號 476-A-LCX-08
+ 
+ 類型：_item_
+ 製作者：___maker_ 的 _maker_
+ 
+ 說明：
+ 這件 _item_ 是 _maker_ 較次要的作品，
+ 工藝不及 %g3 著名的「冗語之杖」，
+ 更遠遠比不上像 %g3「造型剪刀」那般
+ 大膽的傑作。  _maker_ 去世後這些年，
+ 這件作品下落不明，或許落入某位私人收藏家之手。
+ 依現存描述，這件 _item_
+ 展現 _maker_ 獨特的風格，
+ 那些 %g 在所有作品上留下的細膩手法：
+ 帶 %g3 署名印記的浮雕黃銅配件、
+ 不尋常的琺瑯塗裝，尤其是沿外顯流線
+ 閃爍的柔和琥珀火花。
+ 
+ （未展出）
+
+Message:  1032
+_contact_——
+ 
+ 請寄給我：
+    三打蠑螈舌（乾燥）
+    4.25 盎司獨角獸角粉（只要純正北方產的！）
+    1 份 _ingredient_（這次要新鮮的，看在 %god 的份上）
+    一罐蛇怪眼
+ 
+ 記在我的帳上。
+ 
+<ce>                              —— _scholar_
+
+Message:  1040
+<ce>                   你好。  你說 _maker_ 的 _item_？
+<ce>                對，我相信上週才剛看到相關記載。
+<ce>               筆記放哪兒了……在這兒，嗯——
+<ce>                 嗯，「柔和琥珀火花」——這絕對是
+<ce>                    正宗的 _maker_。  看來它
+<ce>                 曾在 ___itemdung_，至少在這份
+<ce>               寫成時是如此。  祝你好運！
+
+Message:  1041
+<ce>                 早安！  _contact_ 派你來送
+<ce>                  我訂的那些補給嗎？
+<ce>                   喔，_questgiver_ 說我可能知道
+<ce>                    _maker_ 的 _item_ 在哪？
+<ce>                   抱歉，那東西似乎在 %g3 死後不久
+<ce>                  就消失了，此後再無音訊。
+<ce>                真可惜。  不過你既然來了，
+<ce>                能不能幫個忙？  我工作上需要幾樣東西，
+<ce>                若你能幫我取來，我會非常感激。
+
+Message:  1042
+<ce>                太好了。  來，讓我寫下需要什麼。
+<ce>                  把這份清單拿給 ___contact_
+<ce>                     的 __contact_ 的 _contact_。
+<ce>                   %G 是我唯一信任、能給我
+<ce>                    精確材料的人。
+<ce>                    我期望你在 =time2_ 天內回來。
+<ce>                    請務必準時。
+
+Message:  1043
+<ce>               太忙了，是嗎？  很高興跟你談話。
+<ce>                 若不介意，我就不送你到門口了。
+<ce>                     日安！
+
+Message:  1044
+<ce>                 又是 _scholar_ 的購物清單，是嗎？
+<ce>                我發誓，要是再讓我在沒收到錢的情況下
+<ce>                  把貨送到 %g2 那兒……
+<ce>               「記在我的帳上」，哈！  真會說。
+<ce>                 聽著，我會把 %g 要的 _ingredient_
+<ce>                給你，其餘得另外訂，而且在 %g 把
+<ce>               之前的帳結清之前，我不會再做。
+<ce>                  抱歉，我最多只能做到這樣。
+
+QuestTimeLapse:  [1045]
+<ce>             喔，是你。  你把我要的補給帶來了嗎？
+<ce>                什麼，_contact_ 只肯給你這份
+<ce>                _ingredient_？  那個頑固的老山羊！
+<ce>              等我出去一定要好好教訓 %g2。
+<ce>               不過總比什麼都沒有好。  聽著，你還在
+<ce>              找那件 _item_ 嗎？  我碰巧看到一份
+<ce>                _maker_ 作品展的舊目錄記載。
+<ce>                那份目錄在 ___hintdung_。  其實，
+<ce>              若你願意，我可以把你傳送到確切地點。
+<ce>                當然，出路得你自己找。  要我把你
+<ce>                   傳送到 ___hintdung_ 嗎？
+
+Message:  1046
+<ce>             抓穩了！  對了，走之前先收下這件
+<ce>                _scholarreward_。  我真心感謝你
+<ce>              幫我取來 _ingredient_。  現在，出發去
+<ce>                  ___hintdung_。
+
+Message:  1047
+<ce>                 隨你便。  對了，走之前先收下這件
+<ce>                _scholarreward_。  我真心感謝你
+<ce>              幫我取來 _ingredient_。  希望你能找到
+<ce>                  那件 _item_。
+
+Message:  1050
+<ce>                 這無疑就是 _maker_ 的 _item_。
+
+Message:  1060
+<ce>                 嗨，%pcn。  你有沒有找到
+<ce>                     _maker_ 的那件 _item_？
+<ce>                 啊，真可惜，不過我相信自己能在
+<ce>                沒有它的情況下繞過這個問題。
+<ce>                 我知道你盡力了。
+<ce>                  這 _gold_ 金幣是你的辛苦費。

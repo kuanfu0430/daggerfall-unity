@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\M0B40Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 40
+-- QuestId: 5
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B40Y05
+DisplayName: 獵殺樹精
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 有些伐木工雇公會去殺
+<ce> 一隻樹精。好像那怪物
+<ce> 在他們進林伐木時攻擊他們。
+<ce> 要不要去砍一砍，%pcn？
+
+RefuseQuest:  [1001]
+<ce> 行。去吧。我得找人接
+<ce> 這差事。
+
+AcceptQuest:  [1002]
+<ce> 兩次伏擊都失敗了。那樹精
+<ce> 太聰明。你得到牠的巢穴
+<ce> ___dungeon_ 去。在 =2dung_
+<ce> 天內回來，我會有 _gold_ 金幣
+<ce> 等你。
+
+QuestFail:  [1003]
+<ce> 樹精成柴火了？
+<ce> 你證明自己相當可靠，
+<ce> %pct。
+
+QuestComplete:  [1004]
+<ce> 這是答應你的 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說 _woodsman_ 在煽動伐木工
+<ce> 對付樹精。好笑。我從沒見過樹精
+<ce> 給我們惹過麻煩。
+
+RumorsPostfailure:  [1006]
+<ce> 又有伐木工死了。聽說是
+<ce> _woodsman_。其餘的人
+<ce> 決定去別處伐木。
+
+RumorsPostsuccess:  [1007]
+<ce> 最近沒聽說那樹精了。大概離開
+<ce> 這一帶了。
+
+QuestorPostsuccess:  [1008]
+<ce> 那樹精幹得漂亮。
+
+QuestorPostfailure:  [1009]
+<ce> 樹精沒那麼難對付。怎麼了？
+<ce> 你嚇得躲起來了？
+
+QuestLogEntry:  [1010]
+於 %qdt，
+ ___qgiver_ 的戰士公會雇我殺死
+ 騷擾伐木工的樹精。牠躲在 ___dungeon_。
+ 給了我 =2dung_ 天完成任務。
+
+Message:  1011
+<ce> 樹精死了。
+<ce> 那些伐木工現在可以
+<ce> 安全伐木了。
+
+Message:  1020
+<ce> 你毫無緣由地攻擊我，%ra。
+<ce> 是的，我確實向
+<ce> 殺樹之人報了仇。要知道
+<ce> 他們殺的是我的幼苗。你會
+<ce> 眼睜睜看人殺害你的幼苗嗎？
+<ce> 我與你無冤無仇。說服伐木工
+<ce> 謹慎修剪，我就放他們平安。
+<ce> 你願意接下這使命嗎？
+
+Message:  1021
+<ce> 主犯是 _woodsman_，他砍樹
+<ce> 毫不顧惜。前往 ___woodsman_ 的
+<ce> __woodsman_，取得 %g3 承諾。
+<ce> 別再來見我。我會從伐木工
+<ce> 怎麼幹活，知道你成或敗。
+
+Message:  1022
+<ce> 我不該信任血肉之軀。現在
+<ce> 我不會對你手下留情。
+
+Message:  1023
+<ce> 那樹怪想談條件，嗯？我想我能
+<ce> 說服弟兄們只砍大樹。但若牠那類
+<ce> 再攻擊我們，我們就把找得到的
+<ce> 每棵幼苗都燒掉！成交了，%pcn。
+
+Message:  1025
+<ce> 你讓伐木工和樹精不打了？
+<ce> 很聰明，%pcn。腦子保持鋒利，
+<ce> 你會走得很遠。
+
+Message:  1030
+%qdt:
+ 樹精說服我，牠不是惡徒。顯然有個
+ 名叫 _woodsman_ 的伐木工，在
+ __woodsman_、___woodsman_，一直在砍牠的樹。
+ 若我能讓 _woodsman_ 同意更謹慎地伐木，
+ 這整件事就能不流血解決。
+
+Message:  1080
+<ce> 對了，我心情慷慨，這是一張通往
+<ce> 名叫 ___newdung_ 的洞穴的地圖。
+<ce> 滿是待殺的怪物、待搜刮的寶藏，
+<ce> 一應俱全。好好玩。

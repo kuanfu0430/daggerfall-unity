@@ -1,0 +1,93 @@
+-- Quest: C:\QUESTS\WORKING\60C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Sheogorath
+-- Repute: 0
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 31
+Quest: 60C00Y00
+DisplayName: 謝古拉特的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 噢，我的天。我打賭你沒料到是我！
+<ce> 我那些非兄非弟、非姊非妹有時有點遲鈍，所以我替他們上場。
+<ce> 對你可真不幸。你只好跟我談這筆交易。快點！
+<ce> 蒼白之時尚未過去，我別處還有一堆事。所以！
+<ce> %ra 渴望把力量抹在身上，安撫凡人四百年的瘡疤？
+<ce> 是的，謝古拉特有力量，足以把枝條拉過月亮的眼睛，
+<ce> 讓鮮血雨落泰姆瑞爾。為了這份力量，
+<ce> 你願不願替我送一張茶會請帖給某人？
+
+RefuseQuest:  [1001]
+<ce> 哈，被一個頭髮長蝨的骯髒 %ra 拒絕了。
+<ce> 謝古拉特爬得多高啊！我得要求加薪零用錢。
+<ce> 提拉，%pct。
+
+AcceptQuest:  [1002]
+<ce> 喝茶去，來跟我開茶會！去，去一個叫 ___mondung_ 的地方，
+<ce> 我那份華麗慾望的對象正在那兒跌跌撞撞、擺姿勢、戴黑莓王冠。
+<ce> 等等……別邀請這名戰鬥法師來跟我喝茶。我現在想起來了。
+<ce> 這傢伙名叫 =monster_。把 %g2 殺到死，把 %g2 致命地謀殺，
+<ce> 這才是我想要的。然後從 ___mondung_ 去一間叫 ___contactdung_
+<ce> 的瘋人院，見我的 =qgfriend_，_qgfriend_。%g 會有 _artifact_
+<ce> 給你。會等你 =1stparton_ 天，然後就去跟羅旺達的未知繼承人結婚。
+<ce> 現在我向你道一聲呀咆與嘎津薩。
+
+QuestFail:  [1003]
+<ce> 抱歉，你不知道，但我完全瘋了。
+<ce> 若你不滾開，我會吐在你身上。
+
+QuestComplete:  [1004]
+<ce> 啊，謝謝你把我放出牢房，獄卒夫人。
+<ce> 謝古拉特改了主意，決定還是要帶 =monster_ 去喝茶。
+<ce> 但等他發現 %g 已經死了，他又覺得這樣最好。
+<ce> 那樣 =monster_ 就不會把所有花餡餅吃光。
+<ce> 趁我還沒忘，這是 _artifact_。別把它對準我。
+
+RumorsDuringQuest:  [1005]
+一名瘋狂戰鬥法師正在 ___mondung_ 附近的鄉間肆虐。
+
+RumorsPostfailure:  [1006]
+<ce>___mondung_ 自從那個 =monster_ 離開後安靜了，但我敢打賭 %g 還會回來。
+
+RumorsPostsuccess:  [1007]
+___mondung_ 那個戰鬥法師 =monster_ 總算走了，真好。聽說 %g 瘋得像個魔導師。
+<--->
+終於有人殺了 ___mondung_ 那個瘋狂戰鬥法師。感謝 %god。
+
+Message:  1011
+_qgfriend_ 就是住在 ___contactdung_ 那個瘋瘋癲癲、流著口水的 =qgfriend_。
+<--->
+<ce> _qgfriend_ 就是前陣子進城的那個瘋狂 =qgfriend_。
+ 聽說 %g 其實住在 ___contactdung_。
+
+Message:  1012
+謝古拉特是瘋狂的迪德拉親王。可不能指望他。
+<--->
+謝古拉特是瘋者，沉溺於混沌與癲狂的迪德拉。
+
+Message:  1013
+_artifact_ 是一件效果極度隨機的遠古神器。
+<--->
+_artifact_ 能把目標變成其他生物。
+
+Message:  1014
+_qgfriend_ 是迪德拉親王謝古拉特最忠誠的僕從之一。
+<--->
+_qgfriend_ 是那個為謝古拉特為奴的 =qgfriend_ 的名字。
+
+Message:  1020
+%qdt:
+ 迪德拉親王謝古拉特答應給我一件叫 _artifact_ 的神器，
+ 交換條件是殺死一名叫 =monster_ 的戰鬥法師。
+ 若這名住在 ___mondung_ 的戰鬥法師已死，
+ 且我在 ___contactdung_ 見到謝古拉特的聯絡人
+ _qgfriend_，就能得到 _artifact_。
+ 但這一切必須在 =1stparton_ 天內完成。
+
+Message:  1030
+<ce> 你已把 =monster_ 送離凡人界。
+<ce> 現在去看看謝古拉特是否還記得你們的協議。

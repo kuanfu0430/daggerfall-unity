@@ -1,5 +1,5 @@
-Title: The MemoryStone
-Author: Makela Leki
+Title: 記憶石
+Author: 瑪凱拉·萊基
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,68 +8,68 @@ Content:
 
 [/font=2]
 
-[/center]From The MemoryStone
+[/center]摘自瑪凱拉·萊基
 
-[/center]of Makela Leki
+[/center]的記憶石
 
 [/font=4]
 
-[/center]This is a faithful reproduction of the thoughts recorded in Makela Leki's memory stone, found in the Bankorai pass, in the year of reckoning 1E 973. Seven years before the fall of Orsinium due to the combined efforts of the armies of Daggerfall, Sentinel, and the Order of Diagna.
+[/center]這是瑪凱拉·萊基記憶石中所錄思想的忠實再現，該石於紀年第一紀元973年在班科萊隘口被發現。七年後，奧辛紐姆因匕首雨、哨兵城與迪亞格納騎士團聯軍的合力而陷落。
 
-[/center]Almost all of this is in the first person, as Makela was unfamiliar with the protocols and scholarly formalities of recording herself into a memory stone. None the less, her heroism and heroic deeds live on, her memories fresh in the stone for all to feel and hear.
+[/center]幾乎全部以第一人稱寫成，因為瑪凱拉不熟悉把自身錄入記憶石的規程與學術禮儀。儘管如此，她的英勇與英雄事蹟長存，她的記憶在石中鮮活，供所有人感受與聆聽。
 
- " . . . muuu uhh, I wonder if this will really work?"
+ 「……呣唔，我想這真的會管用嗎？」
 
- "The Mages guild took me for 25,000 gold crowns if it doesn't. Imagine? This stone will record my thoughts? What did they say? Just unwrap it from the silver foil and leather bag and as soon as it touches my flesh it will begin to record.
+ 「要是不管用，法師公會可從我這兒拿走了兩萬五千金幣。想像一下？這石頭會記錄我的思想？他們怎麼說的？只要從銀箔和皮袋裡取出來，一碰到我的肉就會開始記錄。
 
- "Ahhhh, the pain, I must block it out, no one would want to hold my stone and hear my thoughts if I let it record my pain. Thank the Ebonarm and the training I received in The Hall of the Virtues of War. I CAN block out this pain. Ummm just, ah, there, it's walled off.
+ 「啊啊，痛，我必須把它隔開，若我讓它錄下我的痛，沒有人會想握住我的石頭聽我的思想。感謝黑檀之臂，感謝我在戰德堂所受的訓練。我能把這痛隔開。呣，就，啊，好了，它被牆隔開了。
 
- "Yes I can still see it there just beyond my consciousness lurking like a hungry wolf - a wolf that will soon consume me. I see also my inevitable death from these damned wounds. No potions left, the healing crystal and ring are used up, and me, with not even magic enough to light a candle. Oh but the gods did give me other gifts, the gift of sword singing, the thrill of battle, Frandar Hunding's Book of Circles, THE WAY OF THE SWORD. Ah but then that is my story, I get ahead of myself.
+ 「是的我仍能看見它在那兒，就在意識之外潛伏，像一頭飢餓的狼——一隻很快會把我吞掉的狼。我也看見自己不可避免地會死於這些該死的傷。藥劑沒了，治療水晶和戒指用盡了，而我，連點亮一根蠟燭的魔法都沒有。喔但諸神確實給了我別的天賦，劍歌的天賦，戰鬥的戰慄，弗蘭達爾·亨丁的《圓環之書》，劍之道。啊但那是我的故事，我說到前面去了。
 
- I am Makela Leki a warrior, a sword-singer, a second level Ansei. In my cradle I could form the Shehai, the spirit sword - The mystical blade, mine formed of pure thought serpents intertwined with vines of roses to form the blade, as beautiful as ...
+ 我是瑪凱拉·萊基，戰士，劍歌者，二階安賽。在搖籃裡我就能形成謝海，靈劍——那神秘之刃，我的由純粹思想的蛇與玫瑰藤交織而成，美麗如……
 
- Ah, but I'm about to tell you all about that, to tell you my story, a story of valiant battle, of my loves, of my wars, of. of betrayal and of this last glorious victory. To tell you of how I came to this distant lonely pass me and five companions, to fight these men and monsters to defeat the army that would fall on my people like cowards in the night, but again I get ahead of myself.
+ 啊，但我正要告訴你這一切，告訴你我的故事，一個勇猛戰鬥的故事，關於我的愛，關於我的戰爭，關於。關於背叛，關於這最後一次光榮的勝利。告訴你我如何來到這偏遠寂寞的隘口，我與五名同伴，去對抗這些人與怪物，去擊敗那支會像黑夜中的懦夫一樣撲向我人民的軍隊，可我又說到前面去了。
 
- I am a simple warrior. I grew up as a Maiden of the Spirit Blade. As early as I can remember I wanted to be a Singer, to feel the hunger of the blade in my hands, to feel it come alive and take my enemies. I am told our people were artisans and poets long ago in our desert homes. Here in new home now known as Hammerfell, many of us have returned to those ancient ways, but to me there is but ONE WAY. THE WAY of the SWORD.
+ 我是一名單純的戰士。我作為靈刃侍女長大。從能記得的最早時候起，我就想成為歌者，想感受刀刃在手中的飢渴，感受它活過來、取走我的敵人。有人告訴我，我們的人民很久以前在沙漠家園裡是工匠與詩人。如今在這稱為落錘省的新家園，我們許多人已回到那些古老的方式，但對我而言只有一條道。劍之道。
 
- Ah this is hard to tell. I grew up in my noble family, the only one of three brothers and two sisters that felt the calling, the Song of the Sword. Father understood, for he too had felt the call. He had become a master, and Ansei long before settling down with in our estate to raise a family. At eleven, I entered the Hall of the Virtues of War and joined the Maidens of the Spirit Sword. In my band there were six of us. Daring Julia, solid Patia, big Kati, svelte Cegila, wise Zell, and me - all are gone now, save me, and soon I will join them. ... Join them in the halls of the unknown gods of war.
+ 啊這很難講。我在貴族家庭中長大，三個兄弟兩個姊妹裡唯一感到召喚、感到劍之歌的人。父親理解，因為他也感到過召喚。他在安定下來、在我們的莊園成家之前，早已成為大師，成為安賽。十一歲時，我進入戰德堂，加入靈劍侍女。我那一隊有我們六人。大膽的茱莉亞，穩重的帕蒂亞，高大的卡蒂，苗條的塞吉拉，智慧的澤爾，還有我——如今都走了，只剩我，很快我也會加入她們。……在未知戰爭之神的廳堂裡加入她們。
 
- We drank together, we fought, we wept, we grew in the way of the sword. We joined in our learnings in the Hall with our Brothers of the Blade. Learning from each other, we all sat at the feet of the Hall Master striving to learn the depths of the Shehai - making the spirit blade into a real weapon as Frandar Hunding had. Only a few have the purity of heart and virtue to be able to take the step and learn the mysteries of Ansei. Sword Sainthood.
+ 我們一起飲酒，一起戰鬥，一起哭泣，在劍之道中長大。我們與刃之兄弟一道在堂中學習。彼此學習，我們都坐在堂主腳下，努力學習謝海的深度——像弗蘭達爾·亨丁那樣，把靈刃變成真正的兵器。只有少數人有足夠純潔的心與德行，能踏出那一步，學會安賽的奧秘。劍聖之道。
 
- Somehow, of all the Brothers and the Maidens, I only possessed the unique qualities, the faint but strong enough flicker of magicka to call forth the Shehai. Many times I called it, seldom would it become substantial enough to be a weapon. To be a Ansei of the first level you just need to be able to call it, and that I could, so I became the first Ansei from our local hall in two generations.
+ 不知怎的，在所有兄弟與侍女之中，只有我具備那些獨特的品質，那微弱卻足夠強的魔力閃光，能喚出謝海。我多次喚它，它很少變得實在到足以成為兵器。要成為一階安賽，你只需能喚出它，而我能，於是我成了我們當地堂兩代以來第一位安賽。
 
- Oh I have so much to tell, so many memories, so many treasures to share with you, my unknown companion. How do I start?
+ 喔我有這麼多要講，這麼多記憶，這麼多寶藏要與你分享，我未知的同伴。我該從何開始？
 
- Umhhh, the pain is still out there lurking hungry, slowly consuming what's left of me. I guess I had better tell of the final battle, the one that has left me here, and then if I have the will left tell you of my life, of my love Raliph. OH what a lad he was. What times we shared ... Ebonarm ... Forgive me, my mind wanders ... Let me go to the Final Battle.
+ 呣，痛仍在外頭潛伏、飢餓，慢慢吞噬我剩下的部分。我想我最好先講最後一戰，那把我留在這兒的一戰，然後若我還有意志，再告訴你我的一生，我的愛人拉利夫。喔那小夥子多好。我們共享過怎樣的時光……黑檀之臂……原諒我，我的心智遊蕩……讓我說到最後一戰。
 
- Umm to start, in the middle humm. Yes. We Maidens grew, learned, mastered the Way, and upon completing the Walk-About. To you who are not Singers, this is a wilderness trek emulating the times of Frandar Hunding - where we each wander the country side righting wrongs, defeating monsters, performing quests in the name of virtue. Some of us in our Hall took years to finish. Always there is danger, we six Maidens each returned in our own good time, but many are they who do not live to return from the Walk About.
+ 呣從頭開始，從中間，呣。對。我們侍女長大，學習，掌握了道，完成巡遊。對你們不是歌者的人來說，這是效仿弗蘭達爾·亨丁時代的荒野跋涉——我們各自遊歷鄉野，匡正不義、擊敗怪物，以德行之名執行任務。我們堂中有些人花了數年才完成。總有危險，我們六名侍女各自在適當的時候回來，但有許多人未能活著從巡遊歸來。
 
- We returned, each to our own lives, to meet in the hall once a week to tell our stories to the new Maidens and Brothers, and to perform as instructors in the Way of the sword. All was well till the night of the MidYear Festival.
+ 我們回來了，各自過自己的生活，每週在堂中相聚一次，把故事講給新的侍女與兄弟聽，並擔任劍之道的教習。一切都好，直到年中節的那個夜晚。
 
- All our people were reveling and ... excuse ... enjoying the repast, but for we six Maidens. It happened that the festival day fell on our day of meeting in the hall, our day of prayer and fasting and honor to the Way of the Sword.
+ 我們所有的人民都在狂歡，並且……抱歉……享受筵席，只有我們六名侍女除外。碰巧節日落在我們在堂中相聚之日，我們祈禱、禁食、向劍之道致敬的日子。
 
- As we met, late into the night, a knocking rang on our door. When I opened, it there was a guardian the Bankorai Pass in the Wrothgarian Mountains, wounded and near death ... He told us of betrayal from the north, an invasion sponsored by the Crystal Tower of High Rock, led by King Joile of Daggerfall -- our ally in the war with Orsinium!
+ 我們相聚到深夜，一陣敲擊響在我們的門上。我打開門，那兒是羅斯加里安山脈班科萊隘口的一名守衛，受傷、瀕臨死亡……他告訴我們來自北方的背叛，一場由高岩水晶塔贊助、由匕首雨的喬伊勒國王率領的入侵——我們在與奧辛紐姆戰爭中的盟友！
 
- Quickly we used up a crystal of healing in restoring him to vitality. We sent him on to the king, while we six grabbed our weapons and armor of power, and as many potions, marks, and crystals and rings as we could carry.
+ 我們迅速用盡一塊治療水晶使他恢復活力。我們送他去見國王，我們六人則抓起兵器與力量鎧甲，以及能帶得走的盡可能多的藥劑、符印、水晶與戒指。
 
- We flew to the pass hoping upon hope that we would not be too late. Our journey was not in vain, for we arrived just at the very point where the last three guardians were overwhelmed by the horde. Into the pass we ran forming the old battle line, six abreast.
+ 我們飛向隘口，一心希望不會太遲。我們的旅程沒有白費，因為我們正好在最後三名守衛被那大群人淹沒的那一刻抵達。我們跑進隘口，結成舊時的戰線，六人並肩。
 
- OH did we FIGHT.
+ 喔我們確實在戰鬥。
 
- The Song of the Sword was a joyous noise slicing through the ranks of evil. We fought for hours. Julia was the first to fall, a cowardly poisoned dagger finding a rent in her armor. Then one by one all fell, save me.
+ 劍之歌是歡樂的喧響，切開邪惡的行列。我們打了數小時。茱莉亞第一個倒下，一把怯懦的毒匕首找到她鎧甲的縫隙。然後一個接一個都倒下了，只剩我。
 
- ... oh cruel Ebonarm ... Then my beloved sword, the sword of my father, the one with the serpent's crest, fashioned by the master sword smith Singer Tansal broke in my hands. All was lost, our six lives spent in vain. Now, many many of them would pour through the pass. I would be easy prey for them, like a newborn child. I wept in frustration.
+ ……喔殘忍的黑檀之臂……然後我心愛的劍，我父親的劍，帶著蛇紋的那一把，由劍匠宗師歌者坦薩爾打造的，在我手中斷了。一切都完了，我們六條性命白費。如今，許許多多的他們會湧過隘口。對他們來說我會是容易的獵物，像新生的嬰兒。我沮喪地哭泣。
 
- Then I remembered the hearth in our home - the book. Frandar Hunding's Book of Circles, the Way of Strategy. I reached for the Shehai the spirit sword, that which I could never reliably form when I needed it, and behold ... it was alive. Alive with fire. It formed in my hand. Ablaze with power --- OH I slew mightily, right and left, like a scythe through wheat. All the way to the Lord of the Tower I fought. With one blow I cut his magical armor asunder, one more took his head.
+ 然後我想起家中爐邊——那本書。弗蘭達爾·亨丁的《圓環之書》，策略之道。我伸手去取謝海，那靈劍，那我需要時從來無法可靠形成的東西，看啊……它活了。活著，帶著火。它在我手中成形。燃燒著力量——喔我大力斬殺，左右開弓，如鐮刀割麥。我一路打到塔之領主面前。一擊我把他的魔法鎧甲劈開，再一擊取了他的頭。
 
- But to do that deed cost me dearly, wounds by the dozen, for although I had magical armor, it was not formed of spirit like my blade, it was not as invincible as my blade or my own spirit, and I was sorely wounded.
+ 但做那件事使我付出沉重代價，傷口數以打計，因為雖然我有魔法鎧甲，它並非如我的刃那樣由靈形成，它不如我的刃或我自己的靈那樣不可戰勝，我受了重傷。
 
- With the felling of King Joile, his army crumbled. They fled before my wrath. All ran back through the pass not even pausing to collect their dead and wounded. All who could stand ran for their lives, and I slew all I could reach, but my breath was coming short, and the pain ...
+ 喬伊勒國王倒下，他的軍隊崩潰。他們在我的憤怒前奔逃。所有能站的人都跑過隘口，甚至不暫停收拾死傷。所有能站的人都為活命而跑，我殺盡我能搆到的人，但我的呼吸變短，而且那痛……
 
- Finally I rested, on this rock where you find me now. I don't know why I chanced to bring this stone along. I bought it on a whim really, with the loot from ... ah well I guess I need to really stop and tell my story in order. I feel able to go on to tell you more ... the eternal night is descending more slowly than I thought.
+ 終於我休息了，就在你如今找到我的這塊岩石上。我不知道為何碰巧把這石頭帶在身上。我其實是一時興起買的，用從……啊好吧我想我真的需要停下來按順序講我的故事。我覺得還能繼續告訴你更多……永恆的夜降臨得比我想的慢。
 
- Not just yet, am I ready to compose my death poem. A little sip of water and ... well I think I will go back and tell you of my life, maybe some details about the battle. And Oh yes. About Raliph and our children, humm where will I start.
+ 還不到時候，我還沒準備好作我的死之詩。一小口水，然後……好吧我想我會回去告訴你我的一生，或許戰鬥的一些細節。還有喔對。關於拉利夫和我們的孩子，呣我該從哪兒開始。
 
- ... oh ... rrr ...
+ ……喔……呃……
 
- I am ... a simple warrior ... I grew up as a, a Maiden of the Spirit Blade ... As early ... as early as I can ... remember ...
+ 我是……一名單純的戰士……我作為，作為靈刃侍女長大……從最早……從最早我能……記得……

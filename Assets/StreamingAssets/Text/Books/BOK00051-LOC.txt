@@ -1,5 +1,5 @@
-Title: The Real Barenziah, Part IX
-Author: Anonymous
+Title: 真實的巴蘭西亞，第九部
+Author: 佚名
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,85 +8,85 @@ Content:
 
 [/font=2]
 
-[/center]The Real
+[/center]真實的
 
-[/center]Barenziah
+[/center]巴蘭西亞
 
-[/center]Part IX
+[/center]第九部
 
 [/font=4]
- As Symmachus had predicted, the theft of the Staff of Chaos had few short term consequences. The current emperor, Uriel Septim, sent some rather stiff messages expressing shock and displeasure at the staff's disappearance and urging that Symmachus make every effort to locate its whereabouts and communicate this to the newly appointed Imperial BattleMage, Jagar Tharn, in whose hands the matter had been placed.
+  正如西瑪庫斯所料，混沌法杖失竊在短期內後果不多。當今皇帝烏列爾·塞普汀送來幾封相當生硬的信，對法杖消失表示震驚與不悅，敦促西瑪庫斯盡一切努力查明其下落，並通報新任命的帝國戰鬥法師賈加·薩恩，此事已交到他手中。
 
- "Tharn!" Symmachus snarled in disgust and frustration, as he paced about the small chamber where Barenziah, now some months pregnant, was sitting serenely, knitting a baby blanket. "Jagar Tharn, indeed. I wouldn't give him directions for crossing the street."
+  「薩恩！」西瑪庫斯厭惡又沮喪地咆哮，在巴蘭西亞——如今已懷孕數月——平靜坐著織嬰兒毯的小房間裡踱步。「賈加·薩恩，可不是。連過馬路的方向我都不會給他。」
 
- "What have you against this person, husband?"
+  「你對這個人有什麼過節，丈夫？」
 
- "I just don't trust that mongrel elf. Part wood elf, part dark elf and part only the gods know what. All the worst qualities of all his combined races. No one knows much about him. Claims he was born in Valenwood, of a wood elf mother. Seems to have been everywhere since--"
+  「我就是不信任那個雜種精靈。一部分木精靈，一部分黑暗精靈，還有一部分只有眾神知道是什麼。他各族最壞的品質全有。沒人對他了解多少。自稱生在瓦倫林地，母親是木精靈。此後似乎哪裡都去過——」
 
- Barenziah, sunk in the contentment of pregnancy had only been humoring Symmachus thus far, but this piqued her interest. "Nightingale? Could he have been this Jagar Tharn, disguised?"
+  巴蘭西亞沉浸在懷孕的滿足裡，此前只是在敷衍西瑪庫斯，這卻勾起了她的興趣。「夜鶯？他會不會就是這個賈加·薩恩，經過偽裝？」
 
- "Nay. Human blood seems to be the one missing component in Tharn's ancestry." To Symmachus, Barenziah knew, that was a flaw. Symmachus despised wood elves as lazy thieves and high elves as effete intellectuals, but he admired humans, especially Bretons, for their combination of pragmatism, intelligence and energy.
+  「不。人類血統似乎是薩恩祖先裡唯一缺少的成分。」巴蘭西亞知道，對西瑪庫斯來說那是缺陷。西瑪庫斯鄙視木精靈為懶惰的小偷，高精靈為柔弱的知識分子，卻欽佩人類，尤其是布萊頓，因為他們務實、智識與精力的結合。
 
- "Nightingale's of Ebonheart, of the House of Mora, I'll be bound -- that house has had human blood since her time. Ebonheart was jealous that the Staff was laid here when Tiber Septim took the Horn from us."
+  「夜鶯出自烏木之心，莫拉家族，我敢打賭——那家族自她那個時代起就有人類血統。烏木之心嫉妒法杖被放在這裡，因為泰伯·塞普汀從我們這兒取走了號角。」
 
- Barenziah sighed a little. The rivalry between Ebonheart and Mournhold reached back almost to the dawn of history. Once the two had been one, all the mines within held by Clan R'Aathim, whose royal house held the High Kingship of Morrowind. Ebonheart had split into two separate city states, Ebonheart and Mournhold, when Queen Lian's twin sons, Moraelyn's grandsons, had been left as the heirs. At the same time the office of High King had been vacated in favor of a temporary War Leader to be named by a council in times of provincial emergency. Still, Ebonheart remained jealous of her prerogatives as the eldest city state of Morrowind, still first among equals, and claimed that guardianship of the Horn should rightfully be entrusted to the elder. Mournhold responded that Moraelyn himself had placed the Horn in the keeping of the god Ephen, and Mournhold was unarguably the god's birthplace.
+  巴蘭西亞輕輕歎息。烏木之心與哀傷之城的對立幾乎追溯到歷史黎明。兩者一度是一體，所有礦坑都由拉阿辛氏族持有，其王室掌握晨風的高王之位。當女王莉安的雙胞胎兒子——莫瑞林的孫子——被留下為繼承人時，烏木之心分裂成兩個獨立城邦，烏木之心與哀傷之城。同時高王之職空出，改為由議會在行省緊急時任命的臨時戰帥。儘管如此，烏木之心仍嫉妒她作為晨風最古老城邦、平等中的首位的特權，聲稱號角的守護理應託付給較年長的一方。哀傷之城則回應：是莫瑞林本人把號角交由神埃芬保管，而哀傷之城無可爭議是神的出生地。
 
- "Why not tell Jagar Tharn of your suspicions then? Let him recover the thing. As long as it's safe, what does it matter where it lies?"
+  「那為什麼不把你的懷疑告訴賈加·薩恩？讓他去找回那東西。只要安全，它在哪有什麼要緊？」
 
- Symmachus stared at her without comprehension. "It matters," he said softly, "but not that much," he added. "Certainly not enough for you to concern yourself further over it. You just tend to your -- knitting."
+  西瑪庫斯茫然地盯著她。「要緊的。」他輕聲說，「但沒那麼要緊。」他補充。「當然還沒要緊到讓你再為此操心。你只管去——織你的東西。」
 
- In a few more months Barenziah produced a fine son, whom they named Helseth. Nothing more was heard of the Staff or "Nightingale." If Ebonheart held it, certainly they did not boast of it. The years passed swiftly and happily. Helseth grew tall and strong. He was much like his father, whom he worshipped. When Helseth was eight years old Barenziah bore a second child, a daughter, to Symmachus' great delight. Helseth was his pride, yet little Morgiah held his heart.
+  再過幾個月巴蘭西亞生下一個出色的兒子，他們命名為赫爾賽斯。關於法杖或「夜鶯」再沒有消息。若烏木之心持有它，他們當然沒有吹噓。歲月迅速而快樂地過去。赫爾賽斯長得高大強壯。他很像父親，對父親崇拜。赫爾賽斯八歲時巴蘭西亞生了第二個孩子，一個女兒，令西瑪庫斯大喜。赫爾賽斯是他的驕傲，小茉吉雅卻握著他的心。
 
- Shortly after Morgiah's birth word came that a plot against the Emperor had been unmasked and that the chief co-conspirators Jagar Tharn and Ria Silmane were dead. Symmachus rejoiced at this news. "I told you so," he crowed. Yet thereafter relations with the Empire slowly deteriorated, for no apparent reason. Taxes were raised and quotas increased with each passing year. Symmachus felt that the Emperor suspected him of having had a hand in the plot and sought to prove his loyalty by making every effort to comply with the increasing demands. He lengthened working hours and raised taxes and even made up some of the difference from both crown funds and their own private holdings. Yet still the demands increased and commoners and nobles alike grew restless.
+  茉吉雅出生後不久傳來消息：一場針對皇帝的陰謀被揭穿，主要共謀者賈加·薩恩與莉亞·希爾曼已死。西瑪庫斯為這消息歡呼。「我早告訴過你。」他得意地說。然而此後與帝國的關係緩慢惡化，沒有明顯理由。稅收年年提高，配額年年增加。西瑪庫斯覺得皇帝懷疑他參與了陰謀，便竭盡全力遵從日益增加的要求以證明忠誠。他延長工時、提高稅收，甚至用王室資金和他們自己的私人產業補上一些差額。可要求仍在增加，平民與貴族都變得不安。
 
- "I want you to take the children and journey yourself to Imperial City," Symmachus at last said in desperation. "You must make the Emperor listen, else all Mournhold will be in revolt come spring. You have a way with men, you always did." He forced a smile.
+  「我要你帶著孩子親自前往帝都。」西瑪庫斯終於絕望地說。「你必須讓皇帝聽，否則到了春天整個哀傷之城都會叛亂。你對男人有辦法，一向如此。」他擠出微笑。
 
- Barenziah forced a smile of her own. "Even you."
+  巴蘭西亞也擠出自己的微笑。「連你也是。」
 
- "Yes, even me," he said dully.
+  「是的，連我。」他沉悶地說。
 
- "Both children?" Barenziah looked over toward the corner windows where Helseth was strumming a lute and singing a duet with his little sister. Helseth was fifteen, Morgiah just eight.
+  「兩個孩子都去？」巴蘭西亞望向角落窗戶，赫爾賽斯在那兒彈魯特琴，與妹妹二重唱。赫爾賽斯十五歲，茉吉雅才八歲。
 
- "Perhaps they'll soften his heart. Besides, it's time that Helseth was presented at the Imperial Court."
+  「也許他們會軟化他的心。再說，也該是赫爾賽斯在帝國宮廷露面的時候了。」
 
- "Perhaps, but that's not your true reason. You do not think you can keep them safe here. If that's the case, then you're not safe here either. Come with us," Barenziah urged.
+  「也許，可那不是你真正的理由。你不認為你能在這裡保護他們安全。若是那樣，你在這裡也不安全。跟我們一起走。」巴蘭西亞懇求。
 
- He took her hands in his. "Barenziah. Love. Heart of my heart, if I leave now, there'll be nothing for us to return to. I'll be all right. I can take care of myself, and I can do it better if I need not fear for you and our children."
+  他握住她的手。「巴蘭西亞。愛人。我心之心，若我現在離開，我們將沒有可歸之處。我會沒事。我能照顧自己，若不必為你和孩子擔憂，我會做得更好。」
 
- Barenziah laid her head against his chest. "Just remember that we need you. We can do without the rest if we have each other. Empty hands and empty bellies are easier to bear than an empty heart. My foolishness has brought us to this pass."
+  巴蘭西亞把頭靠在他胸口。「只要記得我們需要你。只要彼此擁有，其餘的我們都可以沒有。空手空肚比空心好受。是我的愚蠢把我們帶到這地步。」
 
- "If so, 'tis not that so a place to be." His eyes rested fondly on their carefree children. "And none of us shall go without. I cost you everything once, Barenziah, I and Tiber Septim. Without my aid the Septim dynasty would never have begun. I helped its rise. I can bring about its fall. You may tell Uriel Septim that, and that my patience is bounded."
+  「若是如此，這也不是個壞地方。」他的目光慈愛地落在無憂無慮的孩子身上。「而且我們誰也不會缺少。我曾經讓你失去一切，巴蘭西亞，我和泰伯·塞普汀。沒有我的幫助，塞普汀王朝永遠不會開始。我助它興起。我也能促成它傾覆。你可以告訴烏列爾·塞普汀這個，以及我的耐心是有界限的。」
 
- Barenziah gasped. Symmachus was not given to empty threats. She'd no more imagined that he would ever turn against the Empire than that the old house wolf lying by the hearth would turn on her.
+  巴蘭西亞倒抽一口氣。西瑪庫斯不說空話。她再也沒想像過他會背叛帝國，就像沒想像過躺在爐邊的老家狼會轉身咬她。
 
- "How?" she demanded, but he shook his head. "Better that you know not," he said. "Just tell him that, if he prove recalcitrant, and do not fear. He's Septim enough that he will not kill the messengers."
+  「怎麼做？」她問，他卻搖頭。「你最好不知道。」他說。「只要告訴他這個，若他證明頑固的話，不必害怕。他有足夠的塞普汀氣質，不會殺信使。」
 
- The late winter journey to Imperial City was an easy one. One of the things the Septim Empire had accomplished was the building and maintenance of good highways throughout Tamriel.
+  深冬前往帝都的旅程很輕鬆。塞普汀帝國成就的事情之一，就是在泰姆瑞爾各地修建並維護良好的公路。
 
 [/center]* * *
 
- Barenziah stood before the Emperor's throne, explaining Mournhold's straits. She'd waited weeks for an audience with Uriel Septim, fobbed off on pretext or another. "His Excellency is indisposed." "An urgent matter demands his attention." "I am sorry, your Highness, there must be some mistake. Your appointment is for next week. No, see..." And now it was not going well. He did not even seem to be listening to her. He hadn't invited her to sit, nor had he dismissed the children. Helseth stood still as a carved statue, but little Morgiah had begun to fidget.
+  巴蘭西亞站在皇帝寶座前，解釋哀傷之城的困境。她等了數週才獲烏列爾·塞普汀接見，被一個又一個藉口搪塞。「陛下不適。」「緊急事務需要他注意。」「抱歉，殿下，一定有誤會。您的約見是下週。不，您看……」而現在進行得並不好。他甚至似乎沒在聽她。他沒請她坐下，也沒讓孩子退下。赫爾賽斯像雕成的雕像一樣站著，小茉吉雅卻開始坐立不安。
 
- He had first greeted the three of them with a too-bright smile of welcome that did not reach his eyes. Then, as she presented her children, he had gazed at them with a fixed attention that was real, yet inappropriate. Barenziah had been dealing with humans for nearly five hundred years now and had developed skill at reading their expressions and movement that was far beyond that any human ever learned. Try as the Emperor might to conceal it, there was a hunger in his eyes, and something more. Regret. Why? He had several fine children of his own. Why covet hers? And why look at her with an intense, though, brief yearning? Ah, well, perhaps he was tired of his Lady. Humans were fickle minded. But after that one long, burning glance, his gaze had shifted away as she began to speak of her mission, and he sat still as stone.
+  他起初用過於明亮、卻達不到眼底的歡迎微笑問候他們三人。然後，當她介紹孩子時，他以一種真實卻不恰當的專注盯著他們。巴蘭西亞與人類打交道已近五百年，養成了遠超任何人類所能學會的讀表情與動作的技巧。無論皇帝如何掩飾，他眼裡有飢餓，還有別的東西。遺憾。為什麼？他自己有幾個出色的孩子。為什麼貪圖她的？為什麼用那強烈卻短暫的渴望看她？啊，好吧，也許他對他的夫人厭倦了。人類心思善變。可在那一記長久灼熱的目光之後，她開始講使命時，他的視線便移開了，坐著像石頭一樣靜。
 
- Puzzled, Barenziah stared into the pale set face, looking for some trace of the Septims she'd known. She hadn't known Uriel Septim well, having met him only once when he was still a child and then at his coronation twenty years before. He'd been stern and dignified then, yet not icily remote as this man was. Despite the physical resemblance, he didn't seem to be the same man at all. Not the same, yet something about him was familiar to her, more familiar than it should be, some trick of posture or gesture ... Suddenly she felt very warm, as if lava had been poured over her. Illusion! She had studied well the arts of illusion since Nightingale had fooled her so badly. She had learned to detect it and she felt it now, as certainly as a blind man could feel the sun on his face.
+  困惑的巴蘭西亞盯進那張蒼白僵硬的臉，尋找她所認識的塞普汀的痕跡。她並不很了解烏列爾·塞普汀，只在他還是孩子時見過一次，然後是二十年前他的加冕。那時他嚴厲而有尊嚴，卻不像眼前這人冷冰冰地遙遠。儘管外貌相似，他似乎根本不是同一個人。不是同一個人，可他身上有某種東西對她熟悉，比應有的更熟悉，某種姿勢或手勢的把戲……突然她覺得非常熱，像熔岩澆在身上。幻術！自夜鶯把她騙得那麼慘之後，她好好研究過幻術技藝。她學會了偵測它，現在她感覺到了，就像盲人能感覺臉上的陽光那樣確定。
 
- Illusion, but why? Her mind worked furiously even as her mouth went on reciting details about the Mournhold economy. Vanity? Humans were oft as ashamed of the signs of age as elves were proud of them. Yet the face Uriel Septim wore seemed consistent with his age. Barenziah dared use none of her magic arts. Even petty nobles had means of detecting, if not shielding themselves from these in their halls. The use of magic here would bring down his wrath as surely as drawing a knife would. Magic. Illusion. Suddenly she thought of Nightingale and briefly he sat before her, only saddened. Trapped. And then that vision faded and another man sat there, like Nightingale and yet unlike. Pale skin, red eyes and elven ears and about him a fierce glow of concentration, an aura of energy, a shrinking horror. This man was capable of anything! And then, once again she beheld the face of Uriel Septim. How could she be sure she wasn't imagining things? Perhaps her mind was playing tricks on her. She felt a sudden vast weariness, as if she'd been carrying a heavy burden too long and too far.
+  幻術，可為什麼？她嘴裡繼續背誦哀傷之城經濟的細節，腦子卻飛快運轉。虛榮？人類常常像精靈以年歲為傲那樣，以年歲的跡象為恥。可烏列爾·塞普汀戴的這張臉似乎與他的年齡相符。巴蘭西亞不敢使用任何魔法技藝。即使小貴族在廳堂裡也有辦法偵測這些，即便不能防護。在這裡使用魔法會招來他的怒火，就像拔刀一樣確定。魔法。幻術。突然她想到夜鶯，短暫地他坐在她面前，只是憂傷。被困住。然後那異象淡去，另一個人坐在那裡，像夜鶯又不像。蒼白皮膚、紅眼睛和精靈耳朵，周身有強烈的專注光芒、能量的光環、一種收縮的恐怖。這人什麼都做得出來！然後，她再次看見烏列爾·塞普汀的臉。她怎能確定自己不是在想像？也許腦子在跟她開玩笑。她突然感到巨大的疲倦，像扛著沉重負擔走了太久太遠。
 
- "Do you remember, Excellency, Symmachus and I had dinner with your family shortly after your father's coronation. You were no older than little Morgiah here. We were greatly honored to be the only guests that evening, except for your best friend Justin, of course."
+  「陛下可記得，西瑪庫斯和我在令尊加冕後不久與府上共進晚餐。您那時還不比這裡的小茉吉雅大。那天晚上我們極為榮幸成為唯一的客人，當然，除了您最好的朋友賈斯汀。」
 
- "Ah, yes," the Emperor said. "I believe I do recall that."
+  「啊，是的。」皇帝說。「我想我確實記得。」
 
- "You and Justin were such friends. I was told he died not long after. A great pity."
+  「您和賈斯汀是那樣的朋友。有人告訴我他不久後就死了。真可惜。」
 
- "Indeed. I still do not like to speak of him." His eyes were wary. "Ah, as for your request, my lady, we shall take it under advisement and let you know."
+  「的確。我至今仍不喜歡談他。」他的眼睛警惕。「啊，至於您的請求，夫人，我們會加以考慮，再讓您知道。」
 
- Barenziah bowed, as did her children. A nod dismissed them, and they backed away from the presence. Barenziah took a deep breath. "Justin" had been an imaginary friend, although Uriel had insisted that a place be set for Justin at every meal! Not only that, "Justin" had been a girl, despite the boy name. Symmachus had kept up the family joke long after "Justin" had gone wherever such childhood friends go, inquiring seriously after Justin's well-being whenever he and Uriel Septim met, and being responded to as seriously. The last Barenziah had heard "Justin", after an adventurous youth, had married a high elf and settled in Lilandril. The man occupying the Emperor's chair was not Uriel Septim! Nightingale! A chord of recognition rang through her and Barenziah knew that she was right. It was he, indeed! Symmachus had been wrong, so wrong ...
+  巴蘭西亞鞠躬，孩子們也是。一點頭便打發他們，他們退離御前。巴蘭西亞深吸一口氣。「賈斯汀」曾是想像中的朋友，雖然烏列爾堅持每餐都為賈斯汀擺位子！不僅如此，「賈斯汀」是女孩，儘管用了男孩名。西瑪庫斯在「賈斯汀」去了這類童年朋友該去之處後很久仍維持這個家庭玩笑，每次與烏列爾·塞普汀見面都認真詢問賈斯汀的安好，也得到認真回應。巴蘭西亞最後聽說，「賈斯汀」在一段冒險的青春之後，嫁了個高精靈，在利蘭德瑞爾安頓下來。坐在皇帝椅上的那人不是烏列爾·塞普汀！夜鶯！一聲辨認的和弦貫穿她，巴蘭西亞知道自己對了。就是他，確實！西瑪庫斯錯了，大錯特錯……
 
- What now, she wondered. What had become of Uriel Septim, and, more to the point, what did it mean for her and Symmachus and Mournhold? Thinking back, Barenziah guessed that their troubles were due to this false emperor, Nightingale, or whoever he really was. He must have taken Uriel Septim's place shortly before the unreasonable demands on Mournhold had begun. That would explain why relations had deteriorated so long (as humans judged time) after her offense. Nightingale knew of Symmachus' famed loyalty to, and knowledge of, the Septims and was making a pre-emptive strike. If that were indeed the case they were all in terrible danger. She and the children were under his hand here in Imperial City and Symmachus left alone to face the troubles of Nightingale's brewing.
+  現在怎麼辦，她想。烏列爾·塞普汀怎樣了，更要緊的是，這對她和西瑪庫斯和哀傷之城意味著什麼？回想起來，巴蘭西亞猜想他們的麻煩要歸於這個偽皇帝，夜鶯，或無論他真正是誰。他一定是在對哀傷之城的無理要求開始前不久取代了烏列爾·塞普汀。那就解釋了為什麼關係在她的過錯之後那麼久（以人類衡量時間）才惡化。夜鶯知道西瑪庫斯對塞普汀家族著名的忠誠與了解，正在先發制人。若確實如此，他們都處於可怕的危險中。她和孩子在帝都在他掌握之中，西瑪庫斯獨自留下面對夜鶯釀造的麻煩。
 
- What must she do? Barenziah urged the children ahead of her, a hand on each shoulder, her womanservant and guards trailing behind. They had reached their waiting carriage -- even though their apartment was only a few blocks from the Palace, royal dignity forbade their walking, and for once, Barenziah was glad of that. Even the carriage seemed a kind of sanctuary now, false as she knew that feeling to be.
+  她必須做什麼？巴蘭西亞催孩子走在前面，一手搭在每個肩膀上，女僕和衛兵跟在後面。他們到了等候的馬車——即使寓所離宮殿只有幾條街，王室尊嚴也不准他們步行，而這一次，巴蘭西亞為此高興。連馬車現在都像某種庇護所，儘管她知道這感覺是假的。
 
- A boy dashed up to one of the guards and handed him a letter, then pointed towards the carriage. The guard brought it to her. The boy waited, eyes wide. The letter was brief and complimentary and simply asked if King Eadwyre of Wayrest, High Rock, might be granted an audience with her, as he had heard much of her, and would be pleased to make her acquaintance. Barenziah's first impulse was to refuse. She wanted only to leave this city! Certainly she had no inclination for any dalliances with a dazzled human. She looked up frowning and one of the guard said, "The boy says his master awaits your reply yonder." She looked in the direction indicated and saw a handsome elderly man on horseback, surrounded by a half-dozen courtiers and guards. He caught her eye and bowed respectfully, removing his plumed hat.
+  一個男孩衝到一名衛兵面前把一封信交給他，然後指向馬車。衛兵把信帶給她。男孩等著，眼睛睜大。信簡短而恭維，只問高岩途歇城的埃德懷爾國王能否獲准覲見她，因為他久聞她的名聲，樂於結識。巴蘭西亞的第一衝動是拒絕。她只想離開這座城市！她當然沒有興趣與一個眼花繚亂的人類有任何風流事。她皺眉抬頭，一名衛兵說：「那男孩說他主人在那邊等候您的回覆。」她朝所指方向看，看見一個英俊的老年男子騎在馬上，周圍有半打廷臣和衛兵。他與她目光相接，恭敬地鞠躬，脫下羽飾帽。
 
- "Very well," Barenziah said to the boy, on impulse. "Tell your master he may call on me tonight, after the dinner hour." The man looked polite and grave, and rather worried, but not in the least lovesick.
+  「很好。」巴蘭西亞一時衝動對男孩說。「告訴你主人，他今晚晚宴過後可以來訪。」那人看起來禮貌、嚴肅，相當憂慮，卻一點也不像害了相思病。

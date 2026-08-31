@@ -1,5 +1,5 @@
-Title: The Brothers of Darkness
-Author: Pellarne Assi
+Title: 黑暗兄弟
+Author: 佩拉爾內·阿西
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,30 +8,28 @@ Content:
 
 [/font=2]
 
-[/center]The
+[/center]黑暗
 
-[/center]Brothers of
-
-[/center]Darkness
+[/center]兄弟
 
 [/font=4]
 
- As their name suggests, the Dark Brotherhood has a history shrouded in obfuscation. Their ways are secret to those who are not Brothers of the order (Brothers is the generic term: some of the deadliest of the assassins are female, but they are called Brothers as well). How they continue to exist in shadow, but can be easily found by those desparate enough to pay for their services is not the least of their mysteries.
+ 正如其名所示，黑暗兄弟會的歷史籠罩在迷霧之中。他們的行事對非本會兄弟者保密（「兄弟」是通稱：最致命的刺客中有些是女性，也被稱為兄弟）。他們如何繼續存在於陰影中，卻又能被絕望到足以付錢購買其服務的人輕易找到，還遠不是他們最小的謎。
 
- The Dark Brotherhood sprang from a religious order, the Morag Tong, during the Second Era. The Morag Tong were worshippers of the daedra spirit Mephala, who encouraged them to commit ritual murders. In their early years, they were as disorganized as cultists usually are. There was no one to lead the group, and as a group they dared not murder any of any importance. This changed with the rise of the Night Mother.
+ 黑暗兄弟會源於一個宗教團體莫拉格幫，時在第二紀元。莫拉格幫崇拜迪德拉之靈梅法拉，她鼓勵他們進行儀式謀殺。早年他們像邪教通常那樣缺乏組織。沒有人領導這個團體，作為團體他們也不敢謀殺任何重要人物。這隨著夜母的崛起而改變。
 
- All leaders of the Morag Tong, and then the Dark Brotherhood, have been called the Night Mother. Whether the same woman has commanded the Dark Brotherhood since the second era is unknown. What is believed is that the original Night Mother developed an important belief of the Morag Tong.
+ 莫拉格幫以及其後黑暗兄弟會的所有領袖，都被稱為夜母。是否自第二紀元起便是同一名女子統率黑暗兄弟會，不得而知。人們相信的是，最初的夜母發展出莫拉格幫的一項重要信念。
 
- This first belief is that, while Mephala grows stronger with every murder commited in her name, certain murders were better than others. Murders that came from hate pleased Mephala more than murders commited because of greed. Murders of great men and women pleased Mephala more than murders of unknowns.
+ 這第一項信念是：雖然每一樁以她之名犯下的謀殺都使梅法拉更強大，某些謀殺卻比另一些更好。出於憎恨的謀殺比出於貪婪的謀殺更討梅法拉歡心。偉大男女的謀殺比無名之輩的謀殺更討梅法拉歡心。
 
- We can approximate the time this belief was adopted with the first known murder commited by the Morag Tong. In the year 324 of the 2nd Era, the Potentate Versidue-Shaie was murdered in his palace in what is today the Elsweyr kingdom of Senchal. In a brash move, the Night Mother announced the identity of the murderers by painting MORAG TONG on the walls in the Potentate's blood.
+ 我們可以把這項信念被採納的時間，大約對應到莫拉格幫已知的第一樁謀殺。第二紀元324年，攝政韋爾西杜-夏伊在其宮殿中被殺，地點即今日艾斯維爾王國森查爾。夜母大膽宣布兇手身分，用攝政的血在牆上寫下「莫拉格幫」。
 
- Previous to that time, the Morag Tong existed in relative peace, like a witches coven. Occasionally persecuted, but usually ignored. In a remarkable syncroncity at a time when the Arena was a fractured land, the Morag Tong was outlawed throughout the continent. Every sovereign gave the cult's elimination his highest priority. Nothing more was officially heard of them for a hundred years.
+ 在那之前，莫拉格幫相對平靜地存在，像女巫集會。偶爾受迫害，但通常被忽視。在競技場還是破碎之地的時代，出現了驚人的同步：莫拉格幫在整片大陸被取締。每一位君主都把消滅這個邪教列為最高優先。此後一百年，官方再未聽說他們。
 
- It is more difficult to date the era when the Morag Tong re-emerged as the Dark Brotherhood. Assassin guilds have sporadically appeared throughout the history of Tamriel. The first mention of the Dark Brotherhood that I have found is from the journals of the Blood Queen Arlimahera of Hegathe: she spoke of slaying her enemies by her own hand, or, if necessary, "with the help of the Night Mother and her Dark Brotherhood, the secret arsenal my family has employed since my grandfather's time." Arlimahera wrote this in 2E 412, so one can surmise that the Dark Brotherhood had been in existance since at least 360 if her grandfather truly used them.
+ 要確定莫拉格幫以黑暗兄弟會之名重新出現的年代更困難。刺客公會在泰姆瑞爾歷史中零星出現。我找到的黑暗兄弟會最早記載，出自赫加斯血后阿爾利馬赫拉的日誌：她談到親手殺死敵人，或必要時「藉夜母及其黑暗兄弟會之助，那是我家自祖父時代起便使用的秘密兵器」。阿爾利馬赫拉寫於第二紀元412年，因此若她祖父確實用過他們，可以推斷黑暗兄弟會至少自360年起便已存在。
 
- The important distinction between the Dark Brotherhood and the Morag Tong was that the Brotherhood was a business as much as a cult. Rulers and wealthy merchants now used the order as an assassin's guild. The Brotherhood gained the obvious benefits of a profitable enterprise, as well as the secondary benefit that no longer could rulers actively persecute them. They were needed. Even an extremely virtuous leader would be unwise to maltreat the Brotherhood.
+ 黑暗兄弟會與莫拉格幫的重要區別在於，兄弟會既是邪教，也是生意。統治者與富商如今把這個組織當作刺客公會使用。兄弟會獲得了有利可圖事業的明顯好處，以及次要好處：統治者再也不能積極迫害他們。他們被需要。即便極為高尚的領袖，虐待兄弟會也是不智的。
 
- Not long after Alimahera's journal entry about them was penned came perhaps the most famous series of executions in the history of the Dark Brotherhood. The Colovian Emperor Potentate Savirien-Chorak and every one of his heirs was murdered on one bloody night in Sun's Dawn in 430. Within a fortnight, the Colovian Dynasty crumbled, to the delight of its enemies. For over four hundred years, until the age of Tiber Septim, chaos reigned over Tamriel. Though no comparably impressive executions have been recorded, the Brotherhood must have grown fat with gold during that age.
+ 阿爾利馬赫拉關於他們的日誌寫下後不久，便發生了或許是黑暗兄弟會歷史上最著名的一連串處決。科洛維亞攝政皇帝薩維里恩-喬拉克及其每一個繼承人，在430年日曉月的一個血腥夜晚全被殺害。不出兩週，科洛維亞王朝崩潰，令其敵人欣喜。此後四百多年，直到泰伯·塞普汀的時代，混亂統治著泰姆瑞爾。雖然再沒有記錄下同樣驚人的處決，兄弟會在那個時代想必賺得腦滿腸肥。
 
- The Dark Brotherhood has no shortage of business opportunities -- an accounting, I have been informed, is the Brotherhood's favorite euphemism for execution. While they are officially an unlawful organization in every corner of the Empire, like the Thieves Guild, they are almost universally tolerated.
+ 黑暗兄弟會從不缺生意機會——據我所聞，「結帳」是兄弟會對處決最喜愛的委婉語。雖然他們在帝國每一角落都是官方非法組織，一如盜賊公會，他們幾乎處處被容忍。

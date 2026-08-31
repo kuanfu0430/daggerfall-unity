@@ -1,0 +1,51 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 6
+Messages: 15
+Quest: A0C00Y06
+DisplayName: 意外之旅
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我叫 _qgiver_。
+<ce> 我的主人要我找一名勇敢的冒險者
+<ce> 執行危險任務。
+<ce> 我不能多說，只能告訴你成功者可得 _gold_ 金幣。
+<ce> 你有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 我會到別處尋找能完成主人之任務的英雄。
+
+AcceptQuest:  [1002]
+<ce> 去 _meetingplace_。
+<ce> 你會在那兒找到我的主人。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我在 ___qgiver_ 遇見 _qgiver_，
+ 對方說 %g3 在 _meetingplace_ 的主人
+ 願付 _gold_ 金幣，
+ 換一項未知但肯定危險的差事。
+
+Message:  1011
+%qdt:
+ 叛徒 _traitor_
+ 用法術把我送到 __dungeon_。
+ 若我能出去，我們還會再見面。
+
+Message:  1012
+<ce> 認清我真正是誰：我是你的死敵，
+<ce> _traitor_！我為你準備了特別的命運。
+
+Message:  1013
+<ce> 我不知道 _traitor_ 會那樣背叛你。
+<ce> 我跟你沒仇，%pcn。%G 搬到鎮上的
+<ce> _hidingplace_ 去了。去那兒找 %g2。
+
+Message:  1014
+<ce> 我不知道你怎麼從 ___dungeon_ 逃出來的，
+<ce> %pcf。不過對你也沒多大好處。準備受死吧！

@@ -1,0 +1,116 @@
+-- Quest: C:\QUESTS\WORKING\B0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 0
+-- QuestId: 0
+Messages: 16
+Quest: B0B00Y00
+DisplayName: 公主
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       %pcf，公主_lady_
+<ce>                 已從我們的守護下落入敵手，
+<ce>                   救援她是我們騎士的職責。
+<ce>                 可惜團裡許多弟兄都在前線打仗。
+<ce>                  本著最純粹的騎士精神，
+<ce>                  你可願去把公主從那擄走她的
+<ce>                             _monster_手中救出來？
+                                     <--->
+<ce>                    戰事讓騎士團忙得不可開交，
+<ce>                  像守護%reg貴婦名節這等要務
+<ce>                  幾乎都被擱在一旁。
+<ce>                    簡直沒人能去救援前幾日
+<ce>                         被擄走的公主_lady_。
+<ce>                       你可有空接下這最光榮的任務？
+
+RefuseQuest:  [1001]
+<ce>                   啊，這可不是我們騎士團的精神。
+<ce>                 對我們而言，沒有什麼比守護無辜者的
+<ce>                            名節更重要。
+
+AcceptQuest:  [1002]
+<ce>                  你願意？我得說，你的心腸真勇敢。
+<ce>                _monster_可是可怕的對手。務必做好
+<ce>                交戰準備。但別魯莽——我們只在乎
+<ce>                救回公主。若能放過那_monster_，
+<ce>                  就放過他。若你未能在=2mondung_天內
+<ce>                 歸來，我們會當你失敗，另派人接替。
+<ce>                  我想你不會想讓別人搶走這份救援的榮譽。
+<ce>                      願%god保佑你前往
+<ce>                            ___mondung_的旅程。
+
+QuestFail:  [1003]
+<ce>                         快點，%pcf。你只剩
+<ce>                       =2mondung_天了。
+
+QuestComplete:  [1004]
+<ce>                      公主_lady_，容我更正式地
+<ce>                 向你介紹這位救命恩人，%pcn。
+<ce>                今日你做了一件高尚光榮的事，
+<ce>                 我的朋友，這份功績不會被遺忘。
+
+RumorsDuringQuest:  [1005]
+可憐的公主_lady_。等她父親來到___qgiver_，怕是要大發雷霆。
+<--->
+_qgiver_曾向公主_lady_的父親保證會保護她。
+
+RumorsPostfailure:  [1006]
+公主靠自己逃出了___mondung_。好一個騎士的英勇。
+<--->
+公主自己晃進了___qgiver_，臉色蒼白，失血過多。
+
+RumorsPostsuccess:  [1007]
+騎士們正在慶祝那位救出_lady_的偉大%ra的英勇事蹟。
+<--->
+_lady_女士已開始寫詩，歌頌那位救她的英勇%ra。
+
+QuestorPostsuccess:  [1008]
+問候，%pct。你會高興知道_lady_女士恢復得不錯。
+
+QuestorPostfailure:  [1009]
+_lady_女士那檔事真是一團糟。我想你也寧願把它拋在腦後。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_交付我一項任務：
+ 從___mondung_救出美麗的
+ _lady_女士，她被一名_monster_
+ 擄走囚禁在那裡。
+ 我有=2mondung_天去救她，否則將另派人
+ 奪走我的榮譽與榮耀。
+
+Message:  1011
+<ce>             一個瘦小蒼白的小男孩對你嘶聲低語，
+<ce>              把一張紙條塞進你手裡。你才剛注意到他，
+<ce>                   人就幾乎立刻消失了。
+
+Message:  1012
+<ce>                  你剛殺了那_monster_，
+<ce>                   _lady_惡夢的源頭。
+
+Message:  1013
+<ce>                        _lady_女士離開了你，
+<ce>                   決意自行尋路回家。
+
+Message:  1014
+親愛的%pcf：
+ 
+      若你因合理的恐懼而遲疑——擔心你在%reg的
+ 親愛朋友們，那些_monster_，不希望你破壞
+ 同族那相當好色的計畫——大可不必。
+ =monster_在我們冷漠的心中，
+ 珍貴程度約等於一灘放了一個月的嘔吐物。
+      好好享受吧。若你有那心思，
+ 也不妨享受一下_lady_。
+ 
+<ce>                           你親愛的朋友們，
+<ce>                        %reg最古老的勢力
+
+Message:  1015
+<ce>                       「你是%pcf！感謝%god！
+<ce>                            我是_lady_女士，
+<ce>                      咱們現在就離開這裡。」

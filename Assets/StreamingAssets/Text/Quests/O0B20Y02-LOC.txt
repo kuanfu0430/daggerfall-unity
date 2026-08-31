@@ -1,0 +1,61 @@
+-- Quest: C:\QUESTS\WORKING\O0B20Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 20
+-- QuestId: 2
+Messages: 11
+Quest: O0B20Y02
+DisplayName: 珍藏之物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       小聲點。我的名字是……呃，
+<ce>                      就叫我 _qgiver_ 吧。我有一份
+<ce>                           公會差事給你。標準
+<ce>                        酬勞。聽到這兒有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>                      幸好沒告訴你細節。
+<ce>                     現在滾出去。
+
+AcceptQuest:  [1002]
+<ce>                         你得從 __mansion_ 的
+<ce>                       _mansion_ 偷走那件
+<ce>                           _magicitem_。你有
+<ce>                     =traveltime_ 天，否則交易作廢。
+<ce>                       我有沒有提過那地方有守衛？
+<ce>                      我以為我說過了。
+
+QuestComplete:  [1004]
+<ce>                     東西拿到了？啊！幹得好。
+<ce>                      這差事的標準酬勞是
+<ce>                    _gold_ 金幣。別全花在
+<ce>                          同一個地方。
+
+RumorsDuringQuest:  [1005]
+__mansion_ 的 _mansion_ 收藏了大批奇異魔法物品。
+
+RumorsPostfailure:  [1006]
+為了安全，他們把 _magicitem_ 從 _mansion_ 搬走了。
+
+RumorsPostsuccess:  [1007]
+那件 _magicitem_ 是從 _mansion_ 被偷走的。真是醜聞。
+
+QuestorPostsuccess:  [1008]
+見到我很意外嗎，%pcf？以為我會帶著 _magicitem_ 跑了？
+
+QuestorPostfailure:  [1009]
+<ce>                  他們已經把 _magicitem_ 從
+<ce>                       _mansion_ 搬走了，%pcf。
+<ce>                 換句話說，你任務失敗了。
+<ce>                             現在，走開。
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_（或 %g 對 %g2自己的稱呼）
+ 代表公會雇我去 __mansion_ 的
+ _mansion_ 偷走那件 _magicitem_。
+ 我有 =traveltime_ 天把它交還給
+ ___qgiver_ 的 __qgiver_ 的 %g2。

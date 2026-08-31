@@ -1,0 +1,161 @@
+-- Quest: C:\QUESTS\WORKING\P0B00L03.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 0
+-- QuestId: 3
+Messages: 27
+Quest: P0B00L03
+DisplayName: 領地之爭
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       我能否請你接下
+<ce>                      一項危險的任務，為
+<ce>                         %vam 的更大榮耀效勞？
+
+RefuseQuest:  [1001]
+<ce>                  你想把榮耀讓給 %vam
+<ce>                     的另一人，自己錯過這份榮譽？
+<ce>                      那也好，但我得承認，
+<ce>                     你這份溫順令我失望。
+
+AcceptQuest:  [1002]
+<ce>                     你順從得真美，
+<ce>                       %pcf。一名敵對吸血鬼
+<ce>                      已遷入我的領地。你
+<ce>                    要去殺了它。你得小心，
+<ce>                     %pcf。即便是來自不如
+<ce>                     %vam 的部族，遠古吸血鬼
+<ce>                     也絕非軟弱的對手。
+<ce>                    未經準備，切勿投入戰鬥。
+<ce>                    這一個名叫 _vampname_，
+<ce>                    %g3 新庇護所叫
+<ce>                     ___mondung_。據說他對自己
+<ce>                    那雙用受害者皮製成的
+<ce>                   _vampproof_ 得意非凡。
+<ce>                    把它們帶回來。我期望你
+<ce>                        在 =1stparton_ 夜內
+<ce>                回到這裡。別把自己弄死了，
+<ce>                             %pcf。
+
+QuestFail:  [1003]
+<ce>                      莫非你指望
+<ce>                             _vampname_
+<ce>                       自己了結自己？不太可能。
+<ce>                        你必須成為
+<ce>                               %g3 死亡的執行者。
+
+QuestComplete:  [1004]
+<ce>                     歡迎回來，%pcf，我的孩子。
+<ce>                  奇怪的是：我竟然相當
+<ce>                    擔心你的安危。
+<ce>                  多荒謬——%vam 的吸血鬼
+<ce>                 竟生出這份多愁善感！我為你帶來
+<ce>                     %vam 長老們的祝賀，
+<ce>                      他們囑我把這件
+<ce>                       _reward_ 交給你。別把它
+<ce>                  想成什麼粗俗的酬勞。這
+<ce>                   不過是家族給你的禮物。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 近來很熱鬧，可那地方荒廢多年了。
+<--->
+那個 _vampname_ 是個貴族。說 %g 正在清理 ___mondung_ 和 %reg。
+
+RumorsPostfailure:  [1006]
+聽說 _vampname_ 終於搬出 ___mondung_ 了。那地方不適合貴族。
+<--->
+_vampname_ 搬出 ___mondung_ 之後，%g 常往宮殿跑。
+
+RumorsPostsuccess:  [1007]
+原來那位和善的 _vampname_ 是吸血鬼！我完全沒想到！
+<--->
+感謝 %god，那位出色的 %ra 傭兵殺了 ___mondung_ 裡的吸血鬼。
+
+QuestorPostsuccess:  [1008]
+向你致意，%pcf。希望你喜歡你的新 _reward_。
+
+QuestorPostfailure:  [1009]
+<ce>                        _vampname_ 仍在夜間
+<ce>                         行走，%pcf。這項
+<ce>                      任務的處理方式
+<ce>                      令人無法接受。整個
+<ce>                        %vam 都……對你
+<ce>                                感到失望。
+
+Message:  1020
+親愛的 %pcn，
+ 
+     %vam 恐怕有個潛在
+ 問題。盡快到 ___vampire_
+ 來見我。
+ 
+ 於死蔭中，
+<ce>                               _vampire_
+
+Message:  1011
+%G 是 __vampire_ 一位和善又聰明的 =vampire_。
+<--->
+_vampire_ 就是那位和善的 =vampire_，在這裡 %di 邊的 __vampire_ 可以找到。
+
+Message:  1012
+_vampire_ 是 %vam 血脈的吸血鬼。
+<--->
+_vampire_ 是 %vam 一名年輕吸血鬼，負責教導更年輕的吸血鬼。
+
+Message:  1013]
+_vampname_ 的 _vampproof_ 是用一種奇特的蒼白皮革製成的。
+
+Message:  1015
+Error -- 1015 is being displayed
+
+Message:  1021
+你收到一封信。
+
+Message:  1022
+<ce>                     我曾從死者之中歸來
+<ce>                     一次。我還會再回來。到那時
+<ce>                     我會像獵蒼白蠕蟲一樣
+<ce>                      把你和 _vampire_
+<ce>                             趕盡殺絕！
+
+Message:  1025
+%qdt:
+    ___vampire_ 的
+  _vampire_ 已召喚我
+  前往 __vampire_，
+  處理 %vam 的事務。
+
+Message:  1026
+%qdt:
+  _vampire_ 派我前往
+  ___mondung_，殺死一名
+  叫 _vampname_ 的遠古吸血鬼。
+  屠殺之後，我要帶走一些
+  非常特別的 _vampproof_ 作為擊殺證明，
+  並在 =1stparton_ 夜內返回
+  __vampire_。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 2 times.
+--                %g occurs 3 times.
+--               %g3 occurs 2 times.
+--              %god occurs 1 time.
+--              %pcf occurs 7 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 2 times.
+--               %ra occurs 1 time.
+--              %reg occurs 1 time.
+--              %vam occurs 12 times.
+--       =1stparton_ occurs 4 times.
+--         =vampire_ occurs 2 times.
+--       ___mondung_ occurs 25 times.
+--       ___vampire_ occurs 10 times.
+--          _reward_ occurs 18 times.
+--         _vampire_ occurs 7 times.
+--        _vampname_ occurs 9 times.
+--       _vampproof_ occurs 3 times.

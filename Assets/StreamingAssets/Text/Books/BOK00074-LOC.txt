@@ -1,5 +1,5 @@
-Title: Fools' Ebony, Part the Oneth
-Author: Frincheps
+Title: 愚人烏木，其一
+Author: 弗林切普斯
 IsNaughty: True
 Price: 317
 IsUnique: False
@@ -8,200 +8,200 @@ Content:
 
 [/font=2]
 
-[/center]Fools' Ebony,
+[/center]愚人烏木，
 
-[/center]Part the
+[/center]其
 
-[/center]Oneth
+[/center]一
 
 [/font=4]
 
 [/center]
 
- Dramatis Personae
+  登場人物
 
- Prologue; The Adventurer, A Dark Elf Rascal; Komon, A Priest of Akatosh; Lheban, Another Priest of Akatosh; Epilogue; Stete, A Priest of Julianos; Raic, Another Priest of Julianos; Shub, A Mage; Shub, A Different Mage of the Same Name; Nephron, A Somewhat Sleazy Merchant; 5 Armorers; Ortho; Crunn, Husband of Millie; A Lusty Contessa; Millie, Innkeep and Philosopher; Gurnsey, Bovine Wench; Assorted Wenches and Cads of the Taverns; Soldiers; Dwarves; Giants.
+  開場白；冒險者，一名黑暗精靈無賴；科蒙，阿卡托什的祭司；勒班，另一名阿卡托什的祭司；收場白；斯特特，朱利安諾斯的祭司；雷克，另一名朱利安諾斯的祭司；舒布，一名法師；舒布，另一名同名的法師；奈夫隆，一名有點下流的商人；五名鑄甲師；奧索；克朗，明妮之夫；一位好色的女伯爵；明妮，旅店老闆兼哲學家；格恩西，牛一般的女侍；酒館裡各色女侍與無賴；士兵；矮人；巨人。
 
- Daggerfall and Environs in the Doldrums of the 3rd Era
+  第三紀沉悶時期的匕首雨及其四郊
 
- Part The Oneth - Concerning Priests and Nackles
+  其一——論祭司與納克勒斯
 
- As related at length by two Priests of Akatosh to the Adventurer, who at the time was not having an adventure, and had nothing better to do. In which some (probably unwanted) light is shed upon the Priesthood and its members, and upon an old peasant myth of some significance, especially common in High Rock. And in which the mysterious Fools' Ebony appears, that strange material that could bring either drastic cultural change for the many, or just great profit for a few, or death for a bunch, or have no result whatsoever.
+  由兩名阿卡托什祭司向冒險者詳盡講述；當時這位冒險者並沒在冒險，也無事可做。文中對祭司團及其成員投下一束（大概不受歡迎的）亮光，並談到一則頗具分量的古老農民神話，在高岩尤其常見。神秘的愚人烏木亦於此登場——那種古怪材料，可能為眾人帶來劇烈的文化變革，或只為少數人帶來鉅利，或讓一堆人送命，或什麼結果也沒有。
 
- Early in the month of Frostfall.
+  霜落月上旬。
 
- The Dead Daedra Inn.
+  死迪德拉旅店。
 
- (Enter Prologue)
+  （開場白上）
 
- Prologue: Our poor players will try and remember their lines and not trip over our meager set. I beg you, the audience, not to heckle, badger, or throw rotten foodstuffs. You will only make this short play last longer. The Guild of Playwrites, Actors, and Dramatists wish any of you who are sensitive or allergic to rambling dialogue, wooden acting, incomprehensible exposition, or unsatisfying endings that leave one confused and unhappy to exit the theatre immediately. Your gold will, alas, not be refunded. As a saving grace, this series of vignettes contains gratuitous references to all pleasures of the flesh. You may enjoy it. Ah, here comes our hero, the roguish Dark Elf called the Adventurer. It is time for Prologue to trip merrily away.
+  開場白：我們可憐的演員會盡力記住臺詞，別被這簡陋佈景絆倒。懇請各位觀眾不要起鬨、找碴，或投擲腐爛食物。那樣只會讓這齣短劇拖得更長。劇作家、演員與戲劇家公會希望：凡對冗長對白、呆板演技、不知所云的鋪陳，或令人困惑不快、不能令人滿意的結局敏感或過敏者，請立刻離場。你們的金幣，唉，恕不退還。作為一絲可取之處，這一系列短場含有對一切肉慾之樂的無端影射。你們也許會喜歡。啊，我們的英雄來了，那位名叫冒險者的黑暗精靈無賴。開場白該歡歡喜喜地溜走了。
 
- (Exit Prologue)
+  （開場白下）
 
- (Enter the Adventurer)
+  （冒險者上）
 
- Adventurer: What an odd conversation I just heard between those two mages. It is best not to speak of such matters next to privy hedges.
+  冒險者：剛才那兩個法師的談話真古怪。這種事最好別在茅房樹籬旁邊講。
 
- (Enter 2 Priests of Akatosh)
+  （兩名阿卡托什祭司上）
 
- (Lheban, Komon)
+  （勒班、科蒙）
 
- Lheban: Mind if we join you, fellow? ... Good, need some company ourselves. I am named Lheban, my fellow priest here is Komon. We both serve Akatosh, all in our own ways, of course ...
+  勒班：不介意我們坐過來吧，朋友？……好，我們自己也需要伴。我叫勒班，這位祭司同伴叫科蒙。我倆都侍奉阿卡托什，當然，各有各的法子……
 
- Adventurer: Make yourselves at home, it's not my bench. But I thought that priests ... didn't go to ... er ... places like this, Inns. I mean ... unless on duty?
+  冒險者：請自便，這又不是我的長凳。可我以為祭司……不去……呃……這種地方，旅店。我是說……除非當值？
 
- Lheban: Oh, we're not on duty. Got to regenerate our internal vital energies, so we can go on blessing and curing...
+  勒班：噢，我們不當值。得把體內元氣補回來，才能繼續祝福、治療……
 
- Komon: We often come here, hike up our robes, kick up our heels, as it were. Fill up with some bottled energy ...
+  科蒙：我們常來這兒，撩起袍子，抬腳快活，可以這麼說。灌點瓶裝元氣……
 
- (Komon snickers)
+  （科蒙竊笑）
 
- Lheban: Looking for those in need of comfort and blessing, of course ...
+  勒班：當然，也尋找需要安慰與祝福的人……
 
- Komon: Oh, yes, Oh yes ... like that young girl outside the other evening ...
+  科蒙：噢，對，噢對……就像前晚外頭那個小姑娘……
 
- (Lheban kicks Komon)
+  （勒班踢科蒙）
 
- Komon: ... and anyway our High Priest told us to get lost...
+  科蒙：……反正我們大祭司叫我們滾……
 
- Lheban: He means told us to get some air. We've been having visions, you see ...
+  勒班：他是說叫我們透透氣。我們一直看見異象，你懂……
 
- Komon: Yes, sort of weird, really ... and we hadn't even been taking any of that ...
+  科蒙：對，說真的有點邪門……而且我們甚至沒在吃那種……
 
- (Lheban kicks Komon)
+  （勒班踢科蒙）
 
- Lheban: Both of us been having the same visions -- real odd.
+  勒班：我倆看見的異象一樣——真古怪。
 
- Adventurer: Do tell, I'm not going anywhere in a hurry.
+  冒險者：請講，反正我也沒急著去哪兒。
 
- Lheban: Well, we've both been hearing sort of ... words ... for a start. Like 'Sir Nich' or 'Sain Nack' ...
+  勒班：這個，我倆都聽見一種……詞……打頭。像「瑟·尼奇」或「聖·納克」……
 
- Adventurer: You said 'Nick' or 'Nack'? Just a minute ... let me have a swig from your bottle, Brother ... Ah! That's better - high-class stuff you fellows drink! Yes, I recall - some story or old legend about an elf, name of Nuckle, I think -- from Morrowind?
+  冒險者：你說「尼克」還是「納克」？等一下……讓我喝一口你瓶子裡的，修士……啊！好多了——你們喝的可是上等貨！對，我想起來了——有個故事或老傳說，講一個精靈，名字好像叫納克爾——從晨風來的？
 
- Lheban: You know, maybe you're on to something there -- there is a old legend around these parts, comes from deep in High Rock I think ... hmmmm ... Nackles, that's it!
+  勒班：你知道嗎，也許你說到點子上了——這一帶確實有則老傳說，我想是從高岩深處傳來的……嗯……納克勒斯，就是這個！
 
- Adventurer: Nackles, eh! Seems that several Dark Elves use that name ... particularly the ... more peculiar ones...
+  冒險者：納克勒斯，啊！好像好幾個黑暗精靈用這個名字……尤其是……比較古怪的那些……
 
- Komon: Yes, I guess that the bad ones are into all that weapons magicka stuff ... very nasty fellows ...
+  科蒙：對，我猜那些壞胚子都搞武器魔力那一套……非常討厭的傢伙……
 
- Lheban: (to Komon) Komon! This fellow's got pointy ears and red eyes ...
+  勒班：（對科蒙）科蒙！這位朋友尖耳朵、紅眼睛……
 
- Komon: Pardon me, friend ... it's sort of dark, and I didn't ... uh ...
+  科蒙：抱歉，朋友……這兒有點暗，我沒……呃……
 
- Adventurer: Oh, that's fine. These are strange times. You know, live and let live -- or die -- as the case may be. Now ... suppose you tell me about this Nackles myth? Here, let me help you with that bottle ... Ah! Thanks.
+  冒險者：噢，沒關係。這年頭古怪。你知道，各過各的——或各死各的——看情形。現在……你們給我講講這納克勒斯神話？來，我幫你拿那瓶子……啊！謝了。
 
- Lheban: Er ... sure, if you want to put it that way ... Here, have another swig! Sure, we've got the time, and I recall it clearly now.
+  勒班：呃……當然，你要這麼說也行……來，再喝一口！當然，我們有的是時間，我現在記清楚了。
 
- Komon: Yes, we've a couple hours 'til that little blonde shows up at her lamp ...
+  科蒙：對，離那個小金髮在燈柱那兒出現還有幾個鐘頭……
 
- (Lheban kicks Komon)
+  （勒班踢科蒙）
 
- Lheban: (to Komon) Quiet! Remember, we had to tell the High Priest her address, so she won't be around for a while! (to all) Very well, here's the story, best as I can recall it. This is a tale the peasants up in High Rock tell their kids to scare them into being good for a while, I guess. They tell it, let me see ... either on Tales and Tallows, or is it Witches' Festival? -- just before the kids are sent out to the barn or pigsty to sleep.
+  勒班：（對科蒙）安靜！記住，我們得把她的住址告訴大祭司，所以她一時半會兒不會來了！（對眾人）好吧，故事在這兒，盡我所能記得的。這是高岩農民講給孩子聽的，好嚇他們乖一陣子，我猜。他們講這故事，讓我想想……要麼在故事與油脂節，要麼是女巫節？——就在孩子被趕到穀倉或豬圈睡覺之前。
 
- Komon: Nasty cruel peasants! But then, I'd send them all out to the midden ...
+  科蒙：又惡又狠的農民！不過話說回來，我會把他們全趕到糞堆去……
 
- Lheban: Really, Komon! Remember, those poor souls need our compassion and blessing, we are their salvation!
+  勒班：真是的，科蒙！記住，那些可憐靈魂需要我們的慈悲與祝福，我們是他們的救贖！
 
- Komon: Now who's in Old High Mucky-Mucks' study?
+  科蒙：那現在誰又在老高高在上的書房裡？
 
- Lheban: Er ... anyway. It goes a bit like this. If the kids have been real good during the year -- filched enough in the market, mucked out the stables every day, not gone playing with goblins, left the sheep alone, and so on. If they have been real good, they've nothing to worry about. But if they haven't been real good then there is this nasty, horrid Dark Elf spirit called Nackles. Doesn't look like your typical Dark Elf -- thinner, taller. Pasty white face, long as your arm. Walks like his knees and elbows bend the wrong way. Snickers like when you drag your fingernails across slate. Wears a tight black suit (not Khajiit, more like a formal suit with buttons) but too tight and small. He visits the bad girls and --
+  勒班：呃……總之。故事大概是這樣。若孩子們這一年真的很乖——在市集偷夠了、每天清馬廄、沒去跟哥布林玩、沒去惹綿羊，諸如此類。若他們真的很乖，就沒什麼好擔心。可若他們並不真的很乖，就有這個討厭、可怕的黑暗精靈鬼魂，叫納克勒斯。長得不像典型的黑暗精靈——更瘦、更高。蒼白的臉，長得跟你的胳膊一樣。走路像膝蓋和手肘反著彎。竊笑像指甲刮石板。穿一套緊身黑衣（不是卡吉特那種，比較像有鈕扣的禮服），可太緊太小。他去拜訪壞女孩，還——
 
- Komon: Why are you talking about Old High Mucky again, Lheban?
+  科蒙：你怎麼又在講老高高在上了，勒班？
 
- (Komon hiccoughs)
+  （科蒙打嗝）
 
- (Lheban kicks Komon)
+  （勒班踢科蒙）
 
- Lheban: You really must excuse Komon here: overwork, you know. Too many curings and conversions ... Anyway, Old Nasty Nackles is supposed to wander under our Tamriel, in dirty deep dark dwarven tunnels. Everywhere under the lands, if you can believe that! Rides in a rusty squeaky old mine cart, on old mine tracks ...
+  勒班：你們真得原諒科蒙：過勞，你懂。治療和皈依太多……總之，老惡納克勒斯據說在我們泰姆瑞爾底下遊蕩，走骯髒深暗的矮人隧道。遍及所有土地之下，你要信的話！坐一輛生鏽吱呀的舊礦車，跑在舊礦軌上……
 
- Adventurer: I saw some of those in Fang Lair once, down in Hammerfell a long long while ago ...
+  冒險者：我很久很久以前在落錘省的獠牙巢穴見過那種東西……
 
- Komon: (to Lheban) What the Sheogorath was he doing in Fang Lair!?
+  科蒙：（對勒班）他謝古拉特的到底在獠牙巢穴幹什麼！？
 
- Lheban: (to Komon) Hush! If he's who I think he is, you do not want to know! (to all) Um, yes. Well, Nackles gets pulled all around these deep tunnels by goblins -- not your usual dirty yellow ones, but nasty black things. Anyway, they pull Nackles round and through these dark tunnels, and then, late at night, he stops below each and every bad child's hovel or house or castle -- makes no difference. Then he slides up the drainage pipes ...
+  勒班：（對科蒙）噓！若他是我想的那個人，你不會想知道！（對眾人）嗯，對。好，納克勒斯被哥布林拉著在這些深隧道裡到處跑——不是尋常那種骯髒的黃色貨色，而是討厭的黑色東西。總之，它們拉著納克勒斯穿過這些暗道，然後，深夜裡，他停在每一個壞孩子的茅屋、房子或城堡底下——沒分別。然後他從排水管滑上去……
 
- Komon: Creeps up cracks ... crawls through holes ...
+  科蒙：從縫裡爬……從洞裡鑽……
 
- Lheban: Oozes up oubliettes ...
+  勒班：從遺忘井裡滲……
 
- Komon: Climbs giggling up garderobes ...
+  科蒙：咯咯笑著從廁所豎井爬……
 
- Lheban: Right into the kid's place! Then, if the kid's only been sort of bad, Nackles will just mess things up in general, so the kid gets blamed. Make greasy dirty marks everywhere (more than usual, anyway), break some things, steal some things, so on and so forth. Maybe take the sugar sweets, leave some lumps of fools' ebony instead ...
+  勒班：直接進孩子的地方！然後，若那孩子只是有點壞，納克勒斯就會把東西搞得一團糟，好讓孩子挨罵。到處留下油膩髒印（比平常還多），砸碎一些東西，偷一些東西，諸如此類。也許拿走糖甜食，留下幾塊愚人烏木……
 
- Adventurer: Fools' Ebony - what's that? Heard mention of that, oh, a few hours ago ... Some Mages ...
+  冒險者：愚人烏木——那是什麼？幾小時前聽人提過……幾個法師……
 
- Lheban: You did now? Interesting ... Very ... Well, lets talk of that in a bit ... just let me finish this Nackles thing. Where was I -- Oh yes ... Now, if the little brat has been real bad -- then all the little brat's toys get taken. The copper dagger, the wooden sword, the little whip, and so on. All the usual favorite kids things.
+  勒班：你聽過？有意思……非常……好，那事稍後再談……先讓我把納克勒斯這檔講完。我講到哪兒——噢對……現在，若那小鬼真的很壞——那就所有玩具都被拿走。銅匕首、木劍、小鞭子，諸如此類。孩子們通常最愛的那些。
 
- Komon: Whips? I like those.
+  科蒙：鞭子？我喜歡那些。
 
- (Komon hiccoughs)
+  （科蒙打嗝）
 
- (Lheban kicks Komon)
+  （勒班踢科蒙）
 
- Lheban: Now if that little brat has been very, very bad then Nackles grabs the brat. Pops him or her in his dirty great sack. Hauls the sack off down the holes and cracks, down to his rusty old mine cart! And away they go!
+  勒班：現在若那小鬼非常、非常壞，納克勒斯就抓住小鬼。塞進他那骯髒的大麻袋。把袋子拖進洞和縫，拖到他那生鏽的舊礦車上！然後揚長而去！
 
- Komon: Hope he leaves some bad little girls behind.
+  科蒙：希望他會把一些壞小女孩留下。
 
- (Lheban kicks Komon)
+  （勒班踢科蒙）
 
- Lheban: Er ... so we can save them, of course, friend ... Well. Sometimes, so I've heard tell, the brat never comes back. No great loss, I guess, peasants just breed another.
+  勒班：呃……好讓我們拯救她們，當然，朋友……好。有時，我聽說，小鬼再也回不來。也沒多大損失，我猜，農民再生一個就是。
 
- Komon: Know 'bout that, I do, I do ...
+  科蒙：這我懂，我懂，我懂……
 
- (Lheban pinches Komon's nose)
+  （勒班捏科蒙的鼻子）
 
- Lheban: But, as the story goes round here anyway, often the brat is just put to work, digging out lumps of Fools' Ebony, shoveling dirt, bagging it. Extending the tunnels of the Nackles. After a while, Brat is pushed back up to where it came from. Seems that Brat might think it's spent a year down there, but only a day has passed up top ... Brat comes back real thin and dirty though, covered in black mess ... You know, come to think of it -- on the day past Witches' Festival, I've often seen some little brats, scrawny, real dirty black mess on them, looking terrified, too. Parents drag them into Temples to get blessed and cured, if they have the gold. By the Beard of Sheogorath, the wailing and noise! Enough to drive a priest to ... er ... well, never mind ... that's our problem ...
+  勒班：可是，至少這一帶的故事是這樣，小鬼常常只是被拉去幹活，挖愚人烏木塊、鏟土、裝袋。把納克勒斯的隧道往外挖。過一陣子，小鬼被推回原來的地方。小鬼可能覺得在底下過了一年，可上頭只過了一天……不過回來時瘦得要命、髒得要命，滿身黑污……你知道，細想起來——女巫節過後那天，我常看見一些小鬼，瘦巴巴的，一身又髒又黑，還一臉嚇壞。父母若有金幣，就拖他們進神殿求祝福、求治療。憑謝古拉特的鬍子，那哭鬧！夠把祭司逼去……呃……好，別提了……那是我們的問題……
 
- Komon: Nah ... it's a problem with our suppliers, I tell you ...
+  科蒙：不……我跟你說，是我們供貨商的問題……
 
- (Lheben throws Komon through a screen)
+  （勒班把科蒙扔過一道屏風）
 
- Lheban: Anyway, that's the short of it, this Nackles legend up around here. I recall now, it's widespread all over Tamriel ... and knowing the place, probably more than a grain of truth in the tale, much, much more ...
+  勒班：總之，這就是這一帶納克勒斯傳說的簡略。我現在想起來了，它遍布整個泰姆瑞爾……而以這地方的德性，這故事裡恐怕不止一粒真相，多得多、多得多……
 
- Adventurer: So, I guess some of the ... er, darker Dark Elves sort of identify with this Nackles. Take on the persona, so to say ...
+  冒險者：所以，我猜有些……呃，較黑暗的黑暗精靈，會跟這納克勒斯認同。可以說，披上這層人格……
 
- Lheban: Yeah, that sort of sums it up, I guess ... though we don't see those types hauling off brats in sacks, now do we?
+  勒班：對，大概就是這麼回事……不過我們也沒看見那種人用麻袋把小鬼拖走，對吧？
 
- Komon: Nah, that's wot we does, girly brats anyway, isn't it not?
+  科蒙：不，那是我們幹的，女孩小鬼嘛，不是嗎？
 
- (Komon hiccoughs)
+  （科蒙打嗝）
 
- (Lheben breaks a bottle over Komon's head)
+  （勒班把瓶子砸在科蒙頭上）
 
- (Komon falls unconscious)
+  （科蒙昏倒）
 
- Adventurer: Thats a very interesting tale, gentlemen. Say, let me repay you with another bottle -- what's that you're drinking? Ah, thought so - Innkeep! More holy wine for these holy men!
+  冒險者：這故事很有意思，兩位。來，讓我再請一瓶還你們——你們喝的是什麼？啊，我想也是——掌櫃！再給這些聖人來聖酒！
 
- Lheban: A blessing on you for that kind gesture, friend.
+  勒班：為這份好意祝福你，朋友。
 
- Adventurer: I thank you, I sure could use one or three ... Anyway, this 'Fools' Ebony', I've heard mutters and murmurs about that of late -- mostly eavesdropping ... pardon me... listening ... to Mages and the like. What's with this stuff? Here, have another swig ... good!
+  冒險者：謝謝，我確實用得上一份，或三份……總之，這「愚人烏木」，近來我聽見嘀嘀咕咕——多半是偷聽……抱歉……是聽……法師之類的人。這東西怎麼回事？來，再喝一口……好！
 
- Lheban: Well, we're not supposed to tell outsiders ... but then, you seem to know something already. And if you have been hearing Mage gossip ... Why, maybe we can do some business. Profit all round! Well ... for the Akatosh Chantry, of course, and your fee, good Sir.
+  勒班：這個，我們不該對外講……不過，你似乎已經知道一點。而且你若一直在聽法師閒話……怎麼樣，也許我們能做點生意。大家都有利可圖！這個……當然是為阿卡托什聖堂，還有閣下的酬勞，好先生。
 
- Adventurer: More and more interesting -- tell on, I pray you.
+  冒險者：越來越有意思——請繼續，我懇求你。
 
- (Komon staggers to feet)
+  （科蒙踉蹌站起）
 
- (Komon hiccoughs)
+  （科蒙打嗝）
 
- Komon: Time for me to go convert that little lamppost girl ... no, no, no - not last nights one, but the blonde...
+  科蒙：該去皈依那個小燈柱女孩了……不，不，不——不是昨晚那個，是金髮的……
 
- (Exit Komon)
+  （科蒙下）
 
- (Female squeals from offstage)
+  （後臺傳來女子尖叫）
 
- Lheban: Friend, you'll have to excuse Komon. He's a bit... you know strange ... Got these ...
+  勒班：朋友，你得原諒科蒙。他有點……你知道，古怪……有這些……
 
- Adventurer: Oh, that's all right, we've all got our own...
+  冒險者：噢，沒關係，我們都有自己的……
 
- (Exeunt Lheben and the Adventurer)
+  （勒班與冒險者同下）
 
- (Enter Epilogue)
+  （收場白上）
 
- Epilogue: Our apologies for the quality of this drama so far. If those of you still present will wait for a few minutes while our bard plays "Silence Implies Consent," we will change the set for the next act, Part the Twoth. Please don't forget to tip your wench. Do you believe there's such a thing as Fools' Ebony? Maybe we'll find out in Part the Twoth. Or maybe not.
+  收場白：迄今這齣戲的品質，我們深表歉意。若仍在座的各位願意等幾分鐘，讓我們的吟遊詩人演奏〈沉默即同意〉，我們會為下一場——其二——換佈景。請別忘了給女侍小費。你們相信有愚人烏木這種東西嗎？也許我們會在其二揭曉。也許不會。
 
- (Flourish)
+  （樂聲）
 
- (Exit Epilogue)
+  （收場白下）
 
- End of Part the Oneth, Being Mostly Concerned with The Legend of Nackles.
+  其一終，多半關乎納克勒斯的傳說。

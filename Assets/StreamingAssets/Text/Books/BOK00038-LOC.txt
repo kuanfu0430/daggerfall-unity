@@ -1,5 +1,5 @@
-Title: Origin of the Mages Guild
-Author: Salarth
+Title: 法師公會的起源
+Author: 薩拉斯
 IsNaughty: False
 Price: 687
 IsUnique: False
@@ -8,25 +8,25 @@ Content:
 
 [/font=2]
 
-[/center]The Origin of
+[/center]法師公會
 
-[/center]The
+[/center]的
 
-[/center]Mages Guild
+[/center]起源
 
 [/font=4]
- The idea of a collection of Mages, Sorcerors, and assorted Mystics pooling their resources and talents for the purpose of research and public charity was a revolutionary concept in the early years of the 2nd era. The closest organization to what we today know as the Mages Guild was the Psijic Order of the Isle of Artaeum. Magic was something to be learned by individuals, or, at most, in intimate covens; mages were, if not actual hermits, usually quite solitary.
+  把法師、術士與各式秘術師集合起來，共享資源與才智，從事研究與公眾慈善——這在第二紀元初期是革命性的想法。最接近我們今日所知法師公會的組織，是阿塔尤姆島的賽伊克修會。魔法本該由個人學習，頂多在親密的小圈子裡；法師即使不算真正的隱士，通常也相當孤僻。
 
- The Psijic Order served the rulers of the Sumurset Isle as counselors, and chose its members by a complex, ritualized method not understood by the common people. Its purposes and goals were likewise unpublished, and its detractors attributed the worst evil as the source of its power. The religion of the old order could be described as ancestor worship, an increasingly unfashionable philosophy in the 2nd Era.
+  賽伊克修會為夏暮島的統治者擔任顧問，以一套複雜、儀式化、平民無法理解的方法挑選成員。其宗旨與目標同樣不曾公開，詆毀者把最惡劣的邪惡歸為其力量之源。舊修會的信仰可說是祖先崇拜，在第二紀元已日益不合時宜。
 
- When Vanus Galerion, a Psijic of Artaeum and student of the famed Iachesis, began collecting mages from around Sumurset Isle, he attracted the animosity of all. He was operating out of Firsthold, and there was a common (and not entirely unsensible) attitude that magical experiments should be conducted only in unpopulated areas. Even more shocking, Galerion proposed to make magical items, potions, and even spells available to any member of the general public who could pay. No longer was magic to be limited either to the aristocracy or intelligensia.
+  當阿塔尤姆的賽伊克、名師伊阿契西斯的學生瓦努斯·加里昂開始在夏暮島四處召集法師時，他招來所有人的敵意。他以初庭為據點運作，當時普遍（也並非完全沒道理）認為魔法實驗只該在無人煙之處進行。更令人震驚的是，加里昂提議把魔法物品、藥劑，甚至法術，賣給任何付得起錢的普通人。魔法不再限於貴族或知識階層。
 
- Galerion was brought before Iachesis and the King of Firsthold, Rilis XII, and made to state the intentions of the guild he was forming. The fact that Galerion's speech to Rilis and Iachesis was not recorded for posterity is a tragedy, though it does allow the opportunity for historians to amuse one another with lies and persuasions Galerion might have used to found the ubiquitous organization. The charter was approved.
+  加里昂被帶到伊阿契西斯與初庭國王瑞利斯十二世面前，必須陳述他正在組建的公會意圖。加里昂對瑞利斯與伊阿契西斯的演說未留下紀錄，實在是悲劇；不過這也讓歷史學家有機會彼此取樂，編造加里昂為創立這個無處不在的組織可能用過的謊言與遊說。特許狀獲得批准。
 
- Almost immediately after the guild was formed, the question of security had to be answered. The Isle of Artaeum did not have to have a force of arms to shield it from invaders interested in stealing its treasures -- when the Psijic Order does not wish someone to land on the island, the island and all on it become insubstantial. The new Mages Guild had to hire guards. Galerion soon discovered what nobles have known for thousands of years: money alone does not buy loyalty. The knightly Order of the Lamp was formed the following year.
+  公會剛成立，安全問題就必須解決。阿塔尤姆島不必靠武力抵禦想竊取其寶藏的入侵者——賽伊克修會若不願某人登陸，整座島與島上所有人便會變得虛無。新的法師公會卻必須雇用衛兵。加里昂很快發現貴族們數千年來早已明白的事：單靠金錢買不到忠誠。明燈騎士團於次年成立。
 
- Like a tree from an acorn, the Mages Guild grew branches all over Sumurset Isle and then to the mainland of Tamriel. There are many records of superstitious or sensibly fearful rulers forbidding the Guild in their kingdom, but their heirs or their heirs' heirs recognized the wisdom of allowing the Guild to practice. The Mages Guild was a powerful force in Tamriel, a dangerous foe if a somewhat disinterested ally. There have been only a few rare incidents of the Mages Guild actually becoming involved in local politcal struggles. On these occasions, the Guild's participation has been the ultimate decider in the conflict.
+  如橡實長成大樹，法師公會的枝幹遍布夏暮島，再延伸到泰姆瑞爾大陸。許多紀錄記載迷信或合理恐懼的統治者禁止公會進入其王國，但他們的子嗣或孫輩終會明白允許公會執業的明智。法師公會是泰姆瑞爾一股強大力量，作為敵人很危險，作為盟友卻多少有些漠然。公會真正捲入地方政治鬥爭的事例極少。一旦發生，公會的參與往往成為衝突的最終裁決。
 
- By tradition begun by Vanus Galerion, the Mages Guild as a singular institution is presided over by a council of six Archmagisters. Each guild location is run by a Guildmagister, assisted by a counsel of two, the Master of Incunubula and the Master at Arms. The Master of Incunubula presides over a counsel of an additional two mages: the Master of Academia and the Master of the Scrye. The Master at Arms also has a counsel of two: the Master of Initiates and the Palatinus, the leader of the Order of the Lamp.
+  依瓦努斯·加里昂開創的傳統，法師公會作為單一機構，由六位大法師組成的議會主持。每個公會據點由一名公會法師長掌管，輔以兩人顧問：典籍大師與武備大師。典籍大師再主持另外兩位法師的顧問：學術大師與探知大師。武備大師也有兩人顧問：見習大師，以及明燈騎士團首領帕拉丁。
 
- One need not be a member of the Mages Guild to know that this carefully constructed order is often nothing more than an illusion. As Vanus Galerion himself said bitterly, leaving Tamriel to travel to other lands, "The Guild has become nothing more than an intricate morass of political infighting."
+  不必身為法師公會成員也知道，這套精心構建的秩序往往不過是幻象。正如瓦努斯·加里昂離開泰姆瑞爾前往其他土地時苦澀地說：「公會已變成不過是一團錯綜複雜的政治內鬥泥沼。」

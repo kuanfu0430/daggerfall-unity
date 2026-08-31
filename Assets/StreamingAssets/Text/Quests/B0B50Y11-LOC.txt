@@ -1,0 +1,59 @@
+-- Quest: C:\QUESTS\WORKING\B0B50Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 50
+-- QuestId: 11
+Messages: 12
+Quest: B0B50Y11
+DisplayName: 驅魔
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            我是_qgiver_。
+<ce>                        當地一位貴族_nobleman_
+<ce>                      剛取得一處廢棄產業的地契。
+<ce>                      為時已晚，%g才發現那裡鬧鬼。
+<ce>                      得有人去驅逐盤據其中的鬼魂。
+<ce>                      你可願接下這項任務？
+
+RefuseQuest:  [1001]
+<ce>                        鬼魂通常是神殿的問題。
+<ce>                      也許我該把這事轉給他們。
+
+AcceptQuest:  [1002]
+<ce>                       _nobleman_想在=2dung_天內
+<ce>                    開始重建。%G持有___dungeon_的地契，
+<ce>                     你會在那裡找到那魂靈。
+
+QuestComplete:  [1004]
+<ce>                       _nobleman_會非常高興。
+<ce>                      %G甚至提議以你的名字
+<ce>                       為一座噴泉命名。
+
+RumorsDuringQuest:  [1005]
+_nobleman_居然接受___dungeon_的地契，真是瘋了。不是瘋就是蠢。
+
+RumorsPostfailure:  [1006]
+可憐的_nobleman_向%kno求助，想驅除___dungeon_的鬼魂，但他們失敗了。
+
+RumorsPostsuccess:  [1007]
+多虧%kno，___dungeon_可以改成倉庫或避暑別墅了。
+
+QuestorPostsuccess:  [1008]
+問候，%pcf。幫我們處理完_nobleman_那檔事後，我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+你辜負_nobleman_之時，也辜負了%kno，%pcf。令人痛心的失望。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_懇求我清除___dungeon_
+ 中盤據的鬼魂。我有=2dung_天，
+ 之後他們就要開始重建。
+
+Message:  1011
+<ce>                      鬼魂已得安息。_nobleman_
+<ce>                        如今可以重建___dungeon_了。

@@ -1,0 +1,96 @@
+-- Quest: C:\QUESTS\WORKING\N0B10Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 10
+-- QuestId: 3
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 14
+Quest: N0B10Y03
+DisplayName: 守護公會
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      法師公會今晚需要
+<ce>                        有人守護那件
+<ce>                      魔法 _treasure_。
+<ce>                     你今晚方便
+<ce>                        幫我們嗎？事成有
+<ce>                        _potion_ 給你。
+                                     <--->
+<ce>                    公會廳——該怎麼說呢？
+<ce>                   人生在世，我想你也同意，
+<ce>                  總有些人就是……嗯，公會向來
+<ce>                   主張，或者該說，一直有
+<ce>                    麻煩在……聽著，年輕的
+<ce>                 %pct，我們需要守衛。你願意做嗎？
+
+RefuseQuest:  [1001]
+<ce>                     沒問題。總有其他
+<ce>                      公會成員在找工作。
+
+AcceptQuest:  [1002]
+<ce>                         午夜前到法師公會。
+<ce>                      你的守護時段
+<ce>                         會持續到
+<ce>                       凌晨三點。
+
+QuestComplete:  [1004]
+<ce>                        幹得好，%pcf。那些
+<ce>                     盜賊在你面前毫無機會。
+<ce>                      拿去，這瓶 _potion_。
+<ce>                      這實在是我們能做的
+<ce>                             最少了。
+
+RumorsDuringQuest:  [1005]
+盜賊一定覺得法師公會那件 _treasure_ 非常值錢。
+<--->
+盜賊一直揚言要偷法師公會的 _treasure_。
+
+RumorsPostfailure:  [1006]
+盜賊終究還是把那件 _treasure_ 得手了。
+<--->
+法師公會該請真正的守衛。所以他們才把 _treasure_ 弄丟。
+
+RumorsPostsuccess:  [1007]
+那些盜賊大概不會再打那件 _treasure_ 的主意了。
+<--->
+去偷那件 _treasure_ 的盜賊，想必沒料到會碰上真正的守衛。
+
+QuestorPostsuccess:  [1008]
+你好嗎，%pcf？那瓶 _potion_ 派上用場了沒？
+
+QuestorPostfailure:  [1009]
+<ce>                        _treasure_ 沒了，
+<ce>                   你人卻還在？這可稱不上
+<ce>                        公平的交換。
+<ce>                            走開，%pcn。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我答應守護
+ ___qgiver_ 法師公會的
+ 一件魔法 _treasure_。
+ 我必須在午夜到三點之間
+ 待在那裡。
+
+
+Message:  1011
+%qdt:
+ 我忍不住了。我拿走了
+ 本該守護的 _treasure_。
+ 他們肯定會來追我。
+
+Message:  1012
+<ce>                      瞧瞧，夥計們。有個守衛。
+<ce>                        哇，我好怕、
+<ce>                        直發抖。咱們把
+<ce>                        舌頭釘在門上，警告
+<ce>                        別人別惹
+<ce>                      盜賊公會。上啊！
+
+Message:  1013
+<ce>                      我來領這名盜賊、
+<ce>                        法師公會叛徒的
+<ce>                                 賞金。

@@ -1,5 +1,5 @@
-Title: Bourn in Wood, Part I
-Author: Lord Woodborne
+Title: 林木所生，其一
+Author: 伍德伯恩領主
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,32 +8,32 @@ Content:
 
 [/font=2]
 
-[/center]Bourn in Wood, Part I
+[/center]林木所生，其一
 
-[/center]by Lord Woodborne
+[/center]伍德伯恩領主著
 
 [/font=4]
 
 [/center]
 
- If you’re reading this, I am probably dead. At quite a young age, I became aware of the concept of mortality, which to me is intriguing, that we all come to dust. Some very intelligent friends of mine found this idea repellent and sought immortality, but from my later conversations with them as vampires or liches, there are things worse than death. If you’ve ever spent an evening reading “A Brief History of the Empire” or "The 36 Lessons of Vivec," you know exactly what I’m talking about.
+ 若你正在讀這個，我大概已經死了。在相當年輕的時候，我就意識到死亡的概念，這對我來說很有趣：我們都終歸塵土。我一些非常聰明的朋友覺得這想法可憎，追求不朽，可從我後來與他們作為吸血鬼或巫妖的談話來看，有比死亡更糟的事。若你曾花一晚讀《帝國簡史》或《維威克的三十六課》，你就完全知道我在說什麼。
 
- So, I’ve never had a particular fear of death. To me, it’s what comes at the end of a meal, hopefully a long twelve courses with lots of exotic delights, but perhaps suddenly, unexpectedly, in the middle of the second cheese course. I’m dead, and if you’ve heard of me, you’ve probably heard terrible things. Let me set the record straight. They’re probably all true.
+ 所以，我從未特別害怕死亡。對我來說，它是一餐結束時到來的東西，希望是漫長的十二道菜帶許多異國美味，但或許突然地、出乎意料地，在第二道起司中間。我死了，若你聽過我，你大概聽過可怕的事。讓我把記錄擺正。它們大概全是真的。
 
- Like I said, I became aware of death at quite an early age, quite inauspiciously, by causing and witnessing the death of my older brother. I was actually responsible for the death of my eldest brother as well, but that came years later, and didn’t affect me as much. I was ten years of age, and my brother (my first victim, not my second) was sixteen. One evening at Woodborne Hall, we were in the library, discussing the family dynasty such as it is – more about that later – when the subject of primogeniture came up. Now, if you’re a peasant unfamiliar with the concept, it’s simply that wealthy landed gentry leave it all to their eldest.
+ 如我所說，我在相當早的年紀就意識到死亡，相當不幸地，透過造成並目睹我哥哥的死亡。實際上我也對我最年長的哥哥的死亡負有責任，可那是數年後的事，對我影響沒那麼大。我當時十歲，我哥哥（我的第一個受害者，不是第二個）十六歲。一天晚上在伍德伯恩廳，我們在藏書室討論家族王朝——就其現狀而言——稍後再談那個——長子繼承的話題出現了。現在，若你是不熟悉這概念的農民，它只是富裕的地主把一切留給最年長的。
 
- “So the third eldest gets nothing?” I asked, being the third eldest.
+ 「所以第三年長的什麼都得不到？」我問，身為第三年長的。
 
- “Not unless the eldest agrees to some light inheritance,” my brother, whose name by the way was Goriph, replied casually. “That’s why it’s a good idea to get along well with your brothers.”
+ 「除非最年長的同意某種輕微遺產，」我哥哥，順便說他名叫戈里夫，隨口回答。「這就是為什麼跟兄弟們相處好是個好主意。」
 
- Of course, that’s the idea behind the practice, but the loophole was right there. If you had no older brothers, you become the eldest. Honestly, I know it’s monstrous, but has any third-born not thought this? It was what was on my mind when I asked Goriph for another book on the twentieth shelf of the library and pulled the ladder from beneath him when he reached it. He fell, broke his back, but didn’t die right away. I came back to visit him several times over the next six hours while he lay paralyzed and bleeding, his face turning paler and paler, the blood on his lips going from scarlet to black. Until he turned cold. Then I called for our knights, pretending I had just discovered him.
+ 當然，那是這做法背後的想法，可漏洞就在那兒。若你沒有哥哥，你就成為最年長的。老實說，我知道這很可怕，可有哪個第三出生的沒想過這個？當我請戈里夫從藏書室第二十層書架再拿一本書、他伸手去拿時我抽走他腳下的梯子，這就是我腦子裡想的。他摔下來，摔斷背，卻沒有立刻死。接下來六小時我回來看他好幾次，他癱瘓著流血躺著，臉愈來愈蒼白，唇上的血從猩紅變成黑色。直到他變冷。然後我叫來我們的騎士，假裝我剛發現他。
 
- What I discovered from this was that killing someone I loved, and I loved Goriph as much as someone like me can love, did not affect me at all. Though I am a liar by nature, I won’t lie about this. It bothers me a little that I don’t have feelings of remorse. I feel more guilt over my lack of guilt than my actual guilt. Oh well.
+ 我從這發現的是，殺死我愛的人——而我愛戈里夫，盡像我這樣的人能愛的——完全不影響我。雖然我天生是騙子，這件事我不會說謊。我對自己缺乏悔恨感到一點困擾。我對缺乏內疚的內疚，多過對實際內疚的內疚。唉。
 
- Ah, and I mentioned Woodborne Hall. Yes, I am Lord Woodborne. The hopefully infamous Lord Woodborne, the key behind the Daggerfall plot.
+ 啊，我提到了伍德伯恩廳。是的，我是伍德伯恩領主。希望是臭名昭著的伍德伯恩領主，匕首雨陰謀背後的關鍵。
 
- As I said, I am a liar, but if I am indeed dead when you read this, this is the unvarnished truth. I don’t come off particularly well in this narrative, but neither will some of those who no doubt will live on and pretend they never knew me and yet are ruling the Iliac Bay. There are of course a few decent people I’ve met in my life, and I tried to take advantage of them when I could. They were either the lowest of the low who had nothing and could give nothing, or the highest, who could give nearly everything and lose almost nothing. Everyone else I’ve met … well, I’ll get into the particulars in a moment.
+ 如我所說，我是騙子，可若你讀這個時我確實已經死了，這就是未經粉飾的真相。我在這敘述中表現得並不特別好，可那些無疑會活下去、假裝從不認識我、卻統治伊利亞克灣的人，也不會。當然我一生中遇過幾個正派人，我盡可能利用他們。他們要麼是最低層的、一無所有也給不出什麼的人，要麼是最高層的、能給幾乎一切而幾乎什麼都不失去的人。我遇過的其他所有人……好吧，我稍後會談細節。
 
- You’re probably wondering about me killing my eldest brother and inheriting the title and wealth, how and why I orchestrated the death of King Lysandus of Daggerfall for the benefit of his son Gothryd, and my plot to marry Elysana, Princess of Wayrest, to become king.
+ 你大概想知道我如何殺死最年長的哥哥並繼承頭銜和財富，我如何以及為何為了萊桑達斯之子戈斯瑞德的利益策劃匕首雨的萊桑達斯國王之死，以及我迎娶途歇城公主艾莉薩娜以成為國王的陰謀。
 
- Gather around, children, and listen.
+ 圍過來，孩子們，聽好。

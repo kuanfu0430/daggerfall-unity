@@ -1,0 +1,321 @@
+-- Quest: C:\QUESTS\WORKING\C0B00Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 1
+Messages: 38
+Quest: C0B00Y01
+DisplayName: 異端
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        願%god與你同在，%pct。
+<ce>                   你也許聽過_prophet_。若還沒聽過，很快就會。
+<ce>                 我們正在調查%g自稱先知的說法。我想我們
+<ce>                  天性並不愛審查，但必須時刻警惕異端的影響。
+<ce>                  你可有空協助這項重要調查？
+                                     <--->
+<ce>                  調查_prophet_自稱見過%god的面容、
+<ce>                       聽過%g話語的說法，落在我們肩上。
+<ce>                  也許你有時間協助這項詢問？
+
+RefuseQuest:  [1001]
+<ce>                         真可惜，%pct。
+<ce>                   希望你近日能從忙碌的行程中
+<ce>                     為神殿騰出時間。
+
+AcceptQuest:  [1002]
+<ce>                 很好。我們已派神殿的_priest_前往
+<ce>                        被褻瀆的___mondung_，
+<ce>                    _prophet_聲稱%g就是在那裡首次目睹神蹟。
+<ce>                     若_priest_需要協助，我會派人找你。
+<ce>                與此同時，我要你在%g3的家鄉__tavern_
+<ce>                 打聽更多世俗方面關於_prophet_的資訊。
+<ce>                          我們一名忠誠的神職人員_contact_
+<ce>                      會在_tavern_與你會面。
+<ce>                  我要在不超過=queston_天內見到
+<ce>                          _prophet_真實本性的證據。
+<ce>                  你最好立刻動身。願偉大的%god保佑你的事業，%pct。
+
+QuestComplete:  [1004]
+<ce>                     幹得好，%pct。一想到_prophet_
+<ce>                    若散播%g3褻瀆之言，會對我們神殿做出什麼，
+<ce>                   我就不寒而慄。願%god保佑你、守護你，
+<ce>                    善良的%ra。這是同袍敬意的小小信物。
+
+RumorsDuringQuest:  [1005]
+隨你怎麼說_prophet_的信仰，但%g是個很有說服力的作者。
+<--->
+__qgiver_對身邊有_prophet_這種革命分子很緊張。
+<--->
+我讀過_prophet_小冊子裡寫的神蹟。不得不說，很有說服力。
+
+RumorsPostfailure:  [1006]
+_prophet_已前往向泰姆瑞爾的異教民眾宣講%g3的福音。
+<--->
+_prophet_離開了海灣，但%g3的事業尚未完成。
+
+RumorsPostsuccess:  [1007]
+那_prophet_是個騙子，在__tavern_找到了一些傻瓜。
+
+QuestorPostsuccess:  [1008]
+看在你為信仰所做的一切上，我很樂意幫助你。
+
+QuestorPostfailure:  [1009]
+我沒什麼好跟你說的，_prophet_的異端。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的_qgiver_
+ 派我去調查自稱先知的_prophet_的生平。
+ 我要在%g3的家鄉__tavern_打聽%g2。
+ _contact_在那裡等我，會給我%g3進一步的指示。
+ 我要在_tavern_與%g2會面。
+
+Message:  1011
+    我幾乎記不得前往那名叫___mondung_
+ 之地的旅程：想來我當時仍半在夢中。
+ 在那被褻瀆的神殿惡臭深處，我遇見一團大火，
+ 從火焰中聽見同一聲音說：「歡迎。」
+      「你是誰？」我向火焰問道。
+      「我即是__qgiver_口稱崇拜、
+ 卻在一舉一念中玷污其神性者。我召喚你，
+ 是為使一個新的__qgiver_得以誕生，
+ 由真理與真正的洞見引導，並理解我的存在。
+ 異教徒需要洞見，而你將成為那洞見。」
+      那日神還告訴我更多，但當邪惡的
+ __qgiver_仍在壓制任何膽敢挑戰其腐化、
+ 可鄙神學之人時，我必須把冊子寫短。
+ 更多內容不久後續。
+
+Message:  1012
+                           __qgiver_
+                            ___qgiver_
+ 
+ %pct %pcn：
+ 
+      _priest_未能與本應向其回報
+ %g在___mondung_調查結果的人會面。
+ 我們必須做最壞的打算。
+      你特此受命，在___mondung_找到
+ _priest_本人，或%g3的遺體，並向我回報。
+ 其餘一切任務與調查皆為次要。
+ 
+<ce>                               _qgiver_
+
+Message:  1013
+<ce>                 啊，你好，%pcf。歡迎來到__tavern_。
+<ce>              全鎮都在談論那個年輕的_prophet_。但%g根本不在這裡——
+<ce>                   %g在__prophouse_一家叫_prophouse_的酒館，
+<ce>                  正在寫新冊子，談___mondung_那神秘魂靈
+<ce>               對__qgiver_道德崩壞的看法。這是原始冊子的副本，
+<ce>                好讓你明白這_prophet_是怎麼回事。
+<ce>              依我目前所見，是個危險人物。我正與___lover_
+<ce>                 的一名=lover_，_lover_聯絡，
+<ce>                      _prophet_曾與對方有某種關係。
+<ce>                你不妨去___lover_，看看能不能說服%g2開口。
+<ce>                      希望這些資訊有用，%pcf。
+
+Message:  1014
+                    _tavern_
+                     __tavern_
+ 
+ 
+ 親愛的%pcn：
+ 
+ 
+      _tavern_這裡發生了可怕的意外，
+ 牽涉到_contact_。請盡快前來。
+ 
+ 
+ 誠摯的，
+ 
+ _replace_
+
+Message:  1015
+<ce>                        一個年輕小夥子遞給你一封信，
+<ce>                       然後匆匆跑開。
+
+Message:  1016
+<ce>                     %oth，%pcf，太可怕了。
+<ce>                    酒館老闆在其中一間房裡發現了_contact_，
+<ce>                     %g3的遺體以最駭人的方式被玷污，
+<ce>                    是對古老__qgiver_殯葬儀式的陰森戲仿。
+<ce>                         無疑是_prophet_幹的。
+<ce>                    這件遺物是在_contact_的胸腔裡找到的。
+<ce>                            看看___lover_的_lover_
+<ce>                        認不認得。
+
+Message:  1017
+_lover_——啊，可憐的=lover_。嗯，%g大多自己待著。
+<--->
+_lover_是__lover_的一名=lover_。據說%g在哀悼失去的愛人。
+<--->
+不管別人怎麼說，_lover_的愛人沒死。是瘋了，不是死了。
+<--->
+_lover_是___lover_的悲劇之一。據說%g3的愛人瘋了。
+
+Message:  1018
+<ce>                 不管他們怎麼說，我從來不認識那個
+<ce>                       _prophet_。告訴_contact_，
+<ce>                       %g找錯=lover_了。
+
+Message:  1019
+<ce>                      若_prophet_知道我在跟你說話，
+<ce>                   %g會殺了我。但我知道你不可能在為%g2做事。
+<ce>                  這是%g大約一個月前寫給我的信。我想
+<ce>                        它能說明一切。
+
+Message:  1020
+<ce>                      _relartifact_！%oth，那是
+<ce>                      可憐_prophet_的東西。
+<ce>                     %oth，我知道%g不穩定，
+<ce>                但從沒想過%g真會動手。
+<ce>                      %oth，可憐的_contact_。若我當時幫了%g2，
+<ce>                  %g今天還會活著。這彌補不了我袖手旁觀的罪過，
+<ce>                 但你會知道該拿這封信怎麼辦。
+<ce>                         願%god原諒我。
+
+Message:  1021
+_lover_，我的愛人：
+ 
+ 
+      首先，原諒你愛者的沉默。那不是又一次腦熱發作。
+ 數月來，我陷入靈性的動盪，不適合任何人作伴，
+ 甚至不配享受你溫柔的陪伴。我的苦痛之日已過，
+ 只剩這一點——我再也不能見你。我的生命如今有更高的目的，
+ 勝過這荒唐戀情的圓滿。
+      我再也不能忍受__qgiver_的邪惡，
+ 他們對我所做的惡，以及他們對整個泰姆瑞爾正在做的惡。
+ 先知馬魯克所說的日子再次降臨。我必須以一切謊言、
+ 影射、偏見與威脅鼓動人民，起來反抗__qgiver_
+ 的精神暴政。
+      原諒我，我從前的愛人。若你能夠，忘掉我。
+ 若兩者你都做不到，也別來見我。若你來了，我會殺了你，
+ 把蠟燭插進你的眼窩，用珠串纏繞你的臟器，
+ 以榮耀宇宙諸神。骯髒的=lover_，別再折磨我。
+ 
+<ce>                               _prophet_
+
+Message:  1022
+它曾用於__qgiver_的殯葬儀式。
+
+Message:  1023
+_replace_就是那個=replace_。跟__qgiver_有些關聯。
+<--->
+_replace_在……意外之前是_contact_的老朋友。
+
+Message:  1024
+<ce>                        哦！那是_prophet_的
+<ce>                       _relartifact_！%oth，可憐的
+<ce>                       _contact_。你何不把我給你的那封信
+<ce>                    帶去__qgiver_給什麼人？
+<ce>                  這總足以揭穿_prophet_了，不是嗎？
+
+Message:  1025
+<ce>                       %pcf，我以為你該去調查
+<ce>                   __tavern_的情況。既然你在這裡，
+<ce>                    我有別的事要你做。我找到一些撕碎的信件，
+<ce>                   其實只是碎片，提到___lover_某個叫
+<ce>                          _lover_的=lover_。
+<ce>                        看看你能不能查出關於%g2的事。
+<ce>                   我不知道%g會不會開口，但值得一試。
+
+Message:  1026
+<ce>                     你撿起一塊血肉殘片，
+<ce>               被小心、甚至儀式性地
+<ce>                      從一名=priest_的手上剝下。
+<ce>                    這曾是_priest_的一根手指。
+
+Message:  1027
+真令人作嘔。
+<--->
+一根被砍下的手指。
+<--->
+某人手上的一塊肉。
+<--->
+極其沒品位。
+<--->
+加點鹽和蜂蜜還不錯。
+<--->
+看起來像古老的__qgiver_儀式。他們以前對屍體就是這麼做的。
+<--->
+在__qgiver_時，_prophet_解剖屍體就是這麼精準。
+<--->
+__qgiver_已放棄那種殯葬解剖，但_prophet_鼓吹它。
+
+Message:  1028
+<ce>                        _priest_真好心，
+<ce>                  給了我一隻「手」，你不覺得嗎？
+                                     <--->
+<ce>                   %oth，我該怎麼辦？
+<ce>                        _priest_畢竟威脅要
+<ce>                         「指」出我來。
+                                     <--->
+<ce>                  你有件多有趣的玩物啊，%pcf。
+<ce>                       看它指著哪裡。
+
+Message:  1029
+<ce>                    他們怎麼都來迫害我。
+<ce>                  放棄你不潔的侵擾吧，__qgiver_的走狗。
+<ce>                         我受我的神……以及
+<ce>                              %reg的%t所保護。
+
+Message:  1030
+<ce>                       _lover_！虛偽的生物，
+<ce>                      騙子！%g會付出代價！
+<ce>                            =fighter_，對付
+<ce>                            這個%ra！
+
+Message:  1031
+<ce>                       感謝%god，我還以為弄丟了。
+<ce>                      謝謝你，好心的%ra。
+
+Message:  1032
+%qdt:
+ _contact_告訴我，_prophet_在
+ __prophouse_的_prophouse_，
+ 但不妨去拜訪___lover_一名叫
+ _lover_的=lover_。
+ _contact_不清楚兩人的關係，
+ 但值得調查。
+
+Message:  1033
+%qdt:
+ _priest_告訴我，在___mondung_
+ 的幾張紙片上發現了_lover_這個名字
+ 和___lover_這座城鎮，值得調查。
+
+Message:  1034
+%qdt:
+ _replace_告訴我_contact_遭儀式性謀殺，
+ 並給了我在遺體上找到的一些_relartifact_。
+ _replace_建議我去___lover_，
+ 拿給_lover_看，看能否說服%g2開口。
+
+Message:  1035
+%qdt:
+ 我剛讀了_prophet_一個月前寄給_lover_、
+ %g交給我的信。這封信足以徹底揭穿_prophet_，
+ 讓任何潛在皈依者都不再相信。
+ 那=prophet_瘋得像猴子。
+
+Message:  1036
+%qdt:
+ 我收到_qgiver_的信，要我前往
+ ___mondung_，查明祭司_priest_出了什麼事。
+ 我要找到那=priest_，或%g3死亡的證據。
+
+Message:  1037
+%qdt:
+ 我找到一根手指，推測曾屬於_priest_。
+ 它被古怪地、甚至儀式性地切斷。
+
+Message:  1038
+_prophet_也許是__tavern_走出的最偉大領袖。
+<--->
+_prophet_把時間花在_prophouse_的房間裡寫作。
+<--->
+_prophet_向來與__qgiver_處得不好。

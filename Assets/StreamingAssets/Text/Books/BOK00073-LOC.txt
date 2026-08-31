@@ -1,5 +1,5 @@
-Title: Of Jephre
-Author: Anonymous
+Title: 論傑弗瑞
+Author: 佚名
 IsNaughty: False
 Price: 738
 IsUnique: False
@@ -8,20 +8,20 @@ Content:
 
 [/font=2]
 
-[/center]Of
+[/center]論
 
-[/center]Jephre
+[/center]傑弗瑞
 
 [/font=4]
 
 [/center]
 
- When the elven folk walked the land alone and sang songs of power amongst the trees and stars, Jephre the Singer walked with them. Jephre gave heed to the nature of the forests and delighted in the gurgling streams and brooks. It was Jephre who taught the birds to sing their songs of the seasons and He that taught the streams the tinkling ethereal tune. The very trees are said to have moved close to hear him sing on the warm summer nights of those elder days. It was in this time that the first great ballads of the elves were made, crafted from the songs that Jephre taught to the sylvan youth who frolicked to his lively tunes and ballads of nature and the unspoiled forest. In truth, He is worshipped as god of song and forest.
+  當精靈一族獨自行走大地，在樹木與星辰之間唱出力量之歌時，歌者傑弗瑞與他們同行。傑弗瑞留意森林的本性，喜悅於汩汩溪流。是傑弗瑞教鳥兒唱出季節之歌，是祂教溪流那清脆空靈的曲調。據說在那些遠古歲月溫暖的夏夜，樹木都會靠攏來聽他歌唱。正是在那時，精靈的第一批偉大敘事詩被作成，取材於傑弗瑞教給林中青年的歌；那些青年隨著他活潑的曲調與關於自然、未受玷污之森林的敘事詩嬉戲。的確，祂被崇拜為歌與林之神。
 
- In Valenwood, Jephre is considered one of the Major Sylvan gods with temples and altars in the deep woodland places. Elven tradition holds that children with a gift for song have been blessed by Jephre himself. Legend has it he blessed the Wood Elves with a natural affinity for nature and particularly the forest. Most Wood Elven Rangers worship Jephre.
+  在瓦倫林地，傑弗瑞被視為主要林間諸神之一，神殿與祭壇設在深林之處。精靈傳統認為，有歌唱天賦的孩子是傑弗瑞親自祝福的。傳說祂祝福木精靈對自然、尤其對森林有天生的親和。大多數木精靈遊俠崇拜傑弗瑞。
 
- It was his great eagerness for natural beauty that led him to the Isle of Sumurset. He taught the great sea birds to sing and molded the crash of wave against beach into a song of whispers and power It is said by the high elves that Jephre hears and sees all within distance of water, whether it be beach, brook, stream or fall. It is further said that the very birds keep watch for Jephre, in repayment for the songs he taught them. It is fruther said he blessed the high elves with a beauty to match the beauty of their island home.
+  正是祂對自然之美的極大熱望，引祂來到夏暮島。祂教大海鳥歌唱，把浪拍沙灘塑成低語與力量之歌。高精靈說，凡水所能及之處，無論海灘、溪澗、河流或瀑布，傑弗瑞都能聽見、看見。更有人說，鳥兒為報答祂所教之歌，替傑弗瑞守望。更有人說，祂祝福高精靈擁有與島嶼家園相配的美貌。
 
- The dark elves have a legend that Jephre walked the earth before the first day, and in the light of the stars weaved a song so beautiful that the very stars moved to its sway. Some of the stars to this very day still wink and blink in memory of the song of night and darkness. Due to his influence most if not all Elven Bards pay homage to Jephre.
+  黑暗精靈有個傳說：傑弗瑞在第一日之前便行走大地，在星光中織出一首美麗得使星辰隨之搖擺的歌。時至今日，有些星辰仍為夜與暗之歌眨眼閃爍。由於祂的影響，幾乎所有——即便不是全部——精靈吟遊詩人都向傑弗瑞致敬。
 
- The natural order of things is the basis for Jephre's temples in Valenwood and the Sumurset Isle. The one thing Jephre will not tolerate is the harmful manipulation of the natural order of things.
+  事物的自然秩序是傑弗瑞在瓦倫林地與夏暮島神殿的根基。傑弗瑞唯一不能容忍的，是對事物自然秩序有害的操縱。

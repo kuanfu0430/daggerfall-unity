@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y16.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 16
+Messages: 81
+Quest: M0B00Y16
+DisplayName: 屠巨
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 嗨，%pcf。若你有幾天空閒，
+<ce> 剛來一份屠巨的差事，我就想到你。
+<ce> 有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 太忙了，嗯？我像你這年紀時，
+<ce> 從沒忙到沒空幹掉一兩隻巨人。
+<ce> 現在的年輕人啊，我跟你說。
+
+AcceptQuest:  [1002]
+<ce> 行。好像有隻巨人不久前搬進
+<ce> ___mondung_，正痛快地拿
+<ce> 這一帶 _dummy_ 的羊當大餐。
+<ce> 聽說也吃了幾個村民，但老
+<ce> _dummy_ 好像不太在意這個。總之，
+<ce> %g 要這巨人在 =qtime_ 天內被
+<ce> 處理掉，並且付 _gold_ 金幣。待會兒見。
+
+QuestFail:  [1003]
+<ce> 怎麼，巨人吃撐死了？
+<ce> 快走，%pcf。你還有差事要幹。
+
+QuestComplete:  [1004]
+<ce> 屠巨英雄萬歲！我就知道
+<ce> 你是這差事的合適人選。
+<ce> 這是 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> ___mondung_ 的巨人正在恐嚇當地人，但 _dummy_ 好像
+<ce> 不在乎。
+                                      <--->
+<ce> 那天 ___mondung_ 的巨人又抓走了一個村民。
+
+RumorsPostfailure:  [1006]
+<ce> 幸好那巨人終於搬出 ___mondung_。我猜牠對每晚
+<ce> 村民這單調菜單膩了。
+
+RumorsPostsuccess:  [1007]
+<ce> 感謝 %god，_dummy_ 終於派人去殺 ___mondung_
+<ce> 的那巨人。一定是殺了 %g3 寶貝羊。
+
+QuestorPostsuccess:  [1008]
+<ce> 是我的老朋友屠巨英雄 %pcf！
+
+QuestorPostfailure:  [1009]
+<ce> 在我那年代，殺不掉一隻普通巨人
+<ce> 就可能被踢出戰士公會。時代變了，
+<ce> 我猜。
+
+Message:  1020
+%qdt:
+ ___questgiver_ 戰士公會的 _questgiver_
+ 雇我去殺死 ___mondung_ 的一隻巨人。
+ 我須在 =qtime_ 天內回去領
+ _gold_ 金幣酬勞。
+
+Message:  1021
+%qdt:
+ 我救出一名商人，那巨人顯然把他
+ 留著當點心。_villager_ 要我把 %g2
+ 送到 __store_ 的 _store_。
+
+Message:  1030
+<ce> 巨人大吼著痛。你聽見沉重
+<ce> 的腳步朝你而來。或許巨人
+<ce> 請了幾個朋友來吃晚餐……
+
+Message:  1031
+<ce> 你已殺死你來找的那隻巨人。
+
+Message:  1040
+<ce> 感謝 %god 你來了！昨天我
+<ce> 正要去市集，巨人連我
+<ce> 同行的另外四名商人一起抓走。
+<ce> 牠已經把他們吃了，我猜
+<ce> 是把我留著稍後再吃。拜託你
+<ce> 幫我離開這地方？我一個人絕對
+<ce> 走不出去。
+
+Message:  1041
+<ce> 你是真正的英雄。讓我自我介紹：
+<ce> ___villager_ 的 _villager_。
+<ce> 我本來要去 __store_ 的
+<ce> _store_。若你能把我送到
+<ce> 那，我會永遠感激你。
+
+Message:  1042
+<ce> 謝謝你的幫忙，但我覺得
+<ce> 從這裡我能自己找到路。
+
+Message:  1043
+<ce> 你真是沒心沒肺。
+
+Message:  1044
+<ce> 我很享受與你作伴，%pcf。
+<ce> 你救了我的命，我不會忘記。
+
+Message:  1080
+<ce> 嘿，這是一張通往 ___newdung_
+<ce> 的地圖，前幾天別的傢伙找到的。
+<ce> 若我再年輕幾歲，我們可以一起
+<ce> 殺進去，就像從前那樣。

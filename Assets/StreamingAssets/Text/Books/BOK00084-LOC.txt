@@ -1,5 +1,5 @@
-Title: The War of Betony
-Author: Vulper Newgate
+Title: 貝托尼戰爭
+Author: 烏爾珀·紐蓋特
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,36 +8,34 @@ Content:
 
 [/font=2]
 
-[/center]The War
+[/center]貝托尼
 
-[/center]of
-
-[/center]Betony
+[/center]戰爭
 
 [/font=4]
 
 [/center]
 
- The history of the Iliac Bay, if told in its entirety, would horrify readers more than the most gruesome legend of the Underking. In comparison to the wars of the first and second era, our most recent appeal to arms, the War of Betony pales. The Siege of Orsinium lasted from 1E 950 until 1E 980 without a pause. A thousand years later, the Thrassian Plague coupled with the War of Righteousness slayed over half the population of the Iliac Bay. And yet, the War of Betony fascinates us, and not just because of its immediacy.
+ 伊利亞克灣的歷史若全部說盡，會比地底之王最可怕的傳說更令讀者驚駭。與第一紀與第二紀的戰爭相比，我們最近一次訴諸武力的貝托尼戰爭便相形見絀。奧辛紐姆圍城從1E 950持續到1E 980，從未停歇。千年之後，斯拉斯瘟疫加上正義之戰，屠戮了伊利亞克灣超過半數的人口。然而貝托尼戰爭仍令我們著迷，並不只因為它近在眼前。
 
- Ironically, Lord Mogref of Betony was seeking peace when he asked for Daggerfall's protection on the Isle of Betony. The island had long been independant, but as the piracy in the Bay increased, Mogref truly realized Betony's vulnerability. King Lysandus agreed to be Betony's liege, on advice of many, including his archpriest of Kynareth, Lord Vanech. While Betony is a prosperous fishing island and well-placed strategically, the vassalage of Betony was primarily an act of charity. Lysandus knew that if someone did not help Betony, it would fall to the pirates, if not to someone worse.
+ 諷刺的是，貝托尼的莫格雷夫領主請求匕首雨保護貝托尼島時，所求的是和平。此島長期獨立，但灣中海盜日益猖獗，莫格雷夫真正意識到貝托尼的脆弱。萊桑達斯國王在眾人——包括他的凱娜瑞斯大祭司瓦內奇領主——的建議下，同意成為貝托尼的宗主。貝托尼雖是繁榮的漁島、戰略位置優越，收它為附庸主要仍是善舉。萊桑達斯知道，若無人援助貝托尼，它將落入海盜之手，若非落入更糟的人手中。
 
- Unfortunately, King Camaron of Sentinel did not agree. Citing a two hundred year old contract, obliquely if not illegally written to suggest that Betony was a "traditional holding" of the Kingdom of Sentinel, Camaron declared war. The majority of his advisors, being warlords in a traditionally bellicose country, supported their king in this. The Chief Counselor, a woman called The Oracle, foresaw death and defeat in the war, but her wisdom was stifled and she was banished from court. Camaron should have listened to her.
+ 不幸的是，哨兵城的卡瑪隆國王並不同意。他援引一份兩百年前的契約——寫得隱晦，即便不算非法，也足以暗示貝托尼是哨兵城王國的「傳統領地」——宣戰。他的謀臣多半是這個向來好戰之國的軍閥，支持他們的國王。首席顧問，一位稱為神諭者的女子，預見戰爭中的死亡與敗北，但她的智慧被壓制，她被逐出宮廷。卡瑪隆本該聽她的話。
 
- A few scrimages of the War of Betony went to Sentinel, but the major battles were all won by Daggerfall. King Lysandus, his heir Prince Gothryd, and the general of the army Lord Bridwell were fine leaders and warriors as well, and the Battle of the Bluffs and the Siege of Craghold both went to Daggerfall.
+ 貝托尼戰爭中少數幾場小衝突歸於哨兵城，但主要戰役全由匕首雨獲勝。萊桑達斯國王、他的繼承人戈斯瑞德王子，以及軍中將領布里德威爾領主，都是出色的領袖與戰士，斷崖之戰與崖堡圍城皆歸匕首雨。
 
- The war might have been won with one more victory, but for an unusual domestic incident in King Lysandus' court. The king's mother, the dowager queen Nulfaga, had been uneasy about the war since its beginning, but she now began to have visions of cataclysm. She saw the death of her beloved son should the war continue. Ebullient by his success, King Lysandus refused to listen to her fears until Nulfaga left court. Lysandus then realized how certain she was about his impending death. He began to actively negotiate a peace treaty with Sentinel, using the neutral lordship of Reich Gradkeep as facilitator.
+ 再贏一場，戰爭本可結束，卻因萊桑達斯國王宮中一樁不尋常的家事而改觀。國王的母親、太后努爾法加自開戰起便對戰爭不安，如今更開始看見災變的異象。她看見若戰爭繼續，她心愛的兒子將會死去。萊桑達斯國王因勝利而興高采烈，拒絕聽她的恐懼，直到努爾法加離開宮廷。萊桑達斯這才明白她對他即將死亡有多確定。他開始積極與哨兵城談判和約，以中立的萊赫格拉德基普領主領地為調停者。
 
- The Treaty of Reich Gradkeep was never to be. King Camaron was initially civil, as the losing side of a war is often civil, but when he realized that the proposed treaty would have included a formal declaration that the kingdoms of Sentinel and Daggerfall would share Betony, he flew into a rage. With no thought for the protocol of attacking a neutral peaceable lordship, Camaron order his army to riot through Reich Gradkeep. First the halls of the palace, and then the streets of the capitol ran red with blood. It was only with the support of the Daggerfall army that the chaos was brought under relative control. The Sentinel army fled to the Yeorth Burrowland, and the Daggerfall army chased them as far as the Ravennian Forest before making camp.
+ 萊赫格拉德基普條約從未成真。卡瑪隆國王起初還算客氣——戰敗的一方往往客氣——可當他發現擬議的條約竟包含正式宣告哨兵城與匕首雨兩王國將共享貝托尼時，便勃然大怒。毫不顧忌攻擊中立、愛好和平的領主領地的禮儀，卡瑪隆下令他的軍隊在萊赫格拉德基普大肆暴亂。先是宮殿廳堂，然後是都城街道，血流成河。唯有在匕首雨軍隊的支援下，混亂才相對受到控制。哨兵城軍隊逃往約爾斯穴地，匕首雨軍隊追到拉文尼安森林才紮營。
 
- One week later, after each had a chance to send for reinforcements and plan their strategies, the armies met in the field that separated them, the flowering meadowland called Cryngaine Field. In the heat of the clash, an unnatural fog spread over the field, blinding all combatants. When the mist finally lifted, King Lysandus' body was found, his throat pierced by an unmarked arrow.
+ 一週後，雙方各有機會求援並擬定策略，兩軍在分隔他們的原野上相遇，那開滿花朵的草地稱為克林蓋恩原野。激戰之中，一道不自然的霧氣蔓延戰場，迷盲所有戰士。霧散之時，人們發現萊桑達斯國王的屍體，咽喉被一支無標記的箭射穿。
 
- Daggerfall did not waste any time in mourning; young prince Gothryd, who had shown great bravery in battle and was very popular among the troops, was crowned King of Daggerfall just behind the battle lines, and he ordered the army onward. Perhaps it was the sight of the brave young warrior turned king appearing on the battlefield in full regalia that inspired the Daggerfall army, perhaps the battle would have turned regardless, Sentinel began to panic. King Gothryd met King Camaron before the Redguards had retreated, and the two monarchs fought. Both were excellent warriors, but Gothryd was a more skillful swordsman, and Camaron fell that day. Lord Oresme of Sentinel formally surrendered to Daggerfall, giving up all rights to Betony officially. He later commited suicide on the ship back to Sentinel.
+ 匕首雨沒有浪費時間哀悼；年輕的戈斯瑞德王子在戰鬥中展現極大勇氣，深得軍心，就在戰線後方被加冕為匕首雨國王，隨即下令大軍前進。或許是那勇敢的年輕戰士既已為王、全副王者儀仗出現在戰場上的景象激勵了匕首雨軍隊，或許戰局本就會如此轉變，哨兵城開始恐慌。戈斯瑞德國王在紅守衛撤退之前與卡瑪隆國王相遇，兩位君主交手。兩人都是出色的戰士，但戈斯瑞德劍術更精，卡瑪隆當日倒下。哨兵城的奧雷斯姆領主正式向匕首雨投降，正式放棄對貝托尼的一切權利。他後來在返回哨兵城的船上自殺。
 
- Peace was a difficult process for the cities and towns on both sides of the Iliac Bay. As part of the formal peace treaty, King Gothryd asked for the hand of Princess Aubk-i, only daughter of the late King Camaron and the Queen Regent Akorithi. The request was intended to restore friendship between the kingdoms, and it was partially successful though many in the royal court of Sentinel viewed the princess as more a prisoner of war than a bond to Daggerfall.
+ 對伊利亞克灣兩岸的城鎮而言，和平是艱難的過程。作為正式和約的一部分，戈斯瑞德國王請求已故卡瑪隆國王與攝政王后阿柯瑞希唯一的女兒奧布琪公主之手。此舉意在恢復兩國友誼，部分成功了；儘管哨兵城宮廷中許多人視公主為戰俘，多於視她為與匕首雨的紐帶。
 
- The only surviving member of the ruling family of Reich Gradkeep was a sickly infant, so the councilors of state appealed to Lord Auberon Flyte, a cousin of Lord Graddock, to rule the lordship in regency. Lord Flyte accepted, and his strong, almost dictatorial style was just what Reich Gradkeep needed to restore order after the bloody Treaty of Reich Gradkeep. His subjects were grateful that when the infant heir died, they not only elevated his wife Doryanna and him from regents to rulers, they agreed to rename the lordship in his honor. Reich Gradkeep became Anticlere, named after his ancestral home.
+ 萊赫格拉德基普統治家族唯一倖存的成員是一名病弱的嬰兒，於是國務顧問們懇請格拉多克領主的表親奧伯隆·弗萊特領主以攝政身分統治該領地。弗萊特領主接受了，他強硬、近乎獨裁的作風，正是萊赫格拉德基普在血腥的萊赫格拉德基普條約之後恢復秩序所需。他的臣民感激不已，當那嬰兒繼承人死去時，他們不僅將他與妻子朵莉安娜從攝政升為統治者，還同意以他的名義重新命名領地。萊赫格拉德基普成為安蒂克萊爾，以他祖居之地為名。
 
- The horrors of the War of Betony still live on, even in Anticlere. Whether Daggerfall and Sentinel will be able to use the marriage of King Gothryd and Princess Aubk-i as a symbol of peace rather than discord is something that only the future can show.
+ 貝托尼戰爭的恐怖仍活著，即使在安蒂克萊爾也是如此。匕首雨與哨兵城能否以戈斯瑞德國王與奧布琪公主的婚姻作為和平而非不和的象徵，只有未來能夠顯示。
 
-[/center]-- 14 Suns Dawn 3E 404
+[/center]——3E 404年日曉月14日

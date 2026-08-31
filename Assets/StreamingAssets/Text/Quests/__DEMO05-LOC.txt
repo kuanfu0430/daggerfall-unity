@@ -1,0 +1,15 @@
+---- Example quest used to test place selection and arrival
+
+Quest: __DEMO05
+
+
+QRC:
+
+QuestLogEntry:  [1010]
+%qdt
+    你已被召至 ____TestBuilding_、
+ __TestBuilding_ 的 _TestBuilding_。
+ 請儘快趕去，%pcn。刻不容緩！
+
+Message: 1050
+你已抵達 __TestBuilding_ 的 _TestBuilding_。

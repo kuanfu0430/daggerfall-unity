@@ -1,0 +1,84 @@
+-- Quest: C:\QUESTS\WORKING\M0B20Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 20
+-- QuestId: 2
+Messages: 81
+Quest: M0B20Y02
+DisplayName: 巨人團
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 對，我有件小差事給你。這可不是
+<ce> 誰都能接，但我知道你幹活漂亮。
+<ce> 有一群巨人得殺掉。酬勞很標準，
+<ce> _reward_ 金幣。要接嗎？
+
+RefuseQuest:  [1001]
+<ce> 行，隨便。聽起來
+<ce> 不過就是你那類差事罷了。
+
+AcceptQuest:  [1002]
+<ce> 成交，%pcf。客戶說
+<ce> 巨人在他們的據點 ___mondung_。
+<ce> 他說有六隻，六隻不全死
+<ce> 他不付錢，而且要在 =1stparton_
+<ce> 天內。懂了嗎，%pcf？好。
+
+QuestFail:  [1003]
+<ce> 聽著，那六隻巨人一天還在喘氣，
+<ce> 就沒時間閒聊。
+
+QuestComplete:  [1004]
+<ce> %oth，那些巨人根本不知道
+<ce> 是什麼打中他們，對吧，%pcf？
+<ce> 這是答應你的 _reward_ 金幣。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 有一群巨人，但他們不惹人。
+<--->
+聽說 %t 要把 ___mondung_ 那些巨人徹底除掉。
+
+RumorsPostfailure:  [1006]
+有什麼東西把那些巨人嚇跑了。不知道是什麼。
+<--->
+若我是那些巨人，我也會跑。人來人往太多了。
+
+RumorsPostsuccess:  [1007]
+不知道多久會有新的巨人搬進 ___mondung_。
+<--->
+我有點同情那些巨人。他們其實沒怎麼惹人。
+
+QuestorPostsuccess:  [1008]
+<ce> 巨人很難對付。你幹得漂亮，
+<ce> %pcf。在公會裡你會走得很遠。
+
+QuestorPostfailure:  [1009]
+<ce> 巨人對你來說太難了，嗯？
+<ce> 或許公會該派你去打侏儒。
+
+QuestLogEntry:  [1010]
+<ce> 所有巨人都死了。
+
+Message:  1020
+<ce> 這裡是巨人的地盤！
+<ce> 滾回你那可憐的土地去，
+<ce> %ra 蒼蠅！
+                                      <--->
+<ce> 我昨天吃了個 %ra。
+<ce> 味道不錯。
+                                      <--->
+<ce> 砸扁你！把你砸扁！
+
+Message:  1030
+%qdt:
+ ___questgiver_ 的戰士公會雇我
+ 去殺死躲在 ___mondung_ 的六隻巨人部落。
+ 我須完成任務並在 =1stparton_ 天內回來領酬。
+
+Message:  1080
+<ce> 嘿 %pct，若你找的是殺戮，
+<ce> 拿這張通往 ___newdung_
+<ce> 的地圖。那裡有的是。

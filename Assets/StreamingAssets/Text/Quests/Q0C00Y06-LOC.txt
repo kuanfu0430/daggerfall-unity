@@ -1,0 +1,113 @@
+-- Quest: C:\QUESTS\WORKING\Q0C00Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 0
+-- QuestId: 6
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: Q0C00Y06
+DisplayName: 吸血鬼之患
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 恐怕我們有個潛在問題。
+<ce>                 一名憎惡女巫的遠古吸血鬼
+<ce>                  已遷入我們領地內一座廢棄城堡。
+<ce>                  顯然這局面必須矯正，汝可
+<ce>                           同意，%pcf？
+
+RefuseQuest:  [1001]
+<ce>                    我能理解汝的恐懼。只有
+<ce>                   極為能幹或極為愚蠢的人
+<ce>                    才會答應去殺一名遠古
+<ce>                               吸血鬼。
+
+AcceptQuest:  [1002]
+<ce>                   汝願意？然而，遠古吸血鬼
+<ce>                    絕非軟弱的對手。未經準備，
+<ce>                     切勿投入戰鬥。這生物名叫
+<ce>                          =vamprival_，
+<ce>                    其新庇護所叫
+<ce>                    ___mondung_。汝會在
+<ce>                           ____mondung_ 找到它。
+<ce>                     我期望汝在 =1stparton_
+<ce>                      夜內回到這裡。別把自己
+<ce>                       弄死了，%pcf。
+
+QuestFail:  [1003]
+<ce>                      莫非你指望
+<ce>                            =vamprival_
+<ce>                       自己了結自己？不太可能。
+<ce>                       你必須成為
+<ce>                              %g3 死亡的執行者。
+
+QuestComplete:  [1004]
+<ce>                  我們幾乎能從這裡聽見那名遠古者
+<ce>                     的慘叫，%pcf。
+<ce>                   汝贏得了女巫們的感激。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 近來很熱鬧，可那地方荒廢多年了。
+<--->
+那個 =vamprival_ 是個貴族。說 %g 正在清理 ___mondung_ 和 %reg。
+
+RumorsPostfailure:  [1006]
+聽說 =vamprival_ 終於搬出 ___mondung_ 了。那地方不適合貴族。
+<--->
+=vamprival_ 搬出 ___mondung_ 之後，%g 常往宮殿跑。
+
+RumorsPostsuccess:  [1007]
+原來那位和善的 =vamprival_ 是吸血鬼！我完全沒想到！
+<--->
+感謝 %god，那位出色的 %ra 傭兵殺了 ___mondung_ 裡的吸血鬼。
+
+QuestorPostsuccess:  [1008]
+我們沒有忘記 =vamprival_，%pcf。吾等能為汝做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>                        =vamprival_ 仍在夜間
+<ce>                  行走，以吾等姊妹為食。
+<ce>                    汝早該說自己無法擊敗它。
+<ce>                    現在離開我們。我們不想
+<ce>                   再多談。
+
+Message:  1011
+_witch_ 是 __witch_ 一位和善又聰明的 =witch_。
+<--->
+_witch_ 就是那位和善的 =witch_，在這裡 %di 邊的 __witch_ 可以找到。
+
+Message:  1012
+_witch_ 是 ___witch_ 的女巫。
+<--->
+_witch_ 是 ___witch_ 的女巫，一名 =witch_。
+
+Message:  1015
+%qdt:
+  ___witch_ 的 _witch_
+  派我去殺死一名決意毀滅
+  %reg 女巫的遠古吸血鬼。我
+  已答應在 =1stparton_ 天內讓
+  ___mondung_ 那不死生物永遠死去，
+  並回到 ___witch_。
+
+Message:  1020
+<ce>                      你已殺死 =vamprival_。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 16 times.
+--                %g occurs 4 times.
+--               %g3 occurs 1 time.
+--              %god occurs 2 times.
+--              %pcf occurs 8 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 2 times.
+--              %reg occurs 3 times.
+--       =1stparton_ occurs 2 times.
+--       =vamprival_ occurs 14 times.
+--           =witch_ occurs 7 times.
+--      ____mondung_ occurs 11 times.
+--         ___witch_ occurs 26 times.

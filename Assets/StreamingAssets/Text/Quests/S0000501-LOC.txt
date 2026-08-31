@@ -1,0 +1,114 @@
+-- Quest: C:\QUESTS\WORKING\S0000501.Qbn.
+-- Main story quest.
+-- QuestId: 501
+Messages: 62
+Quest: S0000501
+DisplayName: 卡瓦爾領主任務·第三部
+-- Message panels
+QRC:
+
+QuestComplete:  [1004]
+<ce>                  %pcn，我就知道能指望你。哨兵城女王的
+<ce>                友誼已是足夠的報酬，但我也準備了一些
+<ce>                 更實際的禮物。
+
+RumorsDuringQuest:  [1005]
+<ce>    聽說_traitor_從哨兵城城堡的地城逃了出來。
+<ce>          你知道，他當時正要因叛國被處決。
+
+RumorsPostsuccess:  [1007]
+<ce>      _traitor_試圖讓途歇城支持他對哨兵城王座的主張，
+<ce>     但_queen_的密探找到了他。沒人知道他後來怎樣，
+<ce>      但我猜想他死了。
+
+Message:  1020
+%qdt:
+ 我收到哨兵城_queen_的信。她說_traitor_逃了，
+ 希望我去見她，再次追捕他。
+
+Message:  1021
+%qdt:
+ _queen_的密探得知_traitor_在途歇城煽動對哨兵城的事端。
+ 他藏在那裡王城堡的地城某處。我要在=time2_天內找到他，
+ 帶回哨兵城處決。
+
+Message:  1022
+%qdt:
+ _traitor_是我的俘虜。我正返回哨兵城，把他交給_queen_。
+
+Message:  1030
+親愛的%pcn：
+  
+    我遺憾地通知你，你對哨兵城高貴的服務已被破壞。
+ _traitor_似乎仍有幾個朋友。他在即將被吊死的數日前
+ 從地城逃出。
+    若你能協助把此事一勞永逸地了結，我將非常感激。
+ 請在=patsy_天內前來見我。
+  
+<ce>                             你的朋友，
+<ce>                                    
+<ce>                          哨兵城的_queen_
+
+Message:  1031
+<ce>               一名身著哨兵城制服、身材結實的騎士停在你面前敬禮。
+<ce>                                    
+<ce>                   「%pcn？一封給你的信，_queen_本人的
+<ce>                    私人訊息。」
+
+Message:  1040
+<ce>                啊，%pcn，我正希望你會來。我的密探已找到
+<ce>             難以捉摸的_traitor_。他居然出現在途歇城宮廷，
+<ce>               顯然試圖為他那可憐的王座主張尋求支持。
+<ce>              途歇城不會魯莽到公開庇護被判叛國的哨兵城叛徒，
+<ce>             但他藏在途歇城城堡某處，我要你找到他並帶回來。
+<ce>             可能的話活捉，必要時殺掉。別再讓他逃掉。
+<ce>                     你有=time2_天。
+
+Message:  1041
+<ce>                    又是你！%oth，你就不能讓我安寧？
+<ce>                這次我要了結你！
+
+Message:  1042
+<ce>                  「停！別殺我！我投降！」
+<ce>                                    
+<ce>                 你接受_traitor_的投降嗎？
+
+Message:  1043
+<ce>                    叛徒_traitor_死了。
+
+Message:  1044
+<ce>                      _traitor_放下武器，你迅速綁住
+<ce>                    他的雙手，蒙上他的眼，以防再有詭計。
+<ce>                     現在要從途歇城逃出去……
+
+QuestTimeLapse:  [1045]
+<ce>                  那麼，以%god之名，我們就一起死吧！
+
+Message:  1050
+<ce>              好啊好啊，這不是我忠誠的_traitor_回來了嗎。
+<ce>             你真以為能逃過我的憤怒？衛兵，帶他下樓，立即處決。
+
+Message:  1051
+<ce>                _traitor_該死。我本希望公開處決他，作為
+<ce>                 給他那類人的榜樣，但我很高興這樁骯髒的事
+<ce>               終於了結。
+
+Message:  1060
+<ce>                 你以為能這麼輕易除掉_traitor_嗎？
+<ce>                   哨兵城的領主可不是好惹的！
+
+Message:  1061
+<ce>                一名身著哨兵城制服的騎士走近。
+<ce>                   「我現在就把這頭叛國的豬玀
+<ce>                    _traitor_從你手上帶走。」
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 1 time.
+--              %god occurs 2 times.
+--              %oth occurs 1 time.
+--              %pcn occurs 4 times.
+--              %qdt occurs 3 times.
+--           _queen_ occurs 10 times.
+--         _traitor_ occurs 16 times.

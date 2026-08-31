@@ -1,5 +1,5 @@
-Title: Bourn in Wood, Part II
-Author: Lord Woodborne
+Title: 林木所生，其二
+Author: 伍德伯恩領主
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,104 +8,104 @@ Content:
 
 [/font=2]
 
-[/center]Bourn in Wood, Part II
+[/center]林木所生，其二
 
-[/center]by Lord Woodborne
+[/center]伍德伯恩領主著
 
 [/font=4]
 
 [/center]
 
- Now, my father was old before I was born. In fact on his deathbed, he was a wheezing, wizened husk of a man, who looked at me with a greenish drool on his mouth and his eyes, wondering who I was. My mother was sweet, young, and stupid. She loved us all, even me. When my brother Goriph died, she didn’t even suspect me, despite my lack of tears.
+ 現在，我父親在我出生前就老了。事實上在他臨終的床上，他是個喘息的、乾癟的人殼，帶著嘴上發綠的口涎看著我，眼睛裡想知道我是誰。我母親甜美、年輕、愚蠢。她愛我們所有人，連我。我哥哥戈里夫死時，她甚至沒懷疑我，儘管我沒有眼淚。
 
- I did, of course, have another brother in the way of my inheritance. His name was Rothdam and I didn’t know him well. Like most lords of vast estates in Wayrest, he spent his time in either the courts of the capital or in the field of battle. When he’d come by, he was a glamorous figure: tall, handsome, kind, witty, polite, well-read. Of course, I never remember a moment when I hadn’t hated him.
+ 當然，我繼承之路上還有另一個哥哥。他名叫羅斯丹，我不太了解他。像途歇城多數廣袤領地的領主一樣，他把時間花在都城的宮廷或戰場上。他來的時候，是個光彩照人的人物：高、英俊、善良、機智、有禮、博學。當然，我不記得有哪個時刻我不恨他。
 
- Not that I saw much of him. At age thirteen, I was banished. Well, that makes it sounds more dramatic than it was. My father had finally died, and since the death of my brother, I was the heir apparent until my brother had children. If the worst happened, I needed some education and experience, so I was sent to my cousin in Daggerfall.
+ 不是說我常見到他。十三歲時，我被放逐。好吧，那讓事情聽起來比實際更戲劇化。我父親終於死了，自從哥哥死後，我是假定繼承人，直到我哥哥有孩子。若最壞的情況發生，我需要一些教育和經驗，於是我被送到匕首雨的表親那兒。
 
- I’d tell you how we’re related, but it’s too boring. Like most Breton nobility, our mothers and fathers are third cousins already, interbred on both sides. Still, it’s how I met Prince Gothryd.
+ 我會告訴你我們如何有親，可那太無聊。像多數布萊頓貴族一樣，我們的母親和父親已經是第三代表親，兩邊都近親繁殖。不過，那就是我遇見戈斯瑞德王子的方式。
 
- If I had never met the current King of Daggerfall, I’m not sure if I would done all the things I’ve done. Granted, I killed one brother out of annoyance over inheritance, but I was just a child then. And as Gothryd told me in one the earliest days of our two summers together, it was unlikely Rothdam would have an heir other than me.
+ 若我從未遇見現任匕首雨國王，我不敢說是否會做我做過的所有事。誠然，我出於對繼承的惱怒殺了一個哥哥，可那時我只是個孩子。而如戈斯瑞德在我們兩個夏天最早的日子裡告訴我的，羅斯丹不太可能有我以外的繼承人。
 
- “He likes boys, not girls,” Gothryd, who was also twelve at the time, told me while we were walking through a field after our tutoring session.
+ 「他喜歡男孩，不是女孩，」戈斯瑞德那時也十二歲，輔導課後我們走過田野時告訴我。
 
- “How do you know?” I asked.
+ 「你怎麼知道？」我問。
 
- “Everyone at court knows,” he replied in his typically supercilious way. Obviously, the implication was that I, a yokel from a far off unimportant part of High Rock wouldn’t know what was being discussed by the elite. I didn’t mind the subtle jab. It was information I was looking for.
+ 「宮廷人人都知道，」他以典型高傲的方式回答。顯然，言下之意是我，來自高岩一個偏遠不重要地方的土包子，不會知道精英在討論什麼。我不介意那微妙的刺。那是我在尋找的資訊。
 
- “So he won’t have children,” I must have said aloud.
+ 「所以他不會有孩子，」我一定是說出了聲。
 
- Gothryd laughed. “Good, you’re figuring it out. He may be married for political reasons, but he won’t breed, and you will be his heir. Probably sooner than later, if he dies in battle.”
+ 戈斯瑞德大笑。「好，你在弄明白了。他可能因政治理由結婚，可他不會生育，你會是他的繼承人。大概比晚更早，若他死於戰場。」
 
- “I don’t want him to die,” I lied.
+ 「我不想他死，」我撒謊。
 
- “Good,” said the prince without missing a beat, though I suspect he knew my mind more than I did. “I know a guy named Tharn who can help us. He is close to the emperor, basically his protector. I’ll talk to him about how to keep your brother … safe from harm.”
+ 「好，」王子一刻不停地說，雖然我懷疑他比我自己更知道我的心思。「我認識一個叫薩恩的人能幫我們。他接近皇帝，基本上是他的保護者。我會跟他談如何讓你哥哥……免於傷害。」
 
- “The Imperial Battle Mage Jagar Tharn?” I asked. “I heard he and his apprentice disappeared five years ago.”
+ 「帝國戰法師賈加·薩恩？」我問。「我聽說他和他的學徒五年前消失了。」
 
- “He’s deep undercover,” Gothryd smirked. “But more influential than ever.”
+ 「他在深入潛伏，」戈斯瑞德得意地笑。「可影響力比以往更大。」
 
- I thought about this for a while, as we skirted the edge of river filled with eels and perfumed with sweet jasmine, and then ascended to a hillock overlooking the capital of Gothryd’s future kingdom. Unlike mine, his inheritance was never in doubt.
+ 我想了這事一陣子，我們繞過一條滿是鰻魚、瀰漫甜美茉莉香味的河邊，然後登上俯瞰戈斯瑞德未來王國都城的小丘。不像我的，他的繼承從未成問題。
 
- “What will Tharn want in return?” I finally asked.
+ 「薩恩會要什麼作為回報？」我終於問。
 
- “Simple allegiance to the Empire,” Gothryd replied, not looking me in the eyes. “By any emperor.”
+ 「簡單地效忠帝國，」戈斯瑞德回答，不看我的眼睛。「無論哪個皇帝。」
 
- I agreed to those term and later obviously, I came to learn what he meant. This battlemage Jagar Tharn was impersonating the Emperor and ruled from the Imperial throne for many years. That was the only conversation we had on that topic in that first summer.
+ 我同意那些條件，後來顯然，我明白了他的意思。這位戰法師賈加·薩恩當時正冒充皇帝，從帝國寶座統治了許多年。那是我們第一個夏天關於那話題唯一的談話。
 
- When I returned home, Woodborne Hall was in a state of ecstatic disarray. Servants running everywhere, and dear, simple mother in tears of pride. Rothdam, Lord Woodborne had been summoned to the city of Torval in southern Elsweyr by order of Emperor Uriel Septim VII. He was to be an official Imperial emissary to the Mane and King Mojtabe. A very great honor.
+ 我回家時，伍德伯恩廳處於狂喜的混亂狀態。僕人到處跑，親愛、單純的母親驕傲得淚流滿面。羅斯丹，伍德伯恩領主，已奉烏列爾·塞普丁七世皇帝之令被召往艾斯維爾南部的托瓦爾城。他要成為鬃首和莫傑塔貝國王的官方帝國使節。非常大的榮譽。
 
- And it was. For months, we received letters from Torval, filled with details about the strange, beautiful land and the customs of the Khajiit. Rothdam would touch on diplomatic details lightly, as it was all top secret stuff, but it was evident despite his modesty that he had become a great favorite with both the king and Mane.
+ 而且確實是。好幾個月，我們收到來自托瓦爾的信，充滿關於那奇異美麗土地和卡吉特習俗的細節。羅斯丹會輕輕觸及外交細節，因為全是絕密的事，可儘管他謙遜，顯然他已成為國王和鬃首都極為喜愛的人。
 
- The letters stopped in wintertide the following year. And then we received word about the Slaughter Of Torval, a surprise attack from Valenwood which left thousands dead. Including my brother.
+ 信件在次年冬潮停止。然後我們收到托瓦爾屠殺的消息，瓦倫林地的突然襲擊留下數千人死亡。包括我哥哥。
 
- I was now Lord Woodborne, at age 14. Everyone was in a state of shock but me. It smelled of a trap set up by Gothryd’s friend Tharn from the start, but I certainly knew well enough how to fake grief and take the inheritance with great sobriety.
+ 我現在是伍德伯恩領主，十四歲。人人都處於震驚狀態，除了我。從一開始就有戈斯瑞德的朋友薩恩設下的陷阱的氣味，可我當然知道如何假裝悲痛、以極大的嚴肅接受繼承。
 
- It was in a similar vein that I attended my initiation into the Knights of the Rose that summer. As third son of a minor nobleman, I had never been invited to the court of King Eadwyre before. Compared to Woodborne Hall, with its practical ugliness, Castle Wayrest struck me as the pinnacle of opulence. Immediately, I coveted it for my home someday, though of course I had no idea then how to make that dream a reality.
+ 正是以類似的心情，那年夏天我參加了玫瑰騎士團的授勳。作為次要貴族的第三子，我從未被邀請到艾德懷爾國王的宮廷。與伍德伯恩廳實際的醜陋相比，途歇城城堡給我的印象是奢華的頂峰。我立刻覬覦它作為我有朝一日的家，雖然那時我當然不知道如何讓那夢想成真。
 
- I was one of several young nobles of Wayrest receiving their investiture and initiation on that day, and the royal retinue did not disappoint with the pomp. White roses were in abundance, their scent redolent in the warm summer air. Lord Darkworth, the head of the Knights of the Rose, greeted us formally and led us in procession up the preposterously long stairs to the throne room. That’s where I saw one familiar face, Prince Gothryd, as part of a contingency representing Daggerfall. Everyone else was new to me, but I came to know them well in the years that followed.
+ 我是當天接受授勳和入團的幾名途歇城年輕貴族之一，王室隨從沒有讓那排場令人失望。白玫瑰遍布，香氣在溫暖的夏日空氣中濃郁。玫瑰騎士團團長達克沃斯領主正式迎接我們，帶領我們列隊走上長得荒謬的階梯到王座廳。就在那兒我看見一張熟悉的臉，戈斯瑞德王子，作為代表匕首雨的使團的一部分。其他所有人對我都是新的，可在隨後的歲月裡我逐漸深知他們。
 
- King Eadwyre stood in the center, of course, in full regalia. A slightly stout middle-aged man who regarded the new members of the knightly order dedicated to his service with a resigned scowl. To his right side was his new queen, the dark elf Barenziah of Morrowind, whose black jewel encrusted gown matched her flesh and hair, making her look like a shimmering shadow. To his left, a fat-faced little girl with uncombed blond hair who when I laid my eyes on her, stuck out her tongue at me. That was Eadwyre’s heir, his only child by his late wife Carolyna, and in ten years’ time, we were bethrothed to be wed. Insane.
+ 艾德懷爾國王當然站在中央，全副王者儀仗。一個略顯肥胖的中年男子，以認命的怒容打量這批獻身於他服務的騎士團新成員。他右側是新王后，晨風的黑暗精靈巴倫西雅，她鑲黑寶石的禮服與她的肌膚和頭髮相配，使她看起來像一道閃爍的影子。他左側，一個胖臉小女孩，金髮未梳，當我把眼睛放在她身上時，朝我吐舌頭。那是艾德懷爾的繼承人，他與亡妻卡蘿萊娜唯一的孩子，十年後，我們訂婚要結婚。瘋狂。
 
- Princess Morgiah, Barenziah’s daughter from her own previous marriage, also failed to impress me. I suppose I could be sympathetic to her past, having recently lost her father and her life in Mournhold, but pity is not in my nature. She struck me as an insecure girl, not yet a woman, unsure of herself and her place in the world. Her brother Prince Helseth by contrast seemed to be overcompensating. His chest puffed out, red eyes glaring defiantly, as if this were the beginning of a battle, not a peaceful ceremony.
+ 巴倫西雅與她自己前一段婚姻所生的女兒莫吉雅公主，也沒給我留下印象。我想我可以同情她的過去，最近失去了父親和在哀傷之城的生活，可憐憫不在我的天性中。她給我的印象是一個不安定的女孩，還不是女人，不確定自己和在世界上的位置。她的兄弟赫爾賽斯王子相比之下似乎在過度補償。他胸膛鼓起，紅眼睛挑釁地瞪著，彷彿這是一場戰鬥的開始，而不是和平的典禮。
 
- Prince Gothryd, of course, had a prominent place on the dais, better than that of other more minor diplomats and emissaries representing lesser principalities, dukedoms, and baronies of High Rock. He gave me a self-satisfied half smile.
+ 戈斯瑞德王子當然在高臺上有顯要位置，比代表高岩較小公國、公爵領地和男爵領地的其他更次要的外交官和使節更好。他給我一個自滿的半笑。
 
- No need to bore the reader with any other details of the ceremony or the banquet that followed. Most social interchanges were perfunctory: a greeting, a bow, a few words to explain who in blazes someone was and why you should care. Conversations like bubbles that popped and were gone and forgotten.
+ 不必用典禮或隨後宴會的任何其他細節讓讀者厭煩。多數社交交流是敷衍的：問候，鞠躬，幾句話解釋某某人究竟是誰以及你為什麼該在乎。像氣泡一樣爆掉、消失、被遺忘的談話。
 
- Lord Mogref of Betony, for example, was present, as insignificant a man as the island he was representing, making jokes about trouble with piracy in his region. His tune was to change before a few years had passed. He only made an impression in retrospect, as his little problem brought two great nations to war.
+ 比方說，貝托尼的莫格雷夫領主在場，跟他代表的島一樣無足輕重的人，開著他那地區海盜麻煩的玩笑。不出幾年他的調子就會改變。他只在回顧時留下印象，因為他的小問題把兩個大國帶入戰爭。
 
- It was my introduction to society after all and I was a stranger, a fact made clear whenever I tried to enter any conversation that seemed interesting. I would hear enough of a whispered discussion about politics and policy to want to learn more, but the moment I stepped up, it would become about fashion or the pleasantness of the weather. What I noticed, however, was the same caution was not done around the servants who waited on the gathered nobles. They didn’t even look into the faces of the valets and maids who brought them drinks, but continued on as if they were invisible. I, however, did look at their faces and noticed something interesting.
+ 這畢竟是我進入社交界的介紹，而我是陌生人，每當我試圖加入任何看起來有趣的談話時這事實就很清楚。我會聽見足夠的關於政治和政策的低聲討論想知道更多，可我一走近，就會變成時尚或天氣的宜人。可我注意到，同樣的謹慎並沒有用在伺候聚集貴族的僕人身上。他們甚至不看給他們送酒的男僕和女僕的臉，繼續下去彷彿他們看不見。而我確實看了他們的臉，注意到一些有趣的事。
 
- The servants were listening in and exchanging looks one to another. Even more intriguing, they were wordlessly communicating across political lines. A wench giving a drink to a member of the royal family would meet the eyes of a manservant discreetly brushing the dandruff off the shoulders of a dandy representing Camlorn. There was a network at play. A game of espionage. It was an immediate epiphany to me, a realization of how to create a spy network, and I resolved to begin to form one immediately.
+ 僕人在偷聽並互相交換眼色。更有趣的是，他們在跨越政治界線無言地交流。一個給王室成員送酒的女侍會與一個悄悄為代表卡姆洛恩的花花公子刷肩頭頭皮屑的男僕對上眼。有一個網絡在運作。一場間諜遊戲。對我來說這是即時的頓悟，是如何建立間諜網的領悟，我決心立即開始組建一個。
 
- In contrast to the subtlety of the servant spy network, which I came to learn later was part of the Emperor’s Blades (with a few of the Underking’s minions in attendance), was a very blunt exchange I had with Prince Gothryd at the end of the evening.
+ 與僕人間諜網的微妙形成對比的——我後來得知那是皇帝刃鋒的一部分（還有幾個地底之王的爪牙在場）——是傍晚結束時我與戈斯瑞德王子非常直率的交流。
 
- It was the end of the banquet and people were saying their goodbyes. As I had no one particularly to say goodbye to, I stepped out onto a balcony to take in the view from the palace I wanted to possess. I had only been there for a moment, admiring the architecture of my future home, when I heard someone clear their throat behind me. It was Gothryd.
+ 那是宴會結束、人們在道別的時候。由於我沒有特別要道別的人，我走到陽臺上欣賞我想占有的宮殿的景色。我只在那兒待了一會兒，欣賞我未來之家的建築，就聽見身後有人清喉嚨。是戈斯瑞德。
 
- “How did you enjoy your first time in court, my lord?” the Prince grinned.
+ 「你第一次上朝享受得怎樣，我的領主？」王子咧嘴笑。
 
- “Not very much, thank you, your highness,” I replied, returning an equally insincere smile. “I was surprised to see you gracing us with your presence. I wouldn’t have thought Daggerfall would send anyone to acknowledge investiture of its rival Wayrest, let alone the future king. Was it to see me?”
+ 「不太享受，謝謝你，殿下，」我回答，回以同樣不真誠的微笑。「我驚訝看見你賞光。我不會以為匕首雨會派人來承認其對手途歇城的授勳，更別提未來的國王。是來看我嗎？」
 
- “Don’t be tiresome,” Gothryd grumbled. “And don’t try to be charming. It doesn’t suit you. If you’re up for advice.”
+ 「別討人厭，」戈斯瑞德咕噥。「也別試圖迷人。那不適合你。若你想要建議。」
 
- “Always,” I replied, turning back to the view. “Any more free advice?”
+ 「一向想要，」我回答，轉回景色。「還有更多免費建議嗎？」
 
- “Yes,” he said. “You don’t need to thank servants, but you do need to thank your social superiors when they deign to help you. I helped you to kill your brother, and that was a mighty fine favor or you wouldn’t be here now.”
+ 「有，」他說。「你不需要謝謝僕人，可當你的社交上司屈尊幫你時，你確實需要謝謝他們。我幫你殺了你哥哥，那是極大的人情，否則你現在不會在這兒。」
 
- I’m glad to this day that I wasn’t facing him, because I’m sure my face would have betrayed me. At that instant, I thought he was talking about my middle brother Goriph, who I did indeed kill. How could he know that? He couldn’t. He must have been talking about Rothdam.
+ 直到今天我很高興當時沒有面對他，因為我確定我的臉會出賣我。那一瞬間，我以為他在說我確實殺了的二哥戈里夫。他怎麼知道？他不可能。他一定在說羅斯丹。
 
- “I beg your pardon, your highness,” I said, turning around, my face emotionless. “You must be mistaking me for one of those wood elves who stormed Torval and slaughtered everyone including Rothdam. I assure you, at the moment my brother was stabbed forty times in the chest, head, and buttocks in southern Elsweyr, I was screwing a Nord girl who used to fancy him but gave up because he liked boys, and that fornication took place here in High Rock.”
+ 「請原諒，殿下，」我說，轉過身，面無表情。「你一定把我誤認為那些襲擊托瓦爾、屠殺包括羅斯丹在內所有人的木精靈之一。我向你保證，我哥哥在艾斯維爾南部胸口、頭部和臀部被刺四十刀的那一刻，我正在跟一個從前迷戀他卻因為他喜歡男孩而放棄的諾德女孩上床，而那姦情發生在高岩這兒。」
 
- Like I’ve said, I’m a liar, but that was literally true.
+ 如我所說，我是騙子，可那按字面是真的。
 
- Gothryd, however, was not impressed with my defense. He took a step forward so we were practically nose to nose. There was a dangerous gleam in his eyes.
+ 戈斯瑞德卻對我的辯護不以為然。他向前一步，我們幾乎鼻對鼻。他眼裡有危險的光。
 
- “Do you think is a court of law?” he asked angrily. “When I ask for ham for breakfast, I am killing the pig. I may not be taking an axe to it myself, but I know I am responsible. Own the murder you have asked to be committed on your behalf, boy.”
+ 「你以為這是法庭嗎？」他憤怒地問。「當我早餐要火腿時，我就是在殺那頭豬。我或許不是親自拿斧頭砍它，可我知道我有責任。承認你要求代你犯下的謀殺，孩子。」
 
- I remember that I only was offended by him calling me “boy,” since we were both 14.
+ 我記得我只因他叫我「孩子」而冒犯，因為我們都十四歲。
 
- “Very well,” I replied coolly. “Thank you for helping me kill my brother so I could inherit everything.”
+ 「那好吧，」我冷靜地回答。「謝謝你幫我殺了我哥哥，好讓我繼承一切。」
 
- Gothryd immediately relaxed, and we spent several minutes as old chums, trading jokes, most of them pretty dirty. We had established something, an understanding of sorts.
+ 戈斯瑞德立刻放鬆，我們像老朋友一樣過了幾分鐘，交換笑話，多數相當下流。我們確立了某種東西，某種理解。
 
- So with that in mind, I can say I killed his father King Lysandus. But more on that in the next chapter.
+ 所以懷著那念頭，我可以說我殺了他的父親萊桑達斯國王。可下一章再談更多。

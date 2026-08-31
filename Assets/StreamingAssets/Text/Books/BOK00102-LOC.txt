@@ -1,5 +1,5 @@
-Title: King Edward, Part III
-Author: Anonymous
+Title: 愛德華王，其三
+Author: 佚名
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,142 +8,138 @@ Content:
 
 [/font=2]
 
-[/center]King Edward, Part III
+[/center]愛德華王，其三
 
 [/font=4]
 
 [/center]
 
-[/center]Lessons
+[/center]功課
 
- The golden days passed swiftly. Edward spent most of his time in the company of his parents. He saw few other children. None at all lived in 'their' tree, only their wood elf host and Moraelyn's six Companions, an oddly assorted, cheerful lot. Disrespectful, Edward thought. None of the Daggerfall court or servants would dared have addressed his father as these did Moraelyn and Aliera with their constant raillery. But these weren't servants or courtiers. Just ... Companions. Only one was a Dark Elf. There were a Khajiit woman, two wood elves, brother and sister, a Nordic man, even bigger than Moraelyn and a strange looking lizardlike man, who spoke with such a hissing accent that Edward couldn't understand him at all. The Nord man was called "Slave of Moraelyn" or just "Slave" for short, although Moraelyn usually called him "Mats" of "My-slave." Mats tended the group's weapons and gathered wood for the evening fires. But it wasn't unusual for the others to bring wood; Moraelyn himself often borrowed Mats' axe and fetched and split wood if there was need, or if he just felt like it.
+ 金色的日子過得飛快。愛德華大部分時間與父母為伴。他很少見到其他孩子。沒有任何孩子住在「他們的」樹上，只有他們的木精靈主人和莫瑞林的六名同伴，一群搭配古怪、心情愉快的人。無禮，愛德華想。匕首雨的宮廷或僕從沒有人敢像他們這樣對莫瑞林和艾莉菈說話，帶著不斷的打趣。可這些不是僕從或朝臣。只是……同伴。其中只有一名是黑暗精靈。有一名卡吉特女子，兩名木精靈兄妹，一名比莫瑞林還高大的諾德男子，甚至一名模樣奇怪、像蜥蜴的人，說話帶著嘶嘶口音，愛德華完全聽不懂。那諾德人被稱為「莫瑞林的奴隸」或簡稱「奴隸」，雖然莫瑞林通常叫他「馬茨」或「我的奴隸」。馬茨照料眾人的武器，為晚間的火拾柴。但其他人帶柴來並不罕見；若有需要，或他只是想做，莫瑞林自己也常借用馬茨的斧頭去劈柴。
 
- They spent much of their time roaming the woods and fields, hunting and gathering produce, in twos and threes. Usually Moraelyn, Aliera and Edward and Shade went off together. They carried bows for hunting. When Edward asked Moraelyn to teach him to shoot better, he was told to ask his mother, as she was the better shot. And it was Aliera's arrow that brought down a handsome buck, although both arrows had struck, and they quarrelled over who's [sic] arrow had killed as they ran toward the buck.
+ 他們大部分時間兩三人一組在林野漫遊，打獵採集。通常莫瑞林、艾莉菈、愛德華和蔭影一起出去。他們帶弓打獵。當愛德華請莫瑞林教他射得更好時，他被告知去問母親，因為她射得更好。而打下那頭漂亮公鹿的是艾莉菈的箭，雖然兩支箭都射中了，他們邊跑向鹿邊爭論是誰的箭殺了它。
 
- "Bah!" Moraelyn exclaimed as he pulled his black fletched arrow from the hindquarters. "I don't know how I managed to feed myself before I married you."
+ 「呸！」莫瑞林把黑羽箭從後腿拔出時喊道。「我不明白娶你之前我是怎麼養活自己的。」
 
- "You had the Companions."
+ 「你有同伴們。」
 
- "Aye. Mats, Mith and I starved together, before we met Beech and Willow." Moraelyn pulled out his black dagger, Tooth, and began to skin the animal's body, calling Edward to come and watch. "You want to learn about animals, don't you?"
+ 「是啊。馬茨、密斯和我一起挨餓，直到遇見畢奇和薇蘿。」莫瑞林抽出他的黑匕首牙刃，開始剝那動物的皮，叫愛德華過來看。「你想了解動物，不是嗎？」
 
- "Live ones." Edward said with distaste. His dainty mother was ripping the skin away with enthusiasm.
+ 「活的。」愛德華厭惡地說。他精緻的母親正興致勃勃地把皮扯開。
 
- "Such make tough eating," the dark elf said. "Give me your cloak; I'll make a package for you to carry."
+ 「那樣的吃起來很韌。」黑暗精靈說。「把你的斗篷給我；我給你包一包讓你扛。」
 
- "I am a Prince, not a pack horse!"
+ 「我是王子，不是馱馬！」
 
- "You'll carry your share or you'll be a hungry prince this night." The elf had lost his good humor.
+ 「你扛你那份，否則今晚你就是挨餓的王子。」精靈失去了好心情。
 
- "I won't. I don't want any. You can't make me."
+ 「我不扛。我不要。你不能強迫我。」
 
- Moraelyn stood erect and appeared to think this over. "Can't I?" he taunted.
+ 莫瑞林站直，似乎在考慮這件事。「不能嗎？」他嘲弄道。
 
- "Edward, please--" Aliera appealed to him.
+ 「愛德華，拜託——」艾莉菈向他懇求。
 
- "Tell me, Lord Prince, how then does one get the meat to one's table if one may not carry it. If Princes may not carry meat then certainly Kings and Queens may not ... or do Princes grow out of the incapacity when they become Kings?"
+ 「告訴我，王子殿下，若人不可以扛肉，肉如何上桌。若王子不可扛肉，國王與王后當然更不可……還是王子成為國王時會擺脫這種無能？」
 
- "They have servants!"
+ 「他們有僕人！」
 
- "Serve ants? What a clever idea. Only a human could think of that! Ants are excellent at carrying, I have noted, although I have not the trick of commanding them. Perhaps you can teach me."
+ 「伺候螞蟻？多聰明的主意。只有人類想得出這個！我注意到螞蟻極擅長搬運，雖然我沒有指揮它們的訣竅。也許你能教我。」
 
- "Servants! Like Mats here," Edward shouted. He hated being teased. Mats and the other companions had come up, having heard their shouts over the kill.
+ 「僕人！像這兒的馬茨。」愛德華喊道。他討厭被取笑。馬茨和其他同伴走了過來，聽見他們為獵物的喊聲。
 
- "Mats? You think I cannot make you carry deer meat, yet I could command Mats to do so?" Moraelyn stared up at the blond giant. "Well, one never knows until one tries. Mats, carry the deer."
+ 「馬茨？你認為我不能讓你扛鹿肉，卻能命令馬茨去做？」莫瑞林抬頭盯著那金髮巨人。「好吧，不試就不知道。馬茨，扛鹿。」
 
- The blond scratched his head and jaw thoughtfully. "Highness, nothing would please me more ... but it is a large deer and my old wound is troubling my back ... perhaps if you kill a smaller one."
+ 金髮男子若有所思地搔頭抓下巴。「殿下，沒有什麼比這更讓我高興……可這是頭大鹿，我的舊傷正折磨著背……也許您殺一頭小一點的。」
 
- "Well, Prince, what now?"
+ 「好，王子，現在怎麼辦？」
 
- "You beat him."
+ 「你打他。」
 
- "At what? I can outrun him. Mats, if I reach that oak first, will you carry the deer." Mats shook his head slowly.
+ 「打什麼？我跑得過他。馬茨，若我先到那棵橡樹，你願意扛鹿嗎？」馬茨慢慢搖頭。
 
- "You beat him with a stick!" Edward yelled.
+ 「你用棍子打他！」愛德華喊道。
 
- "What promise you show as a Healer, my Prince. You will forgive me if I refrain from consulting you until you have further training. It is my judgement that beating with a stick will not improve Mats' back. Of course, I may be in error.
+ 「你作為治療者展現了何等前途，我的王子。在你受進一步訓練之前，請原諒我不向你請教。依我判斷，用棍子打不會改善馬茨的背。當然，我可能有誤。
 
- "Silk, you carry the deer."
+ 「絲爾克，你扛鹿。」
 
- "Me, milord? I am sorry, but I have just remembered that I am fourth cousin to the fifth house of Dibella, Queen of Heaven. My dignity forbids that I carry anything at all."
+ 「我，殿下？抱歉，可我剛想起我是天后天后迪貝拉第五家族的第四代表親。我的尊嚴禁止我扛任何東西。」
 
- Willow and Beech claimed that a mage had forbidden either of them from carrying any part of an animal while the moon Jone was risen.
+ 薇蘿和畢奇聲稱有法師禁止他們中任何一個在瓊恩月升起時扛動物的任何部分。
 
- "Prince, are you truly certain about this rule? It seems to make life most inconvenient. We could bring the wood to the deer, which will take many hours and leave us benighted here. We could consume the meat raw on the spot, but I own my belly is not yet empty enough to make that option attractive. Aliera, can you help us? How do the High Rock folk get meat to table?"
+ 「王子，你對這規則真的確定嗎？它似乎讓生活極為不便。我們可以把柴帶到鹿那兒，那要花許多小時，讓我們在這兒過夜。我們可以當場生吃肉，但我承認肚子還沒空到讓這個選擇有吸引力。艾莉菈，你能幫我們嗎？高岩的人如何把肉弄上桌？」
 
- "Milord, when I lived there it was my firm belief that it appeared by magic. There were servants, but they were an irritating, lazy lot, more trouble than they were worth. Edward, my son, is it possible that this rule applies only in High Rock?"
+ 「殿下，我住在那兒時堅信它是憑魔法出現的。有僕人，可他們是惱人、懶惰的一群，比他們的價值更添麻煩。愛德華，我的兒子，這規則是否可能只適用於高岩？」
 
- "I suppose so ... ."
+ 「我想是的……。」
 
- Edward carried a share of meat that bent his back, but he did not complain. And so it was settled, and the meal that night was a merry one. But for several days after, if the Companions caught him carrying anything at all they would inquire anxiously as to whether a High Rock Prince might do so.
+ 愛德華扛了一份壓彎他背的肉，卻沒有抱怨。事情就這樣解決了，那晚的餐食很快樂。可此後好幾天，若同伴們看見他扛任何東西，都會焦慮地詢問高岩的王子是否可以這樣做。
 
- "If Mats is not a servant, then why do they call him 'Moraelyn's Slave'?" Edward asked one drowsy afternoon.
+ 「若馬茨不是僕人，那他們為什麼叫他『莫瑞林的奴隸』？」愛德華在一個昏昏欲睡的下午問。
 
- "Well, he is my slave. I paid gold for him, all that Mith and I had. We came on a man beating him near Reich Parthkeep. He looked near death; when Mith and I tried to stop the beating, the man said Mats was a runaway slave, and he'd do as he liked with him. So I threw down the gold and told him he could take it and leave, else I would kill him out of hand. He chose the latter, so I told Mats to take the gold as his master's heir and go where he would. He chose to come with us, so we buried the gold with his master and Mats has been with us since."
+ 「這個，他是我的奴隸。我為他付了金幣，密斯和我所有的錢。我們在萊赫帕斯奇普附近遇見一個人在打他。他看起來快死了；密斯和我試圖阻止毆打，那人說馬茨是逃跑的奴隸，他愛怎麼處置就怎麼處置。於是我扔下金幣，告訴他可以拿了走人，否則我就當場殺了他。他選了後者，所以我告訴馬茨拿金幣作為他主人的繼承人，去他想去的地方。他選擇跟我們走，於是我們把金幣跟他主人一起埋了，馬茨從此跟我們在一起。」
 
- "Could he leave if he wanted to?"
+ 「若他想走，他能走嗎？」
 
- "Of course."
+ 「當然。」
 
- "May I go pick some of those berries over there?" Edward asked, and Moraelyn nodded.
+ 「我可以去摘那邊那些莓果嗎？」愛德華問，莫瑞林點頭。
 
- Aliera was sleeping curled on her side. Moraelyn sat next to her, leaning back against a tree, his hand playing with her long dark curls. His eyes and skin were sensitive to the bright sun. Shade slept stretched in the sun nearby, his dark fur glinting with silver in the light. Edward wandered over to the bushes and picked the bright glowberries, so called because they glowed at night, although right now they were a rather dull gray. But they tasted very good. If he ate enough, would he glow at night, he wondered. Or if he smashed them and collected the juice ... the bushes caught at him, then he found a sort of tunnel through them and trotted along it, wondering where it led.
+ 艾莉菈側身蜷著睡著。莫瑞林坐在她旁邊，背靠一棵樹，手把玩她長長的深色捲髮。他的眼睛和皮膚對明亮的陽光敏感。蔭影伸展著睡在附近的陽光裡，深色毛皮在光中閃著銀光。愛德華走到灌木叢邊，摘那些明亮的輝莓，它們因夜間發光而得名，雖然此刻它們是相當暗淡的灰。但味道很好。若他吃夠多，夜間會發光嗎，他想。或者若他砸碎它們收集汁液……灌木鉤住他，然後他發現一條穿過它們的隧道，沿著它小跑，想知道通向哪裡。
 
- It ended in a small clearing before a pile of rocks. There was a hole and something in it. Edward stepped back, making a small noise in his throat. The something heaved and presented a tusky snarling face and hooves that pawed at the earth. The boy backed away slowly. The beast's head went down, the shoulders heaved and the immense bulk lumbered into a charge. Edward tried to throw himself into the bushes ... there was no room ... and then, incredibly, Moraelyn was in front of him, between him and the beast. There was a flash and a crash, and the elf seemed to leap backwards for several feet, landing crouched just in front of Edward's face. The air whistled as his blade seemed to jump out of the sheath of its own accord. There was a sparkle in the air around him, and a burnt smell. Silence.
+ 它止於岩石堆前的一小片空地。有一個洞，洞裡有什麼東西。愛德華後退，喉嚨裡發出一聲小叫。那東西起伏著，露出長牙咆哮的臉和刨地的蹄。男孩慢慢後退。野獸低頭，肩膀起伏，龐大的身軀笨重地衝來。愛德華試圖把自己扔進灌木……沒有空間……然後，不可思議地，莫瑞林出現在他前面，擋在他與野獸之間。一道閃光、一聲撞擊，精靈似乎向後躍了好幾尺，正好蹲在愛德華面前。空氣呼嘯，他的刀刃彷彿自行跳出鞘。他周遭空氣裡有火花，還有燒焦的氣味。寂靜。
 
- "Get out of here, boy! Now!"
+ 「離開這兒，孩子！現在！」
 
- Edward fled, yelling for his mother, who was running toward the bushes and calling him. She clasped him to her, and began shouting for Moraelyn instead. There was no answer, then, somehow the elf was there, unharmed, his blade sheathed again. But he was breathing hard.
+ 愛德華逃走，喊著母親，她正跑向灌木喊他。她把他摟緊，開始改喊莫瑞林。沒有回答，然後，不知怎的精靈就在那兒，毫髮無傷，刀刃又入了鞘。可他呼吸沉重。
 
- "Did you kill it? Are you hurt?"
+ 「你殺了它嗎？你受傷了嗎？」
 
- "No and no. I was shielded. Barely. You disturbed a sow in her den with her litter. Fortunately, she thought she'd had enough after the first impact. I daresay she's unaccustomed to finding her enemies still standing afterwards."
+ 「沒有也沒有。我有護盾。勉強。你打擾了一頭母豬在窩裡帶著一窩小豬。幸運的是，第一次撞擊後她認為夠了。我敢說她不習慣發現敵人之後還站著。」
 
- "Why didn't you kill her?" Edward demanded, feeling bloodthirsty after his fright. "A katana, even the Ebony Blade, is not the weapon I'd choose against a mother sow. A spear, maybe. The longer the better. Besides, if we leave her be, there'll be six pigs here next year, with luck."
+ 「你為什麼不殺她？」愛德華在驚嚇之後感到嗜血。「武士刀，即使是烏木刃，也不是我會選擇用來對付母豬的武器。長矛，也許。愈長愈好。再說，若我們放過她，明年這兒運氣好會有六頭豬。」
 
- "You made a magic shield," Edward said, wide-eyed.
+ 「你做了一個魔法護盾。」愛德華睜大眼睛說。
 
- "Aye, barring the shield, she'd have left a few marks even on a tough old dark elf."
+ 「是的，若沒有護盾，即使對強硬的老黑暗精靈，她也會留下幾道痕跡。」
 
- "Edward, it would be gracious to thank your rescuer." His mother prompted.
+ 「愛德華，感謝你的救援者會是有禮貌的。」他母親提示。
 
- "Thank you," Edward said automatically, his mind busy with more questions. How had the elf known of his danger? How did he get there so quickly?
+ 「謝謝你。」愛德華機械地說，腦子忙著更多問題。精靈怎麼知道他有危險？他怎麼來得這麼快？
 
- "There is scarcely need to thank me for saving my son's life. Thank Shade," Moraelyn said. "The cat told me there was trouble."
+ 「幾乎不必為救我兒子的命而謝我。謝謝蔭影。」莫瑞林說。「貓告訴我有麻煩。」
 
- Edward knelt and hugged the smug purring cat. "Good old Shade. I can always count on him."
+ 愛德華跪下擁抱那得意地發出呼嚕的貓。「好老蔭影。我總能指望他。」
 
- "My son". "Our son". The words rang proudly out at the least excuse. Edward puzzled over this for awhile; it wanted an explanation. The one he favored was that Moraelyn simply didn't know him very well yet, and was prone to give the benefit of the doubt to strangers. Eventually ... but in the meantime he might as well enjoy it. It was ... nice. Having a father that was proud of you, that liked being with you, took you to places, talked to you, listened to you. And most remarkably of all, let you alone when you needed to be. Moraelyn only really liked being alone when he was composing a ballad.
+ 「我的兒子」。「我們的兒子」。這些詞稍有藉口便驕傲地響起。愛德華為此困惑了一陣；它需要解釋。他偏愛的解釋是莫瑞林只是還不太了解他，對陌生人傾向於給予懷疑的好處。最終……但同時他不妨享受它。那是……很好。有一個為你驕傲的父親，喜歡跟你在一起，帶你去地方，跟你說話，聽你說話。而最了不起的是，在你需要獨處時讓你獨處。莫瑞林只有在譜敘事歌時才真正喜歡獨處。
 
- Edward told Beech and Willow about the mother pig. "I ran when he told me to. Would you? Because he said to. I couldn't think of any way to help, but ... " Willow and Beech listened carefully, exchanged glances, and said they'd think about the problem.
+ 愛德華把母豬的事告訴畢奇和薇蘿。「他叫我跑我就跑了。你們會嗎？就因為他說的。我想不出任何幫忙的辦法，可是……」薇蘿和畢奇仔細聽，交換眼色，說他們會考慮這個問題。
 
- After supper around the evening fire, Willow took up her small harp and began to sing about the joys of an autumn afternoon and berries ... .except that Moraelyn sent the boy off to pick berries. They'd got that part wrong. Moraelyn sat up sharply and looked around, but the others had slipped away into the darkness and Willow wasn't looking at him.
+ 晚飯後圍著晚火，薇蘿拿起她的小豎琴，開始唱秋日午後與莓果的歡樂……只是莫瑞林把男孩打發去摘莓果。他們把那部分弄錯了。莫瑞林猛地坐直環顧四周，可其他人已溜進黑暗，薇蘿沒有看他。
 
- Mith strolled into the firelight, taking mincing steps, picking pantomime berries and eating them noisily. Moraelyn put his head down and groaned. Mith pantomimed finding something then skipped along in delight. Mats' head and shoulders lurched into the firelight. Mith reached a hand to pat him, then leapt back with a squeal as Mats tried to rip him with a tusk. Huge tusks and a pig nose adorned his face. Mith crouched, hands to his face in exaggerated horror. An [sic] Silk, clad in black, leaped between Mith and Mats with a shower of sparks, jerkin backwards, hose about its knees, shoeless. It reached for its sword, but Mats charged and knocked it flying; it spun out of sight. Mats, scrambling on all fours, missed Mith, but tore his hose. Mith scampered around the fire with Mats after him. Silk, sword in one hand, the other tugging at the hose chased after Mats, beating him with the sword.
+ 密斯踱入火光，邁著細步，默劇般摘莓果並大聲吃。莫瑞林低下頭呻吟。密斯默劇發現了什麼，然後歡喜地跳著往前。馬茨的頭和肩膀衝入火光。密斯伸手拍他，然後當馬茨試圖用獠牙撕他時尖叫著跳開。巨大的獠牙和豬鼻裝飾著他的臉。密斯蹲下，雙手捂臉，誇張地恐懼。絲爾克一身黑衣，在密斯和馬茨之間躍出，帶著一陣火花，短上衣向後，緊身褲褪到膝，沒穿鞋。它伸手去拔劍，可馬茨衝來把它撞飛；它旋轉著消失。馬茨四肢著地爬，沒撞到密斯，卻撕破了他的褲子。密斯圍著火跑，馬茨追他。絲爾克一手握劍，另一手扯著褲子，追著馬茨用劍打他。
 
- Another figure appeared, clad in Aliera's blue gown with Beech's head sticking out above wearing a long dark wig. Mith cowered behind her skirts. She glared at Mats and he froze. Silk tripped and sprawled behind him. Beech tossed his hair back, patted Mith reassuringly on the head, wet one finger and smoothed an eyebrow, then leisurely picked up his bow, aimed and twanged.
+ 另一個身影出現，穿著艾莉菈的藍袍，畢奇的頭從上面伸出，戴著深色長假髮。密斯畏縮在她裙後。她瞪著馬茨，他僵住。絲爾克絆倒，趴在他身後。畢奇把頭髮向後一甩，安撫地拍密斯的頭，舔濕一根手指撫平眉毛，然後從容拿起弓，瞄準，嘣的一聲。
 
- Mats leaped backwards, collapsing on top of Silk with a very realistic death rattle. Beech and Mith embraced, ignoring Silk, still flat beneath Mats. Moraelyn had begun laughing when Silk first leaped out. Aliera had waited for Beech's appearance. Now tears were running down her cheeks. Moraelyn was doubled over, pounding his fist against a tree. Ripples and giggles of silvery laughter sounded all around and showers of gold coins fell into the circle. The Companions gathered themselves together and bowed, as humans did.
+ 馬茨向後一躍，帶著非常逼真的臨終喉響倒在絲爾克身上。畢奇和密斯擁抱，無視仍平躺在馬茨身下的絲爾克。莫瑞林從絲爾克第一次躍出就開始笑。艾莉菈等到畢奇出場。現在淚水沿她臉頰流下。莫瑞林彎著腰，用拳頭砸樹。四周響起銀鈴般的漣漪笑聲，金幣如雨落入圈子。同伴們聚在一起鞠躬，像人類那樣。
 
- "Again, do it again!"
+ 「再來一次，再來一次！」
 
- "Noo-ooo!" Moraelyn gasped, still laughing. "Ah, you came nearer killing me than the sow did! I beg mercy!"
+ 「不——噢！」莫瑞林喘著氣，仍在笑。「啊，你們比母豬更接近殺死我！我求饒！」
 
- "Another night, gentle persons ... our king has had a very long day. We thank you all."
+ 「改日吧，各位君子……我們的國王度過了非常漫長的一天。我們感謝你們所有人。」
 
- Gods, had the entire town seen? Edward stared behind him, but they were all melting away into the dark. "That's not what happened." he yelled. "You were a hero. They made fun of you."
+ 諸神啊，全鎮都看見了嗎？愛德華盯著身後，可他們全融入黑暗消失了。「那根本不是那樣發生的。」他喊道。「你是英雄。他們拿你開玩笑。」
 
- "Yes, yes and yes. Especially the last. By Jephre himself, that was funny!"
+ 「是，是，是。尤其是最後那個。以傑夫瑞本人起誓，那太好笑了！」
 
- "They all saw that! And you're going to let them do it again?" Edward was scandalized. They had all looked ridiculous.
+ 「他們全看見了！而你要讓他們再演一次？」愛德華憤慨。他們看起來全都很可笑。
 
- "Let them? It'll be done all over Tamriel for centuries to come, I doubt not. But never again so well."
+ 「讓他們？我毫不懷疑這會在全泰姆瑞爾演上幾個世紀。可再也沒有今晚這麼好。」
 
- "But it didn't happen like that at all."
+ 「可事情根本不是那樣發生的。」
 
- "It would have if Mats--I mean the sow had charged again. Ariana's bow would have been far more effective than my poor blade. And she'd have seen Moraelyn leap like a khajiit!" His finger smoothed an eyebrow in a gesture typical of Aliera and he went off again into a long laugh. "Aye, she'd have slain the beast with a look, if she couldn't find an arrow. Mats, you were more like the sow than she like herself. Bigger, too, I swear! Mith, you old rogue, only you could look so innocent."
+ 「孩子，你以為只有一種真相嗎？你今天看見的是真相嗎？你看見了發生之事的全部真相嗎？即使是確實發生的？你今晚在這兒看見的會照亮未見的真相，若你允許……你可以花一生思索它卻仍看不全，因為它永遠向外更深更遠，像池中漣漪擴散，超越我們所有人，進入永遠深邃的寂靜。發生的只是真相微小的一部分……也許是最小的部分。而你看見的更小。」
 
- "Bu-uut--it's not true!" Edward protested.
-
- "Boy, you think there's only one truth? Was what you saw today truth? Did you see all the truth? Even of what did happen? What you saw here tonight will light up truths unseen, if you allow it ... you could spend a lifetime reflecting on it and yet not see it whole, for it goes ever further and deeper, spreading like ripples in a pool, beyond us all and out into the deep stillness of forever. What happens is only a tiny part of truth ... maybe the least part. And what you see is smaller yet."
-
- Edward still thought that a king really ought to have more dignity. But he didn't say so.
+ 愛德華仍認為國王真的該有更多尊嚴。可他沒有說出來。

@@ -1,0 +1,78 @@
+-- Quest: C:\QUESTS\WORKING\C0B00Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 3
+Messages: 13
+Quest: C0B00Y03
+DisplayName: 失蹤學者
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       %pct，我們的一名神職人員，
+<ce>                            名叫_cleric_的=cleric_
+<ce>                     在考古發掘中失蹤了。你願幫我們找到%g2嗎？
+                                     <--->
+<ce>                    我擔心我們最崇高的學者之一，_cleric_，
+<ce>                  在調查一座古老廢墟神殿時失蹤了。
+<ce>                     你願幫我們找到%g2嗎？
+
+RefuseQuest:  [1001]
+<ce>                        坦白說，這看法相當冷酷，%pcf。
+
+AcceptQuest:  [1002]
+<ce>                     很好，很好。那麼，_cleric_大約兩週前
+<ce>                            前往___mondung_進行發掘。
+<ce>                     也許一切安好，但是……我給你=queston_天
+<ce>                    去那裡，找到_cleric_再回來。
+<ce>                       願%god與你同行，%pct。保重。
+
+QuestComplete:  [1004]
+<ce>                           啊，%pct與好心的_cleric_，
+<ce>                          很高興你們又回到__qgiver_。
+<ce>                     坦白說，我曾擔心最壞的情況。
+
+RumorsDuringQuest:  [1005]
+_cleric_手無寸鐵就進___mondung_，真是傻瓜。
+<--->
+___mondung_可不是_cleric_這種學者=cleric_該去的地方。
+
+RumorsPostfailure:  [1006]
+人人都放棄再見到_cleric_的希望了。
+<--->
+__qgiver_正為_cleric_的失蹤哀悼。
+
+RumorsPostsuccess:  [1007]
+多虧那位%ra，_cleric_已開始撰寫___mondung_的歷史。
+<--->
+救出_cleric_提高了__qgiver_對你的評價。
+
+QuestorPostsuccess:  [1008]
+看在你為_cleric_所做的一切上，我當然會幫你，%pcf。
+
+QuestorPostfailure:  [1009]
+我還記得_cleric_，%pcf。離開我。
+
+QuestLogEntry:  [1010]
+%qdt:
+ __qgiver_的_qgiver_派我去
+ ___mondung_救援一名失蹤的神職人員
+ _cleric_。我有=queston_天找到
+ 那=cleric_並返回___qgiver_
+ 與__qgiver_。
+
+Message:  1011
+<ce>                      天哪，你嚇了我一跳，年輕的%ra。
+<ce>                    我真的在下面待了那麼久？時間過得真快。
+<ce>                     那麼，若你肯好心護送我回神殿，
+<ce>                            我的好%pcf……
+                                     <--->
+<ce>                         感謝%god你來了。
+<ce>                      我找出口已經快一週了。
+<ce>                  我會跟著你回神殿。
+
+Message:  1012
+<ce>                    「啊，從這裡我認得路了，」
+<ce>                         _cleric_蹣跚離去。

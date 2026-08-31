@@ -1,5 +1,5 @@
-Title: The Pig Children
-Author: Tyston Bane
+Title: 豬孩
+Author: 泰斯頓·貝恩
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,12 +8,12 @@ Content:
 
 [/font=2]
 
-[/center]The Pig Children
+[/center]豬孩
 
 [/font=4]
 
- No one, not the oldest Dark Elf of Mount Dagoth-Ur or the Ancient Sage of Solitude, no one can recall a time when the Orc did not ravage our fair Tamriel. Whatever foul and pestilent daedra of Oblivion conjured them could scarcely have created a more constant threat to the well-being of the civilized races of Tamriel.
+ 沒有人——無論是達格斯-烏爾山上最年長的黑暗精靈，還是獨孤城的遠古賢者——沒有人能記起獸人不曾蹂躪我們美麗泰姆瑞爾的時代。無論湮滅中哪一個污穢瘟疫的迪德拉把他們召喚出來，幾乎不可能造出對泰姆瑞爾各文明種族福祉更持續的威脅。
 
- Orcs are thankfully easy to recognize from other humanoids by their size, commonly forty pertans in height and fifteen thousand angaids in weight, their brutal pig-like features, and their stench. They are consistantly belligerant, morally grotesque, intellectually moronic, and unclean. By all rights, the civilized races of Tamriel should have been able to purge our land of their blight eras ago, but their ferocity, animal cunning, and curious tribal loyalty has made them inevitable as leeches in a stagnant pool.
+ 幸好獸人很容易與其他類人生物區分：體型通常高四十珀坦、重一萬五千安蓋德，殘暴的豬樣容貌，以及那股惡臭。他們一貫好鬥、道德醜惡、智力愚鈍、骯髒不潔。按理說，泰姆瑞爾的文明種族早該在數紀元前就把這禍害從我們的土地上清除；然而他們的凶猛、獸性的狡猾，以及奇特的部落忠誠，使他們如同死水中的水蛭一般不可避免。
 
- Tales of orcish barbarity preceed written record. When Jastyaga wrote of the Order of Diagna joining the armies of Daggerfall and Sentinel "to hold the wicked orcs in their foul Orsinium tower ... and burn all" in 1E 950, she assumed that any reader would be aware of the savagery of the orcs. When the siege was completed thirty years later, after the death of many heroes including Gaiden Shinji, and the destruction of Orsinium scattered the orc survivors throughout the Wrothgarian Mountains, Jastyaga wrote, "the people rejoiced for their ancient enemy was dispersed." Obviously, the orcs had been terrorizing the region of the Iliac Bay at least since the early years of the first era.
+ 獸人野蠻的故事早於文字記載。當賈斯蒂亞加寫到迪亞格納騎士團加入匕首雨與哨兵城的軍隊，「把邪惡獸人困在他們污穢的奧辛紐姆塔裡……並盡數焚燒」，時在第一紀元950年，她假定任何讀者都會知道獸人的殘暴。三十年後圍城結束，許多英雄包括蓋登·信治戰死，奧辛紐姆被毀，獸人倖存者散入羅斯加里安山脈，賈斯蒂亞加寫道：「人民歡慶，因為他們的古老敵人已被驅散。」顯然，至少自第一紀元早期起，獸人便已在伊利亞克灣一帶為禍。

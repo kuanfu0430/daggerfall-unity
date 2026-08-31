@@ -1,5 +1,5 @@
-Title: King Edward, Part VIII
-Author: Anonymous
+Title: 愛德華王，其八
+Author: 佚名
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,230 +8,230 @@ Content:
 
 [/font=2]
 
-[/center]King Edward, Part VIII
+[/center]愛德華王，其八
 
 [/font=4]
 
 [/center]
 
-[/center]Wilderland
+[/center]荒野之地
 
- The journey through Valenwood was pleasant. The weather held fair for the most part, with sunny days and cool nights. Bright leaves of scarlet, crimson, gold and green drifted down to form a carpet beneath their horses' feet. Valenwood was very different from the somber, steep forests of High Rock. When they reached the northern border, Edward, looking back, saw that the trees were mostly bare, shorn of their glory. Before them lay a wide green land of rolling hills with only a few stands of trees. It seemed to spread on forever.
+ 穿越瓦倫林地的旅程很愉快。天氣大多晴朗，白日陽光充足，夜間涼爽。鮮紅、深紅、金與綠的亮葉飄落，在馬蹄下鋪成地毯。瓦倫林地與高岩陰鬱陡峭的森林非常不同。到達北部邊界時，愛德華回望，看見樹木大多光禿，褪去了榮光。他們面前是一片寬廣的綠色丘陵之地，只有幾叢樹木。它似乎永遠延展。
 
- "This is Wilderland, Edward," Moraelyn said. "Be on your guard. It seems a pleasant land, but no king's writ runs here. Each man's hand is against every other's -- and there are worse than men. All the races of Tamriel meet here, and clash, save thine, perhaps."
+ 「這是荒野之地，愛德華。」莫瑞林說。「提高警惕。它看起來是宜人的土地，可這兒沒有國王的法令通行。人人與人人為敵——還有比人更糟的。泰姆瑞爾所有種族在此相遇、衝突，或許除了你的。」
 
- They journeyed for some days more with small incident ... save one for a band of Khajiit raiders that crept up on their camp by night. These were easily repelled. Silk slew one and the rest ran off yowling. The gentle wood elf girl, Willow, lobbed fireballs after them. There were no roads, just small paths that criss-crossed one another and seemingly led nowhere.
+ 他們又走了些日子，幾乎無事……除了一隊夜間潛近營地的卡吉特襲擊者。這些輕易被擊退。絲爾克殺了一個，其餘的嚎叫著跑掉。溫柔的木精靈女孩薇蘿朝他們扔火球。沒有道路，只有交錯看似通向無處的小徑。
 
- After two weeks of steady riding they came to a bowl shaped place in the hills where the land was tilled. The fields looked fair and were stacked with harvest, but the folk were dispirited, ragged, and unfriendly. Questions about inns got only shrugs and puzzled looks. Armed bands challenged them at times and demanded to know their business. When Moraelyn said they were bound for Morrowind, they were told to pass through quickly and mind they stole nothing.
+ 穩步騎行兩週後，他們來到丘陵中一處碗狀之地，土地被耕種。田地看起來不錯，堆著收成，可人們無精打采、衣衫襤褸、不友善。問旅店只得到聳肩和困惑的表情。武裝隊伍不時攔他們，要求知道他們的來意。當莫瑞林說他們要去晨風，他們被告知趕快通過，當心別偷任何東西。
 
- "Passage is all we wish," Moraelyn said quietly.
+ 「我們只求通過。」莫瑞林平靜地說。
 
- "Someone should teach these folk manners," the usually placid Mats growled.
+ 「該有人教這些人禮貌。」一向平和的馬茨咆哮道。
 
- "Thou mayst stay and open a school of etiquette, if it pleases thee," Moraelyn said, "I fear my life's too short to teach the lessons these villains require. Still, I like not the look of the sky; it looks e'en more evil than the folk. I think we'll try our luck in the town."
+ 「你若樂意，可以留下開一所禮儀學校。」莫瑞林說，「我怕我的生命太短，教不完這些惡棍需要的功課。不過，我不喜歡天色；它看起來甚至比這些人更邪惡。我想我們試試城裡的運氣。」
 
- The town was surrounded by a palisade of wood and had a stout gate. Guards looked them over and refused them entrance. "None but humans enter here, elf. Take thy rabble and begone."
+ 城鎮圍著木柵，有堅固的大門。衛兵打量他們，拒絕讓他們進入。「這兒只准人類進入，精靈。帶你的烏合之眾滾開。」
 
- "I see. Ali, Mats, Edward, thou seemst to qualify for the hospitality here. The rest of us will shelter elsewhere."
+ 「明白了。艾莉、馬茨、愛德華，你們似乎有資格享受這兒的款待。我們其餘的人到別處棲身。」
 
- Aliera announced that she would see them all blown back to Firsthold by the storm before she'd step within these gates. So they circled the town, passing a moat with stone walls within and a keep of some sort within that. A track north took them past a small house with a large barn nearby. Both looked in poor repair, but Moraelyn sent Aliera and Edward to knock at the door and ask if they might sleep in the barn. The rest waited in the road.
+ 艾莉菈宣布她寧願看見他們全被風暴吹回初持，也不踏進這些門。於是他們繞城而行，經過護城河，裡面有石牆和某種城堡。一條北向小徑帶他們經過一座小屋，附近有座大穀倉。兩者看起來年久失修，可莫瑞林派艾莉菈和愛德華去敲門，問能否睡在穀倉裡。其餘的人在路上等候。
 
- An elderly woman answered their knock; she looked pleased to see them. "Stay? Aye, I'd be glad of the company. No need to sleep in the barn, though, lady. I've a room to spare. My name's Ora Engelsdottir." Aliera gestured toward the waiting Companions. The woman squinted toward them. "Thy man's there and some friends? Aye, we'll all squeeze together then. T'will be warmer so. I've a pot of soup on the fire; made it to last me a week but you're welcome to it. I can make more."
+ 一位老婦人應門；看見他們她看起來很高興。「住下？是啊，我樂意有伴。不過不必睡穀倉，夫人。我有多餘的房間。我叫奧拉·恩格爾斯多蒂爾。」艾莉菈朝等候的同伴們做了個手勢。婦人朝他們眯眼。「你的男人在那兒，還有些朋友？是啊，那我們全擠在一起。這樣更暖。火上有鍋湯；本想讓我喝一週，歡迎你們喝。我可以再做。」
 
- "My husband's an elf."
+ 「我丈夫是精靈。」
 
- "Is he so? He looks to take good care of thee and thy son. Thou's fat as pigs. Bring them in. I wish my grand-daughter had such a one to care for her."
+ 「是嗎？他看起來把你和你兒子照顧得很好。你們肥得像豬。帶他們進來。但願我孫女也有這樣一個來照顧她。」
 
- Ora refused payment, saying she was not yet at such a pass that her guests must pay for her hospitality. She said tales and song and an evening's merriment would be payment enough. Pots and dishes were set out to catch the worst of the leaks; she knew them all well. They gathered around the hearth and made very merry while the storm raged, banging the shutters and doors and threatening to blow the roof away altogether.
+ 奧拉拒絕收費，說她還沒落到客人必須為她的款待付錢的地步。她說故事、歌唱和一晚的歡樂就足夠作為報償。鍋碗被擺出來接最嚴重的漏水；她對它們全都一清二楚。他們圍著爐邊非常歡樂，而風暴肆虐，撞擊百葉窗和門，威脅要把屋頂整個吹走。
 
- "Tell me, my lady," Ora whispered apart to Aliera, "He's truly good to thee? He's so big and so black."
+ 「告訴我，夫人，」奧拉私下對艾莉菈低語，「他真的對你好嗎？他那麼大、那麼黑。」
 
- "Truly good," Aliera said keeping her mouth serious while her eyes laughed.
+ 「真的很好。」艾莉菈說，嘴保持嚴肅而眼睛在笑。
 
- "Aye, 'tis well, then. He put me a bit in mind of our baron, who's big and dark -- oh, not so dark as thy elf. He took my grand-daughter, Caron -- and, he does not treat her well. He -- he hurts her, my lady. And she dare not run away. Where would she go?" Tears gathered in Ora's eyes and followed worn familiar tracks down her cheeks.
+ 「啊，那就好。他讓我想起我們的男爵一點，他又大又黑——噢，沒有你的精靈那麼黑。他帶走了我孫女卡蘿——而且，他待她不好。他——他傷害她，夫人。而她不敢逃跑。她能去哪？」淚水聚在奧拉眼中，沿熟悉磨損的軌跡流下臉頰。
 
- When their hostess had gone to sleep in her own room, Aliera repeated what she had been told.
+ 女主人去自己房間睡覺後，艾莉菈重複了她被告知的話。
 
- "Let's rescue the girl," Beech said, "we grow stale with inaction."
+ 「我們去救那女孩。」畢奇說，「我們因無所作為而變得陳腐。」
 
- "Aye!" said Silk and Willow at once.
+ 「贊成！」絲爾克和薇蘿立刻說。
 
- Mats growled an agreement. Mith and Ssa'ass looked interested.
+ 馬茨咆哮著同意。密斯和薩阿斯看起來感興趣。
 
- Moraelyn looked doubtful. "We cannot right every wrong in Tamriel. This baron offers his folk shelter of a kind. They could leave if they liked it better outside."
+ 莫瑞林看起來懷疑。「我們不能糾正泰姆瑞爾每一件錯事。這男爵給他的人民一種棲身。他們若不喜歡外面，可以離開。」
 
- "Aye," Mith said, "he keeps the bandits off so he may rob the folk at leisure."
+ 「是啊，」密斯說，「他趕走土匪，好讓自己從容搶劫百姓。」
 
- "An we pull him down? There'll be another to take his place. Or else the outside will come in and there'll be nothing left at all."
+ 「若我們把他拉下來？會有另一個取代他的位置。否則外面會進來，什麼都不剩。」
 
- "Nothing would be better than this filthy something," Mats said.
+ 「什麼都沒有也比這骯髒的什麼都強。」馬茨說。
 
- "There's that." The storm seemed to have moved away. Aliera went to the door and stared up into the sky where clouds raced past the eastern moon. A single large brilliant blue star hung near the moon. "Zenithar hangs near Tamriel tonight. Moraelyn?"
+ 「那倒是。」風暴似乎已移開。艾莉菈走到門口，仰望天空，雲從東月旁疾馳而過。一顆巨大明亮的藍星掛在月附近。「澤尼薩爾今夜靠近泰姆瑞爾。莫瑞林？」
 
- "I'd thought to mend her roofs tomorrow if it's fair," he said as she returned to the fireside. "We'll do so much at least. As for the rest -- Aliera?"
+ 「我本想明天若天晴就修她的屋頂。」她回到爐邊時他說。「我們至少做這麼多。至於其餘——艾莉菈？」
 
- "She asked for my help, in a way ... and I -- I think I hear Zenithar's voice in the wind and feel his hand in the rain on this night."
+ 「她以某種方式向我求助……而我——我想我在風中聽見澤尼薩爾的聲音，在今夜的雨中感到他的手。」
 
- "Thy quest, then, wife."
+ 「那就是你的任務了，妻子。」
 
- Aliera nodded, unsmiling. She curled up with Moraelyn in the chimney corner and they whispered and laughed together for awhile. Edward fell asleep. In the morning he was sent up on the roof to help Beech and Willow place new shingles. Moraelyn wrote a letter which he gave to Mats, telling him to take it to the baron, to arrive at the castle around dinnertime and to go afoot.
+ 艾莉菈點頭，沒有微笑。她與莫瑞林蜷在煙囪角落，低語笑了一陣。愛德華睡著了。早晨他被派上屋頂幫畢奇和薇蘿鋪新木瓦。莫瑞林寫了一封信交給馬茨，告訴他帶給男爵，大約晚飯時抵達城堡，步行前往。
 
- "You're going to challenge him for the girl!" Edward grinned. "But will he fight? And wouldn't he take her back again once we're gone?"
+ 「你要為那女孩向他挑戰！」愛德華咧嘴笑。「可他會打嗎？我們一走他不會把她再搶回去嗎？」
 
- "Mmm. Since he wouldn't let me in his town, thy mother thought to invite him to our house instead." Moraelyn stamped the letter with his sealing ring and handed it to Mats.
+ 「嗯。既然他不讓我進城，你母親想改請他到我們家。」莫瑞林用封印戒指蓋印，把信交給馬茨。
 
- "Oh. It's a long way to your house still, isn't it?" Edward felt a bit of disappointment that no rescue seemed imminent, but he supposed it really was not reasonable to expect eight people to take a keep, even if they were Moraelyn's Companions. Probably the songs exaggerated their deeds.
+ 「噢。到你家還很遠，不是嗎？」愛德華對救援似乎不即將到來感到一點失望，可他想指望八個人攻下一座城堡確實不合理，即使他們是莫瑞林的同伴。大概那些歌誇大了他們的事蹟。
 
- Moraelyn grinned, ruffled Edward's hair and told him to cease his questions, get up on the roof, and mind his mother. Moraelyn and Mith set off together on foot. Aliera said they were going hunting. They did not return even at suppertime. Aliera told Edward not to worry; they'd meet later.
+ 莫瑞林咧嘴笑，揉亂愛德華的頭髮，叫他別再問問題，爬上屋頂，聽母親的話。莫瑞林和密斯一起步行出發。艾莉菈說他們去打獵。甚至晚飯時他們也沒回來。艾莉菈告訴愛德華別擔心；他們稍後會會合。
 
- It was well after sundown when she bid their hostess farewell. They took all the horses with them and left them in a grove near the north wall of the keep. Aliera asked Edward if he wanted to wait for them with the horses. Edward asked where they were going.
+ 日落後很久她才向女主人道別。他們帶上所有的馬，留在城堡北牆附近的小樹林裡。艾莉菈問愛德華是否想跟馬一起等他們。愛德華問他們要去哪。
 
- "We have to enter the keep to get Ora's grandchild out. No questions, Edward. If you're coming, then stay with me and do exactly as I say. Levitate across the moat: I must swim. Once across we'll scale the wall. Once inside, just follow me and be as silent as you can."
+ 「我們必須進入城堡把奧拉的孫女救出來。別問問題，愛德華。若你來，就跟著我，完全照我說的做。漂浮過護城河：我必須游泳。過去後我們爬牆。進去後，只跟著我，盡可能安靜。」
 
- Edward gaped at his mother and the other Companions. How could the six of them possibly storm a keep? Three women, two men and a boy? There would be guards up on the wall and a lot more inside. Mats would be inside too, though, he guessed. But where were Moraelyn and Mith?
+ 愛德華張大嘴看著母親和其他同伴。他們六個怎麼可能攻下一座城堡？三個女人、兩個男人和一個男孩？馬茨會在裡面，他猜。可莫瑞林和密斯在哪？
 
- There were fearsome things in the moat. Edward began a protest, then thought better of it. Ssa'ass slid into the moat first. There was some splashing and hissing, then the water went quiet. Aliera entered the water. The others levitated.
+ 護城河裡有可怕的東西。愛德華開始抗議，然後想了想。薩阿斯先滑進護城河。有些濺水和嘶聲，然後水面安靜了。艾莉菈入水。其他人漂浮。
 
- "Here's the ropes," Beech said, feeling along the wall. There were three ropes. Edward, Beech and Ssa'ass went up first; Aliera, Willow and Silk followed. Moraelyn and Mith were waiting above. Two guards were snoring softly in a heap.
+ 「繩子在這兒。」畢奇說，沿牆摸索。有三根繩。愛德華、畢奇和薩阿斯先上；艾莉菈、薇蘿和絲爾克跟上。莫瑞林和密斯在上面等候。兩名衛兵在一堆裡輕輕打鼾。
 
- "How--" Edward began, and found his mother's hand clapped over his mouth. A guard from another wall section called out and Edward's heart stopped beating. Mith called something back to him and tramping footsteps moved away.
+ 「怎麼——」愛德華剛開口，發現母親的手捂住他的嘴。另一段牆的衛兵喊了一聲，愛德華的心跳停了。密斯朝他喊了什麼回去，腳步聲走開了。
 
- The Companions went silently down the stairs and slipped across the yard like shadows. There was no guard on the door to the keep itself. Inside the passages were eerily quiet. They stopped at an imposing door and flattened themselves against the wall beside it. They could hear voices within. A thin chilling wail sounded and died away. Moraelyn whistled a snatch of song into the silence that followed. The door swung open and they raced inside, falling on the startled guards like furies.
+ 同伴們無聲走下樓梯，像影子一樣溜過院子。城堡本身的門沒有衛兵。裡面通道詭異地安靜。他們停在一扇氣派的門前，貼牆蹲下。裡面能聽見聲音。一聲細薄令人寒顫的哀號響起然後消失。莫瑞林朝隨後的寂靜吹了一段歌。門擺開，他們衝進去，如復仇女神般撲向驚愕的衛兵。
 
- Edward was last inside, Tooth in his hand; he stabbed the nearest guard in the side, and Beech finished him with a blow to the head. Mats had been inside; it was he who had opened the door. His axe clove the head of one guard, then swung against the inner door. Aliera and Willow had barred the strong outer door. Moraelyn's opponent was a very young man. He'd taken one look at the big dark elf, dropped his sword and fallen to his knees, praying for mercy.
+ 愛德華最後進去，牙刃在手；他刺中最近衛兵的肋側，畢奇一擊頭部結果了他。馬茨一直在裡面；是他開的門。他的斧劈開一名衛兵的頭，然後揮向內門。艾莉菈和薇蘿閂上堅固的外門。莫瑞林的對手是個非常年輕的男子。他看了一眼高大的黑暗精靈，扔下劍跪倒，祈求憐憫。
 
- Moraelyn eyed him with disgust and said, "Greet Zenithar for me; tell him Moraelyn of Ebonheart commends you to his mercy. I have none for such as you." He slashed the young guard's throat. Blood sprayed over Moraelyn's leathers. His victim fell over, gurgling horribly. A burning acid rose in Edward's throat; he swallowed hard and looked away.
+ 莫瑞林厭惡地看著他，說：「替我向澤尼薩爾問好；告訴他烏木之心的莫瑞林把你託付給他的憐憫。我對你這種人沒有。」他割開年輕衛兵的喉嚨。血噴在莫瑞林的皮革上。受害者倒下，可怕地咯咯作響。一股灼熱的酸湧上愛德華的喉嚨；他用力嚥下，別開眼。
 
- The guards inside the anteroom had been dispatched, but outside the door shouts and footfalls thundered and there was pounding on the door. Edward followed his mother into the inner chamber, which was empty save for a naked girl tied spreadeagle on the enormous bed, her eyes starting from her head.
+ 前廳的衛兵已被解決，可門外喊聲和腳步如雷，有人捶門。愛德華跟著母親進入內室，裡面空無一人，只有一個赤裸的女孩被大字形綁在巨大的床上，眼睛從眼眶裡凸出。
 
- The Companions cut her free while Aliera caught her shoulders. "Thy grandmother sent us, child. Where's the baron?"
+ 同伴們割斷她的繩，艾莉菈抓住她的肩膀。「你祖母派我們來的，孩子。男爵在哪？」
 
- The girl pointed at a bookcase, then clung to Aliera. She was no bigger than Edward and seemed not much older. Her breasts were just beginning. She was covered with welts and blood and purple-yellow bruises. Aliera flung her own cloak over the girl. Beech picked her up. Mith's fingers were feeling over the bookcase; there was a click and a section slid aside. He went through cautiously. The others followed and the secret door closed after them.
+ 女孩指向一個書架，然後緊緊抓住艾莉菈。她不比愛德華大，看起來也大不了多少。她的胸部剛開始發育。她滿是鞭痕、血和紫黃瘀傷。艾莉菈把自己的斗篷甩在女孩身上。畢奇抱起她。密斯的手指在書架上摸索；咔噠一聲，一部分滑開。他小心走進去。其他人跟上，密門在他們身後關上。
 
- "I think it's just a bolt hole," Mith said, "but there'll be traps, no doubt."
+ 「我想這只是個逃生洞。」密斯說，「可無疑會有陷阱。」
 
- "Go warily, then, friend," Aliera said. "There's no hurry. I think the baron plans to show his departing guests the door, as a good host should."
+ 「那就小心走，朋友。」艾莉菈說。「不急。我想男爵計畫像好主人該做的那樣，為離去的客人指出門。」
 
- A narrow passage opened to the left. Mith sent a bolt of light down it. The floor was littered with bones. Human bones. Small skulls stared eyelessly. "I'm going to enjoy killing him," Moraelyn said.
+ 一條窄通道向左開。密斯沿它射出一道光。地板上散落著骨頭。人類的骨頭。小小的頭骨空洞地瞪著。「殺他我會很享受。」莫瑞林說。
 
- "No!" Aliera protested. "My quest, my kill!"
+ 「不！」艾莉菈抗議。「我的任務，我的擊殺！」
 
- Moraelyn swung to face her. "Aliera--"
+ 莫瑞林轉身面對她。「艾莉菈——」
 
- "I want it sung that he died by Aliera's hand! I claim my right to face him, king."
+ 「我要歌裡唱他死於艾莉菈之手！我要求面對他的權利，國王。」
 
- "Leave him to me and we'll sing it your way! He's twice your size. D'you want to fight ME for the right?" The elf leaned over her, a full head taller.
+ 「留給我，我們就按你的方式唱！他有你兩個大。你想為這權利跟我打嗎？」精靈俯身看她，高出整整一頭。
 
- "If I must." Aliera brushed past him, slinging her shield on her arm, and drawing her short sword as she ran.
+ 「若必須。」艾莉菈從他身旁擦過，把盾牌挎上臂，邊跑邊拔出短劍。
 
- Moraelyn grabbed at her, missed, and ran after her. His size hampered him in the low, narrow passage. Sparks flew from his spell shield as he caroomed recklessly off the walls.
+ 莫瑞林伸手抓她，沒抓住，追上去。他的體型在低矮狹窄的通道裡妨礙他。法術護盾擦牆時火花飛濺，他不顧一切地彈開。
 
- "Come on, you two," Mith yelled from ahead. "I'm not promising to save him for you."
+ 「來啊，你們兩個。」密斯從前方喊。「我不保證給你們留著他。」
 
- "Moraelyn," Edward gasped, running after him. "You're not going to let her!"
+ 「莫瑞林，」愛德華喘著追他。「你不會讓她！」
 
- "Let her! How d'ye propose I stop her? I'm open to suggestions, short of actually fighting her myself." He seemed half-angry, half-amused.
+ 「讓她！你打算我怎麼阻止她？我願意聽建議，只要不是真的跟她打。」他看起來一半生氣，一半覺得好笑。
 
- "M-maybe he's gone by now."
+ 「也——也許他這會兒已經走了。」
 
- "Nay, he's locked in here with us; we found the exit earlier from the other side and Mith set a lock the baron will not undo."
+ 「不，他跟我們鎖在這兒；我們稍早從另一邊找到出口，密斯設了一把男爵解不開的鎖。」
 
- "Well, paralyze her. You can carry her."
+ 「那，讓她麻痺。你可以扛她。」
 
- "She's activated her shield; it reflects spells, among other things. I'd only paralyze myself and I'd be inconvenient to carry. She'll be all right. It's an excellent shield. It casts a very powerful protective spell. I'ric himself devised it."
+ 「她啟動了護盾；它反射法術，還有別的。我只會麻痺自己，扛起來會不方便。她會沒事的。那是極好的護盾。它施非常強大的保護法術。伊瑞克親自設計的。」
 
- "Having a spot of trouble with your locks tonight, baron?" Mith's voice came clearly from ahead. They emerged into a larger space where the baron had been clawing vainly at switches beside a massive door. "Shoddy work. You should get another smith."
+ 「今晚鎖有點麻煩啊，男爵？」密斯的聲音從前方清晰傳來。他們進入一個較大的空間，男爵正徒勞地抓著一扇巨門旁的開關。「粗劣的工。你該換個鐵匠。」
 
- "He won't be needing one," Aliera snarled. The Companions spread around her in a semi-circle. The baron set his back to the door and set himself in a fighting stance. He was a big man, as big as Mats, and he was holding an axe as big as the one Mats wielded, and wearing a breastplate and helm. He addressed Moraelyn.
+ 「他不會需要了。」艾莉菈咆哮。同伴們在她周圍圍成半圓。男爵背靠門，擺出戰鬥姿勢。他是個大男人，跟馬茨一樣大，握著一把跟馬茨揮的一樣大的斧，穿著胸甲和頭盔。他對莫瑞林說話。
 
- "Nine against one. I'd expect odds like that from you black devils," Moraelyn was at the back of the group, yet the baron had singled him out as the leader. People did, somehow.
+ 「九對一。我料想你們這些黑惡魔會來這種賠率。」莫瑞林在人群後面，男爵卻把他單出來當領袖。人們不知怎的總會這樣。
 
- "You prefer the advantage of weight, do you not? But my wife wants you to herself. She cannot resist your charms it seems. Nor can I; I could not wait for you to respond to my invitation, so I came to you instead."
+ 「你更喜歡體重的優勢，不是嗎？可我妻子想獨自對付你。看來她無法抗拒你的魅力。我也無法；我等不及你回應我的邀請，所以我改來找你。」
 
- "I beat her and the rest of you kill me? Hah! It might be worth it at that," he added, staring at Aliera with cold dark eyes.
+ 「我打贏她，你們其餘的人殺我？哈！那樣或許也值得，」他補上一句，用冰冷的黑眼睛盯著艾莉菈。
 
- Aliera smiled a terrible smile. Her dark hair swung free about her shoulders and she seemed to glow. "You will not beat this woman, baron, but if you do, then you go free. You are mine alone tonight. Swear it all, by Zenithar! If he haps to kill me, my ghost will hound him to his grave and beyond." She sounded rather pleased at the prospect. Edward began to shiver.
+ 艾莉菈露出可怕的微笑。她深色的頭髮在肩上自由擺動，她似乎在發光。「你打不贏這個女人，男爵，可若你打贏了，你就自由了。今晚你只屬於我。全體以澤尼薩爾起誓！若他碰巧殺了我，我的鬼魂會追他到墳墓之外。」她聽起來對這前景相當高興。愛德華開始發抖。
 
- "By Zenithar!"
+ 「以澤尼薩爾起誓！」
 
- The baron laughed, "I don't believe you, but one last female for my collection then. Are you so wearied of her, elf?"
+ 男爵大笑，「我不相信你們，不過那就讓我收藏裡再添一個最後的女人。你對她那麼厭倦了嗎，精靈？」
 
- "Are you so afraid of her that you'd rather face me instead?" Somewhere deep in his mind Edward realized that the elf was right. Despite the baron's bravado, he was afraid of Aliera. Edward hadn't sworn with the others. He clutched his staff tightly but his feet seemed rooted to the floor.
+ 「你那麼怕她，寧願面對我？」愛德華心底某處意識到精靈是對的。儘管男爵虛張聲勢，他怕艾莉菈。愛德華沒有跟其他人一起起誓。他緊緊握住杖，腳卻像生了根。
 
- The baron laughed again and swung a mighty blow at Aliera in answer, but it deflected harmlessly off her shield. His eyes widened as he realized she was spell shielded. Aliera danced aside and cut his arm. She was nimble, but he managed to land many blows. If her shield went ... Edward did not finish the thought.
+ 男爵再次大笑，作為回答朝艾莉菈揮出有力的一擊，卻無害地偏離她的盾。他眼睛睜大，意識到她有法術護盾。艾莉菈閃到一邊，砍中他的手臂。她敏捷，可他設法擊中許多下。若她的護盾沒了……愛德華沒有把這念頭想完。
 
- But he was leaving himself somewhat open in the hope of wearing her shield down and she was scoring hits against his limbs. She kept her blows low, trying to cost him the use of his legs and drain him of blood. All the while she taunted him about his manhood, saying she would geld him where he died. A great blow knocked her back; her shield flashed and was gone.
+ 可他為了磨損她的護盾讓自己有些敞開，她正在他四肢上得分。她把打擊保持低處，試圖讓他失去腿的使用並讓他失血。同時她嘲弄他的男子氣概，說她會在他死處閹了他。有力的一擊把她打退；她的護盾閃了一下然後沒了。
 
- The baron raised his axe high to cleave her skull with a single blow. Her arm drew back and she threw her slender short sword straight into her enemy's eye. He dropped the axe and fell screaming to his knees, hands clawing at his face. Aliera stepped forward and thrust the sword home, piercing deep within the brain. The body fell over, twitching and jerking.
+ 男爵高舉斧要一擊劈開她的頭骨。她的手臂向後拉，把纖細的短劍直擲進敵人的眼睛。他扔下斧跪倒尖叫，雙手抓臉。艾莉菈上前把劍刺入，深深穿進腦中。身體倒下，抽搐跳動。
 
- "Well fought, wife!"
+ 「打得好，妻子！」
 
- "I had a master trainer, and a better armorer!" Aliera laughed, then she threw back her head and shouted wordlessly in triumph, raising her arms, fists clenched.
+ 「我有一位大師級教練，還有更好的鑄甲師！」艾莉菈大笑，然後仰頭無言地歡呼勝利，舉起手臂，拳頭緊握。
 
- "That you did!" Moraelyn grabbed Silk in a rough hug and kissed her noisily. "It's a neat trick you taught her, Silk."
+ 「那你確實有！」莫瑞林粗暴地抱住絲爾克大聲親吻。「你教她的把戲真巧妙，絲爾克。」
 
- "I'll thank you to cease flirting with my trainer, husband!" Aliera said, wiping her slender adamantium blade carefully.
+ 「勞駕別再跟我的教練調情，丈夫！」艾莉菈說，仔細擦拭她纖細的精金刃。
 
- "Me flirt? Not while thy blood's up ... and thy shield's still charged. I'm just thanking her. I'll kiss I'ric too when next I see him."
+ 「我調情？在你血氣上湧……而且護盾還有電荷的時候可不會。我只是謝謝她。下次見到伊瑞克我也會親他。」
 
- "Is he truly dead?" Caron had clung to Beech throughout the fight with her eyes closed. Now she regarded Aliera with -- Awe, Edward thought was the right word. Edward felt something of the same, although it was akin to horror.
+ 「他真的死了嗎？」卡蘿整場戰鬥都閉著眼緊抓畢奇。現在她看著艾莉菈帶著——敬畏，愛德華想這是正確的詞。愛德華感到同樣的東西，雖然它近乎恐怖。
 
- "Dead enough," Aliera said, regarding the still faintly twitching form, with satisfaction. The girl drew closer, then knelt beside him. She picked up a stone and smashed it into the face again and again, sobbing. When she had done, Ssa'ass cast some healing spells on her. Mith unlocked the door. They'd come out quite near to where they had left the horses.
+ 「死夠了。」艾莉菈說，滿意地看著仍微微抽搐的形體。女孩走近，然後跪在他身旁。她撿起一塊石頭一次又一次砸進那張臉，抽泣著。她做完後，薩阿斯對她施了一些治療法術。密斯打開門。他們出來的地方離留馬之處很近。
 
- They took the girl back to her mother's house and left her there, instructing her to tell anyone that ventured to molest her, that Zenithar's servants would return if she were harmed. The bewildered old woman clasped her granddaughter to her. As she bade them farewell, she whispered to Aliera to look after that man of hers.
+ 他們把女孩帶回她母親的家，留她在那兒，指示她告訴任何膽敢騷擾她的人，若她受害，澤尼薩爾的僕人會回來。困惑的老婦人把孫女摟緊。道別時，她低聲對艾莉菈說要照顧好她那個男人。
 
- "Oh, I do," Aliera said. "I do."
+ 「噢，我會的。」艾莉菈說。「我會的。」
 
 [/center]* * *
 
- When they stopped for rest Aliera came over to Edward to talk to him, but he protested that he was very tired and just wanted to sleep. Moraelyn tugged her away, saying that if her son did not need her then she could see to her man, who did. They moved out of the circle of firelight. Edward lay wakeful, listening to their small, stifled sounds. That was not unusual. It had troubled him at first. "I can't sleep; you're too noisy," he'd protested one night. "What are you doing, anyway?" That had drawn giggles from the Companions. "Can't you at least pretend you're sleeping?" Moraelyn had asked plaintively. "Now I know why dark elves seldom have more than one child. What I do not understand is how humans manage to get so many." Moraelyn and Aliera had come back to lie by him that night, but after that he had pretended to sleep, like the others.
+ 他們停下來休息時艾莉菈過來想跟愛德華說話，他卻抗議說非常累，只想睡。莫瑞林把她拉開，說若她兒子不需要她，她可以照顧確實需要她的男人。他們移出火光圈。愛德華醒著躺著，聽他們細小壓抑的聲音。那並不尋常。起初困擾過他。「我睡不著；你們太吵。」他有一晚抗議過。「你們到底在做什麼？」那引來同伴們的咯咯笑。「你們至少能假裝在睡嗎？」莫瑞林曾哀求地問。「現在我知道為什麼黑暗精靈很少有超過一個孩子。我不明白的是人類怎麼能有那麼多。」那天夜裡莫瑞林和艾莉菈回來躺在他身邊，可那之後他像其他人一樣假裝睡覺。
 
- And the noises were too familiar now to keep images of the night's adventures from flashing through his mind, as vivid as if they were happening again in truth. He could feel his daedra feeding and could not stop it. It just wasn't fair, he thought, but now he was beginning to see what Moraelyn meant by feeding his daedra and yet walking with the gods. With Zenithar.
+ 而那些聲音現在太熟悉，擋不住夜間冒險的畫面閃過他的心，生動得彷彿再次真實發生。他能感到迪德拉在進食，無法阻止。這就是不公平，他想，可現在他開始明白莫瑞林說的餵養迪德拉同時與諸神同行是什麼意思。與澤尼薩爾。
 
- Moraelyn came back, carrying Aliera. He set her gently down, then stretched himself out between Edward and her.
+ 莫瑞林回來，抱著艾莉菈。他輕輕放下她，然後在愛德華和她之間伸展開。
 
- "It must be difficult, being a woman," he said softly. "It was hard, watching her. Just watching."
+ 「當女人一定很難。」他輕聲說。「看著她。只是看著。很難。」
 
- Edward nodded.
+ 愛德華點頭。
 
- "I've asked it often enough, of her," Moraelyn continued. "She told me how hard it is, but I never knew until tonight. I knew she'd win. Zenithar was with her, and all the baron had was his daedra. And still it was very hard to watch. She makes that cast nine tries out of ten, and there were more uses on the shield if she missed ... he'd have dropped of exhaustion before he wore it out entirely."
+ 「我常要求她這樣。」莫瑞林繼續。「她告訴我有多難，可直到今晚我才知道。我知道她會贏。澤尼薩爾與她同在，男爵所有的只是他的迪德拉。可看著仍然很難。她十次裡有九次能擲中，護盾上若她失手還有更多用途……他會在完全磨盡它之前先因精疲力竭倒下。」
 
- "I keep thinking about it, too ... and the guard you ... he asked for mercy?"
+ 「我也一直在想……還有你……的那個衛兵？他求憐憫？」
 
- "I know. And yet, he listened to that ... night after night. And still he remained the baron's man."
+ 「我知道。然而，他夜復一夜聽那個……而仍做男爵的人。」
 
- "Most men are not as strong as you are. Maybe he couldn't help himself?" Why was he pleading for a man already dead? His mind kept replaying the night's events as if they might yet come out differently, for better or for worse.
+ 「多數人沒有你那麼強。也許他身不由己？」他為什麼為一個已死的人求情？他的心不斷重播夜間的事件，彷彿它們還可能有不同的結局，無論更好或更壞。
 
- "Even to witness evil such as that corrupts the soul. To watch and do nothing ... Mats would have stayed my hand had there been anything there worth keeping. And it's worse for the young; I am sorry you had to pass through this night."
+ 「即使目睹那樣的邪惡也會腐蝕靈魂。看著卻什麼都不做……若那兒有任何值得保留的東西，馬茨會攔住我的手。對年輕人更糟；抱歉你必須度過這一夜。」
 
- "Is my soul corrupted now?"
+ 「我的靈魂現在被腐蝕了嗎？」
 
- "You feel the acid's bite, as do we all, but you'll heal."
+ 「你感到酸的咬噬，我們都感到，可你會痊癒。」
 
- "Can you Heal me now?"
+ 「你現在能治療我嗎？」
 
- "Aye." Moraelyn gathered the boy in his arms, then rolled over so that Edward lay between his parents. Aliera put her arms around him without really waking. Her strong woman smell mingled with Moraelyn's musky dark spice odor in Edward's nostrils.
+ 「能。」莫瑞林把男孩攬入懷中，然後翻滾，讓愛德華躺在父母之間。艾莉菈沒真正醒來就把手臂環住他。她強烈的女人氣味與莫瑞林麝香般的深色辛香在愛德華鼻間混合。
 
- "She was so angry," Edward whispered. He'd wondered if he would ever really feel the same toward her again ... and yet her arms were still as comforting as before. Maybe Moraelyn too had needed that reassurance and had been wise enough to ask for it.
+ 「她那麼憤怒。」愛德華低語。他曾想過自己是否還能對她有同樣的感覺……然而她的手臂仍像從前一樣安慰。也許莫瑞林也需要那種安心，並且夠明智去要求它。
 
- "She's a woman. That sort of injury to another touches her near," he said.
+ 「她是女人。那種對他人的傷害觸及她很近。」他說。
 
- How near? The boy looked the question he dared not put.
+ 有多近？男孩看著他不敢提出的問題。
 
- "Thy father's not a monster. But she was wed to a man who did not care for her, and she could not leave him. It's common enough among thy race, which makes it none the easier to bear, I think."
+ 「你父親不是怪物。可她嫁給一個不在乎她的男人，她無法離開他。這在你的種族中夠常見，我想這並不讓它更好受。」
 
- "She has a daedra, too, then?" Edward asked sadly.
+ 「那她也有迪德拉？」愛德華悲傷地問。
 
- "You must speak with her about that."
+ 「你必須跟她談那個。」
 
- "It wasn't really a fair fight, her shielded and not him."
+ 「那不完全是公平的戰鬥，她有護盾而他沒有。」
 
- "Fair fighting's for the arena, boy. Would you fight a wolf or hell hound without weapons, spells and armor, though they have none? I would not."
+ 「公平的戰鬥是為競技場的，孩子。你會不帶武器、法術和鎧甲去打狼或地獄獵犬嗎，即使它們沒有？我不會。」
 
- "What will become of Caron and Ora? And the other folk, now that the baron's dead?"
+ 「卡蘿和奧拉會怎樣？還有其他人，現在男爵死了？」
 
- "Do I look like the prophet Marukh? How should I know? We can stop here in the spring and see what's been planted in the field we burned tonight. I've no mind to stay and plow it. I've my own fields to tend -- listen to me, I sound like a Nord farmer. Mines to dig is more like it." He yawned.
+ 「我看起來像先知馬魯克嗎？我怎麼會知道？我們春天可以停在這兒，看看今晚我們燒掉的田裡種了什麼。我無意留下耕它。我有自己的田要照料——聽我說話，我聽起來像諾德農夫。更像是礦要挖。」他打了個哈欠。
 
- "The others didn't think about afterwards. You did."
+ 「其他人沒想過之後。你想了。」
 
- "I'm a king; it's what we do."
+ 「我是國王；那是我們做的事。」

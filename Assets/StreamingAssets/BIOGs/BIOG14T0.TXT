@@ -1,29 +1,29 @@
-1.	You are most fond of using ___.
-a.	Short-bladed weapons
+1.	你最喜歡使用___。
+a.	短刃
 	#4236
 	!4236
 	?4701
 	28 +12
 	IT 3 3 0
-b.	Hand-to-hand combat
+b.	徒手
 	#4237
 	!4237
 	?4702
 	30 +12
 	IT 2 1 0
-c.	Axe fighting
+c.	斧
 	#4238
 	!4238
 	?4703
 	31 +12
 	IT 3 14 0
-d.	Blunt weapons
+d.	鈍器
 	#4239
 	!4239
 	?4704
 	32 +12
 	IT 3 2 1
-e.	Archery
+e.	箭術
 	#4240
 	!4773
 	?4705
@@ -33,115 +33,114 @@ e.	Archery
 	IT 3 18	1
 	IT 3 18	1
 	IT 3 18	2
-f.	Longblade
+f.	長刃
 	#4241
 	!4241
 	?4706
 	29 +12
 	IT 3 7 0
 
-2.	What motivates you into a life of
-	adventure?
-a.	Riches
+2.	是什麼驅使你走上冒險之路？
+a.	財富
 	#4560
 	GP +500
-b.	Fame
+b.	名聲
 	#4561
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	知識
 	#4562
 	IT 7 0 0
-d.	Fun
+d.	樂趣
 	#4563
 	1 +3
 	2 +3
-e.	Helping Others
+e.	助人
 	#4564
 	r0 +10
 	
-3.	Which of the following skills have you
-	been studying the longest?
-a.	Dodging
+3.	下列技能中，你研習最久的是
+	哪一項？
+a.	閃避
 	20 +6
-b.	Stealth
+b.	潛行
 	16 +6
-c.	Backstabbing
+c.	背刺
 	19 +6
-d.	Lockpicking
+d.	開鎖
 	13 +6
-e.	Pickpocketing
+e.	扒竊
 	15 +6
-f.	Climbing
+f.	攀爬
 	18 +6
-g.	Critical-Striking
+g.	致命一擊
 	34 +6
-h.	Running
+h.	奔跑
 	21 +6
-k.	Jumping
+k.	跳躍
 	3 +6
 
-4.	As a child, your nickname was ___.
-a.	Rabbit
+4.	小時候，別人給你的綽號是___。
+a.	兔子
 	3 +6
-b.	Guppy
+b.	小魚
 	17 +6
-c.	Quicksilver
+c.	水銀
 	21 +6
-d.	Scrapper
+d.	好鬥鬼
 	30 +6
-e.	Monkey
+e.	猴子
 	18 +6
 
-5.	You were loaned and later allowed to keep ___.
-a.	200 gold pieces
+5.	有人借給你、後來准你留下___。
+a.	200 枚金幣
 	GP +200
-b.	A book
+b.	一本書
 	IT 7 0 0
-c.	A cuirass
+c.	一件胸甲
 	IT 2 0 0
-d.	Pauldrons
+d.	一副肩甲
 	IT 2 3 0
 	IT 2 4 0
-e.	A dai-katana
+e.	一把大太刀
 	IT 3 10 1
 
-6.	What god, if any, do you worship?
-a.	None
+6.	你崇拜哪位神祇（若有的話）？
+a.	無
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	阿凱，誕生與死亡之神
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	澤尼薩爾，商業之神
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	瑪拉，母親女神
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	迪貝拉，美之女神
 	rf98 +5
-f.	Julianos, God of Logic
+f.	朱利安諾斯，邏輯之神
 	rf94 +5
-g.	Akatosh, God of Time
+g.	阿卡托什，時間之神
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	斯丹達爾，慈悲之神
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	凱娜瑞斯，空氣女神
 	rf36 +5
 
-7.	You have the most trouble ___.
-a.	Resisting poisons
+7.	你最不擅長___。
+a.	抵抗毒素
 	RP -10
-b.	Staying awake and alert
+b.	保持清醒與警覺
 	FT -5
-c.	Getting along with others
+c.	與人相處
 	RR -5
-d.	Avoiding diseases
+d.	避免疾病
 	RD -5
-e.	Resisting spells
+e.	抵抗法術
 	MR -5
-f.	Fighting and parrying
+f.	戰鬥與格擋
 	TH -5
 
-8.	Since childhood, you have saved  ___.
-a.	100 gold pieces
+8.	從童年起，你存下了___。
+a.	100 枚金幣
 	GP +100
 	IT 3 16 0
 	IT 3 18 0
@@ -152,7 +151,7 @@ a.	100 gold pieces
 	IT 3 18 0
 	IT 3 18 0
 	IT 3 18 0
-b.	A book
+b.	一本書
 	IT 7 0 0
 	IT 3 16 0
 	IT 3 18 0
@@ -163,7 +162,7 @@ b.	A book
 	IT 3 18 0
 	IT 3 18 0
 	IT 3 18 0
-c.	A dozen arrows
+c.	一打箭矢
 	IT 3 18 0
 	IT 3 18 0
 	IT 3 18 0
@@ -185,7 +184,7 @@ c.	A dozen arrows
 	IT 3 18 0
 	IT 3 18 0
 	IT 3 18 0
-d.	A cuirass
+d.	一件胸甲
 	IT 2 0 1
 	IT 3 16 0
 	IT 3 18 0
@@ -197,74 +196,73 @@ d.	A cuirass
 	IT 3 18 0
 	IT 3 18 0
 
-9.	You are friendlier than most with ___.
-a.	the savage Harpies
+9.	你比大多數人更親近___。
+a.	野蠻的鷹身女妖
 	#4428
 	5 +6
-b.	the simple Giants
+b.	單純的巨人
 	#4429
 	6 +6
-c.	the glorious Dragons
+c.	光榮的巨龍
 	#4430
 	7 +6
-d.	the immodest Nymphs
+d.	不羈的寧芙
 	#4431
 	8 +6
-e.	the infernal Daedra
+e.	煉獄的迪德拉
 	#4432
 	9 +6
-f.	the bucolic Spriggans
+f.	鄉野的樹精
 	#4433
 	10 +6
-g.	the primitive Centaurs
+g.	原始的半人馬
 	#4434
 	11 +6
-h.	the mischevious Imps
+h.	淘氣的小惡魔
 	#4435
 	12 +6
 
-10.	Given 200 gold pieces as a reward,
-	You decided to ___.
-a.	Save it.
+10.	獲贈 200 枚金幣作為獎賞後，
+	你決定___。
+a.	存下來
 	GP +200
-b.	Buy an ebony dagger
+b.	買一把烏木匕首
 	IT 3 0 7
-c.	Buy a book
+c.	買一本書
 	IT 7 0 0
-d.	Buy a ruby
+d.	買一顆紅寶石
 	IT 14 0 0
-e.	Buy a silver staff
+e.	買一根銀法杖
 	IT 3 2 2
 
-11.	You spend any free time you have
-	training with ___.
-a.	Short-bladed weapons
+11.	你把所有空閒時間都用來訓練
+	___。
+a.	短刃
 	28 +6
-b.	Hand-to-hand combat
+b.	徒手
 	30 +6
-c.	Axe fighting
+c.	斧
 	31 +6
-d.	Blunt weapons
+d.	鈍器
 	32 +6
-e.	Archery
+e.	箭術
 	33 +6
-f.	Longblade
+f.	長刃
 	29 +6
 
-12.	You are intimate friends with ___.
-a.	a Monk
+12.	你的摯友是___。
+a.	一名修士
 	#4212
 	AF O 8 12 +1
-b.	a Mage
+b.	一名法師
 	#4213
 	AF O 8 2 +1
-c.	a Rogue
+c.	一名流氓
 	#4214
 	AF O 8 8 +1
-d.	a Warrior
+d.	一名戰士
 	#4215
 	AF O 8 17 +1
-e.	an Assassin
+e.	一名刺客
 	#4216
 	AF O 8 11 +1
-

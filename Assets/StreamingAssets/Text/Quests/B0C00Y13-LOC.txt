@@ -1,0 +1,70 @@
+-- Quest: C:\QUESTS\WORKING\B0C00Y13.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: knight
+-- Repute: 0
+-- QuestId: 13
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0C00Y13
+DisplayName: 蟲害房屋
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        我憑什麼信任你，%pcn？
+<ce>                          我想該來場小小的武力試煉。
+<ce>                      你不是本騎士團的成員，
+<ce>                      我當然不會給你什麼要事。
+<ce>                        我有一棟屋子遭了生物侵擾。
+<ce>                       替我殺光牠們，也許我會為你美言幾句。
+
+RefuseQuest:  [1001]
+<ce>                     看來我只好自己動手了。
+<ce>                      你比我想的還沒用。
+
+AcceptQuest:  [1002]
+<ce>                      我只給你1天把_house_清掃乾淨。
+<ce>                      過了期限我就自己動手，
+<ce>                    並告訴所有人你其實是個懦夫。
+
+QuestComplete:  [1004]
+<ce>                        相當不錯，%pcn。
+<ce>                      我會向騎士團為你美言。
+
+RumorsDuringQuest:  [1005]
+_house_裡傳出很奇怪的聲音。
+<--->
+_qgiver_的屋子真是鬧到湮滅去了。
+
+RumorsPostfailure:  [1006]
+可憐的_qgiver_得去僱滅蟲人。
+<--->
+_qgiver_清掃那屋子可得花一筆。
+
+RumorsPostsuccess:  [1007]
+_house_終於安寧了。
+<--->
+那些小畜生終於被趕出_house_了。
+
+QuestorPostsuccess:  [1008]
+嗯，你確實清掃了我的屋子。你需要什麼？
+
+QuestorPostfailure:  [1009]
+連幾隻小畜生都殺不了。別浪費我的時間。
+<--->
+我才懶得跟馬屁精費口舌。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 在___qgiver_，我遇見騎士團的_qgiver_。
+ 若我為%g2清除__house_的_house_
+ 裡的蟲害，就能討好騎士們。
+
+Message:  1011
+<ce>                你已清掃乾淨_qgiver_的屋子。
+
+Message:  1012
+<ce>  你聽見牆壁裡傳來刮擦聲。
+<ce>  那些生物對你侵入牠們的地盤
+<ce>  肯定會反應不佳。

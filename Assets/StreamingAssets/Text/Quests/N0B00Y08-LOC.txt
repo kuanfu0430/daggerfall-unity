@@ -1,0 +1,98 @@
+-- Quest: C:\QUESTS\WORKING\N0B00Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 8
+Messages: 12
+Quest: N0B00Y08
+DisplayName: 施放睡眠法術
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                          高貴的 _warrior_
+<ce>                  贊助過公會許多事業，
+<ce>                   而我們樹敵的同時，
+<ce>                   %g 也跟著遭殃。我們從
+<ce>                   %g2 信使那兒得知，有個女巫
+<ce>                  對 %g2 下了無盡失眠的詛咒。
+<ce>                    一道簡單的睡眠法術就能治癒
+<ce>                    %g2——你願意也有能力
+<ce>                     施放嗎？我願意付你
+<ce>                    _gold_ 金幣。
+                                     <--->
+<ce>                   若你能施放標準的
+<ce>                   睡眠法術，公會有位友人
+<ce>                    正需要幫忙。
+<ce>                          _warrior_ 中了詛咒，
+<ce>                     急需那道催眠法術。
+<ce>                       我可以給你 _gold_ 金幣
+<ce>                     作為這項服務的酬勞。
+
+RefuseQuest:  [1001]
+<ce>                        明白了。%oth，睡眠是
+<ce>                   相對簡單的法術。你最好
+<ce>                   還是去學一學。
+
+AcceptQuest:  [1002]
+<ce>                  很好。我跟信使說了，
+<ce>                  我們只用睡眠法術，
+<ce>                          絕不用別的法術對付 _warrior_。
+<ce>                  以 %g2 先前被詛咒法術整過的經驗，
+<ce>                  你很難怪 %g2 這麼緊張。
+<ce>                         你會在 __castle_ 的
+<ce>                        _castle_ 找到 _warrior_。
+<ce>                   _warrior_ 就是那個盔甲齊全的人。
+<ce>                 務必在 =queston_ 天內回來，
+<ce>                    而且我們的友人要睡得安穩。
+
+QuestComplete:  [1004]
+<ce>                         聽說 _warrior_
+<ce>                   就那麼站著，直接陷入
+<ce>                    美妙的昏睡。真希望 %g
+<ce>                  能在下個新生節前醒來。至於
+<ce>                         你，出色的 %ra，
+<ce>                   這 _gold_ 金幣
+<ce>                             你當之無愧。
+
+RumorsDuringQuest:  [1005]
+可憐的 _warrior_ 已經好幾天沒闔眼了。我想 %g3 神智快撐不住了。
+<--->
+那個讓 _warrior_ 失眠的女巫，可真把 %g2 整慘了。
+
+RumorsPostfailure:  [1006]
+_warrior_ 跟法師公會鬧翻了。他們幫不了 %g2。
+<--->
+_warrior_ 跟女巫和解了，但還沒原諒法師公會。
+
+RumorsPostsuccess:  [1007]
+聽說 _warrior_ 還在睡。現在他們反而怕 %g 永遠醒不來。
+<--->
+詛咒 _warrior_ 的那個女巫發誓，要向治好 %g2 的人報仇。
+
+QuestorPostsuccess:  [1008]
+你幫我們維持了與 _warrior_ 的良好關係。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>               你辜負了我們的友人 _warrior_，
+<ce>                         也就辜負了公會。走吧。
+<ce>               或許過些時候，我能原諒
+<ce>                              你，%pcn。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我答應對 _warrior_ 施放
+ 睡眠法術。%g 是
+ ___qgiver_ 法師公會的
+ 贊助人。我有 =queston_
+ 天趕到 __castle_ 的
+ _castle_，那是
+ _warrior_ 的住所，
+ 成功施法後再回到
+ 法師公會找 _qgiver_。
+
+Message:  1011
+<ce>                            _warrior_ 陷入
+<ce>                     沉睡，卻仍
+<ce>                             站在 %g3 腳上。

@@ -1,0 +1,12 @@
+---- Example quest to track entering "home" location types or wilderness
+---- Start from console: 'startquest __demo20"
+
+Quest: __DEMO20
+
+
+QRC:
+
+QuestLogEntry:  [1010]
+%qdt
+  你必須找到任何一處住宅，
+同時也要探索荒野。

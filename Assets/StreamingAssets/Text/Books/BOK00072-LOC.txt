@@ -1,5 +1,5 @@
-Title: The Healer's Tale
-Author: Anonymous
+Title: 治療師的故事
+Author: 佚名
 IsNaughty: True
 Price: 580
 IsUnique: False
@@ -8,32 +8,32 @@ Content:
 
 [/font=2]
 
-[/center]The Healer's
+[/center]治療師的
 
-[/center]Tale
+[/center]故事
 
 [/font=4]
 
 [/center]
 
- For over twenty years, I have been a healer at the Temple of Stendarr. As the reader is doubtless aware, we are the only temple in the Iliac Bay that offers wound healing and illness curing for both the faithful and the heathen alike, for Stendarr is the God of Mercy. I have faced people at their most miserable and their most terrified. I have seen brave knights weep and strong peasants scream. I like to think that I've watched the masks drop from faces, and seen people as they truly are.
+  二十多年來，我一直是斯丹達爾神殿的治療師。讀者想必知道，我們是伊利亞克灣唯一為信徒與異教徒一視同仁提供傷口治療與疾病治癒的神殿，因為斯丹達爾是慈悲之神。我見過人們最悲慘、最恐懼的模樣。我見過勇敢的騎士哭泣，強壯的農民尖叫。我願意相信，我曾看過面具從臉上落下，看見人們真實的樣子。
 
- A healer's job, after all, is more than simply binding wounds and stopping the flows of poison and disease. We are counselors and comforters for those who have given up all hope. Sometimes, it seems like our kind words and sympathy do more for our patients than our spells.
+  治療師的工作畢竟不只是包紮傷口、止住毒素與疾病的蔓延。我們是那些已放棄一切希望之人的顧問與安慰者。有時，我們善意的話語與同情，似乎比法術更能幫助病人。
 
- I am reminded of a very sick young man who came to the temple, suffering from a variety of maladies. Once I had given him an examination, I told him the results, careful not to alarm him. I let him decide how he wanted to be told the news.
+  我想起一個病得很重的年輕人來到神殿，身患多種病症。檢查過後，我告訴他結果，小心不讓他驚慌。我讓他自己決定希望如何得知消息。
 
- "I have some good news and some bad news, my child," I said.
+  「我有好消息，也有壞消息，孩子，」我說。
 
- "I better hear the bad news first," he said.
+  「我最好先聽壞消息，」他說。
 
- "Well," I said, gripping his shoulder in case he should faint. "The bad news is that, unless I am wrong, you will sicken even more over the next day or two. And unless Stendarr choses to be merciful to you, you will pass from this existance. I am sorry, my child."
+  「這個嘛，」我說，握住他的肩膀，以防他昏倒。「壞消息是，除非我弄錯了，你在未來一兩天還會更病。除非斯丹達爾選擇對你慈悲，你將離開這個存在。我很抱歉，孩子。」
 
- As soft as the blow was, it stung nonetheless. The boy was, after all, very young. He thought he had his whole life ahead of him. Tears streaming down his face, he asked, "And what is the good news?"
+  打擊再輕，仍舊刺痛。那男孩畢竟非常年輕。他以為整個人生還在前方。淚流滿面，他問：「那好消息是什麼？」
 
- I smiled: "When you came in, did you notice our proselytizer? She was the enchanting, voluptuous blonde in the antechamber by the foyer?"
+  我微笑：「你進來時，有沒有注意到我們的勸道者？就是門廳前室那位迷人、豐滿的金髮女子？」
 
- Color returned to the young man's face. He had noticed her indeed. "Yes?"
+  血色回到年輕人臉上。他確實注意到了。「有啊？」
 
- "I'm sleeping with her," I said.
+  「我在跟她睡覺，」我說。
 
- If more of the healers of Tamriel would consider their patients' feelings, not just the quickest way to heal them up and get them out, we would have a far, far healthier society. I truly believe that.
+  若泰姆瑞爾更多治療師能顧及病人的感受，而不只是最快把他們治好趕出去，我們會有一個遠遠健康得多的社會。我真心如此相信。

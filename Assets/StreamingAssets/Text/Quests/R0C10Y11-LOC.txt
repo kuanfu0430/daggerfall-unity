@@ -1,0 +1,90 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 11
+Messages: 16
+Quest: R0C10Y11
+DisplayName: 違禁貨物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   你是否碰巧有空幫我跑一趟小差事？
+<ce>                    非常簡單，我本可以自己去，
+<ce>                   或讓我的跑腿的去辦，但我們都太忙了。
+<ce>                 這能讓你多拿 _reward_ 金幣。還不錯。
+<ce>                           你有空嗎？
+
+RefuseQuest:  [1001]
+<ce>                         不？願%god保佑我，
+<ce>                            別讓閒著的%ra插手。
+
+AcceptQuest:  [1002]
+<ce>                   真幸運。現在，帶上這件 _item_，
+<ce>                         前往 ___qgfriend_
+<ce>                     一處名叫 __qgfriend_ 的地方。
+<ce>                       那裡有個古怪的 =qgfriend_，
+<ce>                        名叫 _qgfriend_。
+<ce>                       把 _item_ 交給%g2，%g
+<ce>                    就會給你 _reward_ 金幣。
+<ce>                    喔，你得在 =queston_ 天內到那裡，
+<ce>                  但這不該成問題。你有一雙結實的年輕腿。
+<ce>                       去吧，怎麼了。
+
+QuestFail:  [1003]
+<ce>                          你長得像%pcf，
+<ce>                        但不可能是。%pcn
+<ce>                     正在趕往 ___qgfriend_。
+
+QuestComplete:  [1004]
+<ce>                  _questgiver_ 雇你當跑腿的？
+<ce>                  啊，是我在等的 _item_。
+<ce>                很好。這是你的金幣。謝謝。
+
+RumorsDuringQuest:  [1005]
+聽說 _questgiver_ 還在幹走私這行。
+<--->
+近來走私活動異常猖獗。
+
+RumorsPostfailure:  [1006]
+聽說有人在荒郊野外撿到一件 _item_。
+<--->
+_questgiver_ 對某個無能的%ra信差氣得要命。
+
+RumorsPostsuccess:  [1007]
+有個 =qgfriend_ 剛來過，揮舞著什麼 _item_。
+<--->
+<ce>             我猜 _questgiver_ 終究沒偷那件 _item_，
+<ce>                      不然就是%g把它吃了。
+
+QuestorPostsuccess:  [1008]
+我認得那雙結實的年輕腿。近來可好，我的老信差？
+<--->
+回來探望舊東家了，是嗎，%pcf？
+
+QuestorPostfailure:  [1009]
+<ce>                      我記得你。你就是那個
+<ce>                       搞砸簡單運送任務的%ra。
+<ce>                     %oth，我沒時間理你。
+
+Message:  1011
+%G是個體面得很的統治者，只是有竊盜癖。
+<--->
+據我所知，是個大手筆的珠寶走私客。
+
+Message:  1012
+_questgiver_ 的銷贓人之一。_qgfriend_ 幾乎住在 __qgfriend_。
+<--->
+那個 =qgfriend_？_qgfriend_ 是 __qgfriend_ 一窩走私客的銷贓人。
+
+Message:  1015
+%qdt:
+__questgiver_ 的 _questgiver_
+ 要我把一件特定的 _item_ 交給
+ 名叫 _qgfriend_ 的同夥。
+ _qgfriend_ 目前出沒於
+ ___qgfriend_ 的 __qgfriend_，
+ 路程大約 =queston_ 天。
+ 反正我只有這麼多時間。

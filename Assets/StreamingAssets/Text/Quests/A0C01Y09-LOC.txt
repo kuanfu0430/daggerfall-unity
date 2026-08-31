@@ -1,0 +1,96 @@
+-- Quest: C:\QUESTS\WORKING\A0C01Y09.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 01
+-- QuestId: 9
+Messages: 62
+Quest: A0C01Y09
+DisplayName: 生日禮物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 請問？我叫 _questg_。我還不確定對你的感覺，但我需要幫忙。
+<ce> 我妹妹 _sister_ 下個月過生日，慶典很需要一些 _item_。
+<ce> 值 _gold_ 金幣。你怎麼說？
+
+RefuseQuest:  [1001]
+<ce> 也好。日安。
+                                     <--->
+<ce> 抱歉問了。
+                                     <--->
+<ce> 那麼我們從沒談過。我可不想讓你破壞驚喜。
+                                     <--->
+<ce> 隨便。這可是輕鬆金幣，你知道的。
+                                     <--->
+<ce> 那就走吧。我還有慶典要籌備。
+
+AcceptQuest:  [1002]
+<ce> 好極了！你真聰明。這是輕鬆金幣。去 _store_ 找 _merchant_。
+<ce> %G 有我需要的那種特定 _item_。記住，離慶典只剩一個月。
+                                     <--->
+<ce> 很好。這是輕鬆金幣。你得到 _store_ 找我需要的那種。
+<ce> 跟 _merchant_ 談。%G 經營那兒。
+
+
+QuestComplete:  [1004]
+<ce> 很好，%pcn。這是我答應的金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說 _questg_ 其實不太喜歡 %g3 妹妹 _sister_。而且 %g 快結婚了。
+
+RumorsPostfailure:  [1006]
+<ce> 聽說 _sister_ 揭發了一起毒殺 %g2 的企圖？
+
+RumorsPostsuccess:  [1007]
+<ce> _sister_ 被發現死了！還是在 %g3 婚禮前夕。
+
+QuestorPostsuccess:  [1008]
+<ce> 咳。嗯，對。既然你確實為我妹妹的婚禮拿到那件……物品，我確實欠你一份人情。
+
+QuestorPostfailure:  [1009]
+<ce> 叛徒！我派你去辦件簡單的取物差事，你卻向 _sister_ 洩密。別指望我幫忙。
+
+
+Message:  1011
+<ce> 你帶著 _item_。
+<ce> 你要把它給 _sister_ 嗎？
+
+Message:  1013
+<ce> 你帶著 _item_。
+<ce> 你要把它給 _questg_ 嗎？
+
+Message:  1025
+%qdt:
+ 我答應 ___questg_ 的 _questg_，
+ 會從 _store_ 的 _merchant_ 取得一些 _item_，
+ 換取 _gold_ 金幣。必須在 _questg_ 的妹妹
+ _sister_ 生日慶典前一個月內帶著 _item_ 回來。
+
+Message:  1040
+<ce> 你好。是的，我是 _merchant_。
+<ce> 一些 _item_？有的。我收你二十金幣，你就可以拿走 _item_。
+<ce> 謝謝光臨。
+
+Message:  1041
+<ce> 你好。是的，我是 _merchant_。
+<ce> 一些 _item_？有的。我收你二十金幣，你就可以拿走 _item_。
+<ce> 噢，抱歉。你似乎沒有足夠金幣支付。
+
+Message:  1050
+<ce> 你好？你來這兒做什麼？你說 _questg_ 要一些 _item_ 給我的生日慶典？
+<ce> 噢，真是美妙的主意！我保證不破壞驚喜！
+
+Message:  1051
+<ce> 你好？你怎麼進來的？什麼？_questg_ 要你帶一些 _item_ 給 %g2？
+<ce> 噢天……你知道他打算拿它做什麼嗎？我知道。
+<ce> _item_ 是我親愛的哥哥喜歡調製的一種藥劑的材料。一種殺人的藥劑。
+<ce> 你絕不能交給 %g2！拜託！把 _item_ 帶給我。你必須這麼做，否則我可能被殺！
+
+Message:  1060
+<ce> 那我就收下吧，我想。但這不是破壞驚喜了嗎？
+<ce> 你真奇怪，%pcn。
+
+Message:  1061
+<ce> 謝謝你。我哥哥現在用不了它了。你做得很好。謝謝你。

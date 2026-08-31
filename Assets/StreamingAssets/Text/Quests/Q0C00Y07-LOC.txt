@@ -1,0 +1,105 @@
+-- Quest: C:\QUESTS\WORKING\Q0C00Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 0
+-- QuestId: 7
+Messages: 14
+Quest: Q0C00Y07
+DisplayName: 被囚的女巫
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                          吾等姊妹 _witch_
+<ce>                    已被囚禁。我們需要像汝
+<ce>                   這樣的人去救她。
+<ce>                           汝可願意？
+
+RefuseQuest:  [1001]
+<ce>                       汝有一顆冰做的心，
+<ce>                           %pcf。真可恥。
+
+AcceptQuest:  [1002]
+<ce>                   若汝為我們做這件事，我們將
+<ce>                   極為感激。找到她時，把這些
+<ce>                  衣服給她，好讓她在 ___mondung_
+<ce>                     喬裝。我們期望你們兩人
+<ce>                 在 =queston_ 天內、最好更快
+<ce>                   回到這裡。
+
+QuestComplete:  [1004]
+<ce>                          _witch_，見汝安然
+<ce>                 在此，我心甚慰。
+<ce>                         %pcf，你今日
+<ce>                         贏得了 ==qgiver_
+<ce>                              的敬意。
+
+RumorsDuringQuest:  [1005]
+等他們審問完 _witch_，她就是火堆上的食糧。
+<--->
+_witch_ 很快就要被吊死或燒死了。
+
+RumorsPostfailure:  [1006]
+_witch_ 的處決可真是一場好戲。全家都愛看。
+<--->
+_witch_ 如今只剩灰燼。她所有的法術也救不了她。
+
+RumorsPostsuccess:  [1007]
+_witch_ 逃走了。他們說是 ==qgiver_ 在背後動手。
+<--->
+_witch_ 從未被繩之以法。甚至沒真正受過刑。
+
+QuestorPostsuccess:  [1008]
+_witch_ 恢復得不錯，%pcf，你聽了會高興的。
+
+QuestorPostfailure:  [1009]
+<ce>                          吾等姊妹 _witch_
+<ce>                    死了，被活活燒死。或許汝
+<ce>                   本可以救她，或許不能。但你
+<ce>                  在此不受歡迎。或許相當長
+<ce>                  一段時間都是如此。
+
+QuestLogEntry:  [1010]
+%qdt:
+  ==qgiver_ 派我前往
+  ___mondung_，那裡囚禁著
+  女巫姊妹 _witch_。我要把一件
+  _clothes_ 給她喬裝，並在
+  =queston_ 天過去之前
+  返回 ==qgiver_。
+
+Message:  1011
+<ce>                          ==qgiver_ 派你來的？
+<ce>                        讚美 ==daedra_！我穿上
+<ce>                         _clothes_，我們就能
+<ce>                     溜出去。
+
+Message:  1012
+<ce>                          「是 _witch_，那個
+<ce>                        囚犯！站住！女巫！」
+                                      <--->
+<ce>                       「這回沒牢可坐了，
+<ce>                           _witch_！直接
+<ce>                       送去處決！」
+                                      <--->
+<ce>                             「站住！你是
+<ce>                               _witch_！」
+
+Message:  1013
+<ce>                      「從這裡我自己就能回到
+<ce>                         ==qgiver_，」
+<ce>                          _witch_ 向你道謝，
+<ce>                         自行上路。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 5 times.
+--              %qdt occurs 1 time.
+--         ==daedra_ occurs 1 time.
+--         ==qgiver_ occurs 6 times.
+--         =queston_ occurs 3 times.
+--       ___mondung_ occurs 2 times.
+--         _clothes_ occurs 2 times.
+--           _witch_ occurs 16 times.

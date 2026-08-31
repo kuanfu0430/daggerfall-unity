@@ -1,0 +1,76 @@
+-- Quest: C:\QUESTS\WORKING\O0B10Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 10
+-- QuestId: 7
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: O0B10Y07
+DisplayName: 貴族的珠寶
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      我們一直在觀察你，
+<ce>                          %pcf。別管「我們」
+<ce>                      是誰。你是本公會正在崛起的
+<ce>                      成員。若你願意為我們做一份
+<ce>                       特別差事，沒有酬勞，
+<ce>                      我們往後可能會對你
+<ce>                             另眼相看。
+<ce>                            你說呢？
+
+RefuseQuest:  [1001]
+<ce>                       小心你的背後，你這骯髒的
+<ce>                            小叛徒！
+
+AcceptQuest:  [1002]
+<ce>                    你的差事很簡單。
+<ce>                          __palace_ 的 %rt
+<ce>                   最近「買」了一件工藝還算不錯的
+<ce>                _jewelry_，我們有興趣仔細瞧瞧。
+<ce>             你正好有 =2palace_ 天想辦法進宮，
+<ce>             把那件小玩意帶走，再回到這兒。
+<ce>              對真正的盜賊公會成員來說並非不可能。
+<ce>                所以你還在等什麼，%pcf？
+<ce>                             快走！
+
+QuestFail:  [1003]
+<ce>                         我說了，快走！
+
+QuestComplete:  [1004]
+<ce>                        恭喜，%pcf。
+<ce>                       不久之後你會再聽到
+<ce>                           我們的消息。
+
+RumorsDuringQuest:  [1005]
+%t %rn 顯然很為 %g3 新的 _jewelry_ 自豪。人人都想看看。
+<--->
+_palace_ 的戒備加強了，顯然是因為那件新的 _jewelry_。
+
+RumorsPostfailure:  [1006]
+%t 的人在那次搞砸的竊案後找回了那件 _jewelry_。
+<--->
+盜賊公會才不會把到手 _jewelry_ 的機會搞砸。
+
+RumorsPostsuccess:  [1007]
+盜賊公會越來越膽大了，居然直接從 %t 那兒偷。
+<--->
+盜賊公會成功隱瞞了 _palace_ 竊賊的身分。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 為了在盜賊公會裡增加影響力，
+ 我答應闖進 __palace_ 的
+ %t 宮殿 _palace_，偷走
+ %t 新的 _jewelry_。我有 =2palace_ 天
+ 把 _jewelry_ 交到 ___qgiver_
+ 的 _qgiver_ 手上。
+
+Message:  1015
+<ce>                        你拿到了被派去取的
+<ce>                       那件 _jewelry_。
+
+Message:  1020
+<ce>                        這一定就是那件！

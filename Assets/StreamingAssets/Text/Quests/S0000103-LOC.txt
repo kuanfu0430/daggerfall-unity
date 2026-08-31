@@ -1,0 +1,22 @@
+-- Quest: C:\QUESTS\WORKING\S0000103.Qbn.
+-- Main story quest.
+-- QuestId: 103
+Messages: 16
+Quest: S0000103
+-- Message panels
+QRC:
+
+Message:  1015
+<ce>                  沒有人能違抗蠕蟲之王還活著說出去。
+<ce>                  你拒絕把泰伯·塞普丁圖騰給他。因此
+<ce>                    我會殺你，把它帶給他。
+                                      <--->
+<ce>                 今晚我將取走圖騰，並飲你的血。只要投降，
+<ce>               就會相對無痛。
+                                      <--->
+<ce>                  蠕蟲之王要圖騰。既然他沒有理由相信
+<ce>                   你會自願給他，我就來殺你。
+
+
+-- Symbols used in the QRC file:
+--    ***  None  ***

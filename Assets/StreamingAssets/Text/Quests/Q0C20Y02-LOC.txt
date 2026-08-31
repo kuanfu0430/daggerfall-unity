@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\Q0C20Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 20
+-- QuestId: 2
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 26
+Quest: Q0C20Y02
+DisplayName: 高價購置
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   汝是 ==questgiver_ 的朋友，
+<ce>                          這我們知道。但要助汝，
+<ce>                   須先織一則法術——一則必須先摧毀
+<ce>                    才能創造的法術。汝可願為我們的
+<ce>                     藥釀帶來一件 _magicitem_，
+<ce>                     好讓汝因其毀滅而受祝福？
+
+RefuseQuest:  [1001]
+<ce>                   即便知其重要，汝也忙得無法
+<ce>                   做這件事？對 ==questgiver_ 不幸，
+<ce>                   對汝亦不幸，%pcn。
+
+AcceptQuest:  [1002]
+<ce>                        我們需要的 _magicitem_
+<ce>                   在 ==other_ 手中。須在黎明到來
+<ce>              =1stparton_ 次之前取得。
+<ce>                  ==other_ 可在 ___other_ 找到。
+<ce>                           去打聽 _other_。
+<ce>                   願諸神與靈體引領汝的腳步，
+<ce>                              %pcf。
+
+QuestFail:  [1003]
+<ce>                        那件 _magicitem_，%pcf。
+<ce>                           汝難道忘了？
+
+QuestComplete:  [1004]
+<ce>                    啊，這就是我們法術需要的
+<ce>                 _magicitem_。快，姊妹們，撕它、扯它，
+<ce>                   放進加蓋的桶裡煮。這裡有一塊
+<ce>                       _reward_ 給汝，%pcn，
+<ce>                        感謝汝的迅速與勇氣。
+
+RumorsDuringQuest:  [1005]
+還記得女巫把我們從前的 %t 變成蝸牛那次嗎？
+<--->
+比遇見 ==questgiver_ 更糟的，只有惹怒她們。
+
+RumorsPostfailure:  [1006]
+昨晚我聽見林中嚎叫。我看女巫們在發飆。
+<--->
+聞到風裡那股酸味了嗎？那表示 ==questgiver_ 在生氣。
+
+RumorsPostsuccess:  [1007]
+聽說 ==questgiver_ 在慶祝某項計謀完成。
+<--->
+空氣裡的氣味能把人熏醉。那是開心女巫的祝福。
+
+QuestorPostsuccess:  [1008]
+汝可喜歡汝的 _reward_，%pcf？我覺得它很適合汝。
+
+QuestorPostfailure:  [1009]
+<ce>                   汝難道忘了那件 _magicitem_？
+<ce>                      %oth，如今太遲了。但
+<ce>                  ==questgiver_ 失望了，
+<ce>                          %pcf。真的，我們失望了。
+
+QuestLogEntry:  [1010]
+<ce>                       你要的 _magicitem_？
+<ce>                         一千金幣就賣。
+<ce>                        很好，拿去吧。
+
+Message:  1011
+她是 ==questgiver_ 極有智慧的女子。
+<--->
+她是 ==questgiver_ 來的、不可輕慢的女子。
+
+Message:  1020
+<ce>                        這件 _magicitem_，
+<ce>                          少於一千金幣我可不放。
+<ce>                        而且我只願為
+<ce>                       ==questgiver_ 這麼做。
+
+Message:  1025
+%qdt:
+  ==questgiver_ 的
+  _questgiver_ 派我去取
+  ==other_ 持有的一件
+  _magicitem_，持有者是
+  ___other_ 一名叫 _other_
+  的 =other_。我有
+  =1stparton_ 天取得
+  _magicitem_ 並回到
+  ___questgiver_。
+
+
+-- Symbols used in the QRC file:
+--
+--              %oth occurs 1 time.
+--              %pcf occurs 5 times.
+--              %pcn occurs 3 times.
+--              %qdt occurs 1 time.
+--                %t occurs 1 time.
+--       =1stparton_ occurs 2 times.
+--          ==other_ occurs 3 times.
+--     ==questgiver_ occurs 30 times.
+--           =other_ occurs 4 times.
+--    ___questgiver_ occurs 1 time.
+--       _magicitem_ occurs 9 times.
+--           _other_ occurs 2 times.
+--      _questgiver_ occurs 1 time.
+--          _reward_ occurs 2 times.

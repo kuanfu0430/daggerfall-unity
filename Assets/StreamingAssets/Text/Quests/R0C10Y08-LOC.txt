@@ -1,0 +1,101 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 8
+Messages: 21
+Quest: R0C10Y08
+DisplayName: 神殿失竊
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      若你方便，%pcf，我需要一個
+<ce>              我知道不是徹底笨蛋的人幫忙。我派了另一個傭兵
+<ce>              把一個小包裹送到神殿，東西不算貴重，
+<ce>            可偏偏被偷了。至少這個白痴雇工還記得
+<ce>               盜匪往哪裡跑。你覺得能幫我把包裹找回來嗎？
+
+RefuseQuest:  [1001]
+<ce>                 %oth，我就怕你會這麼說。唉，這總比
+<ce>              答應了卻失敗好。
+
+AcceptQuest:  [1002]
+<ce>                      先謝謝你，%pcf。
+<ce>              現在說麻煩之處。盜匪把 _item_ 賣給了
+<ce>                    __itemplace_ 的神殿 _itemplace_。
+<ce>                     那東西對他們顯然有某種宗教意義。
+<ce>              為了避免難堪，我需要你把 _item_ 從神殿偷出來，
+<ce>                  交給 _transporter_。
+<ce>                  你會在 __inn_ 的 _inn_ 找到%g2。
+<ce>           _item_ 必須在 =1stparton_ 天內交到那個笨
+<ce>          _transporter_ 手上；之後你還得在 =2ndparton_ 天內
+<ce>            從 __inn_ 趕回來，明白嗎？時間不多。我指望你，
+<ce>                     %pcf。祝你好運，再見。
+
+QuestFail:  [1003]
+<ce>              是嗎？你該不會什麼都沒做就想領酬勞吧，%pcf？
+
+QuestComplete:  [1004]
+<ce>                   %oth，歡迎回來，%pcf。真不知道
+<ce>             我當初為什麼雇那個智障。好了，這是你的
+<ce>              _reward_ 金幣。你確實配得上。
+
+RumorsDuringQuest:  [1005]
+不知為何，_itemplace_ 正在加強戒備。
+<--->
+不知為何，_itemplace_ 比平常更擔心盜賊。
+
+RumorsPostfailure:  [1006]
+_itemplace_ 找回了被偷的某種 _item_。
+<--->
+_itemplace_ 找回了被偷的 _item_，並把它移到更安全的地方。
+
+RumorsPostsuccess:  [1007]
+某種貴重的 _item_ 從 _itemplace_ 被偷走了。
+<--->
+連神殿都會被闖空門了。真嚇人。
+
+QuestorPostsuccess:  [1008]
+再見到你真是太好了。我能幫你什麼？
+<--->
+你就是幫我處理那樁神殿不愉快的%ra，對吧？
+
+QuestorPostfailure:  [1009]
+<ce>                        %oth，是你。想來為你
+<ce>                  草率的任務道歉，我猜。不必了。
+<ce>                          我沒那時間。
+
+QuestLogEntry:  [1010]
+<ce>                     感謝%god你到了，%pcf。
+<ce>                   聽好，趕緊回 _questgiver_ 那裡——
+<ce>                 若你沒在 =2ndparton_ 天內回去，
+<ce>                 %g會假裝你從未存在，你一個銅板都拿不到。
+<ce>                      相信我，我懂%g3那套。
+
+Message:  1011
+<ce>           _transporter_ 是個神情緊張的 =transporter_，
+<ce>                   與 _questgiver_ 有往來。
+                                      <--->
+一個 =transporter_——%g在這%di的 __transporter_。
+
+Message:  1012
+<ce>                        你拿起了 _item_。
+<ce>                    現在得把它交給 _transporter_。
+
+Message:  1015
+%qdt:
+_questgiver_
+ 派我前往 __itemplace_ 的 _itemplace_，
+ 去偷一件特定的 _item_，再交給
+ __inn_ 一處名叫 _inn_ 的地方的
+ _transporter_。
+ 我有 =1stparton_ 天完成運送。
+ 最後，我得回去領酬勞。
+ 從 __inn_ 到 ___questgiver_
+ _questgiver_ 位於 __questgiver_ 的住所，
+ 我有 =2ndparton_ 天。
+
+Message:  1020
+<ce>           站住，賊！褻瀆我們聖潔 _item_ 的惡徒！

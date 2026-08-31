@@ -1,0 +1,100 @@
+-- Quest: C:\QUESTS\WORKING\S0000502.Qbn.
+-- Main story quest.
+-- QuestId: 502
+Messages: 71
+Quest: S0000502
+DisplayName: 昔日學生·第二部
+-- Message panels
+QRC:
+
+QuestComplete:  [1004]
+<ce>            這是我一直在做的一點小東西。看看你喜不喜歡。
+<ce>                    我走了！
+
+Message:  1020
+%qdt:
+ 曾是我獵物的叛逆法師_rebel_，請我到
+ ____tavern_、__tavern_的_tavern_與他的信使會面。
+
+Message:  1021
+%qdt:
+ _rebel_派來的侍靈告訴我，他希望我幫他探索巴爾費拉島上的
+ 迪倫尼塔。_rebel_會在那裡某處與我會面。
+
+Message:  1030
+%pcn：問候！
+  
+ 希望這張紙條找到你時你安好。有興趣來點小冒險嗎？
+ 若有，到____tavern_、__tavern_的_tavern_與我的信使會面。
+  
+<ce>                 你未經許可的魔法夥伴，
+<ce>                                    
+<ce>                                _rebel_
+
+Message:  1031
+<ce>                 你走進門時，一股淡淡的硫磺味迎面而來。
+<ce>                     那邊是侍靈嗎？背上還別著一張紙條，
+<ce>                    寫著「打我」？
+
+Message:  1032
+<ce>                     侍靈以石一般的聲音詠唱：
+<ce>                                    
+<ce>                    「你好，%pcn。我是=atronach_，
+<ce>                      _rebel_謙卑的僕人。他問你是否
+<ce>                 願意與他一起探索巴爾費拉島上的迪倫尼塔。
+<ce>                  那是充滿難以想像奇觀的魔法之地。我的
+<ce>               主人會在裡面等=towertime_天。」
+<ce>                                    
+<ce>                   說完，=atronach_在一陣煙霧中消失。
+
+Message:  1040
+<ce>                     %pcf，很高興再見到你！看來你沒等我就
+<ce>                   開始了——你帶著的那個箱子正是我在找的。
+<ce>                  你不介意我借用一下吧？太感謝了！
+
+Message:  1041
+<ce>                   %pcf，很高興你能加入我這場小小的聚會。
+<ce>                  聽好，我在找一樣特定的東西，一件_item_，
+<ce>                   我相信它在迪倫尼塔某處。我們找到的其他
+<ce>                  東西你都可以留下，我只要那個箱子。那麼，
+<ce>               我們上路吧，好嗎？
+
+Message:  1042
+<ce>               啊，這就是我在找的_item_。嗯，我還以為會有
+<ce>              某種守護者……喔喔……
+
+Message:  1043
+<ce>                       那麼，挺有趣的。或許我們改天
+<ce>                        再來一次。再見啦！
+
+Message:  1050
+<ce>                       吃我這下！還有這下！你這發霉的
+<ce>                           老東西！
+
+Message:  1051
+<ce>                        這才對嘛！再來一點這個如何！
+
+Message:  1052
+<ce>                      該死，我們快離開這裡！只要我能讓
+<ce>                        這個法術生效……
+
+Message:  1070
+<ce>                一隻渡鴉在頭頂盤旋，然後停在你肩上。最不尋常的是，
+<ce>                 它喙裡叼著一張鐫刻卡片。它用一隻亮晶晶的眼睛盯著你，
+<ce>               把卡片塞進你襯衫，拍翅飛走。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 2 times.
+--               %g2 occurs 2 times.
+--               %g3 occurs 1 time.
+--              %pcf occurs 2 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 2 times.
+--        =atronach_ occurs 2 times.
+--       =towertime_ occurs 2 times.
+--       ____tavern_ occurs 6 times.
+--            _item_ occurs 2 times.
+--           _rebel_ occurs 5 times.
+--          _tavern_ occurs 3 times.

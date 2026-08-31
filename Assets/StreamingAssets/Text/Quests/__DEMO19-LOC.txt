@@ -1,0 +1,34 @@
+---- Example quest to demonstrate direction hints for dungeon locations
+
+Quest: __DEMO19
+
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 有興趣測驗一下你的尋路本事嗎？
+
+RefuseQuest:  [1001]
+<ce> 看來你從來都找不到正確的路，是吧？
+
+AcceptQuest:  [1002]
+<ce> 太好了！我想看看你能否自己找到 ___lostdung_。
+<ce> 別指望我會幫忙，唯一的提示是：
+<ce> 去問農夫們，看他們知不知道 ___lostdung_
+<ce> 可能在哪。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 有人要我自己去找 ___lostdung_。
+ 唯一的建議是去問農夫，
+ 看他們能不能提供一些
+ 關於該地位置的資訊。
+
+Message:  1011
+我只知道 ___lostdung_ 是個危險的地方。
+<--->
+你不妨往這個地方的 %di 找找。
+<--->
+你想找 ___lostdung_？它在這裡的 %di。
+
+Message:  1012
+你終於找到 ___lostdung_ 了！

@@ -1,0 +1,92 @@
+-- Quest: C:\QUESTS\WORKING\O0B10Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 10
+-- QuestId: 5
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 11
+Quest: O0B10Y05
+DisplayName: 貴重畫作
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                            嘿，%pcf！
+<ce>                       還記得我，_qgiver_ 嗎？
+<ce>                       今天想接公會差事嗎？
+<ce>                       我這兒有一份
+<ce>                       挺對你胃口的。
+
+RefuseQuest:  [1001]
+<ce>                           那就下次吧。
+
+AcceptQuest:  [1002]
+<ce>                       有個有錢人剛到手一幅
+<ce>                             畫，
+<ce>                      能賣個好價錢。他把它
+<ce>                       藏在 __townhouse_ 的
+<ce>                            _townhouse_。
+<ce>                       帶回來，你拿公會酬勞
+<ce>                       _gold_ 金幣。
+<ce>                       對了，我要在
+<ce>                       =traveltime_ 天內拿到。
+
+QuestComplete:  [1004]
+<ce>                     幾乎沒刮傷。抱歉沒事先說
+<ce>                     有守護者。我們不知道他還搞了
+<ce>                    那一套。
+<ce>                            這是你的酬勞。
+
+RumorsDuringQuest:  [1005]
+_townhouse_ 簡直像座藝廊。
+
+RumorsPostfailure:  [1006]
+前幾天我長了個膿瘡……不過已經好了。
+<--->
+我剛跟人聊了三個鐘頭的天氣。
+<--->
+這時節的天氣還算平常。
+<--->
+以這個時節來說，%cn好像有點涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我祖姑要去灣對岸看專科醫生。
+<--->
+這附近天黑的時間總是讓人覺得奇妙。
+<--->
+我們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一則超棒的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有優點也有缺點。
+
+RumorsPostsuccess:  [1007]
+_townhouse_ 被搶了，儘管有強大的守護者。
+<--->
+搶 _townhouse_ 的人肯定懂行。
+
+QuestorPostsuccess:  [1008]
+那幅畫在黑市賣了個好價錢，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce>                     嗯，我看見你了，卻沒看見
+<ce>                     你該去拿的那幅畫。我幹嘛
+<ce>                    還對你浪費口舌？
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ 派我去 __townhouse_ 的
+ _townhouse_ 偷一幅畫。
+ 我有 =traveltime_ 天把它帶回
+ ___qgiver_ 盜賊公會的
+ _qgiver_ 那兒。

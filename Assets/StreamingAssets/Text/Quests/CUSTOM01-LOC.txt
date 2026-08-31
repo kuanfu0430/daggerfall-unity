@@ -1,0 +1,54 @@
+---- Custom quest to slay zombies and skeletons until a necromancer comes out of hiding.
+
+Quest: CUSTOM01
+DisplayName: 從黃昏殺到天明
+
+QRC:
+
+QuestorOffer:  [1000]
+<ce>希望你不怕黑暗，%pcn……
+<ce>有個死靈法師正在___graveyard_
+<ce>召喚成群的殭屍和骷髏。
+<ce>我們接下了契約，要結果這惡徒的性命，
+<ce>終結他的惡行。
+<ce>報酬是_reward_金幣。
+
+RefuseQuest:  [1001]
+<ce>死靈法師可不好對付，%pcn。
+<ce>你不想接這單，我也不怪你。
+
+AcceptQuest:  [1002]
+<ce>太好了。天黑後前往___graveyard_，
+<ce>在外面的墓地裡斬殺殭屍和骷髏，
+<ce>直到死靈法師被激怒，
+<ce>從藏身處出來跟你對決。
+<ce>完成後你有=timeLimit_天時間回來找我。
+<ce>_reward_金幣會在這兒等你。
+
+QuestFail:  [1003]
+<ce>你讓我失望了，%pcn。
+<ce>這契約我得交給更靠得住的人了。
+
+QuestComplete:  [1004]
+<ce>幹得好，英雄。你救了許多無辜的性命。
+
+Message:  1020
+<ce>這具不死生物倒下時，你感到腳下
+<ce>地面在震動。死靈法師來了！
+
+Message:  1030
+<ce>「你會付出代價……用你的……靈魂！」
+<ce>死靈法師癱倒在地。
+<ce>那不死大軍將會潰散，
+<ce>不再威脅附近的村莊。
+
+Message:  1040
+%qdt:
+ ___questgiver_的戰士公會雇我
+ 去___graveyard_這賊窩，
+ 除掉一名作亂的死靈法師。
+ 我必須在夜晚於外面的墓地
+ 斬殺骷髏和殭屍，
+ 直到那惡徒現身。
+ 我有=timeLimit_天時間殺死死靈法師
+ 並回來領取報酬。

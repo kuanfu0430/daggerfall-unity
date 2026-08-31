@@ -1,5 +1,5 @@
-Title: Confessions of a Thief
-Author: Anonymous
+Title: 一個盜賊的自白
+Author: 佚名
 IsNaughty: False
 Price: 695
 IsUnique: False
@@ -8,32 +8,30 @@ Content:
 
 [/font=2]
 
-[/center]Confessions
+[/center]一個盜賊的
 
-[/center]Of A
-
-[/center]Thief
+[/center]自白
 
 [/font=4]
 
- I'm a thief. Now, don't get me wrong. I ain't saying this out of pride, but I ain't ashamed of my occupation neither. Thieves got a perfect right to exist in the Empire. People say we're dishonest. Of course, those people are usually either merchants or priests, which really slays me. Sort of the snake calling the worm legless.
+  我是盜賊。現在，別誤會。我不是說這話來驕傲，可我對這行當也不羞愧。盜賊在帝國裡有十足的權利存在。人們說我們不誠實。當然，那些人通常不是商人就是祭司，這真讓我笑死。有點像蛇說蟲子沒腿。
 
- Rulers like us. Crime in moderation is good for the economy. The trick is to keep it at a good even pace, with a well timed lull and a minor wave to keep the fat bottoms from becoming compacent. Of course, stupid, but talented thieves will keep stealing, empty their pockets, and steal some more. This ain't good for no one. That's where the guilds come in.
+  統治者喜歡我們。適度的犯罪對經濟有好處。訣竅是保持穩定步調，適時一段平靜和一次小波瀾，好讓那些肥屁股別變得自滿。當然，愚蠢卻有才的盜賊會不停偷，掏空口袋，再偷更多。這對誰都不好。這就是公會進來的地方。
 
- A thieves guild is what they call a crime regulator. We protect each other and punish the clumsy and greedy. The kings depend on us to keep the amateurs out of business.
+  盜賊公會就是他們所說的犯罪調節者。我們互相保護，懲罰笨拙和貪婪的人。國王靠我們把業餘的擋在這行當外面。
 
- Yeah, occasionally, a king will come down on us. I've even seen my Thieves Guildmaster get himself stuck in prison once or twice. Some cohort of mine said her first Guildmaster got himself hanged. Then the Thieves Guild has to get foul on the king, and, let someone who knows tell you, the results ain't pretty.
+  對，偶爾會有國王來整我們。我甚至見過我的盜賊公會會長自己進監獄一兩次。我有個同夥說過，她的第一任公會會長被吊死了。然後盜賊公會就得對國王不客氣，讓知道的人告訴你，結果可不漂亮。
 
- I got into the guild, the way I've seen most thieves do it. It was a few years back, when that bully Jagar Tharn was sitting on the throne only everyone thought he was the Emperor. My parents farm turned into eight acres of dust and rock, and they threw me and my brothers out. I was always a skinny thing, but by the time I made it to the closest town, I was a good deal more skinnier.
+  我進公會的方式，我見過多數盜賊都是那樣。那是幾年前，惡霸賈加·薩恩坐在王座上，只是人人都以為他是皇帝。我父母的農場變成八英畝塵土和石頭，他們把我和兄弟們趕了出去。我一向瘦，可等我走到最近的鎮子，又瘦了不少。
 
- Just cause the town had some dirt that plants could grow on didn't make them that much richer than my folks were. I tried to get all kinds of jobs, but the hungrier and more raggedier I got, the quicker anyone who might have work would kick me out. When the rainy season finally came, it came like a sea, and I didn't have nowhere to stay. Lucky I found the unlocked cellar door.
+  就因為鎮上有能長植物的土，也不表示他們比我家富多少。我試過各種工作，可我越餓、越破爛，任何可能有活兒的人就把我踢出去踢得越快。雨季終於來時，來得像海一樣，我沒地方住。幸運的是我找到了沒鎖的地窖門。
 
- Turns out that the owners of the house slept like old dogs, cause I robbed them blind (and tripped into things like I was the blind one) and they never woke up. I sold all the stuff at a dirty pawners I knew and spent the next two days living like a potentate. Then I got my first visit from the local thieves guild.
+  原來那房子的主人睡得像老狗，因為我把他們偷得精光（還像瞎子一樣絆進東西裡），他們卻沒醒。我把所有東西賣給認識的一家骯髒當鋪，接下來兩天過得像君王。然後我第一次接到當地盜賊公會的來訪。
 
- I remember what the guy looked like, but not exactly what he said. Something like, "Hey, kid, if you want to steal in these parts, you're going to have to join the Guild. Otherwise, I or someone like me is going to break your skinny arms so you can't steal."
+  我記得那傢伙長什麼樣，不太記得他確切說了什麼。大概是：「嘿，孩子，想在這一帶偷，就得加入公會。不然，我或像我這樣的人會打斷你的瘦胳膊，讓你偷不成。」
 
- I've know some people who've refused membership in the Guild and kept on stealing anyhow. I've broken someone of their arms. As for me, this was the first offer I'd had for a career since my pa told me that if I didn't milk the cow, he'd rip my head off. In comparison, this guy at the tavern was almost a gentleman. I agreed right away.
+  我認識一些拒絕公會會籍還繼續偷的人。我打斷過他們其中一些人的胳膊。至於我，這是自我爹說若我不擠牛奶他就擰掉我的頭以來，第一個職業邀請。相比之下，酒館裡這傢伙幾乎算紳士。我立刻答應了。
 
- Sure, I had to prove my worth to the Guild before I could join and even now. But having two working arms is only part of the benefit. They trained me, taught me, and kept me out of prison. How many other guilds can boast a forgery expert on the premises?
+  當然，加入之前，甚至現在，我都得向公會證明自己的價值。可有兩條能用的胳膊只是好處的一部分。他們訓練我、教導我，讓我免於坐牢。有多少其他公會能誇口場地裡有偽造專家？
 
- So the next time you're calling some swindling merchant or usurious priest a thief, think about it. There is honor among thieves -- I should know.
+  所以下次你叫某個詐騙商人或放高利貸的祭司是盜賊時，想想這個。盜賊之間有榮譽——我該知道。

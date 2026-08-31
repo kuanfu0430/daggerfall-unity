@@ -1,0 +1,91 @@
+-- Quest: C:\QUESTS\WORKING\A0C0XY04.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0X
+-- QuestId: 4
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 36
+Quest: A0C0XY04
+DisplayName: 冒牌貨
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我叫 _agent_。我代表某人需要……取得某樣東西。
+<ce> 誰把它送來，就會得到 _artifact_ 作為報酬。
+<ce> 我不知道那是什麼，但聽說是一件力量之物。你願意嗎？
+
+RefuseQuest:  [1001]
+<ce> 當你從沒見過我。我有強大的朋友。若你給我惹麻煩，他們會像獵殺流氓盜賊一樣獵殺你。
+
+AcceptQuest:  [1002]
+<ce> 你必須從 ___dungeon_ 取得迪德拉的 _ingredient_。
+<ce> 我不知道那在哪，但我相信你找得到。
+<ce> 拿到迪德拉的 _ingredient_ 後，帶到鎮上的 _meetingplace_。
+<ce> 你會在那兒見到 _qgiver_，%g 會把 _artifact_ 給你。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說國王下週要發表重要公告。
+
+RumorsPostfailure:  [1006]
+<ce> 某個可憐傻瓜進了 ___dungeon_。聽說那地方滿是惡魔。
+
+RumorsPostsuccess:  [1007]
+<ce> 離 _qgiver_ 遠點。聽說 %g 是騙子。
+
+QuestorPostsuccess:  [1008]
+<ce> _qgiver_ 那件事抱歉。我想我該幫你，好彌補一下。
+
+QuestorPostfailure:  [1009]
+<ce> _qgiver_ 那檔事不是我的錯。我現在可不想跟你扯上關係，離我遠點。
+
+QuestLogEntry:  [1010]
+On %qdt,
+ 我在 ___agent_ 見到 _agent_。
+ %G 說有位神秘委託人正在尋找迪德拉的 _ingredient_。
+ 若能找到，就能得到 _artifact_。
+ 那份迪德拉的 _ingredient_ 藏在 ___dungeon_ 某處。
+ 找到後，要在 __meetingplace_ 的 _meetingplace_ 與一名 _qgiver_ 會面。
+
+Message:  1011
+On %qdt,
+ 迪德拉 _ingredient_ 的守護者告訴我，
+ _agent_ 的神秘委託人根本沒有 _artifact_。
+ 若我交出迪德拉的 _ingredient_，唯一的報酬就是死。
+ 守護者給了我一枚能讓 _qgiver_ 無力反抗的魔法信物。
+
+Message:  1012
+<ce> 我會與你死戰到底，以保護迪德拉的 _ingredient_。你該知道 _qgiver_ 並非 %g 表面那樣。
+<ce> _artifact_ 是一件失落已久的強大力量之物，%g 從未擁有過。
+<ce> %G 一旦拿到迪德拉的 _ingredient_ 就打算殺你。停止這場徒勞的攻擊，
+<ce> 我會給你一枚能讓 _qgiver_ 無力反抗的魔法信物。
+<ce> 若你殺了 %g2，我能讓法師公會相當長一段時間對你另眼相看。你接受我的提議嗎？
+
+Message:  1013
+<ce> 傻瓜！你真以為我會用 _artifact_ 換這份迪德拉的 _ingredient_？
+<ce> 我給你的唯一報酬就是死！看清我真正的模樣，在恐懼中顫抖吧。我是 =monster_。殺了他！
+
+Message:  1014
+<ce> 什……我被背叛了！你打破了幻象，對我施了沉默法術。
+<ce> 是那個該死的 _guardian_ =guardian_ 慫恿你的，對吧？拿起武器！幫我！拿起武器！
+
+Message:  1015
+<ce> 在你心中，你聽見一個陌生聲音輕聲低語：「幹得好，%pcn。
+<ce> 殺死 _qgiver_，或 %g 在 %g3 族人中被稱為 =monster_ 的那人，為你贏得了報酬。
+<ce> 法師公會成員如今遠比以前更信任你。」
+
+Message:  1020
+<ce> 你的心思真夠陰險。我欣賞這一點。但你該知道我不是好惹的。
+<ce> 我收回信物，詛咒你被我最親密的盟友所不信任。
+
+Message:  1025
+克里薩梅爾是一件威力強大的遠古神器。
+<--->
+那是一件傳奇魔法神器。
+
+Message:  1030
+那就收下這枚信物。
+
+Message:  1035
+準備受死吧！

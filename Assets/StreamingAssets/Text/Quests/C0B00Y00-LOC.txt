@@ -1,0 +1,66 @@
+-- Quest: C:\QUESTS\WORKING\C0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 13
+Quest: C0B00Y00
+DisplayName: 鬼屋
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       __house_那邊有一棟屋子
+<ce>            被某種不死者盤據。我們需要有人去驅除那魂靈。
+<ce>           你扛得住嗎？報酬是_gold_金幣。
+
+RefuseQuest:  [1001]
+<ce>           這沒什麼好羞恥的。我會留意更合你口味的差事。
+
+AcceptQuest:  [1002]
+<ce>            記住，若那鬼魂強得你應付不了，就離開那裡。
+<ce>          沒人會怪你保命。那地方叫_house_，
+<ce>                     在__house_。
+<ce>           你有=traveltime_天，否則我們另派人去做這活。
+
+QuestComplete:  [1004]
+<ce>          那麼那鬼魂已不復存在。我會在祭壇為其魂靈焚香。
+<ce>             這是你的神殿酬金。
+
+RumorsDuringQuest:  [1005]
+據說_house_的鬼魂殺不死。
+
+RumorsPostfailure:  [1006]
+_house_的鬼魂還會再來。
+<--->
+_house_的魂靈仍未安息。
+
+RumorsPostsuccess:  [1007]
+_house_終於清淨了。
+<--->
+_house_的魂靈終於安息了。
+
+QuestorPostsuccess:  [1008]
+我能為你做什麼，哦_house_的驅魔者？
+
+QuestorPostfailure:  [1009]
+_house_仍在鬧鬼，而我還該跟你說話？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_派我去清除
+ __house_的_house_
+ 中的不死盤據。我有
+ =traveltime_天完成這差事。
+
+Message:  1011
+<ce>          我是這屋子建造者的先祖。此處如今屬於死者。
+<ce>           讓一切生靈遠離此地。
+
+Message:  1012
+<ce>          我明白你為何沒留下來跟那東西打，%pcn。
+<ce>                至少你查出了鬼魂的事，神殿感謝你。
+<ce>                          這是2枚金幣。

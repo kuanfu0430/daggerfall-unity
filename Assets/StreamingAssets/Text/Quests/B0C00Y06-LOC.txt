@@ -1,0 +1,70 @@
+-- Quest: C:\QUESTS\WORKING\B0C00Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: knight
+-- Repute: 0
+-- QuestId: 6
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0C00Y06
+DisplayName: 獵人
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        我不信任你，%pcn。
+<ce>                      你不是我們騎士團的成員。
+<ce>                    若想贏得我的信任，甚至一絲敬意，
+<ce>                   就去殺死那頭襲擊農莊的_monster_。
+<ce>                  你扛得住嗎？
+
+RefuseQuest:  [1001]
+<ce>                     我就知道。你胸口跳動的是
+<ce>                    懦夫的心。看見你我就噁心。
+
+AcceptQuest:  [1002]
+<ce>                  那_monster_把巢穴設在___dungeon_。
+<ce>                       去那裡殺了它。那裡也許還有
+<ce>                      別的_monster_，我不在乎。
+<ce>                   我只對背上有大片燒傷痕跡的那一頭感興趣。
+<ce>                就是牠在襲擊農人。
+<ce>                         你有=2dung_天。
+
+QuestComplete:  [1004]
+<ce>                      哼。你做得比預期好，%pcn。
+<ce>                     也許有朝一日你甚至配得上
+<ce>                      騎士團的成員資格。
+
+RumorsDuringQuest:  [1005]
+那_monster_在___qgiver_真是個禍害。
+<--->
+許多人希望騎士們能對那_monster_做點什麼。
+
+RumorsPostfailure:  [1006]
+感謝%god，不是感謝騎士團，那_monster_自己走了。
+<--->
+_monster_遷走是自然的。但牠還會回來。
+
+RumorsPostsuccess:  [1007]
+人人都在感謝騎士們斬殺了那_monster_。
+<--->
+沒人料到騎士團會對那_monster_有所作為。
+
+QuestorPostsuccess:  [1008]
+好吧，小子。看在你幹的那檔事上，我可以對你客氣點。
+
+QuestorPostfailure:  [1009]
+_monster_愛好者，滾出去。
+<--->
+你讓我噁心，_monster_愛好者。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_騎士團的
+ _qgiver_告訴我，___dungeon_
+ 有一頭需要斬殺的_monster_。
+ 我只有=2dung_天。
+
+Message:  1011
+<ce>                        牠背上有一大片焦痕。
+<ce>                      這必是_qgiver_所說的那一頭。

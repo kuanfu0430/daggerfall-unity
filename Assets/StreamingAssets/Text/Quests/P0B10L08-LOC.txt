@@ -1,0 +1,181 @@
+-- Quest: C:\QUESTS\WORKING\P0B10L08.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 10
+-- QuestId: 8
+Messages: 22
+Quest: P0B10L08
+DisplayName: 決心試煉
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called.
+
+QuestComplete:  [1004]
+<ce>                         今夜你為 %vam
+<ce>                      爭得了榮譽，%pcf。==daedra_
+<ce>                  對我們、也對你懷有敬意，
+<ce>                那是其他吸血鬼部族從未贏得的。
+<ce>                  你的血父囑我把這顆 _gem_
+<ce>                交給你，象徵你在 %vam
+<ce>                         中永恆的地位。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 裡有怪事。該說是比平常更怪。
+
+RumorsPostfailure:  [1006]
+___mondung_ 附近安靜下來了。但夜裡迪德拉之星仍在燃燒。
+
+RumorsPostsuccess:  [1007]
+___mondung_ 平靜了。連迪德拉之星昨晚都黯淡了些。
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+                     __vamp_
+                      ___vamp_
+ 
+ 
+ 親愛的 %pcn，
+ 
+       %vam 需要
+ 你。立刻前來。
+ 
+ 
+ 
+                     死蔭敬上，
+ 
+                     _vamp_
+
+Message:  1011
+<ce>                   啊，%pcf，你收到我的信了。
+<ce>              我們部族的遠古者、你的血父，
+<ce>              要你調查一件令他極為不安的事。
+<ce>               這是他在庇護所裡發現、纏在一把刀上的
+<ce>               信的副本。顯然，寄信者實力不凡，
+<ce>                 想試探 %vam 的力量。前往信中
+<ce>               提到的地城 ___mondung_，
+<ce>                    找到寫這封信的 _daedra_，
+<ce>                 讓 %g2 明白 %vam 絕非一群
+<ce>                  可以隨便威脅或嘲弄的嬌生慣養之輩。
+<ce>                      %vam 的驕傲與你同行，
+<ce>                    %pcf。我期望你在 =queston_
+<ce>                    天內回來，把此事了結。
+<ce>                     別讓我們失望，%pcf。
+
+Message:  1012
+%qdt:
+  ___vamp_ 的 _vamp_
+  給了我一封信，是 ___mondung_
+  的一名 _daedra_ 所寫，
+  侮辱我們的部族 %vam。我要
+  前往 ___mondung_，讓這名
+  _daedra_ 把 %g3 的話吞回去。
+  我有 =queston_ 天完成此事，
+  並返回 __vamp_。
+
+Message:  1013
+血海綿，
+ 
+       我的巫會告訴我，你那些怪物、
+ 你那群怪異的吸血嚇人精，
+ 壟斷了 %reg 的恐怖生意，
+ 而我自己的孩子們因畏懼 %vam
+ 的蠻力，不敢擴張領地。
+ 那些懦夫已受到適當懲罰，
+ 如今我的巫會要向前推進。
+        若那些自稱為 %vam 的
+ 自滿禿鷹真有我的巫會曾經相信的
+ 那一絲力量，就回應我的挑戰。
+ 否則，就準備好 %reg 給 %vam
+ 和你們那些瑣碎罪行的空間
+ 會少一些。
+        我是 ==daedra_ 巫會的
+ _daedra_。就當手套已經扔下。
+ 我在 ___mondung_ 等候你的回應。
+
+Message:  1014
+%qdt:
+ 我收到 %vam 的 _vamp_
+ 來信，要我立刻前往
+ ___vamp_ 一處叫
+ __vamp_ 的地方。
+
+Message:  1015
+<ce>                        歡迎來到 ___mondung_，
+<ce>                      %pcn。想來你是代表 %vam
+<ce>                           前來，承認
+<ce>                     湮滅界王子 ==daedra_
+<ce>                     的巫會此後在 %reg
+<ce>                     至高無上？
+
+Message:  1016
+<ce>                        膽小的吸血鬼。
+<ce>                      我本不指望更多，卻仍抱過
+<ce>                       希望。滾回去找 _vamp_ 吧，
+<ce>                                 孩子。
+
+Message:  1017
+<ce>                       你竟敢當面挑戰
+<ce>                        ==daedra_ 的至高地位，
+<ce>                     不死的蠕蟲？
+<ce>                     =daedroth_ 會樂於碾碎
+<ce>                    你這副無禮的骨頭！讓我看看
+<ce>                      %vam 有沒有成員
+<ce>                            能打得跟吹得一樣好！
+
+Message:  1018
+<ce>                          你聽見 ==daedra_
+<ce>                     在你腦中說話：
+<ce>                      「你已向我證明
+<ce>                           %vam 值得
+<ce>                         尊敬。你可以告訴
+<ce>                            _vamp_，%reg
+<ce>                    是你們的了。你是個有趣的
+<ce>                            標本，%pcn。
+<ce>                   我確信我們還會再見面。」
+
+Message:  1019
+<ce>                         你讓 %vam 蒙羞了，
+<ce>                      %pcf。==daedra_ 的巫會
+<ce>                     向我們挑戰，而你成了
+<ce>                 難堪。這是恥辱之夜。
+
+Message:  1021
+<ce>                    一個極其蒼白、眼神狂野的男孩
+<ce>                   把一封信交給你，隨即消失在
+<ce>                           黑暗中。
+
+
+-- Symbols used in the QRC file:
+--
+--               %g2 occurs 1 time.
+--               %g3 occurs 1 time.
+--              %pcf occurs 8 times.
+--              %pcn occurs 4 times.
+--              %qdt occurs 2 times.
+--              %reg occurs 6 times.
+--              %vam occurs 18 times.
+--         ==daedra_ occurs 6 times.
+--        =daedroth_ occurs 1 time.
+--         =queston_ occurs 2 times.
+--       ___mondung_ occurs 11 times.
+--          ___vamp_ occurs 12 times.
+--          _daedra_ occurs 4 times.
+--             _gem_ occurs 1 time.
+--            _vamp_ occurs 8 times.

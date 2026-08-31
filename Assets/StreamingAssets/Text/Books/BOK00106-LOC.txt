@@ -1,5 +1,5 @@
-Title: King Edward, Part VII
-Author: Anonymous
+Title: 愛德華王，其七
+Author: 佚名
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,106 +8,106 @@ Content:
 
 [/font=2]
 
-[/center]King Edward, Part VII
+[/center]愛德華王，其七
 
 [/font=4]
 
 [/center]
 
-[/center]Dragon
+[/center]龍
 
- "So you saw a demon? And killed a rat with Tooth? That's a fine ebony dagger, Tooth is. They're rare so you want to take real good care of it," Mith said. "I can't tell you about the blade except it came from Moraelyn's father. It's the one his brother sent him to repair just before we ran away. Would you like to hear about how they got the dragon's tooth that Mats carved the hilt from?"
+ 「所以你看見了惡魔？還用牙刃殺了一隻老鼠？那是把精良的烏木匕首，牙刃是。它們很稀有，所以你要好好照顧它。」密斯說。「關於刀刃我沒什麼可告訴你的，除了它來自莫瑞林的父親。就是我們逃跑前不久他哥哥派他去修的那把。你想聽聽他們怎麼得到馬茨雕成刀柄的那顆龍牙嗎？」
 
- Edward nodded, caressing the curved hilt with its lightly carved intertwined roses, thorns and leaves. It was well after supper and everyone but him and Mith had left the fire for one reason or another. Aliera and Moraelyn had gone for a walk hand in hand, Aliera holding Moraelyn's newly healed left hand in both of hers. They'd laughed and shaken their heads when he'd offered to come along, "Not tonight," Aliera had said. "Go to sleep soon. We'll be leaving before dawn." Willow had gone to visit a High Elf friend. Beech, Ssa'ass, Mats and the Khajiit woman, Silk, had also gone off together, laughing. They'd invited Mith to come along, but Mith had declined.
+ 愛德華點頭，愛撫那彎曲的刀柄，上面淺淺刻著交織的玫瑰、刺與葉。晚飯後很久了，除了他和密斯，人人都因這樣或那樣的理由離開了火堆。艾莉菈和莫瑞林手拉手去散步，艾莉菈用雙手握住莫瑞林新近治癒的左手。他提出一起去時他們笑著搖頭，「今晚不行。」艾莉菈說。「快睡。我們天亮前出發。」薇蘿去拜訪一位高精靈朋友。畢奇、薩阿斯、馬茨和卡吉特女子絲爾克也一起笑著走了。他們邀請密斯同去，密斯拒絕了。
 
- "Khajiits! They're all turning into a bunch of shameless Khajiits," Mith said. The short Dark Elf sat close to the glowing embers, knees to chest. His hair and eyes glowed in the dim light. "If you're going to pair, you should pair, not turn it into an tourney. They'll be selling tickets next. But each to his own. Khajiits think we're weird because we like eating as a group. Silk says it put her right off her food at first, listening to everybody chew. Well, having a bunch of watchers puts me off--I s'pose you're too young for this kind of talk."
+ 「卡吉特！他們全變成一群不知羞恥的卡吉特了。」密斯說。矮小的黑暗精靈靠近發光的餘燼坐著，膝抵胸。他的頭髮和眼睛在昏暗的光中發亮。「若要配對，就該配對，別把它變成一場競賽。下一步他們要賣票了。可各有所好。卡吉特覺得我們奇怪，因為我們喜歡成群吃飯。絲爾克說起初聽人人咀嚼讓她完全沒胃口。這個，有一群旁觀者讓我沒胃口——我想你對這種談話還太年輕。」
 
- Edward shrugged. It was a beautiful night, crisply cool, no moon, but the stars were very large and bright.
+ 愛德華聳肩。夜很美，清爽微涼，沒有月亮，星星卻非常大而明亮。
 
- "Anyway, it was just a few months after Mats had joined up with us. We were up in Skyrim, travelling from town to town. Just three kids seeing the country a bit, picking up odd jobs where we could. Moraelyn entered tournaments if we heard about them, but he wasn't winning that much ... just about enough to cover healing him up afterwards. You can get beat up pretty bad fighting Skyrim style -- that's without shielding spells, or any other spells for that matter, no magic allowed -- even if it isn't to the death. And he drew a few types that didn't mind seeing a little dark elf blood spilled in the sand. Or a lot. And the crowds were against him at first. It can get pretty lonely in the arena, especially if you're beating the home town favorite. And it's even worse if he's beating you.
+ 「總之，那是馬茨加入我們後僅僅幾個月。我們在天際，從一個城鎮走到另一個。三個孩子看看鄉間，能找就找零工。若聽說有比武，莫瑞林就參加，可那時他贏的不太多……剛夠付事後治傷。按天際風格打架——就是沒有護盾法術，或任何其他法術，不許魔法——即使不是到死，你也會被打得很慘。而且他抽到幾個不介意看見一點黑暗精靈血灑在沙上的類型。或者很多。起初觀眾也跟他作對。在競技場裡會很孤獨，尤其若你正在打敗家鄉的寵兒。若他正在打敗你就更糟。
 
- "Mats and me 'ud be the only ones for him, and sometimes we didn't dare cheer too loud. They'd look real funny at a Nord boy cheering a Dark Elf back then. 'Course Mats was so big, not many wanted to start anything with him. That was a long time ago. Moraelyn's the favorite now if things get tough. 'Course the crowds will cheer for a good match, but hardly anyone really wants to see him lose now. They like seeing the best, even if it comes wrapped in a dark elf hide. And when he walks into an arena you know you're seeing the best. Not but what they'd like seeing a Nord that's better. And Mats may get there soon. He doesn't fight his best against Moraelyn, though. Maybe he doesn't want to, or maybe Moraelyn just knows him too well. Oh, well, you want to hear about the dragon ...
+ 「馬茨和我會是唯一支持他的，有時我們不敢喊得太響。那時諾德男孩為黑暗精靈加油看起來會很古怪。當然馬茨那麼大，沒多少人想跟他惹事。那是很久以前了。現在情況艱難時莫瑞林是寵兒。當然觀眾會為一場好比賽加油，可現在幾乎沒人真想看他輸。他們喜歡看最好的，即使它包在黑暗精靈的皮裡。雖然他們也想看更好的諾德人。而馬茨可能很快就會到那兒。不過他對莫瑞林打得不是最好。也許他不想，或者莫瑞林只是太了解他。噢，好吧，你想聽龍的事……
 
- "So Moraelyn was gambling with this Nord in a tavern one night, trying to pick up a little easy gold. The pot's pretty big, and the man can't match his bet, so he says he'll put this map on the pile and tap Moraelyn. Says it's a map to the hiding place of the best blade ever made. Says there's a spell on it so that if you hit your opponent, you get as much heal as he gets hurt. That some Mage hid it just before he died so's only someone worthy of it can get to it.
+ 「所以有天夜裡莫瑞林在酒館跟這個諾德人賭博，想輕鬆賺點金幣。賭注相當大，那人配不上他的注，於是他說要把這張地圖押上然後點莫瑞林。說這是通往有史以來最好刀刃藏匿處的地圖。說上面有法術，所以你擊中對手時，你得到的治療和他受到的傷害一樣多。某個法師死前把它藏起來，只有配得上它的人才能得到。
 
- "'And you think I look worthy?' Moraelyn says, grinning. We were young and dumb, but not all that dumb.
+ 「『而你覺得我看起來配得上？』莫瑞林咧嘴笑著說。我們年輕愚蠢，可沒那麼蠢。
 
- "The Nord grins back and says 'I saw you fight in Falcreath, kid. You look like you'd take a chance.'
+ 「那諾德人咧嘴回笑，說：『孩子，我在福爾克雷斯看過你打架。你看起來像會冒險的人。』
 
- "'Why not? The story alone is worth the gold. You ought to be a Bard.' So anyway Moraelyn wins the pot and tosses the man enough back to keep his throat wet all evening. Just for laughs we look at the map. It showed the Dragon's Teeth Mountains down in Hammerfell. Real wild country. And there's an 'X' and some writing saying 'Fang Lair'. Mats gets excited and says he's heard of the place, but he'd never known just where it was.
+ 「『為什麼不？單這故事就值那些金幣。你該當吟遊詩人。』總之莫瑞林贏了賭注，把夠那人整晚潤喉的扔還給他。圖個笑，我們看了地圖。它顯示落錘省的龍牙山脈。真正的荒野。上面有個『X』和一些字寫著『尖牙巢穴』。馬茨興奮起來，說他聽過這地方，卻從不知道它在哪。
 
- "'And you still don't,' I say. 'Any fool can draw a map, just as any fool can look at one. I could do as much myself.'
+ 「『你現在也還不知道，』我說。『任何傻瓜都能畫地圖，正如任何傻瓜都能看地圖。我自己也能做到。』
 
- "Mats says Fang Lair is an old dwarf mine, but there's supposed to be a dragon there now, and the dwarves are gone. Moraelyn looks real interested at the mention of a mine, and asks what they mined there. Mats says mithril and gold.
+ 「馬茨說尖牙巢穴是座古老的矮人礦坑，可現在那兒據說有一條龍，矮人都走了。莫瑞林一提到礦就真的感興趣，問他們在那兒採什麼。馬茨說秘銀和金。
 
- "Moraelyn says, 'Hmmmmm.'
+ 「莫瑞林說：『嗯嗯嗯。』
 
- "The mithril had him interested. We couldn't afford really good weapons. And mithril's scarce, but it's light to carry for its worth, and easy to mine and work if you know how; and he did. He didn't believe in the magic blade or the dragon, but he thought the mine might be real. Mining's in his blood, as it is in all the R'Aathim, the royal Kin of Ebonheart.
+ 「秘銀讓他感興趣。我們買不起真正好的武器。秘銀稀少，可就其價值而言輕便，若你知道怎麼做就容易開採加工；而他知道。他不相信魔法刀刃或龍，卻認為礦可能是真的。採礦在他血液裡，正如在所有拉阿提姆——烏木之心王室親族——的血液裡。
 
- "It took us a couple of months to get there. We couldn't afford horses. We never would have found it without the map. It's tricky country, full of canyons and hidden valleys. We sure never expected what we saw when we did get there. You could see the towers from the canyon mouth, way back in there. Dark elves live right in caverns if they mine, but the dwarves had built a hall over the top of their mines. It's a pretty thing on the outside. Narrow towers, and arched bridges between them. Delicate looking; you wouldn't expect work like that from Dwarves. Merged right into the rocks too. And there was a big stone dragon mounted above the gate.
+ 「我們花了幾個月才到那兒。我們買不起馬。沒有地圖我們永遠找不到。那是詭譎的鄉間，滿是峽谷和隱秘山谷。真正到了那兒，我們絕沒料到看見的東西。從峽谷口就能看見塔，遠遠在裡面。黑暗精靈若採礦就直接住在洞穴裡，可矮人在礦上建了一座廳。外表是漂亮的東西。窄塔，拱橋連接它們。看起來精緻；你不會指望矮人做出那樣的工。也與岩石融為一體。大門上方安著一條巨大的石龍。
 
- "'There's your dragon, Mats,' I said. The inside wasn't much to look at, just rock wall. The doorway was enormous, but the doors were gone. There was a balcony running right around a big open pit ... probably the start of the mine, turned into a hall. And right in the middle was more treasure than you can imagine ... piled up almost like a haystack that'd been flattened out. And what had flattened it was a golden dragon curled right over it; we didn't even see him at first, 'cause he blended with the rest of the gold. Well, we just froze in place. We hadn't seen a sign of live dragon outside. The place smelled of brimstone, but most mines do. And there that dragon was, just lying there. And it's gotta be two miles to any kind of shelter.
+ 「『那就是你的龍，馬茨，』我說。裡面沒什麼好看的，只是岩壁。門洞巨大，門卻沒了。陽臺環繞一個大敞口坑……大概是礦的起點，變成了廳。正中央的寶藏比你能想像的還多……堆得幾乎像被壓扁的乾草堆。而壓扁它的是一條金色的龍蜷在上面；我們起初甚至沒看見他，因為他與其餘的金融在一起。好吧，我們就地凍住。外面沒看見活龍的跡象。那地方有硫磺味，可多數礦都有。而那條龍就在那兒，躺著。到任何遮蔽處都得有兩英里。
 
- "'I told you there was a dragon,' Mats whispers.
+ 「『我告訴過你有龍，』馬茨低語。
 
- "'Shhhhh,' Moraelyn says. 'Look what's in front of his nose.'
+ 「『噓，』莫瑞林說。『看他鼻子前面是什麼。』
 
- "I'd been busy looking AT his nose, believe you me. But there was a sword lying right there naked, sure enough ... .and the blade was dark metal that looked just like his dagger."'You two start back,' Moraelyn says, 'I'm going to try for that blade, anyway. If that's not ebony, I'm a wood elf. Maybe the dragon's dead, or asleep for the winter ... or maybe it's not alive at all. Just something the dwarves made to guard their treasure. Like the scarecrows the Nord farmers put in their grain fields. At worst, I'll distract him long enough for you to get clear.'
+ 「我忙著看他的鼻子，相信我。可那兒確實有一把劍赤裸地躺著……而且刀刃是暗金屬，看起來就像他的匕首。『你們兩個開始往回走，』莫瑞林說，『我至少要試那把刀刃。若那不是烏木，我就是木精靈。也許龍死了，或冬眠……或者它根本不是活的。只是矮人做來守護寶藏的東西。像諾德農夫放在穀田裡的稻草人。最壞的情況，我會引開他夠久讓你們逃清。』
 
- "I'd a mind to take him up on it, but Mats just shook his head, and I was kinda ashamed to go back alone.
+ 「我有心接受，可馬茨只是搖頭，我獨自回去有點羞愧。
 
- "'Let's all just clear out,' I said. That thing looked real enough to scare ME away. But Moraelyn casts Invisibility and heads on down the stair, not making a sound that even I could hear. I could see Mats hated letting him go down alone, but Mats couldn't sneak past a blind, deaf beggar in a fish market. So we strung our bows and figured we could try to get off a couple of shots and maybe get lucky and take out the eyes if the dragon woke up and went for Moraelyn. Mats and I move around to where we can get onto a tower stair fast if we have to, figuring the dragon can't get in there. Then we scrunch down and peer between the railings. Not that there was anything to see except the dragon lying there. Which really is a lot to see, at that.
+ 「於是莫瑞林施隱形，走下樓梯，連我都聽不見一點聲音。我看得出馬茨恨讓他獨自下去，可馬茨連魚市場裡又瞎又聾的乞丐都偷溜不過。於是我們張弓，想著若龍醒來撲向莫瑞林，我們或許能射幾箭，運氣好射瞎眼睛。馬茨和我移到必要時能迅速上塔梯的位置，想著龍進不去那兒。然後我們蹲下從欄杆間窺視。其實除了龍躺在那兒沒什麼可看。不過那確實很多可看。
 
- "Then those dragon eyes popped open and my heart gave one big jump and then seemed to quit entirely.
+ 「然後那些龍眼睜開，我的心猛跳一下，然後似乎完全停了。
 
- "'Ahhhhh! Dinner comes to me today,' the dragon says. 'Take a good look at my hoard, dark elf. You will not steal it nor even view it long, but your bones will keep it company ... .forever.'
+ 「『啊啊啊！今天晚餐自己送上門，』龍說。『好好看看我的寶藏，黑暗精靈。你偷不走它，甚至看不了多久，可你的骨頭會永遠陪伴它……永遠。』
 
- "'I don't want your hoard, dragon, just the sword you guard. I'll trade you mine for it; mine's bigger.' I couldn't see Moraelyn, but his voice was coming from right near where the sword was. Which was practically in the dragon's mouth!
+ 「『我不要你的寶藏，龍，只要你看守的劍。我用我的跟你換；我的更大。』我看不見莫瑞林，可他的聲音從劍所在的地方傳來。那幾乎就在龍嘴裡！
 
- "'I get a meal and both swords. Why should I settle for just your poor sword?'
+ 「『我得到一頓飯和兩把劍。為什麼我該只滿足於你那把可憐的劍？』
 
- "'Let me pass and I'll get you more gold from below.'
+ 「『讓我過去，我會從下面給你弄更多金。』
 
- "'I have gold enough.' The dragon yawned and I thought he was going to swallow Moraelyn right then, but he turned his head away -- away from us, too. Mats was looking to get a shot, but it was really dark in there for Nord eyes and he was scared of hitting Moraelyn, since he couldn't locate him that well by sound. 'Course Moraelyn's too smart to get between us and the dragon, but Mats wasn't smart enough then to think that far along. Slavery dulls the wits in some ways, Mats says, and he hadn't been free very long. I could see well enough, and I could tell by sound exactly where Moraelyn was, but the shot was clean out of my range.
+ 「『我金子夠了。』龍打了個哈欠，我以為他當時就要把莫瑞林吞下去，可他把頭轉開——也離開我們。馬茨想射一箭，可那兒對諾德眼睛來說真的很暗，他害怕打中莫瑞林，因為他不能靠聲音很好地定位他。當然莫瑞林太聰明不會擋在我們和龍之間，可那時馬茨還沒聰明到想到那麼遠。奴役在某些方面磨鈍了心智，馬茨說，而他自由還不久。我看得夠清楚，也能靠聲音精確知道莫瑞林在哪，可那一射完全超出我的射程。
 
- "The dragon goes on, 'But there is something you can do for me, elf, and prolong your life a few more minutes.'
+ 「龍繼續說，『可有件事你能為我做，精靈，延長你的生命再幾分鐘。』
 
- "'A few more minutes sound pretty good just now, dragon. What would you ask of me?' Moraelyn's voice sounded as calm and easy as if he was asking if there would be rain tomorrow. He can keep his head in a tight spot, I'll give him that.
+ 「『再幾分鐘現在聽起來相當不錯，龍。你要我做什麼？』莫瑞林的聲音聽起來平靜從容，彷彿他在問明天會不會下雨。他能在緊要關頭保持清醒，這我得承認。
 
- "'I have a toothache. It's too far back for me to reach it with my claws. Canst see it, elf?' The dragon gapes his jaws to bare his teeth. "Moraelyn's invisiblity spell wore off about then, and I could see him standing there staring up into that cavern of a mouth. 'Lower your head a bit so I can get a good look.' He puts out his hand and pulls the upper lip aside, cool as you please, and examines the inner gum carefully. Damndest thing I ever saw.
+ 「『我有牙痛。太靠後了，我的爪夠不到。你看得見嗎，精靈？』龍張開顎露出牙齒。那時莫瑞林的隱形法術消退了，我能看見他站在那兒盯進那洞穴般的嘴。『把頭低一點讓我好好看看。』他伸出手把上唇撥開，冷靜得要命，仔細檢查內側牙齦。我見過最該死的事。
 
- "'It's abcessed [sic]. Thy gum wants lancing, and the tooth should come out. I can lance it if you trust me in there with a sword.'
+ 「『化膿了。你的牙齦需要切開排膿，牙該拔掉。若你信任我拿劍進去，我能切開它。』
 
- "'And why should I trust you, dark elf? I hear no good of your kind.'
+ 「『我為什麼該信任你，黑暗精靈？我沒聽過你們種族的好話。』
 
- "'You must be spending too much time with Nords, then. I wouldn't be able to kill you before you killed me. Why should I even try? Listen, I have some friends up above. Suppose they hunt you up a nice fat deer. I'll lance your gum and you can let me go and eat the deer. Else you can just eat me now, toothache and all.'
+ 「『那你一定跟諾德人待太久了。我殺不了你在你殺我之前。我為什麼還要試？聽著，我上面有些朋友。假設他們給你獵一頭肥鹿。我切開你的牙齦，你放我走吃鹿。否則你現在就可以吃我，連同牙痛一起。』
 
- "'Hssssssss. What makes you think your friends will return once they're away?'
+ 「『嘶嘶嘶嘶。什麼讓你覺得他們一走就會回來？』
 
- "'They're not very smart. I think for them. They'd be lost without me. Good hunting, guys! Uh, if they can't find a deer, is there anything else you'd like? Pig, maybe? A few rabbits? Nuts? Berries? Hurry up, will you?' But we had hand signals and his hands said to get out of there and stay out!
+ 「『他們不太聰明。我為他們思考。沒有我會迷路。好好打獵，夥計們！呃，若他們找不到鹿，還有什麼你想要的嗎？豬，也許？幾隻兔子？堅果？莓果？快點，好嗎？』可我們有手勢，他的手說離開那兒別回來！
 
- "I'd a been glad to; I mean I'm fond of Moraelyn but I didn't see my dying alongside would bring him any comfort. I'd a been glad to see him clear if it was me that was on the menu, and I figured he felt the same way. But that thick-skulled Nord wouldn't listen to me! Said if dying beside him was all we could do, then that's what we'd do. Nord nonsense. Sounds good in a song, though.
+ 「我本會樂意；我是說我喜歡莫瑞林，可我不認為我死在旁邊會給他任何安慰。若菜單上是我，我也樂見他逃清，我想他也同樣感覺。可那厚頭蓋的諾德人不聽我的！說若死在他旁邊是我們能做的全部，那我們就那樣做。諾德人的胡說。不過唱起來好聽。
 
- "So we took a couple hours getting a deer and headed back with it. I figured Moraelyn was filling the dragon's belly by now, and the dragon would be happy to add a deer, another Dark Elf and a Nord to round out his day's rations. But Moraelyn was still sitting there, chatting with the dragon. He didn't look that pleased to see us, either. Told us to leave the deer and go and he'd lance the abcess once we're away. But Mats says he's been thinking. Oh, brother, I thought. Mats doesn't think too often, and that's a good thing, really. He's decided he can get a chain round that bad tooth, fasten down the end to the floor, and then the dragon can give it a good yank himself.
+ 「於是我們花了兩三個時辰弄到一頭鹿，帶著它往回走。我以為莫瑞林這會兒已經填了龍肚子，龍會高興再加一頭鹿、另一個黑暗精靈和一個諾德人來湊齊當天的口糧。可莫瑞林仍坐在那兒，跟龍聊天。看見我們他看起來也不太高興。叫我們放下鹿離開，等我們走了他才切開膿腫。可馬茨說他一直在想。噢，兄弟，我想。馬茨不常想，那其實是好事。他決定可以在那顆壞牙上繞條鏈子，把一端固定在地板上，然後龍自己就能好好一拽。
 
- "The dragon likes the idea, so Moraelyn lances that abcess to take the swelling down to where the dragon can gulp the deer with some comfort. And then they rig up a chain and get that tooth out. Made a hell of a mess, that. Blood and pus everywhere. And Moraelyn's got us casting Heal spells on this dragon to stop the bleeding and close up the wound.
+ 「龍喜歡這主意，於是莫瑞林切開那膿腫，消腫到龍能比較舒服地吞鹿。然後他們架起鏈子把那顆牙拔出來。弄得一團糟。到處是血和膿。而莫瑞林讓我們對這條龍施治療法術來止血閉合傷口。
 
- "'Ah, hum, good, very good. All right, Moraelyn, you've proven yourself. Take the sword and go.'
+ 「『啊，嗯，好，很好。好了，莫瑞林，你證明了自己。拿劍走吧。』
 
- "Moraelyn looks at him. 'You mean this was some kind of test?' he says. 'How long have you had that toothache?'
+ 「莫瑞林看著他。『你是說這是某種考驗？』他說。『你那牙痛有多久了？』
 
- "'Long indeed, as you measure time, mortal, yet not very long at all for dragonkind. Hear my story then: a scraggly young mage came along, hoping to steal my gold. I caught him at it; we had increasingly harsh words, and he attempted a spell aimed at me. His pitiful spell affected me little, and I killed him. But ummmm...' The dragon looked away briefly, then resumed his tale. 'The little runt had apparently cast a home-made Curse spell upon himself, and when I crunched him...' The dragon scowled fiercely, remembering, then continued, 'Anyway, the ache only came on bad when someone came along to try for the sword. The sharpest pain went away if I ate the intruder ... but I usually didn't, though I've singed a few in self-defense; heh, waft a bit of fire and most of them fled. Deer are plentiful; there is something er, ah, unpleasant about eating someone you've talked to. That greasy mage gave me indigestion for days. Cramps and runny bowels and too much gas, even for a dragon. So that toothache never did completely go away. And the people who've come along haven't been very pleasant either ... all in all one of the most unpleasant stretches in my life. I couldn't stay away from the vicinity of the sword for very long of course. Part of the curse.'
+ 「『很久了，以你衡量時間的方式，凡人，對龍族卻根本不太久。那就聽我的故事：一個瘦弱的年輕法師來了，希望偷我的金。我抓住他；我們話愈來愈難聽，他試圖對我施法。他可憐的法術對我影響很小，我殺了他。可嗯嗯嗯……』龍短暫別開眼，然後繼續講述。『那小矮子顯然對自己施了自製的詛咒法術，當我嘎吱咬他時……』龍兇猛地皺眉，回憶著，然後繼續，『總之，有人來試劍時疼痛才變嚴重。若我吃了入侵者，最尖的痛就會消失……可我通常不吃，雖然我出於自衛烤過幾個；嘿，噴一點火多數人就逃了。鹿很多；吃跟你談過話的人有種呃，啊，不愉快。那油膩的法師讓我消化不良了好幾天。絞痛、拉肚子，氣體太多，即使對龍來說。所以那牙痛從未完全消失。來的人也不太愉快……總之是我一生中最不愉快的一段。我當然不能長時間離開劍附近。詛咒的一部分。』
 
- "'We could stay on for awhile, if you like. We're good company. I'm Moraelyn; my red-headed friend is Mith, and the big guy is Mats. I'd still like to look for mithril below and I've never had a dragon friend before.'
+ 「『我們可以再待一陣子，若你喜歡。我們是好夥伴。我是莫瑞林；我紅髮的朋友是密斯，大個子是馬茨。我仍想在下面找秘銀，而且我從未有過龍朋友。』
 
- "'I might like that. You have good friends, and even though you have said that you must do the thinking for them. I think that they can do some thinking on their own, and it would appear that they have decided that you are a worthwhile fellow,' The dragon hesitated for a second and actually managed to look shy! 'You can call me Akatosh.'
+ 「『我可能喜歡那樣。你有好朋友，即使你說過你必須為他們思考。我想他們能自己做些思考，而且看來他們已決定你是個值得的傢伙。』龍猶豫了一秒，實際上設法看起來害羞！『你可以叫我阿卡托什。』
 
- "So we stayed for a couple of weeks. Hunted with the dragon -- now that's an experience! Searched the mines ... didn't find much down there. But the dragon gave us the jewels from his hoard. Said he only needed the metal; they absorb it into their scales while they lie on it. So we did pretty well out of it after all. Moraelyn tried to give Mats the sword. Claimed that he'd have sure tried to kill that dragon if we hadn't come back, and would have been toasted. But Mats wouldn't take it. Said the dragon gave it to Moraelyn so that was clearly who was supposed to get it. Mats took the tooth, but he made the hilt you've got now and gave Moraelyn that, too. Told me he'd never had anything worth giving before, and it made him feel good. He's real pleased Moraelyn chose to give it to you."
+ 「於是我們待了幾個星期。跟龍一起打獵——那可是種體驗！搜尋礦坑……下面沒找到多少。可龍把他寶藏裡的珠寶給了我們。說他只需要金屬；它們躺在上面時會吸收進鱗片。所以我們最終還是做得不錯。莫瑞林試圖把劍給馬茨。聲稱若我們沒回來他肯定會試圖殺那龍，然後被烤焦。可馬茨不肯拿。說龍把劍給了莫瑞林，所以顯然該是誰得到它。馬茨拿了牙，可他做了你現在有的刀柄，也給了莫瑞林。告訴我他以前從未有過值得給的東西，這讓他感覺很好。他很高興莫瑞林選擇把它給你。」
 
- "I think Mats should have got the sword," Edward said. "He didn't try to steal anything. It was really brave of him to come back, even when he didn't think it'd do any good. Moraelyn tried to steal, got caught and then just tried to talk his way out of it. You could all have been killed because of him."
+ 「我認為馬茨該得到那把劍。」愛德華說。「他沒試圖偷任何東西。即使他認為沒用，回來也真的很勇敢。莫瑞林試圖偷竊，被抓住，然後只試圖靠說話脫身。你們全可能因他而死。」
 
- "That's just what Moraelyn said. Ah, well, Mats likes that big axe of his better than a blade anyway."
+ 「那正是莫瑞林說的。啊，好吧，馬茨喜歡他那把大斧勝過刀刃。」
 
- Edward sighed. "I wish I was brave like Mats. I guess I'm more like you."
+ 愛德華嘆口氣。「但願我像馬茨一樣勇敢。我想我更像你。」
 
- "Aye," Moraelyn's voice sounded behind him, startling the boy. "Tart tongued, like Mith. No matter. I'll be well pleased if you're as brave as Mith. And if once I'm gone they say no more of me than 'he did what he had to do', my spirit will be at peace."
+ 「是啊。」莫瑞林的聲音在他身後響起，嚇了男孩一跳。「舌頭尖利，像密斯。沒關係。若你像密斯一樣勇敢，我會很高興。一旦我走了，若他們對我說的不過是『他做了必須做的事』，我的靈魂就會安寧。」

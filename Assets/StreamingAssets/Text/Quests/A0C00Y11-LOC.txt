@@ -1,0 +1,119 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 11
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 42
+Quest: A0C00Y11
+DisplayName: 療法
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 請問，你是醫生，或有任何治療能力嗎？我真的需要能治好我表親的人。
+                                     <--->
+<ce> 我的表親快死了！你能幫我嗎？
+
+RefuseQuest:  [1001]
+<ce> 該死。我本來能用得上幫忙。
+                                     <--->
+<ce> 真倒楣。還是謝謝你。
+                                     <--->
+<ce> 那麼抱歉打擾你了。
+
+AcceptQuest:  [1002]
+<ce> 謝謝你，謝謝你！我叫 _giver_。
+<ce> 我最近得知 ___cousin_ 的表親 _cousin_
+<ce> 病得極重，大概 =questtime_ 天內就會死！
+<ce> 你能為治癒 %g2 做的任何事都會讓我感激不盡。
+<ce> 這是 _gold1_ 金幣。若能治好 %g2，我再付你 _gold2_ 金幣。
+
+QuestComplete:  [1004]
+<ce> 噢，你把治療護符帶來了！謝謝你，%pcn。
+<ce> 這是我表親答應你的剩餘金幣。我真的感激不盡。
+<ce> 希望你往後的旅途平安。
+
+RumorsDuringQuest:  [1005]
+<ce> _giver_ 的表親真可惜。聽說是致命的病。
+
+RumorsPostfailure:  [1006]
+<ce> ___cousin_ 的 _cousin_ 死於法師災疫。聽說那兒現在可能會爆發瘟疫。
+                                     <--->
+<ce> _giver_ 悲痛欲絕。%G3 在 ___cousin_ 的表親最近死了。
+
+RumorsPostsuccess:  [1007]
+<ce> 聽說了嗎？___cousin_ 出了奇蹟療法！
+                                     <--->
+<ce> _giver_ 向神殿捐了一大筆金幣。聽說 %g3 表親奇蹟般痊癒了。
+                                     <--->
+<ce> 你不就是治好 ___cousin_ 那個可憐人的 %ra 嗎？
+
+QuestorPostsuccess:  [1008]
+<ce> 祝福你，%pcf。我永遠不會忘記你為 _cousin_ 和我所做的。
+<ce> %G 已從法師災疫完全康復。
+
+QuestorPostfailure:  [1009]
+<ce> %pcn！你的呼吸都在污染空氣。我的表親因你而死。滾！滾！滾！
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___giver_ 的 _giver_ 付錢要我治療 %g3 表親，
+ ___cousin_ 的 _cousin_。
+ %G 很可能在 =questtime_ 天內死去。
+ 救活 %g2 後我還會再拿到 _gold2_ 金幣。
+
+Message:  1011
+%qdt:
+ 我見到了 _cousin_。%G3 病情比 _giver_ 說的更糟。
+ _cousin_ 說 ___healer_ 的 _healer_ 或許有療法。
+
+Message:  1012
+<ce> 我聽說了 %g3 的病。至今當地治療者都找不到療法。
+                                     <--->
+<ce> 我確實聽過 %g2 的事。什麼神秘的致命疾病。真令人難過。
+                                     <--->
+<ce> 是的，我知道這件事。聽起來像法師災疫。
+                                     <--->
+<ce> 沒人知道 %g2 出了什麼問題，但據說 %g 只剩幾天可活。
+                                     <--->
+<ce> 非常不幸的病例。沒人知道 %g2 得了什麼。
+<ce> 你可以試試名叫 _healer_ 的治療者，據說對冷僻疾病有百科全書般的知識。
+                                     <--->
+<ce> 噢，對，就是那個消耗熱的病人。
+
+Message:  1013
+<ce> 你好。是的，我聽過 ___cousin_ 的 _cousin_ 和 %g3 的問題。
+<ce> 是法師災疫。我該知道。總之，我有一枚能治癒它的特殊護符。
+<ce> 不過只能用一次。我賣你二十金幣。拿去。非常感謝。
+
+Message:  1015
+<ce> 你好。是的，我聽過 ___cousin_ 的 _cousin_ 和 %g3 的問題。
+<ce> 是法師災疫。我該知道。總之，我有一枚能治癒它的特殊護符。
+<ce> 不過只能用一次。我願以二十金幣賣你，但你似乎付不起。
+
+Message:  1017
+%qdt:
+ 我從 ___healer_ 的 _healer_ 買到一枚能治法師災疫的護符，
+ 那正是折磨 _cousin_ 的病。
+
+Message:  1019
+<ce> 你使用護符，它便神奇地消失了。
+
+Message:  1030
+<ce> 我覺得好虛弱。我不知道自己怎了。我的表親 _giver_ 派你來幫我？
+<ce> 噢，謝謝你，謝謝你！我剛聽說 ___healer_ 有位叫 _healer_ 的治療者或許能幫我。
+<ce> 拜託去找 %g2，在太遲之前把療法帶給我！
+
+Message:  1040
+<ce> 聽說 _healer_ 專治最冷僻的疾病。
+                                     <--->
+<ce> _healer_？我想住在 ___healer_。
+
+Message:  1041
+<ce> 聽說 _healer_ 是這一帶最好的治療者。
+<ce> 你會在 ___healer_ 找到 %g2。
+                                     <--->
+<ce> 我聽過 ___healer_ 的 _healer_。
+ %G 以治癒最棘手的病例而聞名。

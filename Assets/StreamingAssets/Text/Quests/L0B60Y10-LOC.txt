@@ -1,0 +1,76 @@
+-- Quest: C:\QUESTS\WORKING\L0B60Y10.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 60
+-- QuestId: 10
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 24
+Quest: L0B60Y10
+DisplayName: 老兵
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 這份可能很難，連你也一樣，
+<ce> %pcf。目標是 %reg 最出色
+<ce> 的戰士之一。你確定要
+<ce> 接這差事？
+
+RefuseQuest:  [1001]
+<ce> 一點也不怪你。這可能
+<ce> 有點太危險。
+
+AcceptQuest:  [1002]
+<ce> 我就知道你可能會試這一份。
+<ce> 那是你的葬禮。這目標可不是競技場角鬥士。
+<ce> 我們說的是貝托尼戰爭的
+<ce> 老兵。若傳聞屬實，殺過九個人。
+<ce> 前往 ___mondung_ 的 _mondung_。
+<ce> 你很容易認出目標，因為
+<ce> 他瘸著腿。戰爭時膝蓋中槍
+<ce> 造成的。=1stparton_ 天內回到這裡。
+
+QuestFail:  [1003]
+<ce> 我不知道你以為自己殺了誰，
+<ce> 但不是目標。回到 ___mondung_，
+<ce> 把我們接下的契約辦完。
+
+QuestComplete:  [1004]
+<ce> 好一場戰鬥！我已經聽說了。
+<ce> 街頭閒話比馬還快，你知道的。
+<ce> 這是這份差事的 _reward_ 金幣，%pcf。
+
+RumorsDuringQuest:  [1005]
+真遺憾，匕首雨正在發生的那些事。
+
+RumorsPostfailure:  [1006]
+聽說女王懷孕了。至少大家都是這麼說的。
+
+RumorsPostsuccess:  [1007]
+你聽說那個戰爭英雄了嗎？決鬥中死了。真可惜。
+
+QuestorPostsuccess:  [1008]
+你與那位戰爭英雄的戰鬥仍被人傳頌，%pcn。
+
+QuestorPostfailure:  [1009]
+你未能履行殺死戰爭英雄的契約。兄弟會永不忘記失敗。
+
+Message:  1020
+%qdt:
+ 我在 ___questgiver_ 為黑暗兄弟會接下的
+ 契約，是 _mondung_（位於 ___mondung_）
+ 的一名戰爭英雄。此事須在 =1stparton_ 天內完成。
+
+Message:  1021
+<ce> 「你成功了……貝托尼戰爭裡……
+<ce> 所有士兵都……失敗的地方。」
+<ce>                                    
+<ce> 契約已經履行。
+
+Message:  1022
+<ce> 「別因為我瘸腿，就當我是
+<ce> 殘廢。我照樣能把你撕成碎片！」
+
+Message:  1023
+<ce> 這不是人！是吸血鬼！

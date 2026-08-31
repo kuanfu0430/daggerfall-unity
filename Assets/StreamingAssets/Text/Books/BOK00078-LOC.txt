@@ -1,5 +1,5 @@
-Title: Fools' Ebony, Part the Fiveth
-Author: Frincheps
+Title: 愚人烏木，其五
+Author: 弗林切普斯
 IsNaughty: True
 Price: 317
 IsUnique: False
@@ -8,198 +8,198 @@ Content:
 
 [/font=2]
 
-[/center]Fools' Ebony
+[/center]愚人烏木
 
-[/center]Part The
+[/center]其
 
-[/center]Fiveth
+[/center]五
 
 [/font=4]
 
 [/center]
 
- Dramatis Personae
+  登場人物
 
- Prologue; The Adventurer, A Dark Elf Rascal; Komon, A Priest of Akatosh; Lheban, Another Priest of Akatosh; Epilogue; Stete, A Priest of Julianos; Raic, Another Priest of Julianos; Shub, A Mage; Shub, A Different Mage of the Same Name; Nephron, A Somewhat Sleazy Merchant; 5 Armorers; Ortho; Crunn, Husband of Millie; A Lusty Contessa; Millie, Innkeep and Philosopher; Gurnsey, Bovine Wench; Assorted Wenches and Cads of the Taverns; Soldiers; Dwarves; Giants.
+  開場白；冒險者，一名黑暗精靈無賴；科蒙，阿卡托什的祭司；勒班，另一名阿卡托什的祭司；收場白；斯特特，朱利安諾斯的祭司；雷克，另一名朱利安諾斯的祭司；舒布，一名法師；舒布，另一名同名的法師；奈夫隆，一名有點下流的商人；五名鑄甲師；奧索；克朗，明妮之夫；一位好色的女伯爵；明妮，旅店老闆兼哲學家；格恩西，牛一般的女侍；酒館裡各色女侍與無賴；士兵；矮人；巨人。
 
- Part The Fiveth - Back With The Priests, Final Plans, and a Killing or Two is Reported... Nearer the middle of the Month of Frostfall, The Inn of the Pink Nymph.
+  其五——回到祭司身邊，最終計畫，並報上一兩樁殺人……霜落月中旬，粉紅寧芙旅店。
 
- (Enter Prologue, the Adventurer, Ortho, Nephron, the Five Armorers, and Prologue)
+  （開場白、冒險者、奧索、奈夫隆、五名鑄甲師與開場白上）
 
- Prologue: Our roguish Dark Elf, the Adventurer has plummeted before our stunned eyes, from the king of the spider web of intrigue to a pathetic, crawling lump of Argonian excrement. In the quest for Fools' Ebony, that substance that all would kill for, the Adventurer attempted to play Mage against Priest with the help of the merchant Nephron. Alas, that is to say, alackaday, the five armorers have trapped Nephron and the Adventurer and taken over their scheme. The hulking Ortho now watches the Adventurer's every move. But I get the feeling -- to be honest, don't you? -- that beneath the Adventurer's defeated quivering jelly lurks a jungle cat of such cunning and resource to shatter all his enemies when the time is right. Of course, I could be wrong. Ah, I see one of the priests of Akatosh who believes himself a friend of the Adventurer. I, Prologue must away.
+  開場白：我們這位黑暗精靈無賴冒險者，在我們震驚的眼前一落千丈，從陰謀蛛網之王淪為一團可憐蠕動的亞龍人糞便。為了人人願意為此殺人的愚人烏木，冒險者試圖在商人奈夫隆幫助下，讓法師與祭司互相牽制。唉，也就是哀哉，五名鑄甲師困住了奈夫隆與冒險者，接管了他們的計畫。魁梧的奧索如今盯著冒險者的一舉一動。可我有種感覺——說實話，你沒有嗎？——在冒險者那副被打敗的顫巍巍果凍底下，潛伏著一頭叢林貓，狡猾而機謀，時機一到便能粉碎所有敵人。當然，我也許錯了。啊，我看見一名自以為是冒險者朋友的阿卡托什祭司。我，開場白，必須走開。
 
- (Exit Prologue)
+  （開場白下）
 
- (Enter Lheban, a Priest of Akatosh.)
+  （勒班上，阿卡托什的祭司。）
 
- Lheban: Evening there, mind if I join you?
+  勒班：晚上好，不介意我坐過來吧？
 
- Adventurer: Well ... since you already have - no. And where is our esteemed brother Komon this chill evening?
+  冒險者：這個……既然你已經坐了——不介意。我們尊敬的科蒙弟兄今晚這麼冷，人在哪兒？
 
- Lheban: You mean you haven't heard -- Oh, I guess you have been busy with the ... preparations?
+  勒班：你是說你沒聽說——噢，我猜你一直忙於……準備？
 
- Adventurer: Right, right, very busy...
+  冒險者：對，對，非常忙……
 
- Lheban: Then let me tell you -- Oh, what a bad business. What trouble ... Oh Dear ... Well ... you doubtless recall that poor Komon had this ... er ... problem -- overwork of course!
+  勒班：那就讓我告訴你——噢，多糟的事。多麻煩……噢親愛的……這個……你當然記得可憐的科蒙有這個……呃……問題——當然是過勞！
 
- Adventurer: Oh yes -- you fellows do work exceeding hard, seems to me.
+  冒險者：噢對——你們各位幹得極辛苦，在我看來。
 
- Lheban: Well ... recall how Komon left, somewhat erratically as it were, and ... er ... made off with that young blondie under the lamppost outside? Well -- in his ... er ... state of confusion -- he grabbed the wrong blondie - Oh My, indeed the wrong one ...
+  勒班：這個……記得科蒙怎麼走的，可以說有點失控，而且……呃……帶走了外頭燈柱下那個年輕金髮？好——他在那種……呃……混亂狀態——抓錯了金髮——噢我的天，確實抓錯了……
 
- Adventurer: They all look pretty much the same to me, but of course, I do not look too hard!
+  冒險者：對我來說她們看起來差不多，不過當然，我沒仔細看！
 
- Lheban: Oh My! Well, to cut a short tale to the bone, old Komon grabbed a Contessa, who had thought to 'disguise herself.' Oh Dear!
+  勒班：噢我的天！好，長話短說，老科蒙抓了一個女伯爵，她自以為「喬裝了自己」。噢親愛的！
 
- Adventurer: Well -- did she get away? Did they catch Komon? What happened?
+  冒險者：那——她逃掉了嗎？他們抓住科蒙了嗎？發生了什麼？
 
- Lheban: Well, old Komon, tipsy as he was, was quick as spit in a gale. Eluded all pursuit, took the lady to a small private ... retreat house that we have. Oh Dear Me! Well, the City Guards, Palace guards, half a dozen Royals, all caught up with Komon 3 days later. One day too late for the poor Contessa -- I hear that they had a hard time locating all the ... er ... bits and pieces. Komon was there, passed out cold. And another body, some common blond lamppost girl. And by now he is cold -- permanently, most likely at the bottom of the Bay.
+  勒班：這個，老科蒙雖然醉醺醺，卻快得像大風裡的唾沫。甩掉所有追捕，把那位女士帶到我們一處小小的私人……靜修所。噢親愛的我！好，城市衛兵、王宮衛兵、半打王室，三天後全趕上了科蒙。對可憐的女伯爵來說晚了一天——聽說他們費了好大勁才把所有……呃……碎塊找齊。科蒙在那兒，醉得不省人事。還有另一具屍體，某個普通的金髮燈柱女孩。而到現在他已經冷了——永久地，多半在灣底。
 
- Adventurer: Oh well. Serves the Contessa right, coming down to this area. But I suppose that there are repercussions?
+  冒險者：噢好吧。那女伯爵活該，跑到這一帶來。不過我想會有後果？
 
- (Enter two more Priests, Raic and Stete of Julianos, and four armed City Guards)
+  （又兩名祭司上，朱利安諾斯的雷克與斯特特，以及四名武裝城市衛兵）
 
- Raic: Evening, Lheban. Evening, Adventurer. And --
+  雷克：晚上好，勒班。晚上好，冒險者。還有——
 
- Ortho: Me am Ortho.
+  奧索：我是奧索。
 
- Raic: Yesss. Charmed. And Lheban, you indeed have my sympathies ... if there is anything we can do to help -- our Temple of Julianos, that is ..? But really, you should have kept Komon on a tighter leash - or preferably a noose!
+  雷克：是的。榮幸。還有勒班，你確實得到我的同情……若有我們能幫的——我是說我們朱利安諾斯神殿……？不過說真的，你該把科蒙拴緊一點——或者最好套個絞索！
 
- Adventurer: Hello Raic. And hello to you, Stete - how's your sister?
+  冒險者：你好，雷克。還有你好，斯特特——你姐姐怎麼樣？
 
- Stete:Oh, she's great.
+  斯特特：噢，她好得很。
 
- (Raic sets Stete on fire, but it goes out)
+  （雷克點燃斯特特，可火滅了）
 
- Lheban: Yes, I know I know. Oh the repercussions! Do you know that the Priests of Akatosh to Daggerfall Castle, Wayrest Palace and just about everywhere else have all been thrown out? That the Royal tax exemption for the Chantry has been revoked? That the Akatosh Chantry has just received a 'past due taxes' bill? Oh My!
+  勒班：對，我知道我知道。噢那些後果！你知道阿卡托什的祭司全被趕出匕首雨城堡、途歇城王宮，幾乎所有地方嗎？聖堂的王室免稅被撤銷了？阿卡托什聖堂剛收到一張「逾期稅單」？噢我的天！
 
- Adventurer: Well ... I suppose that we could help somewhat, maybe? Maybe a small loan from Julianos for that tax bill? With, say, a Temple as security? Oh -- are not the taxes based on the number of the Priests of Akatosh? So, maybe ... the School of Julianos could take over a ... significant number? Reduce your tax bill? You realize that this is not the best time for this -- just as we need a lot of funds for that expedition that I am arranging for you.
+  冒險者：這個……我想我們也許能幫一點，也許？也許朱利安諾斯給那稅單一小筆貸款？用，比如說，一座神殿作擔保？噢——稅不是按阿卡托什祭司人數算的嗎？所以，也許……朱利安諾斯學院可以接管……相當一部分？減少你們的稅單？你明白這時機不太好——正當我在為你們安排那趟遠征，需要大筆資金。
 
- Lheban: Oh, I am so sorry about Komon! But, yes, maybe if good brother Raic could -- I hate to say this -- take over a greater share of the financial burden ..? In return, of course, for ... er ... considerations ..?
+  勒班：噢，科蒙的事我真抱歉！可是，對，也許若好雷克弟兄能——我討厭這麼說——承擔更大份的財務負擔……？當然，作為回報，換……呃……若干對價……？
 
- Raic: Hmm. Like a good number of 'permanently' loaned priests? A long look at your books? At your cellar? Your name-lists? A Temple as security on our loan? And, of course, a bigger cut in the proceeds of this ... expedition? Names of your ... er ... suppliers ..?
+  雷克：嗯。比如相當數量「永久」出借的祭司？好好看看你們的帳簿？你們的酒窖？你們的名冊？一座神殿作我們貸款的擔保？當然，還有這趟……遠征收益裡更大的一份？你們……呃……供貨商的名字……？
 
- Lheban: Oh. I foresaw something like this, talked a bit about it with old Mucky-Muck - livid, he was. But, as I am a Senior Brother, he finally authorized me to 'take care of it.' Those weren't his exact words, mind you, which were quite a bit ...longer, more explicit ... but the gist, at least.
+  勒班：噢。我預見到這種事，跟老高高在上談過一點——他氣瘋了。可我既是資深弟兄，他終於授權我「去處理」。注意那不是他的原話，原話要……長得多，露骨得多……不過大意至少如此。
 
- Adventurer: Of course, Lheban. If -- and note I say 'if' -- if we are successful, why then you can easily get back into good graces at the Palace. Merely sell them the goods, as a good low rate! With first refusal on any shipment you have? What's one Contessa to them, anyway?
+  冒險者：當然，勒班。若——注意我說「若」——若我們成功，那你們很容易就能重新討王宮歡心。只要把貨賣給他們，價錢優惠！對你們任何一批貨有優先拒絕權？一個女伯爵對他們算什麼？
 
- Lheban: Yes, yes! That could work! Worth a try. But how? Royals will not talk to anyone from the Akatosh Chantry now.
+  勒班：對，對！這能成！值得一試。可怎麼做？王室現在不肯跟阿卡托什聖堂任何人說話。
 
- Adventurer: Leave that to me, I can make ... approaches to certain ones. Yes, I can probably persuade them to let up on the Chantry, in return for ... future favors ...
+  冒險者：交給我，我能向某些人……接洽。對，我大概能說服他們對聖堂鬆一鬆，換……未來的好處……
 
- Lheban: Oh, Oh how can I thank you?
+  勒班：噢，噢我該怎麼謝你？
 
- Adventurer: Well, I need a fair amount of gold to finish setting up my little trip. Maybe 10,000? Special horses, reinforced carts, cartiers, guards ... the list goes on and on. And the cost of keeping our little trip quiet is really quite high.
+  冒險者：這個，我需要相當數量的金幣來把這趟小旅行收尾。也許 10,000？特製馬匹、加固車輛、車夫、衛兵……清單沒完沒了。而且把這趟小旅行壓住不聲張的花費真的很高。
 
- Lheban: Well, yes, we can afford it, I guess -- you do have the map now, don't you? I know we can afford 8,000 gold. Given the potential profits ...
+  勒班：這個，對，我想我們負擔得起——你現在有地圖了，對吧？我知道我們負擔得起 8,000 金幣。以潛在利潤來說……
 
- Adventurer: Rest easy! - it's all here in my cloak -- show you in a bit. I've also managed to ... hire some good young hefty fellows, like old Ortho here, to manage the carts, dig and load, act as guards, and so on ...
+  冒險者：放心！——全在我斗篷裡——稍後給你看。我還設法……僱了一些結實的年輕傢伙，像這位老奧索，管車、挖裝、當衛兵，諸如此類……
 
- Lheban: Good, good - I can relax a bit. Oh my, the fellows back at the Chantry will be so relieved. We really owe you, the Brotherhood does -- Oh, I mean the Akatosh Chantry, of course!
+  勒班：好，好——我能鬆一口氣了。噢我的天，聖堂裡的弟兄們會大鬆一口氣。我們真欠你，兄弟會欠你——噢，我是說阿卡托什聖堂，當然！
 
- Stete: Brotherhood ..? What about our sisterhood, eh?
+  斯特特：兄弟會……？那我們的姐妹會呢，嗯？
 
- (Raic grapples Stete, allowing Lheban to hit Stete with a large mallet)
+  （雷克抓住斯特特，好讓勒班用大槌打他）
 
- Adventurer: Well, Raic, what about you and the School? How much are you good for, the extra 2000? And maybe some more - always lots of last minute expenses on a trip like this, you know.
+  冒險者：好，雷克，你們學院呢？你們能出多少，那額外的 2000？也許再多一點——這種旅行總有許多最後一刻的開銷，你知道。
 
- Raic: Well now. Since we seem to getting a whole extra sect of Priests, and ... other considerations ... Certainly!
+  雷克：這個嘛。既然我們似乎要得到整整額外一派祭司，還有……其他對價……當然！
 
- Adventurer: Well, gentlemen -- Oh, and Stete -- here it is!
+  冒險者：好，兩位——噢，還有斯特特——就是這個！
 
- (The Adventurer pulls out a map, gives it to Raic)
+  （冒險者抽出一張地圖，交給雷克）
 
- Adventurer: Oh, by the Arms of Zenithar, did I ever have to work hard for this! Those cagey Mages! But, in the end, just greedy old fools! ... Oh, just in case you or your, er, Head Priest, hasn't seen the goods -- here's a sample. Play with it.
+  冒險者：噢，憑澤尼薩爾的雙臂，我為這東西可沒少賣力！那些精明的法師！可到頭來，不過是貪婪的老傻瓜！……噢，以防萬一你或你們的，呃，大祭司，還沒見過貨——這兒有樣品。玩玩看。
 
- (The Adventurer hands Raic a small leather bag)
+  （冒險者遞給雷克一個小皮袋）
 
- Raic: Thank you, thank you. I must admit, I had some ... well, some doubts. You know -- dealing with a stranger, so on ... No more. Partner!
+  雷克：謝謝，謝謝。我必須承認，我曾有些……這個，有些疑慮。你知道——跟陌生人打交道，諸如此類……沒有了。合夥人！
 
- Adventurer: Good, good!
+  冒險者：好，好！
 
- (Stete hiccoughs)
+  （斯特特打嗝）
 
- Stete: Say, you fellows ever hear this one -- what's a Priest keep under his robe? Haha -- His sister! Haheheha!
+  斯特特：喂，你們聽過這個嗎——祭司袍子底下藏什麼？哈哈——他姐姐！哈嘿嘿哈！
 
- (The Adventurer, Lheban, and Raic beat Stete into unconsciousness)
+  （冒險者、勒班與雷克把斯特特打昏）
 
- Raic: You know, I fear that we really have to do something about young Stete here ... his sister thing ... ugh!
+  雷克：你知道，我怕我們真得對年輕的斯特特做點什麼……他那姐姐的事……呃！
 
- Adventurer: Yes, he could be another Komon -- just what don't need!
+  冒險者：對，他可能變成另一個科蒙——正是我們不需要的！
 
- Lheban: Hmmmm. This sister of his -- does she really -- exist?
+  勒班：嗯嗯。他這個姐姐——她真的——存在嗎？
 
- Raic: Oh yes. My. Oh yes. We know her well -- I mean, we have often seen her ...
+  雷克：噢對。我的天。噢對。我們很熟悉她——我是說，我們常看見她……
 
- Lheban: I think, Brother, that she should be made to see the errors of her ways. So she is no longer an influence on Stete ...
+  勒班：我想，弟兄，該讓她認清自己道路的錯誤。好讓她不再影響斯特特……
 
- Raic: Yes, most certainly ... Hmmm ...
+  雷克：對，當然……嗯……
 
- Lheban: A somewhat Dibelytical theological point -- Oh, please excuse the technical discussion here - Raic, if we are to make her see the errors -- well, how shall I put it -- we first have to know just what the ... ways ... are, correct?
+  勒班：一個有點迪貝拉辯證法的神學問題——噢，請原諒這兒的技術討論——雷克，若我們要讓她認清錯誤——這個，我該怎麼說——我們首先得知道那些……道路……是什麼，對吧？
 
- Raic: Indeed, an astute observation! Hmmm ... so you are suggesting that ... in a nut, we should first determine her ... ways, so as to be able to then show her the ... er ... errors?
+  雷克：確實，精闢的觀察！嗯……所以你是建議……一句話，我們該先弄清她的……道路，然後才能向她指出……呃……錯誤？
 
- Lheban: Precisely! Mind you, a difficult, ardous, tiring project, I fear. One that will take all our ... will and energy.
+  勒班：正是！不過你要知道，這是一項艱難、辛苦、累人的工程，我怕。得耗盡我們全部的……意志與精力。
 
- Raic: Hmmm, true. But challenging, eh? Take all our time - but then, we shall have some time, while friend the Adventurer: here is off hauling and carting.
+  雷克：嗯，確實。可也富有挑戰，嗯？得佔去我們所有時間——不過，我們會有些時間，趁這位冒險者朋友出外拉車搬貨。
 
- Lheban: And ... I personally, would feel far safer if we were ... in retreat maybe. Studying the ways ..?
+  勒班：而且……就我個人而言，若我們……也許去靜修，會安心得多。研究那些道路……？
 
- Adventurer: Yeah -- be a good idea for you two to, maybe, disappear? For a while, of course. Cut down on the chances of a ... rival faction catching on? Or catching you?
+  冒險者：對——你們兩位也許消失一陣子是好主意？當然是暫時的。減少……敵對派系察覺的機會？或者抓住你們？
 
- Raic: Very well! Lheban, why don't you and I take his sister off with us on a ... theological retreat, as it were? Study the ways in details, and so on ...
+  雷克：很好！勒班，何不你我帶著他姐姐去……可以說神學靜修？詳細研究那些道路，諸如此類……
 
- Lheban: We could go to that unused little Temple, up on that shoulder of Edward's Mountain... out of the way, quiet ...
+  勒班：我們可以去愛德華山肩上那座沒在用的小神殿……偏僻，安靜……
 
- Raic: Door has locks ...
+  雷克：門有鎖……
 
- Lheban: Thick walls ...
+  勒班：牆很厚……
 
- Raic: A big cellar ...
+  雷克：酒窖很大……
 
- Lheban: Good! It's settled then. A theological retreat! Oh goody!
+  勒班：好！就這麼定了。神學靜修！噢好棒！
 
- Raic: Of course, once we know the ... er ... ways in detail, we can of course tell old High Mucky-Muck, and let him take care of the ... er ... showing of the errors ..? Yes, that would improve his mood quite a bit ...
+  雷克：當然，一旦我們詳細知道那些……呃……道路，我們當然可以告訴老高高在上，讓他去負責……呃……指出錯誤……？對，那會大大改善他的心情……
 
- Lheban: Then it's agreed. Let's start, say, day after tomorrow?
+  勒班：那就說定了。我們開始，比如說，後天？
 
- Raic: Yes! Adventurer, why don't I meet you at, oh, that horrid ugly statue of ... what on Tamriel is it? - a harpy and a gargoyle? Called something silly like 'Vendigao and Her Lover' or some such? Up in the north west corner of the town. Oh, and can I keep the map?
+  雷克：對！冒險者，何不在，噢，那座可怕醜陋的雕像那兒碰頭……泰姆瑞爾上那到底是什麼？——鷹身女妖和石像鬼？叫什麼蠢名字像「文迪加奧與她的情人」或之類？在城西北角。噢，地圖能讓我留著嗎？
 
- Adventurer: Sure, keep it, I have a copy. And you will pass me a small bag, there at that nasty statue?
+  冒險者：當然，留著，我有副本。你會在那討厭的雕像那兒遞給我一個小袋子？
 
- Raic: Have it all ready for you -- say, ten o'clock sharp? Oh, Lheban, another thought about young Stete here. He really needs some ... seasoning in the field, one might say ...?
+  雷克：全給你備好——比如說，十點整？噢，勒班，關於年輕斯特特還有一個想法。他真需要一些……可以說是實地歷練……？
 
- Lheban: Hmmm. Good point ... I know! The priest who handles field assignments is coming by tomorrow. We could arrange an ... educational ... assignment for Stete?
+  勒班：嗯。好點子……我知道！管實地派遣的祭司明天會來。我們可以給斯特特安排一項……教育性的……派遣？
 
- Raic: Very good! But where ... hmmm ... Winter's coming soon now. There's a vacancy up in Solitude, far north Skyrim, I believe. Night collections at street corners, or some such. Very Good! Come on, Lheban. We have accounts to work on. Good night to you then, Adventurer. Ten tomorrow morning!
+  雷克：很好！可去哪兒……嗯……冬天快來了。天際極北的獨孤城有個空缺，我相信。街角夜間募捐，或之類。很好！走吧，勒班。我們有帳要算。那就晚安，冒險者。明早十點！
 
- (Lheban, Raic rise to leave, picking up Stete)
+  （勒班、雷克起身離開，抬起斯特特）
 
- Lheban and Raic (Together): ... have to arrange some supplies ... ... leather, rope ... holy wine .... ... lots of that pink powder ... I prefer the green, myself ...
+  勒班與雷克（齊聲）：……得安排些補給……皮革、繩子……聖酒……很多那種粉紅粉末……我自己比較喜歡綠色的……
 
- (Exeunt Lheban, Raic dragging Stete, and City Guard)
+  （勒班、雷克拖著斯特特，以及城市衛兵同下）
 
- Nephron: Well?
+  奈夫隆：怎麼樣？
 
- Adventurer: Excellent. Went just as I said it would. Got 5000 gold from them. And, thanks to your work with that Contessa ... we have the screws on the Chantry. And the School of Julianos is going to be ... otherwise engaged ... on a theological retreat. More like a Sanguine retreat!
+  冒險者：好極了。就如我所說的那樣。從他們那兒弄到 5000 金幣。而且，多虧你在那女伯爵身上的安排……我們把聖堂捏在手心。而朱利安諾斯學院將會……另有要務……去神學靜修。更像桑吉恩式靜修！
 
- Nephron: And those Mages Shub and Shub seem to have disappeared ...
+  奈夫隆：而那些法師舒布和舒布似乎失蹤了……
 
- Adventurer: So we are set?
+  冒險者：那我們就緒了？
 
- Nephron: Yes, you can come by my warehouse tomorrow afternoon. Have the heavy carts waiting.
+  奈夫隆：對，明天下午你可以來我的倉庫。重載車會等著。
 
- Ortho: And Ortho ...
+  奧索：還有奧索……
 
- Nephron: Oh yes, must not forget you fellows. How kind of you to ... volunteer your services ...
+  奈夫隆：噢對，可不能忘了你們幾位。多謝你們……自願效勞……
 
- Adventurer: Tomorrow, then!
+  冒險者：那就明天！
 
- (Exeunt omnes)
+  （全員下）
 
- (Last person to leave looks just like a Royal in disguise ...)
+  （最後離開的人看起來活像喬裝的王室成員……）
 
- (Enter Epilogue)
+  （收場白上）
 
- Epilogue: Well, we only have one part left to this play and I've run out counting the number of loose strings. Either Part the Sixth is going to be eight hours long, or we're going to leave some parts unsolved. I for one hope that they don't chose to drop the character of the Wanton Contessa. For Jephre's sake, she's been on the Dramatis Personae since Part the Oneth. Ah, well. Nobody leave your seat. Your gold will not be refunded. Any gold you can spare to tip your friendly wenches will be greatly appreciated. We just have a quick costume change and a set to put together and we'll be back. In the meanwhile, enjoy our bard's rendition of the Nordic classic "Alas, The Fleeting Years Glide By."
+  收場白：好，這齣戲只剩一場，鬆散的線頭我都數不過來了。要麼其六會長達八小時，要麼我們得留下一些沒解開。就我而言，希望他們別選擇丟掉那位放蕩女伯爵這個角色。看在傑弗瑞的份上，她從其一起就在登場人物裡。啊，好吧。誰也別離開座位。金幣恕不退還。各位若能勻出金幣給友善的女侍小費，將不勝感激。我們只需快速換裝、拼一組佈景就回來。在此期間，請欣賞我們吟遊詩人演唱的諾德經典〈哀哉，匆匆歲月流逝〉。
 
- So Endeth Part The Five
+  其五終

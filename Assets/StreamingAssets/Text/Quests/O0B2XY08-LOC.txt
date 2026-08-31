@@ -1,0 +1,64 @@
+-- Quest: C:\QUESTS\WORKING\O0B2XY08.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 2X
+-- QuestId: 8
+Messages: 11
+Quest: O0B2XY08
+DisplayName: 珍稀藥草
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         我叫 _qgiver_。
+<ce>                      這份差事有點敏感，
+<ce>                        %pcf。你若願意幫我偷些
+<ce>                         _drugs_，我有 _gold_ 金幣
+<ce>                      給你。我當你知道 _drugs_
+<ce>                      是什麼？那是一種極易成癮的
+<ce>                       藥草。你要接嗎？
+
+RefuseQuest:  [1001]
+<ce>                       這差事要是走漏風聲，
+<ce>                      你知道我會來找誰，%pcn。
+
+AcceptQuest:  [1002]
+<ce>                           去 __mansion_。
+<ce>                            找到 _mansion_。
+<ce>                           偷走那份 _drugs_。
+<ce>                在 =traveltime_ 天內帶回來，
+<ce>                          你就能領錢。
+
+QuestComplete:  [1004]
+<ce>                    直接塞進我口袋就行。
+<ce>                     很好。我想沒人看見你這麼做。
+<ce>                     這是你的 _gold_ 金幣，%pcn。
+
+RumorsDuringQuest:  [1005]
+大家都在猜 __mansion_ 的 _drugs_ 買賣是從哪兒來的。
+
+RumorsPostfailure:  [1006]
+__mansion_ 的 _mansion_ 以前住過一個 _drugs_ 販子，但他搬走了。
+
+RumorsPostsuccess:  [1007]
+__mansion_ 的 _mansion_ 被搶了，但屋主不打算去找治安官。
+
+QuestorPostsuccess:  [1008]
+裝作若無其事，%pcf。那筆 _drugs_ 交易風聲還熱著。
+
+QuestorPostfailure:  [1009]
+<ce>                         %oth，%pcf。我以為
+<ce>                    能信任你幫我弄到那份 _drugs_。
+<ce>                    顯然，想把事做好，就得先把
+<ce>                     相關的 %ra 宰了。滾去
+<ce>                             湮滅吧，小子。
+
+QuestLogEntry:  [1010]
+%qdt:
+  ___qgiver_ 盜賊公會的
+ _qgiver_ 會付錢讓我從
+ __mansion_ 的 _mansion_
+ 偷一些 _drugs_。
+ 我必須在 =traveltime_ 天內
+ 回去找他領錢。

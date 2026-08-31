@@ -1,0 +1,105 @@
+-- Quest: C:\QUESTS\WORKING\C0C00Y10.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 10
+Messages: 26
+Quest: C0C00Y10
+DisplayName: 治癒
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                   討好神殿最好的辦法就是治癒某人。
+<ce>                   我知道一樁也許能讓你成功的病例，%pcn。
+<ce>                           你願意嗎？
+                                     <--->
+<ce>                           我是_giver_。你在__giver_
+<ce>                     的階層裡地位不高。
+<ce>                       若你能設法治癒我認識的某人，
+<ce>                    我也許能為你美言。
+
+RefuseQuest:  [1001]
+<ce>                     若你連簡單的治癒都不願或不能做，
+<ce>                    我當然不能把你推薦給神殿領袖。
+
+AcceptQuest:  [1002]
+<ce>                       ___cousin_的_cousin_正受一種罕見疾病折磨。
+<ce>                   我正要派一名神職人員去治療%g2。我會把他們延遲一天左右。
+<ce>                   若你能找到療法，將增加你在__giver_的好感。
+<ce>                         我只能給你=questtime_天。
+
+QuestFail:  [1003]
+%qdt:
+ ___giver_的__giver_
+ 之_giver_給了我機會去治癒
+ ___cousin_的_cousin_。
+ 若我未能在=questtime_天內治好%g2，
+ 將另派人去做這活。
+
+QuestComplete:  [1004]
+<ce>                            _cousin_在你看來健康多了。
+<ce>                        顯然，%g已痊癒。
+
+RumorsDuringQuest:  [1005]
+可憐的_cousin_。那=cousin_受了多少苦！
+
+RumorsPostfailure:  [1006]
+__giver_的_giver_對那個%ra非常憤怒。
+
+RumorsPostsuccess:  [1007]
+那個被治好的_cousin_是__giver_的_giver_的表親。
+
+QuestorPostsuccess:  [1008]
+聽說_cousin_被治好了。願%god保佑你，%pcf。你需要什麼？
+
+QuestorPostfailure:  [1009]
+_cousin_死了，我怪你，%pcf。
+
+Message:  1025
+<ce>                  我會盯著你。記住，病人名叫_cousin_，
+<ce>                    %g在___cousin_。你有=questtime_天證明自己。
+
+QuestLogEntry:  [1010]
+<ce>                     我覺得好虛弱。不知道自己得了什麼病。
+<ce>                 你是來幫我的嗎？是嗎？你有解藥嗎？若有，
+<ce>               請用在我身上，好讓我痊癒。
+
+Message:  1011
+<ce>                          你願意做這事嗎？
+
+Message:  1012
+我聽說了%g3的病。有人說___healer_的_healer_有療法。
+<--->
+我確實聽過關於%g2的事。什麼疾病，還有___healer_一個叫_healer_的人有療法。
+
+Message:  1013
+<ce>                   你好。是的，我聽過___cousin_的_cousin_
+<ce>                    和%g3的問題。那是卡利隆詛咒。
+<ce>                    常被誤認為灰熱病。
+<ce>                     總之，我有一些能治癒它的白霜根。
+<ce>                   不過只能用一次。我賣你二十金幣。
+
+Message:  1014
+<ce>                你想買白霜根嗎？
+
+Message:  1015
+<ce>                   抱歉，你似乎沒有足夠的金幣買白霜根。
+
+Message:  1016
+<ce>           謝謝你，%pcn。我會使用白霜根。
+<ce>                我真是感激不盡。希望你餘下的旅程平安。
+
+Message:  1017
+%qdt:
+ 我從___healer_的_healer_買了一些白霜根，
+ 能治癒卡利隆詛咒，也就是折磨_cousin_的病。
+
+Message:  1018
+%qdt:
+ 我把白霜根給了_cousin_，治好了%g2的卡利隆詛咒。
+ 也許現在__giver_會對我刮目相看。
+
+Message:  1019
+<ce>                 白霜根在你使用時迅速溶解。

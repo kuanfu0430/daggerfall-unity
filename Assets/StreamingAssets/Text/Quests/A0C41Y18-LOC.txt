@@ -1,0 +1,117 @@
+-- Quest: C:\QUESTS\WORKING\A0C41Y18.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 41
+-- QuestId: 18
+Quest: A0C41Y18
+DisplayName: 木乃伊的手指
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我需要有人替我送一樣東西，我願意付非常慷慨的報酬。
+<ce> 先付 _gold1_ 金幣，事成再付 _gold2_。
+<ce> 你願意幫我嗎？
+
+RefuseQuest:  [1001]
+<ce> %oth，我永遠擺不掉這東西了！為什麼沒人肯幫我？
+
+AcceptQuest:  [1002]
+<ce> 感謝 %god！你不知道這對我有多重要。這是你的金幣。
+<ce> 現在，把這個拿到 ___dummy_ 的 _dummy_。%G 會付你剩餘的。
+<ce> 我真的得走了。太謝謝你了！
+
+QuestComplete:   [1004]
+<ce> _giver_ 遞給你一封裹著小物件的信，便匆匆離去。
+
+RumorsDuringQuest:  [1005]
+<ce> 海盜今年特別活躍。
+
+RumorsPostfailure:  [1006]
+<ce> 你聽過木乃伊手指詛咒的故事嗎？噢。抱歉。我沒意識到……
+
+RumorsPostsuccess:  [1007]
+<ce> 某個勇敢的 %ra 進了 ___dungeon_。可憐的傻瓜。
+
+QuestorPostsuccess:  [1008]
+<ce> 潛鳥今年會提早回來。
+
+QuestorPostfailure:  [1009]
+<ce> 你覺得我胖嗎？人人都說我胖，但我不覺得。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我被雇去把東西送到 ___dummy_ 的 _dummy_。
+ 神秘雇主付了我 _gold1_ 金幣，並答應完成任務後再付 _gold2_。
+ 沒有指定時限，但雇主似乎非常急著要我上路。
+
+Message:  1011
+%qdt:
+ 我被騙了。所謂要送給 _dummy_ 的東西，
+ 其實是一根被詛咒的木乃伊手指。
+
+Message:  1012
+%qdt:
+ 我得知讓我受苦的那具木乃伊葬在 ___dungeon_。
+ 我必須摧毀他的真身，否則他的靈魂會繼續糾纏我一千零一夜。
+
+Message:  1013
+<ce> 包裹？從 _giver_ 那兒來的？不，%g1 事先會告訴我。
+<ce> 你一定搞錯了。何不讀一下內容，看看是給誰的？
+
+Message:  1015
+<ce> 我對那一無所知。試試去神殿問問。
+                                     <--->
+<ce> _sage_ 懂這類事。去問 %g2。
+                                     <--->
+<ce> 你試過在 ___sage_ 的 __sage_ 打聽嗎？
+                                     <--->
+<ce> 聽說 ___sage_ 有人可能懂這類事。
+                                     <--->
+<ce> 據說 _sage_ 是這類事的頂尖專家。
+                                     <--->
+<ce> 也許 __sage_ 那位賢者知道。
+
+Message:  1016
+<ce> 偷走我 _finger_ 的人必須死！
+                                     <--->
+<ce> 我來取回我的 _finger_。
+                                     <--->
+<ce> 接受你的末日。放下武器。
+                                     <--->
+<ce> 我的 _finger_，我的 _finger_。
+                                     <--->
+<ce> 你有我的 _finger_。沒有它，我無法安息。
+                                     <--->
+<ce> 你今晚或許能摧毀我，但我還會回來。
+                                     <--->
+<ce> 我會再次起身，來取我的 _finger_。
+
+Message:  1020
+<ce> 所有侵犯我墳墓的人都必須被摧毀！
+
+Message:  1025
+<ce> 讓我看看那根 _finger_。啊……是的，它帶著 =realmummy_ 的詛咒。
+<ce> 連續一千零一夜，每晚午夜鐘聲響起，=realmummy_ 的靈魂就會造訪這根 _finger_ 的主人。
+<ce> 唯一破咒的方法是摧毀 ___dungeon_ 墓中真正的 =realmummy_。
+
+Message:  1026
+<ce> 你描述的聽起來像典型的木乃伊詛咒，但沒有那根 _finger_ 本身，我無法告訴你更多。
+<ce> 把它帶來，我或許能判斷它從何而來。
+
+Message:  1030
+<ce> =realmummy_ 既死，你知道自己已永遠擺脫 %g3 詛咒。
+
+Message:  1040
+親愛的陌生人：
+ 
+ 希望你原諒我所做的，但我別無選擇。自從找到這根被詛咒的手指，木乃伊每晚都糾纏我。
+ 我試過扔掉它，卻毫無用處。一位博學的賢者告訴我，只有找到木乃伊的墳墓，或把手指送給別人，才能擺脫這可恨的詛咒。
+ 我不是戰士，又有誰會明知故犯替我扛下這負擔？你看起來夠勇敢，能承受詛咒，或許還能解開它。
+ 請理解，我無意傷害你，但若不這麼做，我就會被殺或被逼瘋！
+
+Message:  1050
+<ce> _sage_ 是 ___sage_ 一位知名賢者。
+                                     <--->
+<ce> 你會在 ___sage_ 的 __sage_ 找到 _sage_。

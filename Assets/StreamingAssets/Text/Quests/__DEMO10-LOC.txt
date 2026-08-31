@@ -1,0 +1,11 @@
+---- Example quest to place an item at a location
+
+Quest: __DEMO10
+
+
+QRC:
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我必須在 __tavern_ 的 _tavern_
+ 找到那件物品。

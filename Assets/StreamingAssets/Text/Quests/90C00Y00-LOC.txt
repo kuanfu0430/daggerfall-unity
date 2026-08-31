@@ -1,0 +1,90 @@
+-- Quest: C:\QUESTS\WORKING\90C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Vaernima
+-- Repute: 0
+-- QuestId: 0
+Messages: 21
+Quest: 90C00Y00
+DisplayName: 維爾米納的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 一位非常睿智的 %ra 曾說：力量使人腐敗，
+<ce> 絕對的力量絕對美妙。這就是我要幫你的原因。
+<ce> 我敢肯定，謀殺一個從未傷害過你的無辜者，
+<ce> 會讓你有某些道德問題。但為了贏得我的腐敗之顱，你會去做，對吧？
+
+RefuseQuest:  [1001]
+<ce> 不？你這……可鄙、哭哭啼啼、
+<ce> 高尚、完美的哥布林鼻涕！
+<ce> 我不會把寶貴時間浪費在如此惡毒地道德的人身上。
+
+AcceptQuest:  [1002]
+<ce> 好極了。我心裡那個無辜者是一名 _monster_。
+<ce> 你大概在想：無辜的巫妖？對你而言是無辜的。
+<ce> 對我而言，他是個背信的前僕從，拿了我給的所有力量，卻無視我的命令。
+<ce> 你會在 ___mondung_ 找到他那具屍骸般的存在。
+<ce> 他很緊張，所以準備好戰鬥。得勝後，去 ___qgfriend_，
+<ce> 找我的僕從 _qgfriend_，__qgfriend_ 的一名 =qgfriend_。
+
+QuestFail:  [1003]
+<ce> 你這背信的 %ra。
+<ce> 你是假裝殺了巫妖，好把貪婪的手伸向那顆顱骨嗎？
+<ce> 維爾米納會覺得好笑，可惜我有嚴格命令。
+<ce> 等你履行契約再回來。
+
+QuestComplete:  [1004]
+<ce> 那麼，巫妖死時有沒有咳出一團灰塵？
+<ce> 我是 _qgfriend_，%pcf。維爾米納聽到消息會非常高興。
+<ce> 希望你不介意我稍加渲染，說你旅途中犯了些可怕而駭人的罪孽。
+<ce> 這是 _artifact_。每當你想讓目標面對自己最黑暗的一面，就用它。
+<ce> 再見，%pcf，但要做壞事。
+
+RumorsDuringQuest:  [1005]
+只要那巫妖還在 ___mondung_，這片土地就受詛咒。
+<--->
+要是有大英雄來殺 ___mondung_ 那個遠古巫妖就好了。
+
+RumorsPostfailure:  [1006]
+那巫妖離開了 ___mondung_，但沒死。等牠準備好還會回來。
+<--->
+我只高興那巫妖走了，就算牠沒死。
+
+RumorsPostsuccess:  [1007]
+聽說 %god 派了一位天使來為 ___mondung_ 除掉那可惡的巫妖。
+<--->
+我們或許永遠不知道是誰摧毀了 ___mondung_ 那個巫妖，但他在我們的禱告中。
+
+Message:  1011
+_qgfriend_ 就是 %di 方向 __qgfriend_ 那個令人毛骨悚然的 =qgfriend_。
+<--->
+_qgfriend_ 就是我在 __qgfriend_ 看見的那個臭氣薰人的 =qgfriend_。
+
+Message:  1012
+_qgfriend_ 是維爾米納在 %reg 的腐敗代理人之一。
+<--->
+_qgfriend_ 是維爾米納那些傳播腐敗的骯髒小嘍囉之一。
+
+Message:  1013
+維爾米納是腐敗與衰敗的迪德拉女士。看起來可不好看。
+<--->
+維爾米納是湮滅的攝政，其領域是腐敗與衰敗。
+
+Message:  1014
+腐敗之顱會創造目標黑暗而對立的複製品。
+<--->
+此顱會從維爾米納的湮滅位面喚出目標的黑暗半身。
+
+Message:  1015
+<ce> 你已殺死 _monster_，
+<ce> 履行了與維爾米納女士協議中屬於你的那一端。
+
+Message:  1020
+%qdt:
+ 我與迪德拉親王維爾米納簽了契約。
+ 若我能在 =1stparton_ 天內，雙手沾著某隻 _monster_ 的灰塵，
+ 在 __qgfriend_ 與她的代理人會面，
+ 她就會下令 ___qgfriend_ 的代理人把她的神器 _artifact_ 給我。
+ 關於那隻 _monster_，我只知道牠住在 ___mondung_。

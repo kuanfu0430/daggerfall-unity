@@ -1,0 +1,109 @@
+-- Quest: C:\QUESTS\WORKING\L0A01L00.Qbn.
+-- StartsBy: letter
+-- Questee: initiate
+-- Questor: Brotherhood
+-- Repute: 01
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: L0A01L00
+DisplayName: 入會試煉
+-- Message panels
+QRC:
+
+QuestComplete:  [1004]
+<ce> 幹得漂亮，%pcn。
+<ce> _npc_ 突然心臟衰竭，死了。
+<ce> 可憐的傢伙。你證明了自己不只會亮刃殺人，
+<ce> 也能小心翼翼地取人性命。你現在已是
+<ce> 黑暗兄弟會的正式成員。此後只要走進
+<ce> 任何城鎮，你都會知道那裡有沒有公會
+<ce> 據點。按慣例，新手完成 %pg3 第一次
+<ce> 核准的殺戮，會收到一枚金幣作為酬勞。
+<ce> 這是你的。
+
+RumorsDuringQuest:  [1005]
+_npc_ 最好小心 %g3 腳步。%G 樹敵不少。
+
+RumorsPostfailure:  [1006]
+無視黑暗兄弟會是不智之舉。不智，而且致命。
+
+RumorsPostsuccess:  [1007]
+可憐的 _npc_。我猜 %g 樹敵太多了。多了一個，就夠了。
+<--->
+_npc_ 酒瓶裡的酒大概壞了。酒就是會這樣。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我在 ___apothecary_ 與黑暗兄弟會
+ （刺客公會）的成員 _apothecary_
+ 秘密會面。對方給了我一瓶 _poison_，
+ 要我暗中倒進 _mansion_（位於
+ __mansion_）的 _npc_ 的酒裡。
+ 據 _apothecary_ 所說，只要我接著
+ 去 ___darkbmember_ 見 _darkbmember_，
+ 就能成為黑暗兄弟會的一員。我有
+ =traveltime_ 天去找他，否則兄弟會
+ 會認定我任務失敗。
+
+Message:  1011
+<ce> 一名街頭頑童把一封信
+<ce> 塞進你手裡。你試圖
+<ce> 盤問他，卻發現他既
+<ce> 聾又啞。你不耐煩地揮手
+<ce> 把他打發走了。
+                                      <--->
+<ce> 你感覺有封信滑進手裡，
+<ce> 接著聽到腳步聲急忙
+<ce> 跑開。那個神秘信差
+<ce> 再無其他痕跡。
+
+Message:  1012
+%qdt:
+ 一名街頭頑童塞給我一封神秘信件。
+ 我不敢把內容抄進這本日誌。
+
+Message:  1014
+<ce> 你失敗了，%pcn。
+<ce> _npc_ 還活著。
+<ce> 公會規矩是：一旦
+<ce> 接下契約，就必須
+<ce> 有人死。你必須代替
+<ce> _npc_ 去死。
+
+Message:  1015
+<ce> 啊，你一定是 %pcn。
+<ce> 黑暗兄弟會一直在盯著你。
+<ce> 你已證明自己能用刀刃殺人。
+<ce> 兄弟會不容獨行刺客。你
+<ce> 要麼加入我們，要麼被標為
+<ce> 死罪。只要你把這瓶 _poison_
+<ce> 放進 __mansion_ 的
+<ce> _mansion_ 裡
+<ce> _npc_ 的酒瓶，
+<ce> 兄弟會就會接納你為正式成員。
+<ce> 你有 =traveltime_ 天完成此事，
+<ce> 並向 ___darkbmember_
+<ce> 的 _darkbmember_ 回報。
+<ce> 願梅法拉保佑你，%pcn。
+
+Message:  1019
+<ce> _poison_ 使酒短暫
+<ce> 渾濁。幾秒後，酒又
+<ce> 看起來恢復正常。
+<ce> 現在你只要把它放回去。
+
+Message:  1020
+%pcn
+ 
+     黑暗兄弟會一直在盯著你。
+  你已多次未經核准地殺人。
+  你現在必須加入我們，否則就會被
+  視為敵人。前往 ____apo_ 的
+  ___apo_，去見 _apothecary_，
+  他會給你進一步指示。
+  我們給你 =S.01_ 天。
+  
+<ce> 一名兄弟
+
+--changed %reg to ____apo_ here to ensure region consistency

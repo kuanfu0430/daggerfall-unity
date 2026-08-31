@@ -1,0 +1,96 @@
+-- Quest: C:\QUESTS\WORKING\N0B20Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 20
+-- QuestId: 5
+Messages: 41
+Quest: N0B20Y05
+DisplayName: 危險的巫師
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                想必你聽過那個瘋狂巫師
+<ce>                         _wizard_。鑑於
+<ce>                    %g 掌握的龐大力量，
+<ce>                          %rt %rn 一直
+<ce>                遲遲未對 _wizard_ 採取攻勢，
+<ce>                   但這策略到此為止。%t 已
+<ce>                要求我們派人摧毀那名
+<ce>                精神錯亂的法師。若換得一件魔法
+<ce>                  _reward_，你願意為我們做嗎？
+                                     <--->
+<ce>                        %reg 的人民一直
+<ce>                要求法師公會對那個
+<ce>                 恐嚇地方已久的瘋狂巫師
+<ce>                表明立場。如今，奉大法師
+<ce>                本人之命，我們正要這麼做。我知道
+<ce>                 這不太像學術機構該派的差事，
+<ce>                 但你願意也有能力去拜訪那位
+<ce>                   瘋狂巫師，再把他砍成
+<ce>                                碎片嗎？
+
+RefuseQuest:  [1001]
+<ce>                 該死。我還指望這件事
+<ce>                         能靠你。
+
+AcceptQuest:  [1002]
+<ce>               太好了。我就知道你不會讓
+<ce>                        我們失望，%pcf。聽著，
+<ce>                        _wizard_ 會待在 %g3
+<ce>                      實驗室 ___mondung_，
+<ce>                 最多 =1stparton_ 天就會轉移到
+<ce>                   新地點。%t 要在
+<ce>               =1stparton_ 天內聽到那法師已死的消息，
+<ce>                 所以事成後別耽擱。我會在
+<ce>               =1stparton_ 天後見你。
+<ce>                     謝謝，祝你好運，%pcf。
+
+QuestFail:  [1003]
+<ce>                 我想你該去處理我們談過的那件事了，
+<ce>                 你說呢？
+
+QuestComplete:  [1004]
+<ce>                 你的本事與效率再次讓我驚嘆，
+<ce>                      %pcf。
+<ce>                    出色的工作——%t 會
+<ce>                   跟我一樣高興。這是我答應的
+<ce>                          _reward_。
+<ce>                               好好享用。
+
+RumorsDuringQuest:  [1005]
+法師公會已派人去對付 ___mondung_ 那個瘋狂巫師。
+<--->
+大家都屏息以待，等著那巫師的下一步。
+
+RumorsPostfailure:  [1006]
+連法師公會都拿那個發狂的術士沒辦法。
+<--->
+沒人知道 _wizard_ 在哪，但在 %g1 消失之前，哪兒都不安全。
+
+RumorsPostsuccess:  [1007]
+但願這是我們最後一次聽到 ___mondung_ 那個瘋狂巫師。
+<--->
+不用再擔心瘋狂巫師，四周好像安靜多了。
+
+QuestorPostsuccess:  [1008]
+你好，%pcf。希望那個瘋狂巫師沒把你傷得太重。
+
+QuestorPostfailure:  [1009]
+<ce>                       你回來了，卻沒有
+<ce>                     殺死 ___mondung_ 的
+<ce>                         瘋狂巫師，對吧？
+<ce>                            沒救了，%pcf，
+<ce>                               沒救了。
+
+Message:  1030
+%qdt:
+ ___questgiver_ 的法師公會
+ 要我殺死 ___mondung_ 的巫師。
+ 我必須在 =1stparton_ 天內完成此事
+ 才能領取酬勞。
+
+Message:  1040
+<ce>                       你已殺死 _wizard_，
+<ce>                     ___mondung_ 的瘋狂巫師。

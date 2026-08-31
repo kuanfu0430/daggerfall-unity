@@ -1,0 +1,126 @@
+-- Quest: C:\QUESTS\WORKING\Q0C10Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 10
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 24
+Quest: Q0C10Y00
+DisplayName: 重大差事
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    若汝欲得 ==qgiver_ 之助，
+<ce>                         汝須先助我們。汝可願
+<ce>                      為我們帶來完成藥釀所需的
+<ce>                       三樣材料？
+
+RefuseQuest:  [1001]
+<ce>                 那就離開吾等巫會之地，
+<ce>                    因為指望不勞而獲的人，
+<ce>                      惡運總會跟上。
+
+AcceptQuest:  [1002]
+<ce>                   吾等女巫需要三樣找不到的材料，
+<ce>                   以調製織天氣的藥釀。首先，從
+<ce>                       ___dungeon1_ 取來一枚完美的
+<ce>                       _item1_。其次，到 ___dungeon2_
+<ce>                    尋找能令雲層翻騰的 _item2_。
+<ce>                  最後，汝必須從 ___dungeon3_ 帶來
+<ce>                      最靈驗的 _item3_。在
+<ce>                     =queston_ 天內把這些東西
+<ce>                        帶給我們，趁燉鍋尚未
+<ce>                       冷卻。
+
+QuestFail:  [1003]
+<ce>                       我們需要 _item1_、_item2_
+<ce>                           和 _item3_，%pcn。
+<ce>                     沒時間閒聊。
+
+QuestComplete:  [1004]
+<ce>                  快，姊妹，接過這名 %ra 的貨物。
+<ce>                           把 _item1_ 剁碎，
+<ce>                         把 _item2_ 剝皮，把
+<ce>                          _item3_ 磨成碎末。
+<ce>                  我們有三顆用不上的閃亮小玩意。
+<ce>                 拿去吧，%pcn，當作感謝汝的心意。
+
+RumorsDuringQuest:  [1005]
+近來天氣可預測得很。女巫們一定在睡覺。
+<--->
+那些女巫有一個想來鎮上辦事，但我們把她趕出去了。
+
+RumorsPostfailure:  [1006]
+還記得女巫詛咒我們的 %t 嗎？看來她們火力不行了。
+<--->
+據說 ==qgiver_ 正在失去她們的本事。
+
+RumorsPostsuccess:  [1007]
+你幾乎能感覺到那股能量。空氣像是隨時要爆炸。
+<--->
+誰說 ==qgiver_ 正在失去本事，誰就是注定倒霉的傻瓜。
+
+QuestorPostsuccess:  [1008]
+為了那 _item1_、_item2_ 和 _item3_，我願為汝效勞，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce>                  我向汝求三樣材料，
+<ce>                     但汝令 ==qgiver_ 失望了。
+<ce>                        從我眼前消失。
+
+Message:  1011
+她是 ==qgiver_ 的一員。該對她客氣。
+<--->
+她是與 ==qgiver_ 有關的強大女先知。
+
+Message:  1015
+%qdt:
+ 若我想贏得 _qgiver_ 的看重，
+ 就必須為 %g2 取回三樣物品，
+ 並在 =queston_ 天內帶回
+ ==qgiver_。這三樣物品——
+ _item1_、_item2_ 和 _item3_——
+ 分別要從 ___dungeon1_、___dungeon2_
+ 和 ___dungeon3_ 取來。
+ 看來我有得忙了。
+
+Message:  1021
+<ce>                      你找到了 _qgiver_ 要的
+<ce>                        _item1_。
+
+Message:  1022
+<ce>                       這一定是 _qgiver_ 想要的
+<ce>                         _item2_。
+
+Message:  1023
+<ce>                      這看起來就是 _qgiver_ 需要的
+<ce>                         _item3_。
+
+Message:  1024
+<ce>  你獻上 _item1_。
+
+Message:  1025
+<ce>  你獻上 _item2_。
+
+Message:  1026
+<ce>  你獻上 _item3_。
+
+-- Symbols used in the QRC file:
+--
+--               %g2 occurs 2 times.
+--              %pcf occurs 28 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 4 times.
+--                %t occurs 1 time.
+--         ==qgiver_ occurs 28 times.
+--         =queston_ occurs 2 times.
+--      ___dungeon1_ occurs 2 times.
+--      ___dungeon2_ occurs 2 times.
+--      ___dungeon3_ occurs 2 times.
+--           _item1_ occurs 6 times.
+--           _item2_ occurs 6 times.
+--           _item3_ occurs 6 times.
+--          _qgiver_ occurs 8 times.

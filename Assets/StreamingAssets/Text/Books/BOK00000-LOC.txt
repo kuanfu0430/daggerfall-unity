@@ -1,5 +1,5 @@
-Title: The First Scroll of Baan Dar
-Author: Arkan
+Title: 班達爾第一卷軸
+Author: 阿爾坎
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -7,48 +7,48 @@ WhenVarSet:
 Content:
 
 [/font=2]
-[/center]The First Scroll of Baan Dar
+[/center]班達爾第一卷軸
 
 [/font=4]
- What follows is a translation of the first fragment from a series of vellum scrolls found in 3 Alabaster jars sealed in a cave. The discoverer was a nomad wanderer somewhere on the shores of Lake Vread in the Province of Elswyer. I can neither vouch for nor deny its authenticity or veracity - only that the scrolls, as such, DO exist. Read and judge for yourself:
+ 下文所載，乃譯自一套羊皮紙卷軸的第一段殘篇。那些卷軸封於三個雪花石膏罐中，藏在洞穴裡。發現者是一名遊牧流浪者，大約在艾斯維爾行省弗里德湖岸邊某處。其真偽與虛實，我既不能擔保，亦不能否定——只能說，這些卷軸本身，確實存在。請自行閱讀，自行判斷：
 
- Baan Dar, The Legend... Thief, Warlock, ShadowMaster, Ruthless Assassin, Undying Avenger, Dark God, Robber Baron, MasterMind of Nefarious Plots. All these things and more are the Legendary Baan Dar, he who is called The Bandit God. But what is the Truth?
+ 班達爾，這段傳說……竊賊、術士、影之主宰、無情刺客、不死復仇者、黑暗之神、盜匪巨擘、陰謀詭計的主腦。傳奇的班達爾被稱為盜匪之神，凡此種種，皆是他，還遠不止於此。可真相又是什麼？
 
- Baan Dar, The Man is a much more simple and complex being. I pen this tale as I slowly die of old age and a mortifying arrow wound. I cannot decide if the truth will add to or subtract from the legend that is Baan Dar, nor if the original Baan Dar would want the truth to be known. Therefore, I will leave this tale hidden when I am done and gone, and let Fate (which was ever Baan Dar's true master and motivator) decide.
+ 班達爾，這個人，卻是既簡單又複雜得多的存在。我在風燭殘年、箭傷潰爛之中寫下這篇故事。我無法斷定，真相會為班達爾的傳說增色，還是減損；也無法斷定，最初的那個班達爾是否希望真相為人所知。因此，我寫完、離去之後，會把這篇故事藏起來，讓命運（那向來是班達爾真正的主宰與驅動力）去決定。
 
- I was a child of 12 Seasons when I first met Baan Dar. Orphan of a Slaver raid during one of the many inter-provincial border wars. Living by my quick wits, nimble fingers, and the grace of Lady Luck in the back alleys and byways of my birth city. I had just "liberated" a loaf of bread and a few small apples from a local street vendor in the Bazaar on the edge of the city near the tumbled outer wall, and had withdrawn down an ill-lit alley to feast on my bounty when I was beset by an older band of my ilk. The older and lazier variety which were want to engage in the easier and less dangerous art of stealing from the stealers.
+ 我十二歲那年，第一次遇見班達爾。我是省際邊境戰爭中一次奴隸襲擊的孤兒，憑著機敏、靈巧的手指，以及幸運女神的眷顧，在出生城市的後巷與小徑裡討生活。那時我剛從城邊靠近傾頹外牆的市集裡，向一個街頭小販「解放」了一條麵包和幾顆小蘋果，正退到一條光線昏暗的巷子裡享用戰利品，卻被一幫年紀較大的同類堵住。那是些更老、更懶的傢伙，專愛幹較輕鬆、較不危險的買賣：從竊賊手裡再偷。
 
- There were 5 of the bully boys who had decided they were more deserving of my booty than I, and they were beating me half to death with staves in between bites and laughter at the time. Lying on the ground curled up into as tight a ball as I could manage, trying to protect my head and groin, I heard a quiet voice ask if they were not "more suited to go down to the wharf and take food from your brother rats, or would you care to try your tricks on game a bit more your size and number?"
+ 那五個惡霸認定我的贓物他們更該得，正一邊啃食、一邊大笑，用棍棒把我打得半死。我蜷成盡可能緊的一團躺在地上，護著頭與下體，忽然聽見一個平靜的聲音問：他們是不是「更適合下碼頭，去搶你們那些老鼠兄弟的食物；還是想拿自己這點人數，試試跟體格相當的獵物耍把戲？」
 
- Since my "companions" had become otherwise engaged with the newcomer and had for the nonce ceased thumping, kicking and cuffing at me, I looked up to see a dark shadow of boots, cloak, and chainmail hood leaning against the wall at the end of the alleyway. The others, being what they were, took this as a challenge to their manhood - and easy prey to their superior number with a promise of coin of the realm as added reward (else the first part would have been overlooked). The leader of my band of playmates suggested that the stranger take a leap off the mentioned wharf unless he wished to join me there when they were done with their evening meal.
+ 我那些「同伴」轉去對付這個新來的，暫時不再捶我、踢我、搧我。我抬眼望去，只見巷口牆邊斜倚著一團暗影：靴子、斗篷，還有鎖子甲風帽。其餘人既是那種德性，便把這當成對男子氣概的挑戰——而且以他們的人數，這是容易下手的獵物，還外加一筆王國錢幣作獎賞（否則前半截早就被忽略了）。帶頭的玩伴建議陌生人自己跳下剛才提到的碼頭，除非他想等他們吃完這頓晚餐，再跟我一道躺在那兒。
 
- Having drawn chuckles and courage from his underlings, he then proceeded forward with staff at high port. I'm not quite sure exactly what followed, but within a short space of time, Lead Bully was lying in the dirt with a thrown dagger in his chest, number two bully had lost three teeth to a boot (I still carry them in a leather pouch as a keepsake), and number three bully was brought short by his own staff applied forcefully up between his toes (the two big ones!). Bullies four and five thought better of the entertainment and departed rapidly for parts unknown. Baan Dar picked me up, dusted me off, and dragged me round to a near tavern where we shared a meal and a mug. I attempted to thank him for saving my life. How can I ever repay this favor, I asked? His reply was short, to the point, and has driven my actions in life ever since...
+ 他從手下那兒博得了竊笑與勇氣，便把棍子舉得高高的走上前去。接下來發生了什麼，我不太確定，但片刻之間，惡霸頭子胸口插著一把擲出的匕首躺在泥土裡；二號惡霸被一記靴子踢掉三顆牙（我至今還把它們裝在皮袋裡當紀念）；三號惡霸被自己的棍子狠狠捅進腳趾縫（那兩根大腳趾之間！）。四號和五號覺得這娛樂不划算，飛快逃往不知何處。班達爾把我扶起來，拍去塵土，拖我到附近一家酒館，我們分享了一餐一盞。我試圖感謝他救了我的命。這恩情我該如何報答？他的回答簡短、直接，從此驅策了我一生的作為……
 
 
-[/center]"THE PROPER WAY TO REPAY A FAVOR, IS NOT TO - PASS IT ON INSTEAD."
+[/center]「報答恩情的正確方式，不是還回去——而是傳遞下去。」
 
- Things having not progressed well along the lines of health, wealth and welfare for me until that point in my life came upon a sudden change that night. I later learned (along with MANY other things) that Baan Dar had decided to take a direct and immediate interest in me because my situation reminded him very much of the bad start his own life had taken, and the odds he had faced to survive it. On that night he took me under his wing as a kind of apprentice. He saw to it that I learned weaponcraft and stealth, that I learned to read and write! He took me along when he traveled for the next year. I served as messenger, valet, packmule, lookout, cook - many things. I saw other towns, cities, races, provinces, and broadened my view and knowledge of the world far beyond belief. He taught me both morals and coldhearted ruthlessness - and when and how to apply each as the ethics of the situation required.
+ 在那之前，我的健康、財富與福祉一直不太順利，那一夜卻忽然轉變。後來我才得知（連同許多其他事情）：班達爾之所以立刻對我產生直接興趣，是因為我的處境讓他想起自己人生起步時的艱困，以及他為了活下來所面對的那些勝算。那一夜他收我為某種學徒。他讓我學會兵器與潛行，還讓我學會讀寫！接下來一年他旅行時帶著我。我當信差、侍從、馱騾、哨兵、廚子——什麼都幹。我見過別的城鎮、城市、種族、行省，眼界與見識開闊得超乎想像。他教我道德，也教我冷酷無情——以及何時、如何依情勢的倫理去運用二者。
 
- At the end of the year, he gave me good dagger, and decent horse, the 3 teeth, and leave (nay, Command) to make my own way in the world from that day forward - but to remember all I had been given, and to attempt to pass such a gift to another when and where I should find need and opportunity. That I have done, several times... as I assume he has also, and as I hope my various charges have after me (and they theirs).
+ 一年結束時，他給我一把好匕首、一匹像樣的馬、那三顆牙，以及從此靠自己闖蕩世界的准許（不，是命令）——但要記得自己所得的一切，並在發現需要與機會時，試著把這樣的禮物傳給另一個人。我這樣做過好幾次……我猜想他也是如此，也希望我先後帶過的那些人在我之後也如此（以及他們再帶的人）。
 
- Thus has the Legendary Baan Dar been seen time and again in various lands of our world at numerous and the same times in days of need. Thus also is the description so very hard to obtain and track - for in truth, there have been, and continue to be, many Baan Dars in the world. The most valuable lesson he ever taught me was that "for Evil to triumph required not so much that many bad men to do wrong, as for One good man to fail to do what was right." We only hope that our combined and concatenated efforts have produced enough single men and women that will not fail to do the right thing, regardless of current local, morals, laws, religion, creed, or lure of coin of the realm.
+ 因此，傳奇的班達爾才會在我們世界的各處土地、在無數相同的時刻、在需要的日子裡一再出現。因此，關於他的描述才如此難以取得、難以追查——因為說實話，世上曾經有過、也繼續有著許多班達爾。他教我最寶貴的一課是：「邪惡得勝，與其說是因為許多壞人作惡，不如說是因為一個好人未能做對的事。」我們只希望，我們合力、相續的努力，已經造就足夠多的男男女女，不論當下的地方風俗、道德、法律、宗教、信條，或王國錢幣的誘惑，都不會不去作對的事。
 
- The Legend grows still. Of the Dark Avenging Blade on the Wings of Night that make no sound. The Patron Saint of the Lone Wolf. The Thousand Eyes and Ears, the Hundred Arms direspectful of Time or Distance. Undying, Master of Disguise, Man of a Thousand Faces, Shapes and Sizes, Gentle, Rough-Edged, Gay, Stern. All the Mystery of the "Man Unknown and Undying"... not a single man nor God at all, but a string of seeds sown upon the land and left to grow into a forest. How to reconcile this truth with the tales of cruelty and the gangs of "Baan Dars" or "Bandits"? Some are jealous Thieves who take the name only for the cloak of mystery and hope of hiding in it's Shadow. Others are tales twisted to reverse by those justly served by Baan Dar's unfettered by technicalities of law and custom. Some are backsliders drawn of the true path by temptation and returning to their old ways. Many are the things that any one Baan Dar cannot answer for, as others did the deeds in the same name. Some are tales of fishwives, made up to scare the child into doing what is wanted. Some are left as part of the "Mystery" that is both cloak and shield to the hidden purposes - a case where the fear of the tale serves to save the need of arms or action.
+ 傳說仍在增長。無聲夜翼上那把黑暗復仇之刃。獨狼的守護聖者。那無視時間與距離的千眼千耳、百臂。不死、易容大師、千面之人，形貌與體型萬千，溫和、粗礪、快活、嚴厲。凡此「無名不死之人」的一切神秘……根本不是單一人，也根本不是神，而是撒在大地上、任其長成森林的一串種子。如何把這真相，與那些殘忍的故事、以及成群的「班達爾」或「盜匪」調和？有些是嫉妒的竊賊，只為那層神秘的斗篷、為了躲進它的陰影而盜用此名。有些是被班達爾不受法律與習俗技術細節羈絆所公正對待之人，把故事扭曲成相反。有些是被誘惑拉離正道、又回到舊路的退轉者。許多事，任何一個班達爾都無法交代，因為是別人用同一個名字做的。有些是村婦編出來嚇唬孩子聽話的故事。有些則被留下，作為那既是斗篷也是盾牌的「神秘」的一部分——一種情況是，故事本身的恐懼足以省去動武或行動的必要。
 
- But, by and large, the true Baan Dar is a string of beings taught to act upon what they believe in, and stand to take the yoke of needed action upon their own shoulders.
+ 然而大體而言，真正的班達爾是一串被教導要依信念行事的存在，他們挺身把必要行動的軛架在自己肩上。
 
- Don't fight if you can avoid blood or war, But if you must make War, do so with all your Heart and Might.
+ 若能避免流血或戰爭，就不要打；但若必須開戰，便要全心全力去打。
 
- Leave it at Threats if Threats be enough - but never make threats you are unwilling to carry to conclusion if required.
+ 若威脅已足夠，就停在威脅——但絕不要發出你不願在必要時執行到底的威脅。
 
- Use all the arts at hand.
+ 運用手中一切技藝。
 
- But ever keep the true purpose in mind.
+ 但永遠把真正的目的放在心上。
 
- Stand Tall, but never forget how to bend your knee to help another.
+ 站得挺直，卻永遠不要忘記如何屈膝去幫助他人。
 
- Note:
+ 註：
 
-The rest of the scrolls are tales and tellings of various parts of the Legend, some as passed from Bard to Bard, some as the true tales underlying the Ballads. These fragments are still to be translated and debated. This fragment, however, contains the kernel of the Revelation and the true source of the questions surrounding the Baan Dar Legend. What Say You, Reader? For myself, I do not know... but God or unrelated string of linked souls as laid out here... I do know that Baan Dar IS a force in our Land and Lives, and one that gives Hope to many that need it, and pause to many I despise.
+其餘卷軸是傳說各部分的故事與講述，有些是吟遊詩人之間口耳相傳，有些則是民謠底下的真實事蹟。這些殘篇尚待翻譯與辯論。然而這一段，卻含著啟示的核心，以及環繞班達爾傳說那些疑問的真正源頭。讀者，你怎麼說？就我自己而言，我不知道……但無論是神，還是此處所述那串不相干卻相連的靈魂……我確知班達爾在我們的土地與生命中是一股力量，給許多需要的人帶來希望，也讓許多我所鄙視的人為之躊躇。
 
-[/center]-- Arkan, Scribe of Daggerfall in the year 2E24
+[/center]——阿爾坎，匕首雨的抄寫員，第二紀元24年

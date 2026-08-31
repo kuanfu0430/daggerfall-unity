@@ -1,5 +1,5 @@
-Title: The Legend of Lovers Lament
-Author: Croll Baumoval
+Title: 戀人悲嘆的傳說
+Author: 克羅爾·鮑莫瓦爾
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,30 +8,30 @@ Content:
 
 [/font=2]
 
-[/center]The Legend of
+[/center]戀人悲嘆的
 
-[/center]Lovers Lament
+[/center]傳說
 
 [/font=4]
 
- The night is very dark. Wind gently ruffles the willow trees. All is quiet, or it so appears, around the shores of the small lake. Tamriel's moons reflect in the slightly rippling surface of the water. An owl's questioning call echoes. No lights are shining from the castle nearby; it appears deserted.
+  夜色極深。風輕輕撥動柳樹。小湖岸邊一切寂靜，或至少看來如此。泰姆瑞爾的雙月映在微微漣漪的水面上。貓頭鷹探問的啼聲迴盪。附近城堡沒有一點燈火，像是荒廢了。
 
- As the night wears on and the planet's satellites moves across the heavens, a faint glow appears near the castle. The light slowly moves towards the lake, and upon reaching the shore, stops. A figure, a beautiful woman by any measure, stands looking wistfully into the dark water. Her lantern flickers in the breeze, and illuminates her. Tears are streaming down her cheeks; her gown, once beautiful, is now tattered and stained.
+  夜漸深，行星的衛星橫過天際，城堡附近現出一點微光。那光緩緩移向湖畔，抵達岸邊便停住。一個身影——無論怎麼看都是個美麗女子——站在那裡，悵然望著暗水。提燈在微風中閃爍，照亮她。淚水沿著雙頰淌下；一度華美的長袍，如今已破爛汙損。
 
- The surface of the lake becomes agitated, but not from a wind as the night has become as still as it is dark. Slowly from the water emerges the figure of a man, a warrior, fully adorned in the armor of a knight on the field of battle. He seems to float over the water towards the woman and stop just short of her.
+  湖面開始躁動，卻不是因為風——夜已靜得像它一樣深黑。水中緩緩浮現一個男子的身影，一名戰士，全身披掛戰場騎士的甲胄。他彷彿漂過水面，朝那女子而去，在她跟前不遠處停下。
 
- "Madylina," the ghostly warrior intones.
+  「瑪迪麗娜。」幽靈般的戰士低喚。
 
- "My Lord, Gerthland," whispers the lovely Madylina as she kneels. "You have come to me again."
+  「我的領主，格斯蘭。」美麗的瑪迪麗娜跪下來，輕聲說。「你又來到我身邊了。」
 
- "Yes," Gerthland responds, "My days are long waiting for the night in which I can see my love."
+  「是的。」格斯蘭回答，「白晝漫長，我只盼夜晚，好再見我的愛人。」
 
- The lovers stand looking wistfully at each other, unable to touch, unable to kiss, unable to satisfy their unrequited love until the first tinges of dawn start to color the western sky. Gerthland drops something to the ground as does Madylina as each depart. The waters of the lake again take possession of the handsome knight and the beautiful maiden walks slowly back to the castle. As the waters of the lake settle into a gentle ripple and the light of Madylina's lantern disappears, dawn breaks over the lake.
+  戀人彼此悵然對望，無法觸碰，無法親吻，無法滿足那未曾如願的愛，直到黎明的第一抹微光開始染上西天。格斯蘭把什麼東西落到地上，瑪迪麗娜也一樣，然後各自離去。湖水再度收走那俊美的騎士，美麗的少女則緩步走回城堡。湖面重新歸於輕柔漣漪，瑪迪麗娜的提燈光消失，黎明便在湖上破曉。
 
- On the shore are two beautiful roses--one crimson and the other white as fresh cream. Ripples from the lake overtake the two flowers and pull them into the lake leaving the shore bare as it was in the hours before darkness fell.
+  岸上留下兩朵美麗的玫瑰——一朵殷紅，另一朵白得像新鮮奶油。湖的漣漪追上這兩朵花，把它們拖進湖裡，岸邊又空蕩蕩，一如夜幕降臨前的模樣。
 
-[/center]...
+[/center]……
 
- The townfolk around Gerthland Manor tell often of seeing these lovers in their nightly meeting. The Boar's Bristle Inn is always rumbling with conversation about them. Lord Gerthland and Lady Madylina who were betrothed. Lord Gerthland called to battle to defend the land. Hergen, the castle's resident sorcerer, becoming enflamed with love and lust for Madylina only to be rebuked by her. Lord Gerthland's death on the field of battle. Lady Madylina's death by her own hand at the news. Hergen's curse on both their souls that will not allow them to rest until Madylina will agree to become Hergen's consort even in death.
+  格斯蘭莊園附近的鎮民，常說見到這對戀人夜間相會。野豬鬃酒館裡總是議論紛紛。領主格斯蘭與淑女瑪迪麗娜本已訂婚。領主格斯蘭應召上陣保衛國土。城堡駐留的術士赫根，對瑪迪麗娜燃起愛慾，卻遭她拒絕。領主格斯蘭戰死沙場。淑女瑪迪麗娜聞訊自盡。赫根詛咒兩人的靈魂，使他們不得安息，直到瑪迪麗娜即使死後也同意成為赫根的伴侶。
 
- Hergen, to this day, wanders the deserted halls of Gerthland Manor hoping that Madylina will agree to his demands. And the lovers continue to meet for a few moments each night on the shores of the lake now known as Lover's Lament.
+  時至今日，赫根仍在格斯蘭莊園荒廢的廳堂徘徊，盼著瑪迪麗娜答應他的要求。而那對戀人，每晚仍在如今被稱作戀人悲嘆的湖岸上，相會片刻。

@@ -1,0 +1,8 @@
+- This quest is for testing early task condition support
+
+Quest: __DEMO02
+
+QRC:
+
+Message: 1010
+戴著帽子和墨鏡

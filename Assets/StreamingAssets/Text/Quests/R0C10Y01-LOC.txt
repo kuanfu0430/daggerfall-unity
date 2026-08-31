@@ -1,0 +1,88 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 1
+Messages: 22
+Quest: R0C10Y01
+DisplayName: 違禁品交易
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  若你想找工作，我正需要有人
+<ce>                  把一件特別的 _item_ 交給
+<ce>                  我的一位熟人。酬勞會非常豐厚。
+<ce>                 有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>              真的？或許太忙了。真可惜。
+
+AcceptQuest:  [1002]
+<ce>                     出色。這是 _item_。
+<ce>                    現在，_contact_ 必須在
+<ce>                   =queston_ 天內於 ___contact_ 收到它。
+<ce>               時間應該剛好夠，我希望。
+<ce>                    你會認出 _contact_——
+<ce>                  到一處名叫 __contact_ 的地方，
+<ce>                       找一名 =contact_ 即可。
+<ce>                        祝你好運，謝謝。
+
+QuestFail:  [1003]
+<ce>             %pcf，你最好趕緊去辦我們那點
+<ce>                              小事。
+
+QuestComplete:  [1004]
+<ce>                   啊，很高興見到你，%pcf。還有
+<ce>                 _item_ 也到了。出色。這點小飾品
+<ce>               算是辛苦費。希望你喜歡紅色。
+<ce>                      保重。
+
+RumorsDuringQuest:  [1005]
+聽說 _questgiver_ 還在幹走私這行。
+<--->
+近來走私活動異常猖獗。
+
+RumorsPostfailure:  [1006]
+最近有人在這附近找到一顆非常漂亮的 _item_。
+<--->
+聽說 _questgiver_ 對某個%ra冒險者氣得要命。
+
+RumorsPostsuccess:  [1007]
+有個 =contact_ 剛來過，揮舞著什麼 _item_。
+<--->
+聽說有家珠寶店報了失竊，丟了一顆大紅寶石。
+
+QuestorPostsuccess:  [1008]
+啊，%pcf。希望你把那顆紅寶石保管好，我的朋友。
+<--->
+又見面了，年輕的朋友。
+
+QuestorPostfailure:  [1009]
+<ce>                   我猜你是來為那樁搞砸的
+<ce>                   走私道歉的。
+<ce>                         歉我不接受。
+                                      <--->
+<ce>                      你就是那個連簡單運送
+<ce>                   都辦不成的%ra，是嗎？
+<ce>                    我何必對你浪費口舌？
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_
+ 要我把 _item_ 交給
+ ___contact_ 的接應人 _contact_。
+ 我必須在 =queston_ 天內把 _item_
+ 送到%g2位於 __contact_ 的手上，
+ 否則酬勞作廢。
+
+Message:  1020
+<ce>                       把寶石交出來。我曉得
+<ce>                      你帶著。公會說的。
+<ce>                      你不交，我就得
+<ce>                             慢慢把你宰了。
+
+Message:  1021
+<ce>                      真漂亮。趁我還沒改主意，
+<ce>                           快滾。

@@ -1,0 +1,81 @@
+-- Quest: C:\QUESTS\WORKING\G0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Kynaran
+-- Repute: 0
+-- QuestId: 0
+Messages: 21
+Quest: G0B00Y00
+DisplayName: 憤怒之臂
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>本團要向一名變節的前成員復仇。
+<ce>你願意成為我們憤怒的堅實臂膀嗎，%pcf？
+<--->
+<ce>女神在占卜中向我們開口，
+<ce>她要那褻瀆其名的惡徒流血。
+<ce>助我們平息憤怒的女主人凱娜瑞斯吧。
+
+RefuseQuest:  [1001]
+<ce>這答覆可不高貴。我原指望你好些。
+
+AcceptQuest:  [1002]
+<ce>很好。那叛徒是個殺手，
+<ce>已躲進%di方的___mondun_。
+<ce>若你未能在=queston_天內歸來，
+<ce>你的榮譽將被剝奪，另有人接替你的位置。
+<ce>此事不可讓我們失望，%pcf。
+
+QuestFail:  [1003]
+<ce>叛徒還沒死。別想說服我他死了。
+
+QuestComplete:  [1004]
+<ce>幹得好。你有理由感到自豪。
+
+RumorsDuringQuest:  [1005]
+那躲躲藏藏的傢伙逃去___mondun_，像地獄的獵犬在追他似的。
+<--->
+<ce>_qgiver_不能就這麼讓那沒用的傢伙走掉，
+<ce>尤其是在%g對凱娜瑞斯騎士團做了那些事之後。
+
+RumorsPostfailure:  [1006]
+那叛徒顯然比_qgiver_想的更難對付。好一場逃脫。
+<--->
+聽說那變節者往北去了，但那段記憶仍困擾著騎士團。
+
+RumorsPostsuccess:  [1007]
+那叛徒的下場正好證明：別跟凱娜瑞斯騎士團開玩笑。
+<--->
+我一直以為騎士團對那笨蛋會仁慈些。
+
+QuestorPostsuccess:  [1008]
+你為騎士團除掉了那叛徒。我至少該跟你打聲招呼。
+
+QuestorPostfailure:  [1009]
+你放走了那叛徒。我沒什麼好跟你說的。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的凱娜瑞斯騎士團
+ 派我去藏身處___mondun_
+ 找到並除掉一名對騎士團不忠的叛徒。
+ 我有=queston_天時間完成此事。
+
+Message:  1020
+<ce>「原來……凱娜瑞斯騎士團……派你
+<ce>來殺……我。告訴他們……我
+<ce>朝他們……吐……」
+<ce>叛徒死了。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 1 time.
+--                %g occurs 2 times.
+--              %pcf occurs 4 times.
+--              %qdt occurs 1 time.
+--         =queston_ occurs 2 times.
+--        ___mondun_ occurs 3 times.
+--        ___qgiver_ occurs 3 times.

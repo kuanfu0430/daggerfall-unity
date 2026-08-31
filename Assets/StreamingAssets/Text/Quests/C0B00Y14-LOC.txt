@@ -1,0 +1,95 @@
+-- Quest: C:\QUESTS\WORKING\C0B00Y14.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 14
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 62
+Quest: C0B00Y14
+DisplayName: 獵殺不死者
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>               %pct，我有一項危險的任務給你。
+<ce>              我先說清楚，這涉及斬殺一頭相當強大的不死生物。
+<ce>                   你仍願為__questgiver_接下這差事嗎？
+
+RefuseQuest:  [1001]
+<ce>                  嗯，我完全不能怪你。我自己也不敢。
+
+AcceptQuest:  [1002]
+<ce>                 你的勇氣為我們的教團增光，%pcf。
+<ce>                   我們想開始淨化一個叫___mondung_的地方。
+<ce>                    很久以前那是我們的一座神殿，但其被褻瀆的走廊
+<ce>                  如今被某種不死幽靈盤據。你必須斬殺這不安的魂靈，
+<ce>                 並用這特製的聖水灑在其遺體上。若你未能在=qtime_天內歸來，
+<ce>                我會為你逝去的靈魂焚香，另派人為你報仇。
+<ce>                 願%god與你同行。
+
+QuestFail:  [1003]
+<ce>                   %pct，若你不想幫忙淨化___mondung_，
+<ce>                    早該先告訴我。
+
+QuestComplete:  [1004]
+<ce>                讚美%god，你平安歸來了！
+<ce>                    我們的先知已回報___mondung_內的邪惡
+<ce>                    已被淨化。你為__questgiver_效勞出色。
+
+RumorsDuringQuest:  [1005]
+__questgiver_正計劃把___mondung_恢復往日榮光。
+
+RumorsPostfailure:  [1006]
+<ce>看來___mondung_內的邪惡太強，__questgiver_
+<ce>                             驅除不了。
+
+RumorsPostsuccess:  [1007]
+<ce> __questgiver_派了團裡一人去開始淨化___mondung_。
+
+QuestorPostsuccess:  [1008]
+<ce>       問候，%pcf。你突入___mondung_對我們幫助很大。
+
+QuestorPostfailure:  [1009]
+<ce>        我能為你做什麼？我請你幫忙對付___mondung_的邪靈時，
+<ce>             你讓我失望了。
+
+Message:  1020
+%qdt:
+ ___questgiver_的__questgiver_
+ 之_questgiver_派我去斬殺盤據
+ ___mondung_的不死生物。%G給了我一瓶
+ 特製聖水，必須灑在怪物遺體上，
+ 以防其魂靈歸來。我有=qtime_天
+ 回到_questgiver_身邊，否則%g將另派人。
+
+Message:  1021
+%qdt:
+ ___questgiver_的__questgiver_
+ 之_questgiver_派我去斬殺盤據
+ ___mondung_的不死生物。不過首先，
+ 我必須去___priest_的__priest_拜訪_priest_，
+ %g會為一瓶特製聖水施上最後的祝福。
+ 我需要把它灑在怪物遺體上，以防其魂靈
+ 回到___mondung_。我有=qtime_天
+ 回到_questgiver_身邊，否則%g將另派人。
+
+Message:  1050
+<ce>                啊，等等，我這陣子真健忘！
+<ce>                 你得先把聖水帶到___priest_的__priest_
+<ce>                      之_priest_那裡。%G會為它施上最後的祝福。
+
+Message:  1051
+<ce>                   _priest_一言不發地從你手中接過瓶子。
+<ce>                  %G莊重地祝福了它，然後祝福了你。%G把它交還，
+<ce>                    便回到%g3的冥想之中。
+
+Message:  1060
+<ce>                      「我是=monster1_！你可以
+<ce>                       摧毀我的物質形體，但我永遠會
+<ce>                       回到我在___mondung_的家！」
+
+Message:  1061
+<ce>                    當你把聖水灑在=monster1_的遺骸上，
+<ce>                      一聲絕望的哀號在___mondung_
+<ce>                     黑暗的廳堂中回蕩，慢慢消失在遠方。

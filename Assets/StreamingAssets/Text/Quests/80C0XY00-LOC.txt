@@ -1,0 +1,134 @@
+-- Quest: C:\QUESTS\WORKING\80C0XY00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Malacath
+-- Repute: 0X
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 54
+Quest: 80C0XY00
+DisplayName: 瑪拉凱斯的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 是的，我認識另一個對力量感興趣的傢伙。
+<ce> 湮滅裡一個小小的 panikosa，夢想著力量，
+<ce> 求我賜給它一直渴望的美麗與優雅。
+<ce> 等我讓它變美，它卻反抗我，抗拒我的意志，彷彿不是我造就了它。
+<ce> 也許你也一樣。若我讓你變得強大而美麗，
+<ce> 你會尊重我給予的禮物，對吧？
+
+RefuseQuest:  [1001]
+<ce> 無知的 %ra，你連說謊都不會嗎？
+<ce> 別拿你可悲的渴望來浪費我的時間。
+
+AcceptQuest:  [1002]
+<ce> 我相信你，%pcn。作為殺死那個我曾信任的背叛誘惑者的交換，
+<ce> 我會給你 _artifact_，我在你們世界最珍視的所有物。
+<ce> 它會讓你變得極為強大。你會在 ___mondung_ 找到那可憎的生物。
+<ce> 殺了她，然後在 ___qgfriend_ 見我親愛而信賴的臣民 _qgfriend_。
+<ce> 我會告訴 %g2 為了方便在那兒的宮殿與你會面。
+<ce> 若做得夠有效率，整件事不該超過 =1stparton_ 天。
+<ce> 那麼去吧，進入世界執行我的旨意，%pcn。
+
+QuestFail:  [1003]
+<ce> 滾開，你這流著口水的 %ra。
+<ce> 我在找真正的人類。
+
+QuestComplete:  [1004]
+<ce> 原來你就是 %pcn。瑪拉凱斯把你形容得一點不差。
+<ce> 對付老 =monster_ 幹得漂亮。她就是不懂閉嘴，你懂吧？
+<ce> 總之，這是 _artifact_。砸東西還不賴。誰知道呢？
+<ce> 有一天你也許得用它對付瑪拉凱斯本人。
+<ce> 我開玩笑的……當然。
+
+RumorsDuringQuest:  [1005]
+_murder_ 被發現死了，就在 ___ruler_ %g3 宮殿裡。
+<--->
+多數迪德拉誘惑者都有任務。___mondung_ 那個只是在等待。
+
+RumorsPostfailure:  [1006]
+我還在想那天從天上傳來的女人笑聲。
+<--->
+不知道在哪，但很多人幾晚前看見她在飛來飛去。
+
+RumorsPostsuccess:  [1007]
+聽說那個誘惑者因為墜入愛河，被主人的代理人謀殺了。
+<--->
+讓我緊張——那個誘惑者就坐在那個洞裡，等著什麼。
+
+Message:  1011
+_qgfriend_ 是一名貴族，傳聞與一位黑暗女士有秘密戀情。
+<--->
+_qgfriend_ 是一名有許多秘密效忠的貴族。
+
+Message:  1012
+瑪拉凱斯是謊言、欺騙與偽善的迪德拉親王。
+<--->
+瑪拉凱斯滋生謊言，如同死狗滋生蛆蟲。
+
+Message:  1013
+<ce> _artifact_ 是一把威力強大的戰錘，能吸取受害者的力量。
+
+
+Message:  1015
+=monster_ 死了。
+
+Message:  1020
+%qdt:
+ 我召喚了迪德拉親王瑪拉凱斯，
+ 他願以 _artifact_ 交換殺死 =monster_——
+ 一名從前隸屬於他的迪德拉誘惑者。
+ 那誘惑者已在一處叫 ___mondung_ 的地方尋求庇護。
+ 若我能殺死 =monster_，並在 =1stparton_ 天內抵達
+ ___qgfriend_ 的宮殿，一名叫 _qgfriend_ 的
+ =qgfriend_ 就會把 _artifact_ 給我。
+
+Message:  1030
+=monster_：
+ 
+      瑪拉凱斯希望 _murder_ 死去。
+ %G3 代理人已經揭開我們太多陰謀。
+ 必須在我們對 %reg 的所有計畫被毀之前阻止 %g。
+ 你會在 ___ruler_ 的宮殿找到 %g2。
+ 務必讓 %g3 死無法追溯到我們。
+      完成暗殺後，在 ___mondung_ 等我。
+ 我會帶著你的報酬，以及瑪拉凱斯給你的下一個任務。
+ 
+<ce> _qgfriend_
+
+Message:  1040
+<ce> %oth！_qgfriend_ 竟是 _murder_ 之死的幕後黑手？
+<ce> 還捲入迪德拉陰謀？沒有你的幫助，
+<ce> 我們可能永遠破不了這樁謀殺案，%pcn。
+<ce> 你對 %rt 的忠誠不會被遺忘。
+
+Message:  1041
+<ce> 你要把 _qgfriend_ 的便條交給 _ruler_ 嗎？
+
+Message:  1050
+<ce>_murder_ 之死仍是謎。_ruler_ 正主導調查，
+<ce> 但至今毫無頭緒。
+                                     <--->
+<ce>我確信 _murder_ 是因為調查 %reg 的腐敗才被殺的。
+
+Message:  1051
+<ce> _murder_ 正在調查一項推翻 %rt %rn 的陰謀時，%g
+<ce> 「神秘地」被殺了。_ruler_ 正試圖找出兇手，
+<ce> 但 %g 永遠查不到底。
+                                     <--->
+<ce>_murder_ 被發現死在 ___ruler_ 的宮殿，%g3 關於高層叛國的
+<ce> 調查筆記全被偷走。_ruler_ 被派去追查兇手，但 %g 毫無線索。
+
+Message:  1052
+<ce> _ruler_ 正主導對 _murder_ 之死的調查，
+<ce> 但至今毫無頭緒。
+                                     <--->
+<ce> _ruler_ 正在 ___ruler_ 宮殿調查 _murder_ 之死。
+
+Message:  1053
+<ce>_ruler_ 正試圖找出誰該為 _murder_ 之死負責，
+<ce> 但 %g 永遠查不到底。
+                                     <--->
+<ce>_ruler_ 被派去追查 _murder_ 的兇手，但毫無線索。

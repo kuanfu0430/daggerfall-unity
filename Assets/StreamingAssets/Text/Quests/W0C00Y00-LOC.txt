@@ -1,0 +1,118 @@
+-- Quest: C:\QUESTS\WORKING\W0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Hermaeus Mora
+-- Repute: 0
+-- QuestId: 0
+Messages: 46
+Quest: W0C00Y00
+DisplayName: 赫瑪烏斯·莫拉的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                力量，是的，是一種隱晦卻雄辯的訴求。
+<ce>               我的一名僕從持有一本名叫奧格瑪無限之書的
+<ce>              古籍，它將巨大的力量賜予閱讀其頁者。若你
+<ce>               消滅某個引起我不快、患瘰癧的貴族，我會
+<ce>                 安排你與那本書會面。這樣可合意？
+
+RefuseQuest:  [1001]
+<ce>               你答以否定。我該理解為你尋求力量，卻想
+<ce>                免費得到它？你本該尋求智慧，因為那才是
+<ce>                 你所需要的。我帶著非常失望向你告別。
+
+AcceptQuest:  [1002]
+<ce>                很好。我所說的那位社交名流住在__palace_
+<ce>                  的宮殿。記錄在案，你獵物的名字是
+<ce>                              _enemy_。
+<ce>                 殺掉%g2，然後前往___contact_，我的僕人
+<ce>                      _contact_會在一座圖書館等你。
+<ce>                 我不認為繼續這場會面有任何收穫。別讓我
+<ce>                    在此事上失望，%pcf，你所渴求的
+<ce>                 力量就會屬於你。
+
+QuestFail:  [1003]
+<ce>                        聽著，若你是%pcf，回去再殺
+<ce>                       _enemy_一次。赫瑪烏斯·莫拉
+<ce>                     告訴我別把書給你，因為%g還活著。
+<ce>                      抱歉，就是這樣。
+
+QuestComplete:  [1004]
+<ce>                %pcf，我低估你了。我告訴莫拉你做不到，但
+<ce>             你來了，而整個%reg都因_enemy_之死騷動。如所承諾，
+<ce>                  這本書。記住：你只能讀一次。
+<ce>                         或許再見。
+
+RumorsDuringQuest:  [1005]
+據說_enemy_所有%g3力量都直接來自迪德拉本身。
+<--->
+_enemy_一定跟迪德拉做了交易。沒人能那麼幸運。
+
+RumorsPostfailure:  [1006]
+_enemy_飛快離開了%reg。我猜是%g3的過去追上了%g2。
+<--->
+你可以欺騙迪德拉。_enemy_就做到了。得逃跑，但%g還活著。
+
+RumorsPostsuccess:  [1007]
+因果循環。據說_enemy_試圖欺騙命運。
+<--->
+我還能聽見_enemy_吹噓自己騙過迪德拉。真是傻瓜。
+
+Message:  1011
+不過是個跟迪德拉打交道的=contact_。
+<--->
+某個幾乎住在__contact_的=contact_。
+
+Message:  1012
+禁忌知識的迪德拉親王，煉獄中最有智慧者。
+<--->
+赫瑪烏斯·莫拉有一顆與泰姆瑞爾同樣古老的心智。以及一具黏液之軀。
+
+Message:  1013
+奧格瑪無限之書是知識之書。但知識可以被遺忘。
+<--->
+那是賜予讀者更強身體與更敏銳心智的書。
+
+Message:  1020
+%qdt:
+ 迪德拉親王赫瑪烏斯·莫拉要我刺殺一名違背與他契約的法術劍士。
+ _enemy_住在__palace_的宮殿。作為殺掉%g2並在=1stparton_天或
+ 更短時間內到達赫瑪烏斯·莫拉在___contact_的聯絡人_contact_
+ 的交換，我會得到知識之書奧格瑪無限之書。_contact_會在那裡
+ 一座圖書館等候。
+
+Message:  1030
+<ce>                    赫瑪烏斯·莫拉會高興——
+<ce>                        你已殺死_enemy_。
+
+Message:  1035
+<ce>             不！等一下！我發誓，我本來打算償還莫拉領主的。
+<ce>                  別殺我，我求你！來，饒我一命，把這件
+<ce>            _magic_帶給他，作為我善意的信物與我所欠的首付款。
+<ce>               求你，好嗎？
+
+Message:  1040
+<ce>             嗯，好吧，謝謝這件_magic_，我猜……現在，讓我們
+<ce>                   談正事。
+
+QuestTimeLapse:  [1045]
+<ce>              你是說你讓那條小蟲子活著，還拿這件可憐的
+<ce>             _magic_給我，而不是手上沾著_enemy_的血？
+<ce>               赫瑪烏斯·莫拉聽到這消息會非常不高興。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 4 times.
+--               %g2 occurs 3 times.
+--               %g3 occurs 1 time.
+--              %pcf occurs 3 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 2 times.
+--       =1stparton_ occurs 1 time.
+--         =contact_ occurs 7 times.
+--         __palace_ occurs 2 times.
+--         _contact_ occurs 3 times.
+--           _enemy_ occurs 15 times.
+--           _magic_ occurs 3 times.

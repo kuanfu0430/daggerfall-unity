@@ -1,0 +1,16 @@
+- Example quest demonstrating basic timer usage
+
+Quest: __DEMO006
+
+QRC:
+
+Message: 1021
+計時器1已啟動
+
+Message: 1022
+計時器2已啟動
+
+Message: 1023
+完成！
+
+- No text resources

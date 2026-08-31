@@ -1,0 +1,81 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y21.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 21
+Messages: 16
+Quest: R0C10Y21
+DisplayName: 獸人神殿
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        我的表親 _qgfriend_
+<ce>                 向我求援，情況相當令人厭惡。看來有座
+<ce>                 ……某種神殿正在被祝聖，若這詞適合
+<ce>                那些噁心的獸人活動。顯然，我們得在它萌芽時
+<ce>                  碾碎它。我最高願出 _reward_ 金幣。
+<ce>                    能指望你幫忙嗎，%pcf？
+
+
+RefuseQuest:  [1001]
+<ce>                      你是什麼，獸人的朋友嗎？
+<ce>                      %oth，滾出我的視線！
+
+AcceptQuest:  [1002]
+<ce>                 先謝謝你，%pcf。
+<ce>                 我想最能發揮你本事的，是潛入 ___mondung_，
+<ce>           除掉那座神殿所謂的薩滿。若我們能在 =1stparton_ 天內
+<ce>                  的進攻之前殺掉它，事情會輕鬆許多。
+<ce>               事成之後，到我表親在 ___qgfriend_ 的宮殿回報。
+<ce>                  付錢的是%g。
+
+QuestFail:  [1003]
+<ce>                最好趕緊上路去 ___mondung_，%pcf。
+<ce>               計畫已經啟動，我們指望你。
+
+QuestComplete:  [1004]
+<ce>                     向你致意，%pcf。幹掉那個
+<ce>                  發臭腐臭的薩滿，一流。他們竟敢在我的土地上
+<ce>                   設立食人神殿！沒了首領的烏合之眾
+<ce>                    現在應該好對付多了。這是你的
+<ce>                     _reward_ 金幣。盡情揮霍吧。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 有個獸人聚落一直在騷擾 _qgfriend_。
+<--->
+___mondung_ 想當年是獸人神殿。現在他們又要把它弄回來。
+
+RumorsPostfailure:  [1006]
+整個獸人聚落聞到 _qgfriend_ 的風聲就搬走了。
+<--->
+可憐的 _qgfriend_ 沒能對 ___mondung_ 的獸人報仇。
+
+RumorsPostsuccess:  [1007]
+這下該讓那些豬臉墮落食人族學會別來%reg。
+<--->
+願%god保佑 _qgfriend_、_questgiver_ 和那位不知名的%ra士兵。
+
+QuestorPostsuccess:  [1008]
+最近聽過什麼好笑的獸人笑話嗎？我表親說你幹得很漂亮。
+<--->
+我表親對你對付那個獸人薩滿的表現印象深刻，我的朋友。
+
+QuestorPostfailure:  [1009]
+<ce>                       我表親說你終究沒殺掉
+<ce>                    那個獸人薩滿。我沒興趣再談這件事。
+
+Message:  1011
+=qgfriend_，是嗎？_questgiver_ 可能的盟友，正為獸人頭疼。
+<--->
+_qgfriend_ 一碰到獸人就是個暴烈的偏執者。
+
+Message:  1012
+<ce>                    你已殺死獸人薩滿。
+
+Message:  1015
+%qdt:
+ 我有 =1stparton_ 天在 ___mondung_ 殺死一名獸人薩滿，
+ 再到 _qgfriend_ 位於 ___qgfriend_ 的宮殿。
+ %G會為薩滿之死付給我 _reward_ 金幣。

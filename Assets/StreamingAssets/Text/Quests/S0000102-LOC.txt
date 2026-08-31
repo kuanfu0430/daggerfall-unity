@@ -1,0 +1,23 @@
+-- Quest: C:\QUESTS\WORKING\S0000102.Qbn.
+-- Main story quest.
+-- QuestId: 102
+Messages: 16
+Quest: S0000102
+-- Message panels
+QRC:
+
+Message:  1015
+<ce>                   戈特沃格說你必須死。我們可以留下你所有
+<ce>                  的東西，除了圖騰，那是他的賞金。
+                                      <--->
+<ce>                     你們%ra從未給過獸人應有的尊重。
+<ce>                   為戈特沃格國王殺你並把圖騰帶給他，
+<ce>                     將是一種樂趣。
+                                      <--->
+<ce>                     戈特沃格國王說你是不可信賴的%ra。
+<ce>                      我要殺你，把圖騰帶給他。
+
+
+-- Symbols used in the QRC file:
+--
+--               %ra occurs 2 times.

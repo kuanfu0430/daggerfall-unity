@@ -1,0 +1,41 @@
+-- Quest: C:\QUESTS\WORKING\S0000022.Qbn.
+-- Main story quest.
+-- QuestId: 22
+Messages: 12
+Quest: S0000022
+DisplayName: 萊桑達斯的啟示
+-- Message panels
+QRC:
+
+RefuseQuest:  [1001]
+<ce>                     我以為告訴過你需要一個月。
+<ce>                    粉末還沒準備好。稍後再來。
+
+AcceptQuest:  [1002]
+<ce>                   粉末準備好了。你只需把它灑在他
+<ce>                    真正的遺體上。我必須警告你。
+<ce>                   它不會讓他的亡靈安息，但會充分
+<ce>                  撫慰他，讓你有機會與他交談。最終的
+<ce>                  驅靈要由萊桑達斯自己選擇。
+<ce>                                    
+<ce>                  我不知道他被葬在何處。我只知道
+<ce>                 不是在他們為他立紀念碑的克林蓋恩
+<ce>                 戰場。若你真的與他交談……能否告訴他
+<ce>                   我仍然愛他？死亡不會長久成為我們
+<ce>                        之間的屏障。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 梅朵拉告訴我，她需要一個月準備那塵。這段時間過後，
+ 我該再到迪倫尼塔她的居所拜訪她。
+
+Message:  1011
+%qdt:
+ 梅朵拉給了我一種能撫慰萊桑達斯亡靈的粉末。然而，
+ 它不會讓他的亡靈安息，只會使他平靜。現在我只需找到
+ 他的墳墓並使用它。
+
+
+-- Symbols used in the QRC file:
+--
+--              %qdt occurs 2 times.

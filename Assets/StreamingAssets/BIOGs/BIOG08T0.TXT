@@ -1,22 +1,21 @@
-1.	You have a certain degree of training
-	with ___.
-a.	Short-bladed weapons
+1.	你對___有一定程度的訓練。
+a.	短刃武器
 	#4454
 	28 +6
 	IT 3 1 3
-b.	Hand-to-hand combat
+b.	徒手格鬥
 	#4455
 	30 +6
 	IT 2 1 1
-c.	Axe fighting
+c.	斧戰
 	#4456
 	31 +6
 	IT 3 14 0
-d.	Blunt weapons
+d.	鈍器
 	#4457
 	32 +6
 	IT 3 2 0
-e.	Archery
+e.	箭術
 	#4458
 	33 +6
 	IT 3 16 0
@@ -26,194 +25,186 @@ e.	Archery
 	IT 3 18 0
 	IT 3 18 0
 	IT 3 18 0
-f.	Longblade
+f.	長刃
 	#4459
 	29 +6
 	IT 3 9 0
 
-2.	What thieving skill have you been studying
-	the longest?
-a.	Dodging
+2.	你研習最久的盜賊技能是哪一項？
+a.	閃避
 	#4550
 	20 +6
-b.	Stealth
+b.	潛行
 	#4551
 	16 +6
-c.	Backstabbing
+c.	背刺
 	#4552
 	19 +6
-d.	Lockpicking
+d.	開鎖
 	#4554
 	13 +6
-e.	Pickpocketing
+e.	扒竊
 	#4555
 	15 +6
-f.	Climbing
+f.	攀爬
 	#4556
 	18 +6
-g.	Critical-Striking
+g.	致命一擊
 	#4557
 	34 +6
-h.	Running
+h.	奔跑
 	#4558
 	21 +6
-i.	Jumping
+i.	跳躍
 	#4559
 	3 +6
 
-3.	What motivates you into a life of
-	adventure?
-a.	Riches
+3.	是什麼驅使你走上冒險之路？
+a.	財富
 	#4560
 	GP +500
-b.	Fame
+b.	名聲
 	#4561
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	知識
 	#4562
 	IT 7 0 0
-d.	Fun
+d.	樂趣
 	#4563
 	1 +3
 	2 +3
-e.	Helping Others
+e.	助人
 	#4564
 	r0 +10
 
-4.	You preferred criminal method is ___.
-a.	catburglary
+4.	你偏好的犯罪手法是___。
+a.	飛賊入室
 	#4565
 	AF F 7 12 +1
-b.	mugging
+b.	攔路搶劫
 	#4566
 	AF F 7 12 +1
-c.	pickpocketing
+c.	扒竊
 	#4567
 	AF F 7 12 +1
-d.	swindling
+d.	詐騙
 	#4568
 	AF F 7 12 +1
-e.	smuggling
+e.	走私
 	#4569
 	AF F 7 12 +1
-f.	bankrobbing
+f.	搶銀行
 	#4570
 	AF F 7 12 +1
 
-5.	Given your choice of reward, you would
-	most likely choose ___.
-a.	200 gold pieces
+5.	若能選擇獎賞，你多半會選___。
+a.	200 枚金幣
 	#4528
 	GP +200
-b.	An ebony dagger
+b.	一把烏木匕首
 	#4529
 	IT 3 0 7
-c.	A book
+c.	一本書
 	#4530
 	IT 7 0 0
-d.	A ruby
+d.	一顆紅寶石
 	#4531
 	IT 14 0 0
-e.	A silver staff
+e.	一根銀法杖
 	#4532
 	IT 3 2 2
-f.	An amulet
+f.	一枚護符
 	#4192
 	IT 25 0 0
 
-6.	One of the most important survival skills
-	you picked up was how to ___.
-a.	Mend simple wounds
+6.	你學到最重要的求生技能之一，是如何___。
+a.	處理簡單傷口
 	0 +6
-b.	Ingratiate yourself
+b.	討好他人
 	1 +6
-c.	Boss people around
+c.	對人發號施令
 	2 +6
-d.	Haggle with merchants
+d.	與商人討價還價
 	14 +6
-e.	Fight with a knife
+e.	用刀戰鬥
 	28 +6
 
-7.	You were an active child, ___ than anyone
-	else your age.
-a.	faster
+7.	你小時候很好動，比同齡人都___。
+a.	跑得更快
 	21 +6
-b.	sneakier
+b.	更會潛行
 	16 +6
-c.	a better climber
+c.	更會攀爬
 	18 +6
-d.	a better swimmer
+d.	更會游泳
 	17 +6
-e.	a better brawler
+e.	更會打架
 	30 +6
 
-8.	You can get most of the things you want by
-	stealing from ___.
-a.	Rich Nobles
+8.	你想要的東西，多半是從___偷來的。
+a.	富有貴族
 	IT 25 3 0
-b.	Sages and Mages
+b.	賢者與法師
 	IT 7 0 0
-c.	Established Temples
+c.	根基深厚的神殿
 	IT 10 4 0
-d.	Diversified Merchants
+d.	各行商人
 	IT 25 5 0
 
-9.	The one skill you could not work
-	without must be ___.
-a.	Lockpicking
+9.	你少了就幹不下去的技能，必是___。
+a.	開鎖
 	13 +6
-b.	Pickpocketing
+b.	扒竊
 	15 +6
-c.	Stealthy Movement
+c.	潛行移動
 	16 +6
-d.	Dodging
+d.	閃避
 	20 +6
-e.	Climbing
+e.	攀爬
 	18 +6
-f.	Backstabbing
+f.	背刺
 	19 +6
 
-10.	As a child, your nickname was ___.
-a.	Rabbit
+10.	小時候，別人給你的綽號是___。
+a.	兔子
 	3 +6
-b.	Guppy
+b.	小魚
 	17 +6
-c.	Quicksilver
+c.	水銀
 	21 +6
-d.	Scrapper
+d.	好鬥鬼
 	30 +6
-e.	Monkey
+e.	猴子
 	18 +6
 
-11.	What god, if any, do you worship?
-a.	None
+11.	你崇拜哪位神祇（若有的話）？
+a.	無
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	阿凱，誕生與死亡之神
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	澤尼薩爾，商業之神
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	瑪拉，母親女神
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	迪貝拉，美之女神
 	rf98 +5
-f.	Julianos, God of Logic
+f.	朱利安諾斯，邏輯之神
 	rf94 +5
-g.	Akatosh, God of Time
+g.	阿卡托什，時間之神
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	斯丹達爾，慈悲之神
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	凱娜瑞斯，空氣女神
 	rf36 +5
 
-12.	Your frail health as a child has made
-	you ___.
-a.	Less resistant to poisons
+12.	童年體弱，使你___。
+a.	較不耐毒素
 	RP -5
-b.	Less resistant to disease
+b.	較不耐疾病
 	RD -5
-c.	Easily tired
+c.	容易疲勞
 	FT -5
-d.	Less resistant to magic
+d.	較不耐魔法
 	MR -5
 

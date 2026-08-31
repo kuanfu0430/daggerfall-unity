@@ -1,0 +1,81 @@
+-- Quest: C:\QUESTS\WORKING\M0B1XY01.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 1X
+-- QuestId: 1
+Messages: 81
+Quest: M0B1XY01
+DisplayName: 獵殺鷹身女妖
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我喜歡你，小子。這差事不是誰都能接。
+<ce> 好像有一群會飛的肉食動物——鷹身女妖——
+<ce> 讓一幫行商緊張得要命。_reward_ 金幣
+<ce> 能不能讓你去 ___mondung_ 砍砍殺殺？
+
+RefuseQuest:  [1001]
+<ce> 可惜。在我看來
+<ce> 這交易夠慷慨了。
+
+AcceptQuest:  [1002]
+<ce> 那好。___mondung_ 裡有五隻
+<ce> 這種美人，必須在
+<ce> =1stparton_ 天內全死，否則沒交易。
+<ce> 再給你一句忠告：你得在
+<ce> =1stparton_ 天內回來，但盡快
+<ce> 趕到 ___mondung_，
+<ce> 否則那些鷹身女妖會遷徙，
+<ce> 你就沒轍了。好了小子，祝你好運，
+<ce> 滾吧。
+
+QuestFail:  [1003]
+<ce> 聽著小子，我知道我很迷人，
+<ce> 但那些鷹身女妖在等著，
+<ce> 而且務必把五隻全幹掉，
+<ce> 懂嗎？
+
+QuestComplete:  [1004]
+<ce> 好，小子，幹得漂亮。_reward_ 金幣
+<ce> 歸你。不算差。
+
+RumorsDuringQuest:  [1005]
+最近有人去探 ___mondung_，結果被撕成碎片。
+<--->
+我只希望那些鷹身女妖繼續往南遷。
+
+RumorsPostfailure:  [1006]
+聽說鷹身女妖把 ___mondung_ 的巢搞髒了，只好搬走。
+<--->
+那些鷹身女妖跟著商隊走，像場流動盛宴。
+
+RumorsPostsuccess:  [1007]
+鷹身女妖真是經濟問題。現在情況該好轉了。
+<--->
+聽說他們在那鷹身女妖巢裡找到成千上萬顆蛋。
+
+QuestorPostsuccess:  [1008]
+<ce> 嘿！處理那些鷹身女妖的
+<ce> %ra 回來了。
+
+QuestorPostfailure:  [1009]
+<ce> 你就是那個連一群鷹身女妖
+<ce> 都應付不了的 %ra。可悲。
+
+Message:  1020
+<ce> 五隻了。這應該夠讓
+<ce> _questgiver_ 滿意。
+
+Message:  1030
+%qdt:
+ ___questgiver_ 的戰士公會雇我
+ 去消滅盤據 ___mondung_ 的鷹身女妖巢。
+ 我至少要殺死五隻，並在 =1stparton_ 天內
+ 回來，才能領酬。
+
+Message:  1080
+<ce> 嘿，看你這麼幫忙，這是一張
+<ce> 通往 ___newdung_ 的地圖。
+<ce> 殺戮與搜刮隨你高興。我請客。

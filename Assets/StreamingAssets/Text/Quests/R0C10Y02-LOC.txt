@@ -1,0 +1,109 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 2
+Messages: 31
+Quest: R0C10Y02
+DisplayName: 黃金走私
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 我需要有人把一件物品送到
+<ce>                    ___contact_ 我的接應人那裡。
+<ce>               你會拿到一件回禮。若你把那件回禮
+<ce>             帶回給我，我很樂意以 _reward_ 金幣酬謝。
+<ce>                             你同意嗎？
+
+RefuseQuest:  [1001]
+<ce>                不？真可惜。我本來準備相當慷慨。
+
+AcceptQuest:  [1002]
+<ce>                   很好。帶上這根金條，
+<ce>                  交給 ___contact_ 一處名叫
+<ce>                       __contact_ 的地方、
+<ce>                  一位叫 _contact_ 的 =contact_。
+<ce>             你得動作快。若你沒在 =1stparton_ 天內
+<ce>                   趕到 __contact_，
+<ce>                       _contact_ 就會離開，
+<ce>               到時候誰都不高興。尤其是你。
+<ce>                   好了，祝你好運，%pcf。
+
+QuestFail:  [1003]
+<ce>                你要不是還沒動身，就是來為失敗道歉。
+<ce>                      是嗎，%pcf？我確實
+<ce>                非常失望，極度失望。你的無能
+<ce>               把事情搞複雜了。看來下次我得長記性，
+<ce>                      是不是？現在就給我走，%pcf。
+
+QuestComplete:  [1004]
+<ce>                   出色，%pcf，你依約帶回了
+<ce>                   我的 _item2_。你的勇武確實可嘉。
+<ce>             我相信不久之後我們還會需要你的效勞。
+<ce>                        謝謝。
+
+RumorsDuringQuest:  [1005]
+<ce>   最近有個 =contact_ 來問我有沒有見過一名%ra。
+                                      <--->
+<ce>   前陣子有個 =contact_ 在找帶著 _item1_ 的%ra。
+
+RumorsPostfailure:  [1006]
+<ce>              聽說 _questgiver_ 對某個%ra傭兵
+<ce>                         氣得發狂。
+                                      <--->
+<ce>             _questgiver_ 還在用傭兵，
+<ce>                    聽說%g被坑了。
+
+RumorsPostsuccess:  [1007]
+<ce>               聽說 _questgiver_ 終於拿到了
+<ce>                           %g需要的 _item2_。
+                                      <--->
+<ce>        _questgiver_ 一直在讚美某個
+<ce>                             %ra傭兵。
+
+QuestorPostsuccess:  [1008]
+又見面了，年輕的朋友。我沒忘你的功勞。
+<--->
+啊，%pcf。很高興再見到你。
+
+QuestorPostfailure:  [1009]
+<ce>                       唷，是那個無能的%ra。
+<ce>               你還有臉回來。
+                                      <--->
+<ce>                      這不是那個無能的信差嗎。
+<ce>                      何不現在就爬走，嗯？
+
+QuestLogEntry:  [1010]
+%qdt:
+___questgiver_ 的 _questgiver_
+ 派我去 ___contact_ 的接應人
+ _contact_ 那裡，把一根金條送到
+ 這名 =contact_ 位於 __contact_ 的據點。
+ 金條必須在 =1stparton_ 天內交到%g3手上，
+ 我才能拿到該得的酬勞。
+
+Message:  1011
+%qdt:
+我把黃金交給了
+ _contact_，%g給了我一件 _item2_，
+ 要我帶回給 _questgiver_。
+
+Message:  1020
+<ce>                      那根金條一定很沉。
+<ce>                       不如我幫你減輕負擔？
+<ce>                      交出來，我就放你走。
+
+Message:  1021
+<ce>                     真是勇敢的小信差。
+<ce>                      我會告訴所有朋友，
+<ce>                      你對他們也能這麼幫忙。
+
+Message:  1030
+<ce>                     啊，你一定就是信差。
+<ce>                    出色，出色。現在立刻把
+<ce>                   這件 _item2_ 帶回給 _questgiver_，
+<ce>            %g會依約酬謝你。
+<ce>                  與你交易很愉快，
+<ce>                                 %pcf！

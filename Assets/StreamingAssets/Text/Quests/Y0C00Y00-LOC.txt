@@ -1,0 +1,102 @@
+-- Quest: C:\QUESTS\WORKING\Y0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Mehrunes Dagon
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: Y0C00Y00
+DisplayName: 梅魯涅斯·大袞的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  所以你要力量？是的，許多人覬覦力量，
+<ce>                    是的，但很少人知道為什麼。你要
+<ce>                      _artifact_？非常特別，_artifact_。
+<ce>                       非常好，是是。只要做一件事，
+<ce>                   你就有它，嗯嗯。我有個孩子需要受罰，
+<ce>                   是的。你會為了可愛、可愛的_artifact_
+<ce>                      做這件事，是嗎？
+
+RefuseQuest:  [1001]
+<ce>               嘶！凡人生物對梅魯涅斯·大袞說不！凡人生物
+<ce>               知道你的時間對大袞毫無意義，他記得侮辱，是的。
+<ce>              這事對凡人生物太黑了，不，我……會……記住
+<ce>                        %pcn。
+
+AcceptQuest:  [1002]
+<ce>              嗯，凡人生物勇敢，好好。現在，去___mondung_，
+<ce>                  殺掉那裡的霜凍迪德拉。它以為安全，哈，
+<ce>                我們到處緊緊屠殺霜肉。你殺掉它，然後去找
+<ce>               =contact_，%g2 _contact_在__tavern_。
+<ce>                        有好好的_artifact_給你。
+<ce>                   殺掉霜凍迪德拉並在=1stparton_個凡間之夜前
+<ce>                  去見_contact_。現在去，%pcn。大袞等著。
+
+QuestFail:  [1003]
+<ce>                         你好。是%pcn吧，我相信？
+<ce>                      我是_contact_。若你允許，一句勸告：
+<ce>              梅魯涅斯·大袞看起來像沒腦子的蟾蜍，但他不是。
+<ce>               他知道霜凍迪德拉還沒死，你最好履行與他的契約。
+
+QuestComplete:  [1004]
+<ce>                         啊，你是%pcn，對吧？
+<ce>                      _contact_在此。我聽說你成功糾正了
+<ce>               梅魯涅斯·大袞一個走偏的孩子。很好。嗯，這是
+<ce>                        答應你的_artifact_。好好享受。
+<ce>               我想我們不會再見面。再見。
+
+RumorsDuringQuest:  [1005]
+有寒風從___mondung_的方向吹來。
+<--->
+近來比較冷。
+
+RumorsPostfailure:  [1006]
+瘋狂的=contact_從這裡經過，尖叫著某個%ra冒險者。
+<--->
+梅魯涅斯·大袞的星今晚燃燒得很亮。
+
+RumorsPostsuccess:  [1007]
+比近來暖和多了。
+<--->
+天氣沒有以前那麼刺骨。
+
+Message:  1011
+梅魯涅斯·大袞是毀滅之主，迪德拉中最暴力者。
+<--->
+大袞看起來像無知的蠻漢，但其實相當狡猾。
+
+Message:  1012
+非常陰森的=contact_叫_contact_——我在_tavern_看見%g2。
+<--->
+此地%di有個叫_tavern_的地方。去那裡找。
+
+Message:  1013
+<ce>                 我不知道_artifact_有什麼用。
+
+Message:  1020
+%qdt: 
+ 迪德拉親王梅魯涅斯·大袞要我殺掉___mondung_的一頭霜凍迪德拉。
+ 消滅完成後，我有=1stparton_天與_contact_會面，領取為大袞殺掉
+ 霜凍迪德拉的_artifact_。%G會在__tavern_的_tavern_等我。
+
+Message:  1030
+大袞的獵物回到湮滅。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 1 time.
+--                %g occurs 1 time.
+--               %g2 occurs 2 times.
+--              %pcn occurs 5 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 10 times.
+--       =1stparton_ occurs 2 times.
+--         =contact_ occurs 3 times.
+--       ___mondung_ occurs 4 times.
+--         __tavern_ occurs 3 times.
+--        _artifact_ occurs 9 times.
+--         _contact_ occurs 6 times.
+--          _tavern_ occurs 8 times.

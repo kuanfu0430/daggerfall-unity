@@ -1,0 +1,125 @@
+-- Quest: C:\QUESTS\WORKING\P0A01L00.Qbn.
+-- StartsBy: letter
+-- Questee: initiate
+-- Questor: vampire
+-- Repute: 01
+-- QuestId: 0
+Messages: 31
+Quest: P0A01L00
+DisplayName: 接納儀式
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+親愛的 %pcn，
+ 
+    我們觀察你已有一段時日。事實上，
+ 從你得到吸血鬼那份不潔祝福的那一刻起，
+ 我們便一直注視著你。你雖有過古怪
+ 笨拙的時刻，但我們對你成為的這名
+ 吸血鬼並不失望。
+    如今，是時候讓你認識自己的傳承——
+ %vam，最偉大的吸血鬼血脈，那份足以
+ 自豪的源流。然而，為證明你的忠誠，
+ 我們需要一場獻祭。
+     附近有一處巢穴，住著一名較低等
+ 血脈的成員。前往名為 ___mondung_ 之處，
+ 殺死 =monster_，這對我們種族的骯髒侮辱。
+ 事成之後，到 ___questgiver_ 的
+ __questgiver_ 來找我。你一眼就能認出我：
+ 找一名 =questgiver_ 即可。
+     我會等待 =1stparton_ 天，
+ %pcf。逾期我就會離開。
+ 但願我們不會錯過彼此。
+ 
+<ce>                              _questgiver_
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called!
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called!
+
+QuestFail:  [1003]
+<ce>                    聽著，我不是想無禮，
+<ce>                     但我在等人，所以
+<ce>                            你還是走吧。
+
+QuestComplete:  [1004]
+<ce>                     出色，%pcf。你會成為
+<ce>                 %vam 的優秀成員。歡迎加入
+<ce>                  這個家族。我名叫 _questgiver_。
+<ce>                    %vam 會繼續關注你的
+<ce>                 進展，我們或許會不時為了
+<ce>                    家族事務與你聯絡。
+<ce>                  這枚戒指標誌你已是
+<ce>                                 我們的一員。
+
+RumorsDuringQuest:  [1005]
+有人說 ___mondung_ 又有什麼人或什麼東西住進去了。
+<--->
+__questgiver_ 那邊來了個古怪的 =questgiver_。
+
+RumorsPostfailure:  [1006]
+感謝 %god，那個古怪的 =questgiver_ 離開了 __questgiver_。
+<--->
+看來 ___mondung_ 又再一次被廢棄了。
+
+RumorsPostsuccess:  [1007]
+許多人都在猜，究竟是什麼東西殺得死一隻 _monster_。
+<--->
+不知道那隻 _monster_ 是不是被比它更可怕的東西殺了。
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called. Not sposed to be.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called. Not sposed to be.
+
+QuestLogEntry:  [1010]
+_questgiver_？從沒聽過 %g2。%g 住在這附近嗎？
+
+Message:  1011
+那個 =questgiver_ 是吸血鬼血脈 %vam 的導師。
+<--->
+_questgiver_ 是 %vam 血脈中自豪而能幹的一員。
+
+Message:  1015
+%qdt:
+ 我收到一封來自
+ 「家族」成員的信。
+ 他們要我去一個叫 ___mondung_
+ 的地方，殺死一名「較低等血脈
+ 的成員」，想來不是 %vam 的人。
+ 然後我得到 ___questgiver_
+ 的 __questgiver_ 去見一名
+ 叫 _questgiver_ 的
+ =questgiver_，
+ 得在 %g 於 =1stparton_
+ 天內離開之前趕到。
+
+Message:  1020
+<ce>                     一個憔悴蒼白的孩子把
+<ce>                       一封信塞給你，隨即竄走。
+
+Message:  1030
+<ce>                      你已殺死吸血鬼
+<ce>                               =monster_。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 4 times.
+--               %g2 occurs 1 time.
+--              %god occurs 1 time.
+--              %pcf occurs 2 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 1 time.
+--              %vam occurs 26 times.
+--       =1stparton_ occurs 4 times.
+--         =monster_ occurs 2 times.
+--      =questgiver_ occurs 5 times.
+--       ___mondung_ occurs 4 times.
+--    ___questgiver_ occurs 6 times.
+--         _monster_ occurs 2 times.
+--      _questgiver_ occurs 5 times.

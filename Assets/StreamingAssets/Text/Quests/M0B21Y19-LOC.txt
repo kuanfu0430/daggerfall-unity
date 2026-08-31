@@ -1,0 +1,148 @@
+-- Quest: C:\QUESTS\WORKING\M0B21Y19.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 21
+-- QuestId: 19
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 72
+Quest: M0B21Y19
+DisplayName: 標準護衛
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 你好嗎，%pcf？若你需要工作，
+<ce> 我有點事給你。標準護衛差事。
+<ce> 有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 當然，你現在找的是更高檔的差事，對吧？
+
+AcceptQuest:  [1002]
+<ce> 好。客戶名叫 _victim_，就在這條街
+<ce> 上面的 _victimhouse_。%G 要你
+<ce> 立刻過去。看起來非常焦躁，你懂那種人。
+<ce> 你到了 %G 會把細節全告訴你。
+
+QuestFail:  [1003]
+<ce> 死了？這可糟了。你得把這事查到底，
+<ce> 無論如何都別放棄。
+
+QuestComplete:  [1004]
+<ce> 我不知道該如何感謝你救了我的命，
+<ce> 還為我父親報了仇。請收下這件
+<ce> _reward_。它屬於我父親，我希望你收下。
+
+QuestorPostsuccess:  [1008]
+<ce> _victim_ 真可惜，對吧？顯然他的危險比自己意識到的
+<ce> 還大。
+
+QuestorPostfailure:  [1009]
+<ce> 我知道不是你的錯，但 _victim_ 那件事仍讓我難受。
+<ce> 我該更認真對待那可憐傢伙的，我猜。
+
+Message:  1015
+<ce> 我想 _darkb_ 住在 ___darkb_。%G 總是跟陰險的人混，
+<ce> 所以除非你是去找麻煩，否則別去找 %g2。
+                                      <--->
+<ce> _darkb_ 主要在 ___darkb_ 晃蕩。
+
+Message:  1016
+<ce> _darkb_ 是當地黑暗兄弟會的首領之一。
+<ce> %G3 總部在 ___darkb_ 的 __darkb_。
+
+Message:  1020
+%qdt:
+ ___questgiver_ 的戰士公會派我去
+ _victimhouse_ 與需要護衛的客戶
+ _victim_ 會面。_victim_ 會親自把
+ 細節全告訴我。
+
+Message:  1021
+%qdt:
+ 我來得太晚。我在 _victimhouse_ 驚動了刺客，
+ 但 _victim_ 已經死了。
+ 
+
+Message:  1022
+%qdt:
+ 我收到 _daughter_ 的字條，她說自己是
+ _victim_ 的女兒。她要我有機會的話，
+ 去 __daughterhouse_ 的 _daughterhouse_ 見她。
+
+Message:  1023
+%qdt:
+ 我去見 _daughter_，結果是場伏擊。
+ 我殺出一條路，現在正帶著 _daughter_
+ 前往 __safehouse_ 的 _safehouse_。
+
+Message:  1024
+%qdt:
+ _victim_ 被黑暗兄弟會殺害。
+ 線索暫時斷了。
+
+Message:  1030
+這就是不聽我警告的人
+ 的下場。
+ 
+<ce> _darkb_
+
+Message:  1031
+親愛的 %pcn：
+ 
+    我名叫 _daughter_，是 _victim_ 的女兒。
+  聽說你英勇為我父親報仇，我想親自感謝你。
+  若你有時間來看我，我會非常感激。
+  
+<ce> _daughter_
+<ce> _daughterhouse_，
+<ce> __daughterhouse_
+
+Message:  1035
+<ce> 退後，夥計，否則我們會用對付那邊
+<ce> _victim_ 的同一套對付你。
+
+Message:  1036
+<ce> 你該花同樣多時間磨腦子，
+<ce> 就像你磨刀那樣，%pcn。
+<ce> 給你們戰士公會的暴徒
+<ce> 設伏，再簡單不過。
+
+Message:  1040
+<ce> 你聽說 _victim_ 了嗎？大白天在自己家裡被砍倒。
+                                      <--->
+<ce> 人人都知道是黑暗兄弟會殺了 _victim_，
+<ce> 但沒人願意為此做什麼。
+
+Message:  1041
+<ce> 黑暗兄弟會對某個殺死他們高層的 %ra
+<ce> 氣得發狂。
+                                      <--->
+<ce> 黑暗兄弟會發誓要找出闖進他們 ___darkb_
+<ce> 總部的人。幸好不是在追我。
+
+Message:  1050
+<ce> 什麼……？等等，你就是那可憐的
+<ce> _victim_ 以為能保護他的戰士公會
+<ce> 肌肉腦，對吧？誰讓這 %ra
+<ce> 進來的？！
+
+Message:  1051
+<ce> %pcn，小心！
+<ce> 是陷阱！
+
+Message:  1052
+<ce> 感謝你從那些刺客手裡救了我。
+<ce> 若你能把我送到 __safehouse_
+<ce> 的 _safehouse_，我就能
+<ce> 從那自己逃出 %reg。
+
+Message:  1070
+<ce> 一名滿身塵土的信差攔下你。
+<ce> 「%pcn？感謝 %god，終於找到了。
+<ce> 這封信是給你的。」
+
+Message:  1071
+<ce> 謝謝你的幫忙，
+<ce> 但從這裡我會自己走。

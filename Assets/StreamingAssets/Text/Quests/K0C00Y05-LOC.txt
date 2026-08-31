@@ -1,0 +1,171 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 5
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 20
+Quest: K0C00Y05
+DisplayName: 失蹤的孩子
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>我向戰士公會求助過，但他們顯然
+<ce>忙著拯救落難的高貴淑女少爺，
+<ce>沒空理會一個出身低微的孩子失蹤。
+<ce>可我的_child_是我的一切。
+<ce>拜託，你會幫我找到%g2的，對吧，朋友？
+<--->
+<ce>那些該死的獸人偷走了我的小表親，
+<ce>而我們所謂的保護者戰士公會，
+<ce>卻不肯把我當一回事。_child_只是個=child_，
+<ce>不值得他們理會，但%g是我的一切。
+<ce>拜託，善良的%ra，你願意幫我嗎？
+
+RefuseQuest:  [1001]
+<ce>鐵石心腸，跟戰士公會一個樣。
+<ce>一個無辜孩子的性命，到底值多少？
+
+AcceptQuest:  [1002]
+<ce>謝謝你，謝謝你。你若找到_child_，
+<ce>我能給你_gold_金幣——那是我的全部。
+<ce>帶走%g2的那些獸人，就駐紮在
+<ce>臭烘烘的___mondung_。我必須在
+<ce>=queston_天內知道_child_是否安好，
+<ce>否則我就得另派人。請別讓我落到那步。
+<ce>願%god與你同在，善良的%pcn。
+
+QuestComplete:  [1004]
+<ce>_child_，哦感謝%god！
+<ce>%oth，我善良、善良的%pcn，
+<ce>你是我的救星。來，這是你的_gold_金幣。
+
+RumorsDuringQuest:  [1005]
+_qgiver_為_child_的失蹤焦慮得不行。
+
+RumorsPostfailure:  [1006]
+_qgiver_已放棄再找到_child_。
+
+RumorsPostsuccess:  [1007]
+_qgiver_和_child_重逢了，多虧一名%ra傭兵。
+
+QuestorPostsuccess:  [1008]
+你把_child_帶回來給我了，%pcf。我能幫你什麼作為報答？
+
+QuestorPostfailure:  [1009]
+<ce>你不記得我了嗎，%pcf？
+<ce>_qgiver_？你說會把_child_
+<ce>給我找回來，卻失敗了。我沒什麼好跟你說的。
+<ce>滾去湮滅吧。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_、__qgiver_的
+ _qgiver_派我去救出%g3
+ 的小表親_child_。
+ 顯然%g被一群獸人關在___mondung_。
+ 我有=queston_天時間拯救這孩子。
+
+Message:  1011
+ __knight_
+ ___knight_
+ 
+ 親愛的%pcn：
+ 
+      _child_並沒有被什麼獸人部落
+ 或這類東西綁架。事實上，%g跟我們在一起，
+ 是為了保護%g免受_qgiver_傷害——
+ 那人是出了名的酒鬼。若你想親眼確認，
+ 請來__knight_。
+ 
+ 敬上，
+ 
+ _knight_
+
+
+Message:  1012
+<ce>一名帶著戰士公會紋章的信使出現在你身旁。
+<ce>他把一封信交給你，便匆匆離去。
+
+Message:  1013
+%qdt:
+ 我收到戰士公會騎士_knight_的信，
+ 說%g手上有我本該從___mondung_
+ 救出的孩子。據_knight_所說，
+ _child_被帶離_qgiver_的監護，
+ 因為那=qgiver_是個酒鬼。
+ 若我想親眼確認，_knight_在
+ ___knight_的__knight_。
+
+Message:  1014
+<ce>看來你收到我的信了，%pcf。
+<ce>很好。我不想讓你出於好意，
+<ce>卻捲進相當骯髒的局面。_child_
+<ce>確實是_qgiver_的表親，但更重要的是，
+<ce>這=child_是祖父母財產的繼承人。
+<ce>為了%g3的安全，我們把%g2轉移到
+<ce>__childlocale_的一處地方。我想我可以告訴你——
+<ce>_childlocale_。你若不去打擾小_child_，
+<ce>在戰士公會已經不錯的名聲還會更好。
+
+Message:  1015
+<ce>嗨，我是_child_。
+<ce>我七歲了。
+<--->
+<ce>嗨。我叫_child_。
+<ce>想聽笑話嗎？好，聽好了。
+<ce>%jok.
+<--->
+<ce>我爺爺比你有錢。
+<--->
+<ce>你好，我不該跟陌生人說話。
+<ce>可要是不跟陌生人說話，就沒人可說了。
+<ce>我叫_child_。
+<--->
+<ce>你好，你是%ra嗎？我也是，
+<ce>我叫_child_。
+
+Message:  1016
+<ce>你一轉過身，_child_就跑掉了。
+
+Message:  1017
+<ce>你要帶走_child_嗎？
+
+Message:  1018
+<ce>那名戰士帶著戰士公會的紋章。
+
+Message:  1019
+%qdt:
+ 我見到了戰士公會的_knight_。
+ %G告訴我_child_被安全安置在
+ __childlocale_的_childlocale_。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 5 times.
+--               %g2 occurs 7 times.
+--               %g3 occurs 2 times.
+--              %god occurs 2 times.
+--              %jok occurs 1 time.
+--              %oth occurs 1 time.
+--              %pcf occurs 17 times.
+--              %pcn occurs 5 times.
+--              %qdt occurs 3 times.
+--               %ra occurs 5 times.
+--           =child_ occurs 2 times.
+--          =qgiver_ occurs 1 time.
+--         =queston_ occurs 3 times.
+--        ___knight_ occurs 7 times.
+--       ___mondung_ occurs 3 times.
+--        ___qgiver_ occurs 1 time.
+--    __childlocale_ occurs 4 times.
+--         __knight_ occurs 4 times.
+--         __qgiver_ occurs 1 time.
+--           _child_ occurs 32 times.
+--     _childlocale_ occurs 2 times.
+--            _gold_ occurs 3 times.
+--          _knight_ occurs 7 times.
+--          _qgiver_ occurs 8 times.

@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\L0B20Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 20
+-- QuestId: 2
+Messages: 22
+Quest: L0B20Y02
+DisplayName: 無恥騎士
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 啊，這件事會對上你浪漫的一面，
+<ce> %pcf：一名無賴騎士
+<ce> 玷汙了美麗淑女的名譽，
+<ce> 又拒絕與任何為她辯護之人決鬥。
+<ce> 可憐的女孩只能做她能做的事，
+<ce> 於是我們有了一筆帳要了結。
+<ce> 你有興趣，我猜？
+
+RefuseQuest:  [1001]
+<ce> 不？我還以為這會讓你
+<ce> 心情愉快。也好，我們還有
+<ce> 不少了結者，對墮落的
+<ce> 女子心軟。
+
+AcceptQuest:  [1002]
+<ce> 如我所料。我們認為那騎士還
+<ce> 不知道這份契約，正深藏在
+<ce> 名叫 ___mondung_ 的要塞裡。
+<ce> 顯然這沒教養的武夫
+<ce> 不想讓我們太輕鬆。契約要求
+<ce> 在 =1stparton_ 天內了結，並在期限內
+<ce> 回到這裡回報。去吧，%pcf。
+<ce> 為那可憐被玷汙的淑女辯護。
+
+QuestFail:  [1003]
+<ce> 我沒聽到客戶的感謝，
+<ce> 所以那騎士應該還活著。
+<ce> 快去補上這疏失，%pcf。
+
+QuestComplete:  [1004]
+<ce> 那麼，那無賴騎士已進入
+<ce> 來世了，對吧？或許下一世他會
+<ce> 有智慧把劍收在鞘裡。幹得好，
+<ce> 一如既往，%pcf。
+
+RumorsDuringQuest:  [1005]
+那士兵就是條癩皮狗，我跟你說。一點榮譽都沒有。
+<--->
+聽說那位女士想勾引那騎士卻失敗了。所以她才生氣。
+
+RumorsPostfailure:  [1006]
+那武夫已轉往新土地，去腐化那裡溫柔的女子。
+<--->
+那士兵像颶風一樣離開了 ____questgiver_，留下一地破碎的心。
+
+RumorsPostsuccess:  [1007]
+依我看，那士兵罪有應得，報應落到 %g2 頭上。真是個無賴！
+<--->
+幸好有人不怕為淑女辯護。那無賴真是可惡。
+
+QuestorPostsuccess:  [1008]
+我很樂意以任何方式幫助弒殺騎士之人。
+
+QuestorPostfailure:  [1009]
+<ce> 你憑什麼覺得我會想跟一個
+<ce> 連一名爛騎士都殺不掉的
+<ce> %ra 說話？立刻從我眼前
+<ce> 消失。
+
+Message:  1020
+%qdt:
+ ___questgiver_ 黑暗兄弟會的
+ _questgiver_ 派我前往 ___mondung_，
+ 找出並殺死一名騎士。此事須在
+ =1stparton_ 天內完成。
+
+Message:  1021
+<ce> 「告訴 _damsel_……她可以把
+<ce> 被玷汙的……名譽，跟 %reg
+<ce> 每個農家男孩……分享，」
+<ce> 那騎士在你了結他時說。
+<ce> 契約已經履行。

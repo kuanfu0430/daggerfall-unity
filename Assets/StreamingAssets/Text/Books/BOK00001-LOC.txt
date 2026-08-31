@@ -1,5 +1,5 @@
-Title: A Tale of Kieran
-Author: Vegepythicus, editor
+Title: 基蘭的故事
+Author: 維格皮提庫斯，編者
 IsNaughty: False
 Price: 312
 IsUnique: False
@@ -7,133 +7,133 @@ WhenVarSet:
 Content:
 
 [/font=2]
-[/center]Tales of Kieran
+[/center]基蘭故事集
 
 [/font=4]
-[/center]Librarian's Note ...
+[/center]圖書館員註……
 
- The recorded tales of Kieran the Bard fall into three categories: the Woodland Cycle, Castles and Kings, and an unnamed cycle of lusty tales (recently destroyed by mysterious accident). Some are in the bard's own hand, while others, mere shadows of the originals, remain only as bedtime tales for children. The structure exemplifies the helical form favoured by listeners about the hearth on a long winter's eve. As to whether they describe real events, be allegory, or be mere entertaining fancy, the reader must decide.
+ 所錄的吟遊詩人基蘭的故事分為三類：林地組、城堡與國王，以及一組未命名的放蕩故事（近日因神秘事故被毀）。有些是詩人本人之手，另一些則只是原作的淡影，僅作為孩子的睡前故事流傳。結構體現了聽者在漫長冬夜爐邊所偏愛的螺旋形式。至於它們描述的是真實事件、是寓言，還是僅僅娛人的幻想，須由讀者自行決定。
 
 [/center]***
 
-[/center]I.
+[/center]一。
 
- Kieran was on the road from Wren to Fairtree, when he grew weary from the midday sun. His boots were tight and he thought to remove them for a bit in the shade of a nearby oak (oaks being a favourite of bards). This particular oak was venerable and gnarled, with sturdy branches that dipped and swooped, nearly touching the ground in spots. From its shade Kieran watched the forest creatures playing in the warm sun. But for the rustling of leaves, high above, the only sounds were of butterfly wings and birdsong.
+ 基蘭走在從雷恩到美樹鎮的路上，被正午的太陽曬得疲憊。靴子緊繃，他想在附近一棵橡樹蔭下脫掉一會兒（橡樹是吟遊詩人的最愛）。這棵橡樹蒼老盤曲，堅實的枝條低垂、彎轉，有些地方幾乎觸地。基蘭從樹蔭下看著林中生物在暖陽中嬉戲。除了高處樹葉的沙沙聲，唯一的聲響是蝴蝶的翅膀與鳥鳴。
 
- "What a peaceful day," Kieran thought as he watched a butterfly drift by, "What a beautiful day! In truth, since bards first told tales, has there ever been a day more peaceful and beautiful than this?"
+ 「多麼平靜的一天，」基蘭看著一隻蝴蝶飄過，心想，「多麼美麗的一天！說真的，自從吟遊詩人開始講故事以來，可曾有過比這更平靜、更美麗的一天？」
 
- He drank from his waterskin and, taking his lute from its sack, cleared his throat and began to sing:
+ 他喝了水囊裡的水，從袋中取出魯特琴，清清喉嚨，開始唱：
 
-[/center]"Oh, the maidens of Wren are passing fair ...
-[/center]...with breasts like melons, and flaxen hair ..."
+[/center]「啊，雷恩的少女何其嬌美……
+[/center]……胸如甜瓜，髮如亞麻……」
 
- He had just taken a deep breath to bellow the lusty chorus when a small, feminine voice said, "Kind sir ..."
+ 他剛深吸一口氣要吼出那放蕩的副歌，一個細小的女性聲音說：「好心的先生……」
 
- He leaped to his stockinged feet, his face flaming red. "Who's there?" he cried.
+ 他穿著襪子跳了起來，臉紅得發燙。「誰在那兒？」他喊道。
 
- The small voice repeated, "Please, sir, if you will be so kind ..."
+ 那細小的聲音重複道：「拜託，先生，若您肯如此好心……」
 
- Kieran looked about but saw no person or creature addressing him.
+ 基蘭四處張望，卻不見任何對他說話的人或生物。
 
- "Pray thee," he cried. "Show thyself or have cause to fear my dagger." (He tried desperately to remember where he had last seen it.) "Whether thee be friend or foe, pray thee show thyself now."
+ 「懇請你，」他喊道。「現身，否則就有理由懼怕我的匕首。」（他拼命回想最後一次看見它是在哪兒。）「無論你是友是敵，懇請你現在現身。」
 
- The small voice replied from above him, "Kind sir, thou hast no cause to fear me, and I am in need of help. Can thou find it in thy heart to aid me?"
+ 那細小的聲音從他上方答道：「好心的先生，你沒有理由懼怕我，而我需要幫助。你能在心中找到援助我的善意嗎？」
 
- He looked up and saw naught but a small robin's nest, three branches above him. Climbing swiftly, he found a robin with three tiny robinlings, their mouths open wide.
+ 他抬頭看去，除了上方三根枝條上一個小小的知更鳥巢，什麼也沒看見。他迅速爬上去，發現一隻知更鳥和三隻小小的雛鳥，嘴巴張得老大。
 
- "Good mother robin," he asked, "Can it be thee who addresses me thus?"
+ 「好媽媽知更鳥，」他問，「可是你在這樣對我說話？」
 
- "Kind sir," she replied, "I have hurt my wing and it will be at least a day before I might fly. If my children do not eat soon, they will die. Would you be so kind as to bring a fat, juicy meal? Would you find a caterpillar or earthworm or grub for my children?"
+ 「好心的先生，」她答道，「我傷了翅膀，至少還要一天才能飛。若我的孩子不趕快吃東西，他們會死。你能否好心帶一份肥美多汁的餐食來？你能為我的孩子找一條毛蟲、蚯蚓或蠐螬嗎？」
 
- Now, Kieran was kind of heart and it was not within him to refuse a plea such as this, so off he went into the forest. Searching under some mulberry leaves, he soon found a small green caterpillar. It seemed a perfect meal for young robins.
+ 基蘭心地善良，這樣的懇求他無法拒絕，於是走進森林。在一些桑葉底下搜尋，他很快找到一條小小的綠毛蟲。對年幼的知更鳥來說，這似乎是完美的一餐。
 
- Plucking it from the leaf upon which it fed, he prepared to hurry back to the oak when he heard a tiny voice. He opened his hand and the caterpillar looked up at him with her big brown eyes wide with fear. "Kind sir," she said, "wouldst thou kill me so thoughtlessly?"
+ 他把它從正在啃食的葉子上摘下，正準備趕緊回到橡樹，卻聽見一個細微的聲音。他張開手，毛蟲抬眼看他，棕色的大眼睛裡滿是恐懼。「好心的先生，」她說，「你要如此輕率地殺我嗎？」
 
- Kieran scratched his head in puzzlement and the caterpillar continued: "When thou cooled thy feet beneath the oak, didst thou not find joy in my parents' beauty as they danced before thee in the sun? I, too, am soon to change. Wouldst thou deny thy successors the joy of my dancing? And if I do not live to have children, how will thine own children find such joy? Please, sir, would not an earthworm serve the needs of the robinlings just as well?
+ 基蘭搔著頭，感到困惑，毛蟲繼續說：「你在橡樹下讓腳涼快時，可不是因我父母在陽光下對你起舞的美而喜悅嗎？我也即將蛻變。你要剝奪後來之人因我起舞而得的喜悅嗎？若我不能活著生育子女，你自己的孩子又將如何找到那樣的喜悅？拜託，先生，一條蚯蚓不是同樣能滿足雛鳥的需要嗎？」
 
- Kieran looked into the eyes of the caterpillar and knew that he could not feed her to the robins. Carefully, he placed her beneath her mulberry bush and continued his search.
+ 基蘭望進毛蟲的眼睛，知道自己不能把她餵給知更鳥。他小心地把她放回桑樹下，繼續尋找。
 
- Near a rushing brook, Kieran found a flat stone that, when moved, revealed a juicy earthworm enjoying the cool moist earth. "Aha." he thought. "As nice as the caterpillar may have been, this truly seems a more fitting meal for young robins."
+ 在一條湍急的小溪旁，基蘭找到一塊扁平的石頭，挪開後露出一條多汁的蚯蚓，正在享受涼爽潮濕的泥土。「啊哈。」他想。「毛蟲再好，這對年幼的知更鳥來說確實更合適。」
 
- He had no sooner plucked the earthworm from it's cool abode (where it had been frantically trying to burrow away from him), when he heard a voice so faint he might have imagined it:
+ 他剛把蚯蚓從它涼爽的居所拔出來（它一直在那兒拼命想鑽走），就聽見一個微弱得他幾乎以為是幻覺的聲音：
 
- "Kind sir," he thought he heard, and Kieran looked in his hand. The worm continued: "I am but a lowly creature, it's true, but might I plead such case that I have?"
+ 「好心的先生，」他以為自己聽見，基蘭朝手裡望去。蚯蚓繼續說：「我不過是低微的生物，這是真的，但我能否為我所有的處境懇求？」
 
- Kieran rolled his eyes skyward as the worm sat up and seized its chance. "I am not a lowborn worm like others you might find. No, I am a prince among earthworms. I come from an ancient lineage. My ancestors burrowed the earth when fires belched from black pits throughout these lands. I command millions like myself. Were it not for my loyal followers, you, good sir, would be up to your neck in leaves, tree trunks and mouldy carcasses. I'll make a bargain with you. If you release me and choose, instead, a pathetic grub for the robinlings, I will dispatch an entire clan of earthworms to keep your foreyard clean and sweet-smelling for as long as ye shall live." The earthworm looked hopefully at Kieran (while calculating the distance to the ground). "Good sir, what say ye?"
+ 基蘭朝天上翻了翻眼睛，蚯蚓坐直，抓住機會。「我不是你可能找到的那種出身低微的蟲子。不，我是蚯蚓中的王子。我來自古老的血統。我的祖先在這些土地上處處有火焰從黑坑噴出時就已掘土。我統率著數百萬像我一樣的。若非我忠誠的追隨者，好先生，你會沒到脖子都是落葉、樹幹和發霉的屍體。我與你做個交易。若你放了我，改為選一條可憐的蠐螬給雛鳥，我將派遣一整族蚯蚓，在你有生之年讓你的前院保持潔淨芳香。」蚯蚓滿懷希望地看著基蘭（同時計算著到地面的距離）。「好先生，你怎麼說？」
 
- Kieran was beginning to lose his patience, but, seeing the value of the earthworm's offer, decided that a grub would, indeed, make a tasty morsel for the young robins. He returned the earthworm to its moist haven and carefully replaced the flat stone above it. And, true to his desire, a short while later, in a forest glade, beneath a wide slab of discarded bark, Kieran chanced upon that which he sought: a fat white grub that would grow the robinlings into beautiful songsters. He plucked it from its hiding place and set forth. It was a beautiful day, indeed.
+ 基蘭開始失去耐心，但看到蚯蚓提議的價值，認定蠐螬確實會是雛鳥可口的一口。他把蚯蚓放回潮濕的安身處，小心地把扁石蓋回去。而正如他所願，不久之後，在林中空地一塊被丟棄的寬樹皮下，基蘭碰巧找到他所尋求的：一條肥白的蠐螬，會把雛鳥養育成美麗的歌者。他把它從藏身處取出，動身。這確實是美麗的一天。
 
-[/center]II.
+[/center]二。
 
- Nearby, in stately Trowbridge, King Caladan did live with his lovely daughter, Einlea. The princess was the apple of the old man's eye and the crown jewel of his small kingdom. He looked upon her with the blind pride of a doting father, and she, for her part, did naught but bask and flourish in his bounty.
+ 不遠處，在莊嚴的特羅橋，卡拉丹國王與他可愛的女兒恩萊亞同住。公主是老人眼中的掌上明珠，也是他小王國的皇冠寶石。他以溺愛父親盲目的驕傲看著她，而她這一面，只是沐浴並盛放於他的恩澤之中。
 
- Trowbridge was quiet now, the chief sounds being the clatter of cart wheels and the cries of street vendors, but it was not always so. Three years earlier there had been trouble with Carthan to the west. It was not much, a border dispute, but the king persuaded a wizard named Loziard to come to Trowbridge in his employ, to aid him in the contest. Loziard was unknown by all in Trowbridge and kept to himself within the palace, coming and going as he pleased. When Trowbridge prevailed, with almost no loss of life, there was joyous celebration for days and weeks thereafter. Time passed, yet Loziard remained. The King, not wanting to seem ungrateful, said nothing, but became increasingly discomforted with the wizard's presence and wished for his departure.
+ 特羅橋如今安靜，主要的聲響是車輪轆轆與街頭小販的叫賣，但並非一向如此。三年前與西邊的卡珊有過麻煩。不算什麼，一場邊境爭端，但國王說服一名叫洛齊亞德的巫師受雇來到特羅橋，助他爭勝。洛齊亞德不為特羅橋任何人所知，在宮中獨來獨往，隨興來去。特羅橋得勝，幾乎沒有生命損失，此後數日數週都是歡慶。時間過去，洛齊亞德卻留下。國王不想顯得忘恩，什麼也沒說，卻對巫師的存在越來越不安，希望他離去。
 
- On Einlea's twentieth birthday, King Caladan called for a celebration and holiday through all his land. Unknown to his subjects, he intended to proclaim his retirement and the transference of his crown to his beautiful daughter. Out of politeness, and nothing more, he invited the wizard Loziard to aid him in devising a proper speech.
+ 恩萊亞二十歲生日那天，卡拉丹國王號召全國慶祝放假。臣民不知，他打算宣布退位，把王冠傳給美麗的女兒。出於禮貌，僅此而已，他邀請巫師洛齊亞德幫他擬一份得體的講稿。
 
- Loziard was furious. He paced his chamber, his black brows knitted with intensity that would have soured any cow's milk. "Why," he cried aloud, "am I treated so unjustly by the old buffoon? Were it not for my skills, the border contest, mayhaps even the kingdom itself, might have been lost. I deserve more. I deserve the crown. To give it to that primping simpering daughter of his, who thinks naught of more than her own whim, is a slap more stinging than that of gauntlet. I will have justice. I will demonstrate, amply, for all to see, wherein lies true power."
+ 洛齊亞德暴怒。他在房間裡踱步，黑色的眉頭皺得能讓任何母牛的奶變酸。「為什麼，」他大聲喊，「那老傻瓜待我如此不公？若非我的技能，邊境爭端，或許連王國本身，都可能失落。我該得到更多。我該得到王冠。把它給那個只想著自己興致、搔首弄姿、矯揉造作的女兒，比手套抽臉還刺痛。我要得到公正。我要讓所有人充分看見，真正的力量在何處。」
 
- Thereupon, Loziard made his preparations.
+ 於是，洛齊亞德做了準備。
 
- Princess Einlea's birthday came on a summer morning. Everyone within the city, and from the farms without, gathered to the palace for the festival. Banners waved from every rooftop. Fiddlers fiddled and dancers danced. Bakers baked wonderful sweets for the occasion. It was a day long to be remembered.
+ 公主恩萊亞的生日在一個夏日早晨到來。城內所有人，以及城外農莊的人，都聚集到宮殿參加慶典。每一座屋頂都飄著旗幟。提琴手拉琴，舞者起舞。麵包師為這場合烤出美妙的甜點。那是將被長久記住的一天。
 
- At noon, precisely, King Caladan and Princess Einlea emerged onto the main balcony to the cheers of the kingdom. "Good citizens of Trowbridge," called the King, "We are but a tiny kingdom, but we prosper, do we not?"
+ 正午準時，卡拉丹國王與恩萊亞公主走到主陽台上，迎接王國的歡呼。「特羅橋的好公民們，」國王喊道，「我們不過是小小的王國，但我們繁榮，不是嗎？」
 
- Loud hails (mostly) erupted from the crowd below. Encouraged, Caladan continued, "But now I am an old man. The day has arrived when younger blood can better attend to the needs and events of the kingdom. My subjects ... My loyal subjects and friends ... It is with honour ...and pride ...and the greatest of expectations ...that I transfer my kingdom and my crown to my loving daughter. To one and all, I give you" (a long pause here) "Einlea."
+ 下方人群爆發出（多半）響亮的喝彩。受到鼓勵，卡拉丹繼續說：「但如今我是老人。日子到了，更年輕的血液能更好地照料王國的需要與事務。我的臣民……我忠誠的臣民與朋友……我懷著榮譽……與驕傲……與最大的期望……把我的王國與王冠傳給我親愛的女兒。向所有人，我把她交給你們」（此處長長停頓）「恩萊亞。」
 
- As cheers filled the air, Caladan made a grand, sweeping gesture with his arm, intending to make the presentation as spectacular as the pride that filled him. His robe went "swoooosh" and his hand pointed to ... nobody. What was this? Where had she gone? Where Einlea had been, moments earlier, there now was naught but vacant air.
+ 歡呼充滿空氣時，卡拉丹用手臂做了個盛大的一揮，想讓這介紹與充滿他的驕傲一樣壯觀。他的袍子「颼——」地一響，他的手指向……沒有人。這是怎麼回事？她去哪兒了？片刻之前恩萊亞所在之處，如今只有空蕩的空氣。
 
- "Er ...Einlea ...?" he called, uncertainly. But there was no response. Silence fell over park and courtyard. People glanced at each other nervously.
+ 「呃……恩萊亞……？」他不確定地喊。但沒有回應。公園與庭院陷入沉默。人們緊張地彼此對望。
 
- Old Loziard clapped his hands in glee. He danced. He hugged himself with uncontained laughter. "How wonderful ..." he cried. "What a breathtakingly stunning and talented a wizard I am.." For what he had done, of course, was to rid himself of Einlea for once and for all. With one stroke, crafty and evil, he had removed the vain creature from the palace. Nought else remained between him and that which he desired.
+ 老洛齊亞德高興地拍手。他跳舞。他抱著自己，抑制不住地大笑。「多美妙……」他喊道。「我是多麼令人屏息、才華橫溢的巫師啊。」因為他所做的，當然，是一勞永逸地除掉恩萊亞。只此一舉，狡猾而邪惡，他把那虛榮的生物從宮中除去。在他與他所欲之間，再無他物。
 
- Now, magic is a tricky thing. Like all forces in the world, it must be kept in balance. As surely as day balances night and summer balances winter, so too must positive magic balance negative. For every hurtful or destructive spell, there must be an act of equal goodness or charity lest trouble overflow into the world. For every black wizard, there must be a white. For every spell of combat destruction, there must be healing. Know ye this ...if all who practice magic cast naught but healing or protective spells, dark, horrible forces would build up until chaos and ruin would burst forth and rain our doom down upon us. Thus may spells of healing be broken by harm, and the worst of spells be broken by charity.
+ 然而，魔法是棘手的東西。一如世上所有力量，它必須保持平衡。正如晝平衡夜、夏平衡冬，正面魔法也必須平衡負面。每一個傷害或毀滅的法術，都必須有同等的善行或慈善，以免禍患溢入世界。每一個黑巫師，都必須有一個白巫師。每一個戰鬥毀滅的法術，都必須有治癒。當知……若所有施法者只施治癒或防護法術，黑暗、可怕的力量便會積聚，直到混亂與毀滅爆發，把我們的末日傾瀉在我們身上。因此治癒的法術可被傷害打破，最惡劣的法術可被慈善打破。
 
- Knowing this, Loziard planned well his act of vengeance. To permanently rid himself of Einlea (short of killing her outright) he must devise a spell so cunning that no act of kindness would ever break it. He was pulling lice out of his long beard, late one evening, when he burst into laughter. He would make her into something ...disgusting.
+ 明白這一點，洛齊亞德精心策劃他的報復。要永久除掉恩萊亞（除非直接殺她），他必須設計一個如此狡猾的法術，沒有任何善舉能打破它。某天深夜，他正從長鬍子裡拔虱子，忽然爆發大笑。他要把她變成某種……令人作嘔的東西。
 
- "I will make her into a frog." he laughed, then frowned. No ... that had been done. People might expect it and go around, like mindless idiots, seeking frogs, hoping to earn a kings ransom.
+ 「我要把她變成青蛙。」他笑了，然後皺眉。不……那已經做過了。人們可能會預料，像沒頭腦的白痴一樣到處找青蛙，希望賺得國王的贖金。
 
- And then, a brilliant plan occurred to him.
+ 然後，一個絕妙的計畫出現在他腦中。
 
- "I will make her into a bug, an insect, a WORM ..." He almost choked on his wine. "Oh. How perfect.. I will make her into something so truly loathsome that she will spend the rest of her little bug life in terror of being squashed by the first person who sees her." He squealed and his rings jangled and his fat jiggled and he snorted wine out his nose in laughter. "Oh, how absolutely delicious ..."
+ 「我要把她變成蟲子，昆蟲，一條蟲子……」他幾乎被酒嗆到。「喔。多完美。我要把她變成真正令人厭惡的東西，讓她在小小蟲子的餘生裡，都恐懼被第一個看見她的人踩扁。」他尖叫，戒指叮噹，肥肉顫動，笑得把酒從鼻子裡噴出來。「喔，多麼絕對美味……」
 
- And that's exactly what he did. While King Caladan and his subjects scratched their heads in puzzlement, nobody saw a small fat white tree grub plop to the cobblestones beneath the main balcony and immediately curl up, glistening and quivering.
+ 而那正是他所做的。當卡拉丹國王與臣民搔著頭感到困惑時，沒有人看見一條肥白的樹蠐螬啪地落到主陽台下的鵝卵石上，立刻蜷縮起來，閃著光、顫抖著。
 
-[/center]III.
+[/center]三。
 
- Einlea was terrified. What had happened? Well, she had seen enough of Loziard's magic to know what had happened. But why? Why would he do this to her? She didn't have long to ponder the question. A huge black hound, hundreds of times her size, ran to the cobblestone where she lay, and almost gobbled her with one slurp of his tongue. From somewhere, she found the wherewithal to roll out of his way and into the crevice between the stones. His HUGE slurpy tongue followed her, drooling and panting great hurricanes of hot awful breath down at her. But just as the tongue was about to lick her into the waiting stomach, the hound's owner yanked his massive chain and pulled the beast toward home.
+ 恩萊亞嚇壞了。發生了什麼？嗯，她見過足夠多洛齊亞德的魔法，知道發生了什麼。但為什麼？他為什麼要這樣對她？她沒有太多時間思考這個問題。一隻巨大的黑獵犬，有她數百倍大，跑到她躺著的鵝卵石旁，幾乎一口把她舔進肚裡。不知從哪兒，她找到力氣滾到一邊，鑽進石頭縫隙。那巨大、濕漉漉的舌頭跟著她，流著口水，朝她噴著熱烘烘、難聞的颶風般氣息。但就在舌頭即將把她舔進等候的胃裡時，獵犬的主人猛拉巨大的鏈子，把那畜生拽回家。
 
- It is true that Einlea, in her life as a human, was self indulgent and not inclined to effort or resource, but that was merely because she had no need of either. In the following days, she had cause to discover plenty of both within her. After the incident with the hound, she knew she must go far away from people and dogs. And she knew what kinds of creatures dined on grubs, too. She slept out of sight under leaves, in places where grubs would not likely be sought.
+ 的確，恩萊亞作為人類時自我放縱，不傾向於努力或機智，但那僅僅因為她兩者都不需要。接下來的日子裡，她有理由在自己體內發現兩者都充足。獵犬事件之後，她知道必須遠離人群和狗。她也知道什麼樣的生物以蠐螬為食。她睡在葉子底下看不見的地方，在蠐螬不太可能被尋找的地方。
 
- Even so, Einlea's days were filled with terror and adventure. There were circling hawks by day and owls by night. A bear, tearing at a rotting tree trunk, gobbled grubs, indistinguishable from Einlea, by the hundreds, as she watched in horror from behind a nearby rock. The smallest stream was now an enormous, gushing torrent, to be crossed in a nutshell under the greatest of peril. Einlea passed these tests, along with many others, and she passed them well.
+ 即便如此，恩萊亞的日子充滿恐懼與冒險。白天有盤旋的鷹，夜裡有貓頭鷹。一頭熊撕扯腐爛的樹幹，成百吞食與恩萊亞無異的蠐螬，她從附近一塊岩石後驚恐地看著。最小的溪流如今是巨大奔騰的洪流，必須坐在果殼裡冒極大危險渡過。恩萊亞通過了這些考驗，以及許多其他考驗，而且通過得很好。
 
- It was on her tenth such day that a clumsy boot kicked aside the piece of bark under which she had sought shelter from the sun. Blinded by the sudden light, she heard an exclamation from high above. Then, before she could react, two fingers dropped from the sky and plucked her up and deposited her firmly inside a huge fist.
+ 就是在這樣的第十天，一隻笨拙的靴子踢開她為躲避陽光而藏身的樹皮。突來的光照得她睜不開眼，她聽見高處一聲驚呼。然後，她還沒來得及反應，兩根手指從天上落下，把她摘起，牢牢放進一只巨大的拳頭裡。
 
- Ten days ago, Einlea would have been paralysed with terror. But that was ten days ago. Her mind raced. "Who is this clumsy idiot, anyway??" she thought, "and what on earth does he want with a tree grub? At least he didn't squash me on the spot. That's encouraging, isn't it? So he must be here to rescue me.."
+ 十天前，恩萊亞會被恐懼癱瘓。但那是十天前。她的心智飛轉。「這笨拙的白痴到底是誰？？」她想，「他要一條樹蠐螬做什麼？至少他沒當場把我踩扁。這令人鼓舞，不是嗎？所以他一定是來救我的……」
 
- She wriggled and squirmed in his fist until she could see his face, high above her, between two of his fingers. "Ugh. A beard. If I'm going to be rescued, why can't it be by a fine young prince?" But it then occurred to her that she was speaking from old habit. "I wonder how many of those foppish boys could have survived these past ten days?" She laughed, thinking of them. "Not many, I bet. Those who wouldn't have curled up and died immediately would, by now, be whimpering and crying for their mothers." She looked at Kieran again. "Well ... maybe he would look better if I wasn't looking straight up his nostrils. Ouch.. Why isn't he more careful with me??"
+ 她在他拳頭裡扭動、掙扎，直到能從兩根手指之間看見他高高在上的臉。「噁。鬍子。若我要被救，為什麼不能是個俊美的年輕王子？」但隨後她想到，自己是在用舊習慣說話。「那些紈袴少年有多少能活過這十天？」她笑著想著他們。「我敢說不多。那些沒立刻蜷縮死去的，到現在也會嗚咽著喊媽媽。」她再看看基蘭。「好吧……或許若我不是直直望進他鼻孔，他會好看些。哎喲……他為什麼不對我小心點？？」
 
- And then it occurred to Einlea that, if this oaf were truly rescuing her, he probably would have said something to her.
+ 然後恩萊亞想到，若這蠢漢真是在救她，他大概會對她說些什麼。
 
- "Uh-oh." Einlea's heart raced and she started wriggling furiously , imagining the worst of all possible deaths. "He must be going fishing."
+ 「喔不。」恩萊亞心跳加速，開始瘋狂扭動，想像著最糟的死法。「他一定是去釣魚。」
 
- Einlea couldn't do much in her current state, but she could spit. And spit she did. In quantities unimaginable for so small a grub. She spit and spit and spit until her tiny grub mouth was too dry to spit another drop. She felt Kieran's hand squirming and thought, "It's working.."
+ 恩萊亞以目前的狀態做不了多少，但她能吐。而她確實吐了。量多得難以想像出自如此小的蠐螬。她吐了又吐，直到小小的蠐螬嘴乾得再吐不出一滴。她感到基蘭的手在扭動，心想：「奏效了……」
 
-[/center]IV.
+[/center]四。
 
- Kieran was fair disgusted. Twas bad enough that he had to touch the slimy thing, but now it was oozing something and becoming truly revolting. Finally, just before he reached the robin's oak, he could take it no longer. He stopped and examined the creature in his hand. White and plump and glistening, it was, in truth, a repellent creature. Yet the poor thing was obviously terrified. It gazed up at him with what he imagined to be minuscule grub eyes, pleading. Kieran thought of the caterpillar and the earthworm, and his heart gave in. Heaving a great resigned sigh, he found a nice clean root and placed the grub upon it.
+ 基蘭著實噁心。光是碰到這黏糊糊的東西就夠糟了，如今它還在滲出什麼，變得真正令人作嘔。終於，就在他快到知更鳥的橡樹前，他再也受不了。他停下來檢視手中的生物。又白又肥，閃著光，說實話，是令人厭惡的生物。然而這可憐的東西顯然嚇壞了。它以他所想像的微小蠐螬眼睛仰望他，懇求著。基蘭想起毛蟲和蚯蚓，心軟了。他大大嘆了口氣，認命地找到一根乾淨的根，把蠐螬放上去。
 
- And thus was Loziard's spell broken.
+ 洛齊亞德的法術於是被打破。
 
- None could have been more astonished than Einlea when she unexpectedly grew to her former size, except, perhaps for Kieran, who nearly died of fright. He was no more than catching his breath when Einlea regained her wits. Raising her index finger, warning Kieran not to say even ONE word, Einlea snatched Kieran's coat to cover herself. Then, with fire in her eyes, and as much dignity as she could muster, she was off to Trowbridge, leaving Kieran to stare, open- mouthed, at her departing figure.
+ 沒有人比恩萊亞更吃驚，當她出乎意料地長回原來的大小；或許除了基蘭，他幾乎被嚇死。他還沒喘過氣，恩萊亞已恢復神智。她豎起食指，警告基蘭一個字也不許說，然後搶過基蘭的外套遮住自己。接著，眼中帶火，盡她所能保持尊嚴，她動身前往特羅橋，留下基蘭張著嘴，盯著她離去的身影。
 
- Einlea knew she could not simply enter the city and confront Loziard. The moment he saw her, he would but cast another enchantment upon her. So, disguising herself as a shepherd, she found an abandoned house on the moors and began to make her plans. What happened next is a tale worth hearing. But it is a tale for another evening. Indeed, it is a tale to be told over many an evening, and many a good pot of ale.
+ 恩萊亞知道她不能直接進城面對洛齊亞德。他一見到她，只會再對她施一個蠱惑。於是，她扮成牧羊人，在荒原上找到一間廢棄的屋子，開始制定計畫。接下來發生的事值得一聽。但那是另一個晚上的故事。的確，那是該用許多個晚上、許多壺好麥酒來講的故事。
 
- And what of the baby robins? Having no alternative, Kieran climbed the tree and took from his pack his last piece of fatty mutton. Tearing it into small shreds, he gave it to the grateful mother robin, who fed it to her family.
+ 那麼雛鳥呢？沒有別的辦法，基蘭爬上樹，從行囊裡取出最後一塊肥羊肉。撕成小片，交給感激的知更鳥媽媽，餵給她的一家。
 
- Upon returning to the ground, Kieran looked first toward Fairtree, his former destination, then, grinning, set off after the most surprising young lady, for whom he now had many questions. "Who knows ..." he called back to the robins, "It may be fate. And besides, I need my coat."
+ 回到地面，基蘭先望向美樹鎮，他原先的目的地，然後咧嘴一笑，動身去追那最令人驚訝的年輕女子，他如今對她有許多問題。「誰知道呢……」他回頭對知更鳥喊道，「或許是命運。再說，我需要我的外套。」
 
- He was heard, late that evening, far down the road, singing:
+ 那天深夜，遠遠的路上有人聽見他唱：
 
-[/center]"Oh, the maidens of Trowbridge are passing fair ...
-[/center]...with breasts like melons, and flaxen hair ..."
+[/center]「啊，特羅橋的少女何其嬌美……
+[/center]……胸如甜瓜，髮如亞麻……」

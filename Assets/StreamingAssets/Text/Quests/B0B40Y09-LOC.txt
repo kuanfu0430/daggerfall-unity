@@ -1,0 +1,62 @@
+-- Quest: C:\QUESTS\WORKING\B0B40Y09.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 40
+-- QuestId: 9
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0B40Y09
+DisplayName: 擊殺巨人
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      我剛得到消息，有一頭_monster_
+<ce>                      正在襲擊農莊、吞食牲口。我的名字？
+<ce>                       萬分抱歉，%pcf。
+<ce>                        我是_qgiver_。你可願
+<ce>                         去斬殺那_monster_？
+
+RefuseQuest:  [1001]
+<ce>                     高貴的騎士都去哪兒了？
+<ce>                      難道他們都從%reg消失了？
+<ce>                           走開，%pcn。
+
+AcceptQuest:  [1002]
+<ce>                     那_monster_把___dungeon_當成巢穴。
+<ce>                        去那裡殺了他。你也許還會
+<ce>                      遇到別的_monster_。必要時就殺，
+<ce>                       但務必除掉手臂上烙著熊爪印的那頭。
+<ce>                      我只能給你=2dung_天。
+
+QuestComplete:  [1004]
+<ce>                     如今你是真正的_monster_殺手了，
+<ce>                       %pcf！想不到我還握過你的手。
+
+RumorsDuringQuest:  [1005]
+巨人通常沒那麼好鬥。但___dungeon_那頭可真是。
+
+RumorsPostfailure:  [1006]
+聽說___dungeon_的巨人往南遷了。那兒的人怕是在咒我們。
+
+RumorsPostsuccess:  [1007]
+%kno又一次拯救了%reg。團裡一名%ra殺了___dungeon_的巨人。
+
+QuestorPostsuccess:  [1008]
+哈囉，巨人殺手%pcf。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+等你學會怎麼殺一頭爛巨人再來，%pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_告訴我，___dungeon_
+ 有一頭需要斬殺的_monster_。
+ 我只有=2dung_天。
+
+Message:  1011
+<ce>                     熊爪烙印清晰可見於
+<ce>                      這頭_monster_的上臂。
+<ce>                      這必是_qgiver_所說的那一頭。

@@ -1,0 +1,88 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y20.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 20
+Messages: 16
+Quest: R0C10Y20
+DisplayName: 稀有材料
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  想從我的寶庫拿一件漂亮的 _reward_ 嗎，%pcf？
+<ce>                  我的煉金術士訂了一份重要實驗需要的
+<ce>                  非常稀有材料，我們需要有人去取。
+<ce>                   你覺得應付得來嗎，%pcf？
+
+RefuseQuest:  [1001]
+<ce>                      嗯，真奇怪。你或許不該有
+<ce>                   那麼一顆傭兵的心，%pcf。
+
+AcceptQuest:  [1002]
+<ce>                        出色，%pcf，我就知道你會接。
+<ce>                      帶上這件 _item1_，前往
+<ce>                       ___contact_ 的 __contact_。
+<ce>                        那裡有一名叫 _contact_ 的
+<ce>                           =contact_。
+<ce>                    請%g2把%g從南方帶來的 _item2_
+<ce>                        給你。務必在 =1stparton_ 天內
+<ce>                  來回一趟。好了，%pcf。我指望你。
+<ce>                           別讓我後悔。
+
+QuestFail:  [1003]
+<ce>                          那件 _item2_，%pcf？
+<ce>                      記得嗎？別磨蹭。
+
+QuestComplete:  [1004]
+<ce>                    來得正好，%pcf。我的煉金術士
+<ce>                   會很高興——這是極好的 _item2_。
+<ce>                   如我所承諾，這是你的 _reward_。
+<ce>                           很漂亮，不是嗎？
+
+RumorsDuringQuest:  [1005]
+_questgiver_ 的煉金術士曾拒絕一塊黑檀——不夠「新鮮」。
+<--->
+_questgiver_ 的煉金術士總是要非常新鮮的材料。不知道為什麼。
+
+RumorsPostfailure:  [1006]
+_questgiver_ 跟%g3的煉金術士鬧不愉快。聽說非常脾氣暴躁。
+<--->
+_questgiver_ 的煉金術士有整批藥劑得扔掉。
+
+RumorsPostsuccess:  [1007]
+最近 _questgiver_ 的宮殿裡飄出很怪的味道，你注意到了嗎？
+<--->
+我看見一團紅煙從 _questgiver_ 的宮殿升起，像隻鳥。
+
+QuestorPostsuccess:  [1008]
+別以為我忘了你，%pcf。近來可好，朋友？
+<--->
+我的煉金術士本想親自謝謝你，%pcf，但他很忙。近來如何？
+
+QuestorPostfailure:  [1009]
+<ce>                    若我的煉金術士在這裡，他會
+<ce>                         先要回你該取的 _item2_，
+<ce>                  再用它砸你的腦袋。不過就目前而言，
+<ce>                    把這當成警告。將來若我再需要你，
+<ce>                       別再讓我失望。
+<ce>                              就這樣。
+
+QuestLogEntry:  [1010]
+<ce>                      你一定就是 _questgiver_ 派來的
+<ce>                         %pcf，對吧？
+<ce>                      好了，這是%g要的那件 _item2_。
+<ce>                   你最好趕緊送回去——%g3的煉金術士
+<ce>                    對材料新鮮度很有感覺。當然是多餘的。
+<ce>                     _item2_ 不會壞。不過，
+<ce>                    你也知道那句話，甲之蜜糖……
+<ce>                   現在快走吧。
+
+Message:  1015
+%qdt:
+若我能在 =1stparton_ 天或更短時間內
+ 從 _contact_ 為%g2取到新鮮的 _item2_，
+ ___questgiver_ 的 __questgiver_ 的
+ _questgiver_ 就會給我一件 _reward_。
+ _contact_ 在 ___contact_ 的 __contact_。

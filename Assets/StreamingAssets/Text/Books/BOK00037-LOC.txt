@@ -1,5 +1,5 @@
-Title: The Story of Lyrisius
-Author: Bresne Smythe
+Title: 萊里修斯的故事
+Author: 布雷斯內·斯邁斯
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,33 +8,33 @@ Content:
 
 [/font=2]
 
-[/center]The Story
+[/center]萊里修斯
 
-[/center]of
+[/center]的
 
-[/center]Lysirius
+[/center]故事
 
 [/font=4]
- In ancient times, there lived a hero named Lyrisius. He fought agains the Akaviri slavetraders and single-handedly slew hundreds. Despite his valor, Lyrisius' army was routed and scattered to the four winds. Lyrisius fled into the moors to escape the Akaviri chariots.
+  遠古之時，有位名叫萊里修斯的英雄。他對抗阿卡維爾奴隸商人，單槍匹馬斬殺數百。儘管他英勇無匹，萊里修斯的軍隊仍被擊潰，四散於四方之風。萊里修斯逃入沼地，躲避阿卡維爾戰車。
 
- Far from the lands of men, Lyrisius entered the blasted lands. At the heart of this forsaken landscape, he met the wyrm. The great scaly beast mocked the mighty blows of Lyrisius' enchanted spear. It melted the shield Fearstruck, gift of the Daedra Boethiah, with a single blast of its fiery breath. Lyrisius, seeing that he could not defeat the creature by force of arms, surrendered.
+  遠離人煙之地，萊里修斯走進焦土。在這片被遺棄的大地中央，他遇見了巨龍。那巨大的鱗甲巨獸嘲笑萊里修斯附魔長矛的猛擊。它一口火焰吐息，便融化了迪德拉博耶西亞所贈的盾牌「懼擊」。萊里修斯見武力無法擊敗此物，便投降了。
 
- The wyrm intended to devour Lyrisius when the hero offered to be its slave and manservant. Ever prideful, the wyrm agreed. Seeing that the wyrm was vulnerable to conceit, Lyrisius spoke, "Oh great wyrm. For my first service, I beg that you allow me to polish your one tarnished scale."
+  巨龍本想吞食萊里修斯，英雄卻提出願做它的奴隸與僕從。巨龍一向驕傲，便答應了。萊里修斯看出它禁不住虛榮，便說：「哦，偉大的巨龍。作為我的第一項服侍，懇請允許我擦亮你那片失去光澤的鱗。」
 
- Indeed, centered between the great wings of the creature was a dull scale, clearly out of reach of its long neck. Its vanity was such that it immediately lowered one wing for Lyrisius to climb upon.
+  的確，在巨獸兩翼正中有一片暗淡的鱗，顯然超出它長頸所及。它的虛榮使它立刻垂下一翼，讓萊里修斯爬上去。
 
- Once astride the great lizard, Lyrisius slid his dagger underneath the scale and into the tender flesh of the beast. Though it spun and twisted in all directions, the wyrm could not get at the hero. Finally it took to the air. Lyrisius clung to the neck with all his strength as the wyrm banked, rolled, and dove.
+  一旦跨上巨蜥，萊里修斯便把匕首從鱗片下插入那野獸柔嫩的肉裡。巨龍向四面八方扭轉翻滾，卻搆不到英雄。最後它飛上天空。萊里修斯使盡全力抓住脖子，巨龍側傾、翻滾、俯衝。
 
- Seeing that Lyrisius could not be shaken free, the wyrm demanded that he remove the stinging blade. Lyrisius answered, "Fly straight on until you see a great army. Destroy that army and I will remove my blade."
+  巨龍見甩不掉萊里修斯，便命令他拔出那根刺痛的刃。萊里修斯回答：「直線飛去，直到你看見一支大軍。摧毀那支軍隊，我就拔出我的刃。」
 
- With a great roar, the scaled creature set off. The Akavari army had no chance against the fire-breathing beast. They have never plagued Tamriel since.
+  帶著一聲巨吼，那鱗甲生物出發了。阿卡維爾軍隊面對噴火巨獸毫無勝算。此後他們再也不曾侵擾泰姆瑞爾。
 
- "I have done as you bid. Now sheath your stinger," roared the wyrm.
+  「我已照你的吩咐做了。現在收起你的刺。」巨龍咆哮。
 
- Knowing that he would be devoured or worse, Lyrisius pulled the blade and then leapt from the back of the flying wyrm. Indeed, the foul monster had intended to slay the hero. The wyrm pursued the plummeting Lyrisius. Boethiah appeared beside the falling hero. Praising him for ultimately destroying the army of Akavir, she turned him into a raven. Lyrisius quickly lost the wyrm in the clouds.
+  萊里修斯知道自己會被吞掉，甚至更糟，便拔出刀刃，從飛行的巨龍背上躍下。那邪惡怪物果然打算殺了英雄。巨龍追著墜落的萊里修斯。博耶西亞出現在墜落的英雄身旁。她讚他終於摧毀了阿卡維爾大軍，把他變成一隻渡鴉。萊里修斯很快便在雲中甩掉了巨龍。
 
- Legend has it that the wyrm still lives, though this happened in the first era long, long ago. The dragon nurses a grudge against Lyrisius and all of his kind. It has vowed never again to trust two legged bearers of weapons.
+  傳說那巨龍仍活著，儘管此事發生在第一紀元，許久許久以前。那龍對萊里修斯及其同類懷恨在心。它發誓再也不信任任何持武器的兩足者。
 
 [/center]* * *
 
- Scholar's Note: If this legend has a basis in fact, the artifact Fearstruck was utterly destroyed. No other reference to it has ever been found.
+  學者註：若此傳說有事實根據，神器「懼擊」已徹底毀滅。此後再未發現任何其他記載。

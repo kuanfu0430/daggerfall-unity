@@ -1,5 +1,5 @@
-Title: King Edward, Part VI
-Author: Anonymous
+Title: 愛德華王，其六
+Author: 佚名
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,194 +8,194 @@ Content:
 
 [/font=2]
 
-[/center]King Edward, Part VI
+[/center]愛德華王，其六
 
 [/font=4]
 
 [/center]
 
-[/center]Training
+[/center]訓練
 
- The day Edward was to leave the Archmagister summoned him, presented him with a mithril staff and bade him farewell.
+ 愛德華要離開的那天，大法師召見他，贈他一根秘銀杖，向他道別。
 
- Back in his small cell Edward removed his novitiate robe and donned the grey shirt, black pants and red sash he'd worn to the Tower. He fingered the sash lovingly. His mother had purchased the shirt and pants, saying they looked sturdy and maybe wouldn't show the dirt from the journey. Moraelyn had given him the silk sash with its embroidery of twined leaves and flowers, birds and butterflies in mithril, dwarven and elven metallic threads. But he'd waited until they were across the channel. Aliera had said it cost too dear; she'd suggested cutting down one of Moraelyn's old ones to fit, but the elf had adamantly refused to let her have any of them. Edward smiled, remembering, and wrapped the sash twice round his waist then knotted the ends carefully. He took the staff and ran down to meet his parents.
+ 回到他的小房間，愛德華脫下新手袍，穿上他來塔時穿的灰襯衫、黑褲子和紅腰帶。他愛撫地摸著腰帶。母親買了襯衫和褲子，說它們看起來結實，或許不會顯出旅途的灰塵。莫瑞林給了他這條絲綢腰帶，上面用秘銀、矮人和精靈金屬線繡著纏繞的葉與花、鳥與蝴蝶。可他等到他們過了海峽才給。艾莉菈說它太貴；她建議把莫瑞林的舊腰帶裁小來用，精靈卻堅決拒絕讓她動任何一條。愛德華微笑著回憶，把腰帶在腰上繞兩圈，然後仔細打結。他拿起杖，跑下去見父母。
 
- He'd meant to fling himself at them, but Moraelyn was alone and Edward stopped still. "Where's my mother? Is she--?"
+ 他本想撲向他們，可只有莫瑞林一人，愛德華停住。「我母親在哪？她是不是——？」
 
- "She wanted to stay and choose a horse for you. Didn't trust it to Beech."
+ 「她想留下來為你選一匹馬。不信任交給畢奇。」
 
- "A horse? For me! Really?"
+ 「一匹馬？給我的！真的？」
 
- "Of course. You can't walk all the way to Morrowind."
+ 「當然。你不能一路走到晨風。」
 
- "I thought I'd have to ride behind--someone. Look, the Archmagister gave me my staff! Isn't it beautiful?"
+ 「我以為我得騎在——某人身後。看，大法師給了我我的杖！它不是很美嗎？」
 
- The elf took it and hefted it, trying a few swings and feints. "Good balance and weight for thee, I think. Light for me. Show me how you use it. Suppose I attack you." He used his bare hands and Edward fell into a defensive position, blocked him, then thrust the staff toward Moraelyn's ribs. He danced easily aside, but praised the boy.
+ 精靈接過它掂了掂，試了幾下揮擊和佯攻。「對你來說平衡和重量不錯，我想。對我來說輕了。示範你怎麼用。假設我攻擊你。」他用赤手，愛德華進入防禦姿勢擋住他，然後把杖朝莫瑞林肋骨刺去。他輕鬆地閃到一邊，卻稱讚了男孩。
 
- "A mage should have a dagger, too. I thought you might like to have Tooth here." Edward's eye popped. Tooth had an ebony blade and a hilt made from a real dragon's tooth. The elf slid it from its sheath and handed it to Edward who took it carefully. The blade had a wicked point and the edge was sharp enough to shave with. Mats borrowed it sometimes. He'd carved the hilt, too.
+ 「法師也該有一把匕首。我想你也許願意擁有這把牙刃。」愛德華眼睛瞪大。牙刃有烏木刃，刀柄由真正的龍牙製成。精靈從鞘中抽出遞給愛德華，他小心接過。刃有兇狠的尖，刃口鋒利得可以刮鬍子。馬茨有時借用它。他也雕了刀柄。
 
- "Are you sure Mats doesn't mind?"
+ 「你確定馬茨不介意？」
 
- "Quite sure." Moraelyn unbuckled his belt and slid the sheath off it. There was a new belt for Edward of snakeskin, soft and pliable and a buckle with the black rose of Morrowwind [sic] on it, just like Moraelyn's. "It's from the Companions." He knelt to fit the belt and dagger and the sash over it properly, and Edward threw his arms about his neck. "It's wonderful. I do thank thee and them, too! And oh, I've missed all of thee so much."
+ 「非常確定。」莫瑞林解開腰帶，把鞘從上面滑下。有一條給愛德華的新蛇皮腰帶，柔軟柔韌，帶扣上有晨風的黑玫瑰，就像莫瑞林的。「這是同伴們送的。」他跪下來把腰帶、匕首和腰帶上的飾帶妥當地繫好，愛德華雙臂環住他的脖子。「太棒了。我真的感謝你和他們！而且噢，我好想你們所有人。」
 
- "We missed you, too, son. Let's go or we'll miss our tide."
+ 「我們也想你，兒子。走吧，否則我們會錯過潮水。」
 
- "I wouldn't want to worry mother," he said, trying to sound casual about having a mother that would worry about him.
+ 「我不想讓母親擔心。」他說，試圖對有一個會為他擔心的母親聽起來漫不經心。
 
- "No fear; I told her not to look for us until tomorrow night....just in case. But we'll surprise her."
+ 「別怕；我告訴她別指望我們，直到明晚……以防萬一。可我們會給她驚喜。」
 
- "Good thinking."
+ 「想得好。」
 
- They made good speed and reached the inlet before the tide was full.
+ 他們走得很快，潮水漲滿之前到達了小灣。
 
- "Shall I show you how to use Tooth, or would you rather rest?"
+ 「要我教你怎麼用牙刃，還是你寧願休息？」
 
- "Tooth! I can rest in the boat while you work."
+ 「牙刃！你可以划船時休息，我來幹活。」
 
- Moraelyn shielded himself and Edward too, saying that Tooth's bite was no joke. "I could have shielded myself," Edward said proudly. "I'm good at that. But my Heals go all wrong."
+ 莫瑞林為自己和愛德華都加上護盾，說牙刃的咬可不是開玩笑。「我本可以自己護盾。」愛德華驕傲地說。「我擅長那個。可我的治療全搞砸了。」
 
- "It'll come. Give it time."
+ 「會來的。給它時間。」
 
- Evidently Tooth wanted time too. Try as he might, he couldn't get near the elf with the blade, even though Moraelyn kept his feet planted and simply swerved his body, ducking and weaving... and laughing. Frustrated, Edward sheathed Tooth and picked up the staff and whacked at him, swinging it with both hands. It wasn't doing any harm, but it made satisfying sounds as it thwacked against the spell shield. Moraelyn let him hit, but stopped the staff easily when the spell had been used up. Edward threw it on the ground and turned away; the elf reached for him in consolation. Edward snatched Tooth from the sheath and thrust it straight at the elf's heart. The blade was knocked spinning from his hand. Edward had braced to stop the thrust and hold it and he felt the shock even through his shield. Then Moraelyn was kneeling before him, nursing his left hand across his right knee, his face grey with shock and disbelief. Blood was gushing from his wrist like a fountain. "Give me thy sash!"
+ 顯然牙刃也需要時間。他盡力而為，卻無法用刀刃靠近精靈，即使莫瑞林雙腳不動，只是扭轉身體、低頭閃避……並且大笑。沮喪之下，愛德華把牙刃入鞘，拿起杖雙手揮打。它傷不了人，可打在法術護盾上發出令人滿足的聲響。莫瑞林讓他打，可法術耗盡時輕易停住了杖。愛德華把它扔在地上轉身走開；精靈伸手安慰他。愛德華從鞘中抽出牙刃，直刺精靈的心臟。刀刃被打得從他手中旋轉飛出。愛德華本已準備好停住刺擊並握住它，即使隔著護盾也感到衝擊。然後莫瑞林跪在他面前，左手擱在右膝上護著，臉色因震驚與難以置信而發灰。血像噴泉一樣從他手腕湧出。「把你的腰帶給我！」
 
- "I--I didn't--" Edward's teeth were rattling in his head. He felt sick and dizzy. Bile washed up in his mouth. "D-d-didn't--m-m-mean." So much blood.
+ 「我——我沒有——」愛德華的牙在頭裡打顫。他感到噁心暈眩。膽汁湧上嘴裡。「沒——沒——沒有——意——意——意思。」這麼多血。
 
- "Boy, don't faint now. I need thy aid. The sash. Now, Edward! Pack it into the wound. Gods, what a mess!" The hand was half severed at the wrist. Edward sat down abruptly, shaking all over, but his hands packed the sash into the open wound, then he wrapped the rest round the hand and wrist. "Take my sash and make a sling." Moraelyn eased the injured limb into the sling and then released his other hand. He took the water bottle from his belt and drank it down. "I need more water. Where's thy staff? There's a well two miles back. Where's Tooth? Go find it and don't cut yourself on it."
+ 「孩子，現在別昏倒。我需要你的幫助。腰帶。現在，愛德華！把它塞進傷口。諸神啊，真是一團糟！」手在手腕處幾乎被切斷一半。愛德華突然坐下，渾身發抖，可他的手把腰帶塞進敞開的傷口，然後把其餘部分繞在手和手腕上。「拿我的腰帶做吊帶。」莫瑞林把受傷的肢體放入吊帶，然後放開另一隻手。他從腰帶取下水瓶一飲而盡。「我需要更多水。你的杖在哪？兩英里後有口井。牙刃在哪？去找到它，別被它割傷。」
 
- "I don't want it."
+ 「我不要它。」
 
- "Not many blades have bathed in Moraelyn's blood. 'Twill bring you luck. Do as I say."
+ 「沒有多少刀刃在莫瑞林的血裡洗過。它會給你帶來運氣。照我說的做。」
 
- "The tide's in."
+ 「潮水漲了。」
 
- "Aye and Firsthold could be on Jone for all the good it does us. I can't row one handed."
+ 「是啊，而初持對我們的好處，就像在瓊恩上一樣。我不能單手划船。」
 
- "I could--"
+ 「我可以——」
 
- "No, you cannot. You haven't the strength. The current's swift here. I prefer to die on land. Edward, we cannot stay here. The blood smell will draw beasts. If I faint, get well away and climb a tree. And pray." He climbed to his feet and leaned on the staff, breathing hard. "Stay close, but don't grab at me, no matter what happens." He took a small step, then another.
+ 「不，你不能。你沒有那力氣。這兒水流湍急。我寧願死在陸上。愛德華，我們不能待在這兒。血腥味會引來野獸。若我昏倒，離遠點爬上一棵樹。然後祈禱。」他站起來，靠在杖上，呼吸沉重。「靠近，但無論發生什麼都別抓我。」他走了一小步，然後又一步。
 
- "I'm sorry."
+ 「對不起。」
 
- "Doubtless. You picked a poor time and place to turn assassin. A good assassin always has an escape planned."
+ 「無疑。你選了個糟糕的時間和地點來當刺客。好的刺客總有逃跑計畫。」
 
- "Yessir." Edward sniffed back his tears. "Sir, I cannot Heal you, but I can restore some vigor."
+ 「是的，先生。」愛德華抽回眼淚。「先生，我不能治療你，可我能恢復一些精力。」
 
- "Can you? 'T'would be of great help." The spell Edward cast shook the elf; he gasped, but stood straighter and firmer after the shock wore off. "I can do it again," Edward offered eagerly.
+ 「能嗎？那會有很大幫助。」愛德華施的法術震了一下精靈；他喘息，可衝擊過後站得更直更穩。「我可以再做一次。」愛德華急切地提議。
 
- "Nay. You have plenty of power but want finesse. But 'tis much better, now."
+ 「不。你有充足的力量卻缺乏技巧。可現在好多了。」
 
- Moraelyn was walking better; he sounded better too. Edward tried to blot the picture of the injury out of his mind. They moved slowly, Moraelyn leaning against a tree from time to time to rest. Nothing molested them. After an interminable time of silent travelling they reached the old well. Moraelyn drained the first bottle and Edward refilled it, drank himself, then filled it yet again.
+ 莫瑞林走得更好了；聽起來也更好。愛德華試圖把傷勢的畫面從腦子裡抹去。他們慢慢移動，莫瑞林不時靠著樹休息。沒有東西騷擾他們。經過漫長得難以忍受的沉默跋涉後，他們到達那口老井。莫瑞林喝完第一瓶，愛德華再裝滿，自己喝了，然後又裝滿。
 
- "We'll spend the night in there." 'There' was a large ramshackle building, apparently deserted. The elf kicked the locked door open. Inside it was pitch dark. "Light?" Edward offered.
+ 「我們在那兒過夜。」「那兒」是一座看起來廢棄的大型破舊建築。精靈踢開鎖著的門。裡面一片漆黑。「光？」愛德華提議。
 
- "Nay. I can see. Save your power and stay by me." There was a skittering noise. Rats! Edward shielded them both without thinking, pulled Tooth out, and placed his back to the elf's. A rat leaped and drove itself onto the blade. Moraelyn swung the staff and laid out two more. Others scurried off.
+ 「不。我能看見。節省你的力量，待在我身邊。」有窸窣聲。老鼠！愛德華想都沒想就為他們兩個加上護盾，抽出牙刃，背靠精靈。一隻老鼠躍起，把自己刺上刀刃。莫瑞林揮杖打倒另外兩隻。其餘的跑開了。
 
- "Well done, lad!" They found a small windowless room and shut the door behind them. There seemed to be some wood about; probably it had been some sort of storage room off the kitchen. Moraelyn sat down against the wall.
+ 「幹得好，孩子！」他們找到一間沒有窗戶的小房間，關上門。似乎有些木頭；大概是廚房旁某種儲藏室。莫瑞林靠牆坐下。
 
- "So. You can use a knife. Was all that pretense? To put me off my guard?"
+ 「那麼。你會用刀。剛才全是假裝？讓我放鬆警惕？」
 
- Edward was appalled. He burst into tears, protesting that he'd never harm Moraelyn willingly. "I meant it for jest; I thought it'd make you laugh...I was angry, at first, but at myself, my clumsiness, not you...it was a sudden thought....I love you dear!"
+ 愛德華驚駭。他突然哭起來，抗議他絕不會故意傷害莫瑞林。「我是當玩笑的；我以為會讓你笑……我起初生氣，是對自己，對我的笨拙，不是對你……那是突然的念頭……我親愛你！」
 
- The elf reached out with his good arm and pulled Edward down to him. "That's worth a hand, then, any day."
+ 精靈用好的那隻手臂把愛德華拉向自己。「那一天值一隻手。」
 
- Edward sobbed against his shoulder while Moraelyn soothed him with pats. "You are my real father."
+ 愛德華靠在他肩上抽泣，莫瑞林拍撫安慰他。「你是我真正的父親。」
 
- "Edward, I am not..."
+ 「愛德華，我不是……」
 
- "Nay, thou art. Thee puts my well-being ahead of thine and loves me when I least deserve it. Thee's been kind and generous and never asked anything of me save to my own profit. Thee'd give thy very life for mine. That's what real fathers do. And I've given thee naught but pain. He who sired me despises me and my mother because we are unlike him. We are not like you either, and yet you love us well. I will do better by you, dear Father."
+ 「不，你是。你把我的安康放在你自己之前，在我最不配的時候愛我。你一直仁慈慷慨，除了為我自己的益處外從不向我要求任何東西。你願意為我獻出你的生命。那才是真正的父親做的。而我只給了你痛苦。生我的人鄙視我和我母親，因為我們不像他。我們也不像你，可你仍深深愛我們。我會對你更好，親愛的父親。」
 
- "I gave thee cause enough for offense. I took thy mother from thee."
+ 「我給了你足夠冒犯的理由。我把你母親從你身邊帶走。」
 
- "You risked losing her because you would not part me from my father. You did not know me and my father was your bitter enemy. And yet you took thought for us. You could not know how unnatural he is. It isn't in you."
+ 「你冒著失去她的風險，因為你不願把我從父親身邊拆開。你不認識我，而我父親是你的死敵。可你仍為我們著想。你不可能知道他有多不近人情。那不在你裡面。」
 
- "Granted. And yet the offense and your anger at it remain."
+ 「承認。然而冒犯和你對它的怒火仍在。」
 
- "I love you!" Edward protested. But he heard an angry edge in his voice.
+ 「我愛你！」愛德華抗議。可他聽見自己聲音裡憤怒的鋒芒。
 
- "And hate me." Moraelyn's voice was so calm and quiet that they might have been discussing the weather.
+ 「也恨我。」莫瑞林的聲音如此平靜安詳，他們簡直像在討論天氣。
 
- "I can't do both....can I?"
+ 「我不能兩者都做……能嗎？」
 
- "Can you?"
+ 「你能嗎？」
 
- "I didn't mean to hurt you."
+ 「我不是故意傷害你。」
 
- "I believe you."
+ 「我相信你。」
 
- "Am I -- am I, evil? I was sorry; I'd give anything if it hadn't happened, but--I--".
+ 「我是——我是，邪惡的嗎？我很抱歉；若這沒發生我願付出任何代價，可是——我——」。
 
- "Took some measure of satisfaction in it."
+ 「從中得到某種程度的滿足。」
 
- Edward's throat was choked with sobs; he couldn't speak, but nodded into Moraelyn's shoulder. The elf's hand stroked him gently.
+ 愛德華的喉嚨被抽泣堵住；他說不出話，卻朝莫瑞林的肩膀點頭。精靈的手輕輕撫他。
 
- "Did I'ric tell you of the Daedra?"
+ 「伊瑞克有沒有告訴你迪德拉的事？」
 
- "The demons? No. Is it a demon makes me do such things? I am evil, then."
+ 「惡魔？沒有。是惡魔讓我做這種事嗎？那我就是邪惡的。」
 
- "No, you are not. But the daedra feed on actions such as that. They--encourage them. And your anger draws them. But they can't make you do anything. And they or it's not inside you. But it is connected to you."
+ 「不，你不是。可迪德拉以那樣的行為為食。它們——鼓勵它們。而你的怒火吸引它們。可它們不能讓你做任何事。它們或它不在你裡面。可它與你相連。」
 
- "I don't want it. I want it to go away. How can I make it go away?"
+ 「我不要它。我要它走開。我怎麼讓它走開？」
 
- "Why don't you want it? You draw power from it. That's what let you shield us both wit the rats attacked."
+ 「你為什麼不要它？你從它那兒汲取力量。那就是讓你在老鼠攻擊時為我們兩個護盾的東西。」
 
- "Mana? That doesn't come from demons."
+ 「魔力？那不是來自惡魔。」
 
- "No, but the ability to use it can. Look, some of your deeds feed the daedra. But you draw power from it at the same time. Then the power's yours, to use as you choose."
+ 「不是，但使用它的能力可以。聽著，你的某些行為餵養迪德拉。可你同時從它那兒汲取力量。然後那力量就是你的，隨你使用。」
 
- "Do you have a daedra?"
+ 「你有迪德拉嗎？」
 
- "I do and it's a big one, too, but I think everyone has one or more. Some are stronger than others, that's all. But don't go around asking after them. It's not polite."
+ 「我有，而且是很大的一個，可我想每個人都有一個或更多。有些比其他的更強，如此而已。可別到處打聽它們。那不禮貌。」
 
- "I want mine to go away!" Edward wailed.
+ 「我要我的走開！」愛德華哀號。
 
- "So you say. But pretending it isn't there will not accomplish that. Having a daedra is a bit like riding a horse. You must keep control. The daedra do not care for you. It would as lief feed off your pain or injury or death as any other, and find a new host. They do not think or plan as we can and I do not think they experience time as we do. So acts that feed the daedra take place in the moment and while you are caught up in them, past and future cease to exist for you too. It is an intensely pleasurable experience, but it can also be very dangerous. And very addictive, so that you begin to think only of feeding your daedra. You cease to think of the gods and those you love and even yourself. When you have walked too far along that path, you lose the will to choose another."
+ 「你這麼說。可假裝它不在那兒不會達成那個。有迪德拉有點像騎馬。你必須保持控制。迪德拉不在乎你。它樂意以你的痛苦或傷害或死亡為食，如同任何其他的，然後找一個新宿主。它們不像我們能思考或計畫，我想它們也不像我們那樣經歷時間。所以餵養迪德拉的行為發生在當下，而當你被捲入其中，過去與未來對你也不再存在。那是一種極度愉悅的體驗，可也很危險。而且非常容易上癮，以致你開始只想著餵養你的迪德拉。你不再想諸神和你所愛的人，甚至你自己。當你沿那條路走得太遠，你就失去選擇另一條的意志。」
 
- "How terrible! What must I do then?"
+ 「多可怕！那我該怎麼做？」
 
- "It is terrible, the worst that can befall a person. Remember this night. How you felt. Learn to recognize the daedra's hunger for what it is, and think about what you do. You are young and this is heavy for you, but you are at risk. Ah!" The elf's body stiffened and he caught his breath. Edward guessed that the wound was paining him.
+ 「它是可怕的，一個人可能遭遇的最糟之事。記住今夜。你的感受。學會辨認迪德拉的飢餓是什麼，並思考你所做的。你還年輕，這對你太沉重，可你處於危險中。啊！」精靈的身體僵硬，屏住呼吸。愛德華猜傷口在痛他。
 
- Moraelyn said that he must sleep a bit, and could Edward keep watch and wake him in an hour's time. Then he could set a lock on the door and they could both rest.
+ 莫瑞林說他必須睡一會兒，愛德華能否守夜，一小時後叫醒他。然後他可以在門上設鎖，他們都能休息。
 
- "Aye, sir...and I might do somewhat more. I cannot set a lock, but..." The door would not latch, nor would it stay open, but would swing nearly shut. Edward felt about near the wall behind it and found a wedge. He shut the door and drove the wedge home with a chunk of wood."I thought so. 'Tis awkward to pass such a door with both arms full of wood. We have such at ho--in Gerald's palace. Now anything trying to come in will rouse you; you can use your power to cast heal instead of lock."
+ 「是的，先生……而且我或許能再做些什麼。我不能設鎖，可是……」門既扣不上，也不會保持開著，只會幾乎關上地擺動。愛德華在門後牆邊摸索，找到一塊楔子。他關上門，用一塊木頭把楔子敲進去。「我就知道。兩臂滿抱木頭經過這樣的門很彆扭。我們在家——在傑拉德的宮殿有這樣的。現在任何試圖進來的東西都會吵醒你；你可以用力量施治療而不是鎖。」
 
- "Why, well thought of, indeed." He freed his blade and laid it on the floor beside him. "We may as well both sleep then."
+ 「啊，確實想得好。」他抽出刀刃放在身側地板上。「那我們不妨都睡。」
 
- They slept fitfully. There were often scrabblings at the door and in the walls, but nothing entered their small closet. Moraelyn cast Heal several time during the night. By morning he pronounced himself as fit "as a one-handed man can be." He unwrapped the sash-bandage and inspected the wound. The bleeding was stopped; the hand was still warm to the touch; it no longer hurt him nor was it swollen or discolored. But the wound was still open and the hand useless. Nerves and muscles had been severed and some of the small bones broken. Such repair was beyond his skill. Edward, feeling the daedra feed on the sight, turned quickly away.
+ 他們睡得斷斷續續。門上和牆裡常有窸窣聲，可沒有東西進入他們的小密室。莫瑞林夜間施了幾次治療。到早晨他宣稱自己「盡單手之人能做到的那樣健康。」他解開腰帶繃帶檢查傷口。血止住了；手觸摸仍溫暖；不再痛他，也不腫或變色。可傷口仍開著，手毫無用處。神經和肌肉被切斷，一些小骨折斷。這樣的修復超出他的技能。愛德華感到迪德拉以這景象為食，迅速轉開。
 
- Moraelyn grinned. "You may as well let it feed; it's a harmless sort of feeding. The damage is done."
+ 莫瑞林咧嘴笑。「你不妨讓它吃；這是無害的一種進食。傷害已經造成。」
 
- "I mean to starve it," Edward said firmly.
+ 「我打算餓死它。」愛德華堅定地說。
 
- "You can try to do that or you can learn to control it instead, and still walk with the gods. I think we'd best go back to the Tower."
+ 「你可以試著那樣做，或者你可以學著控制它，同時仍與諸神同行。我想我們最好回塔。」
 
- "Aye, they'll be able to heal you there, will they not?"
+ 「是啊，他們能在那兒治好你，不是嗎？」
 
- "I know not. At the least they'll be able to attach it more firmly than it is at present. Ah, do not look so downcast. The skill to mend it is somewhere, if not in the Tower. Ssa'ass is good with battle injuries and there are Temples which know more of the healing arts than the Tower mages. Besides, it's only my left hand." He held up the wadded sash, stiff with his dried blood. "The color's more practical than thy mother thought. Let's see if we can wash it out a bit. Never have I come so ill-equipped on a journey. I might have been strolling down the main street in Ebonheart. Thy mother will kill me."
+ 「我不知道。至少他們能把它比現在更牢固地接上。啊，別那麼沮喪。修補它的技能在某處，即使不在塔裡。薩阿斯擅長戰傷，有些神殿比塔裡的法師更懂治療之術。再說，這只是我的左手。」他舉起皺成一團、被他乾血變硬的腰帶。「這顏色比你母親想的更實用。讓我們看看能不能洗掉一點。我從未如此裝備不良地上路。我簡直像在烏木之心大街上閒逛。你母親會殺了我。」
 
- "Right after she kills me," Edward sighed. "At least returning to the Tower will delay that." They came out into the bright courtyard. The morning sun was already high in the western sky.
+ 「就在她殺了我之後。」愛德華嘆口氣。「至少回塔能推遲那個。」他們走到明亮的院子裡。朝陽已高掛西天。
 
- "Not so. Edward, the Companions are coming now! I hear them. Mara, let me think of a real good lie!"
+ 「並非如此。愛德華，同伴們現在來了！我聽見他們。瑪拉，讓我想個真正好的謊！」
 
- Mith trotted into the courtyard. "Here they are!" he called back to the others. By Torgo, you ARE injured. Let me see that. We thought to row across to meet you; we saw the blood on the shore and tracked you here. What attacked you?"
+ 密斯小跑進院子。「他們在這兒！」他朝其他人喊。以托爾戈之名，你確實受傷了。讓我看看。我們想划過來接你們；我們看見岸上的血，追蹤到這兒。什麼攻擊了你？」
 
- "A demon."
+ 「一個惡魔。」
 
- "A demon! What!? In the open like that in daylight? Gods, what was it carrying, an ebony dai-katana?" Mith whistled as he inspected the injury. Aliera and the others ran up. She hugged Edward, "Are you all right, darling? I was worried." then paled as she saw her husband's hand.
+ 「一個惡魔！什麼！？大白天那樣露天的地方？諸神啊，它拿著什麼，烏木大太刀嗎？」密斯檢查傷勢時吹了聲口哨。艾莉菈和其他人跑上來。她擁抱愛德華，「你還好嗎，親愛的？我很擔心。」然後看見丈夫的手時臉色發白。
 
- "You must be slowing down. How'd you let a demon do that to you?" Mith demanded.
+ 「你一定變慢了。你怎麼讓惡魔對你做成那樣？」密斯質問。
 
- "It was the boy...he grabbed at my arm in fright and my shield spell failed. It wasn't his fault; it was an accident. Ali, don't look at it. Edward, why don't you take thy mother to see the rat you killed?"
+ 「是那男孩……他驚嚇中抓住我的手臂，我的護盾法術失效了。不是他的錯；是意外。艾莉，別看它。愛德華，何不帶你母親去看你殺死的那隻老鼠？」
 
- "I want to watch Ssa'ass," Edward objected, then remembered that it would feed his daedra. But he might learn something about healing if he watched, which would be a good thing. This was going to be more complicated than he'd thought.
+ 「我想看薩阿斯。」愛德華反對，然後想起那會餵養他的迪德拉。可若他看，或許能學到治療的東西，那會是好事。這會比他想的更複雜。
 
- "Oh, Edward," Aliera said. "You must keep clear in a fight."
+ 「噢，愛德華，」艾莉菈說。「戰鬥中你必須離遠。」
 
- "He killed a rat in the old inn there, after. Did right well. Kept his head, put his back to mine, shielded us both. Anyone's apt to panic in his first fight. Especially if he isn't expecting it."
+ 「後來他在那座老客棧裡殺了一隻老鼠。做得很好。保持清醒，背靠我，為我們兩個護盾。任何人第一次打架都容易恐慌。尤其若他沒料到。」
 
- Ssa'ass came up last, as usual, elbowed the others aside and inspected the injury, hissing. "I cann fixxxx thissss. It'ss cleann." He looked it over carefully, bending the hand back to open the wound. Then he brought the hand forward, so that the edges of the tissue met. He was very particular about getting it aligned just so. Then he had Mats hold it in place while he cast spells over it. All outer traces of the injury vanished, leaving not even a scar. Moraelyn swung it with satisfaction, twitching his fingers. "Thanks, Ssa'ass. It's stiff, but..."
+ 薩阿斯照例最後上來，用肘把其他人推開，檢查傷勢，嘶嘶作響。「我能修好這個。它很乾淨。」他仔細查看，把手向後彎打開傷口。然後把手向前，讓組織邊緣對齊。他對對齊非常講究。然後他讓馬茨按住，同時在上面施法。傷勢所有外在痕跡消失，連疤都沒留下。莫瑞林滿意地揮動它，抽動手指。「謝謝，薩阿斯。它僵硬，可是……」
 
- "Tomorrow, I ffinissshhh."
+ 「明天，我完成。」
 
- "My poor baby," Aliera fussed over Edward. "You must have been so frightened. And you spent the whole night in that awful house?"
+ 「我可憐的寶貝，」艾莉菈為愛德華忙碌。「你一定嚇壞了。而你整晚待在那可怕的屋子裡？」
 
- "I'm not a baby. I wasn't afraid; my father was there."
+ 「我不是寶貝。我不怕；我父親在那兒。」

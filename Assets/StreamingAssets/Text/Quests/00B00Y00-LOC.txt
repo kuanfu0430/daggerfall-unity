@@ -1,0 +1,72 @@
+-- Quest: C:\QUESTS\WORKING\00B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Julianos
+-- Repute: 0
+-- QuestId: 0
+Messages: 32
+Quest: 00B00Y00
+DisplayName: 知識的代價
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 朱利安諾斯學院只有一條規矩——知識必須共享。
+<ce> 不幸的是，我們有一名前成員背棄了這條規矩，必須受罰。
+<ce> 若我們付給你 _reward_ 金幣，
+<ce> 你願意追捕並殺死這名前學院成員嗎？
+
+RefuseQuest:  [1001]
+<ce> 真令人失望。不過我們無疑會找到別人。
+
+AcceptQuest:  [1002]
+<ce> 很好。那個浪子是一名叫 =monster_ 的夜刃，
+<ce> 已躲進 %g3 實驗室 ___mondung_。
+<ce> 若你沒在 =1stparton_ 天內帶著 _monster_ 的血回來，
+<ce> 我們會假定你已失敗，或已投靠 =monster_，
+<ce> 報酬將轉給不會失敗的人。
+<ce> 我想我已經說得很清楚。祝你好運，再見。
+
+QuestFail:  [1003]
+只要那名夜刃還活著，我對任何話題都沒興趣閒聊，%pcf。
+
+QuestComplete:  [1004]
+<ce> 非常好，%pcf。
+<ce> 真的非常好。這是你的 _reward_ 金幣。
+<ce> 我們非常感謝你。
+
+
+RumorsDuringQuest:  [1005]
+聽說 ___mondung_ 有一名夜刃在賣法術賺錢。
+<--->
+叛逃的施法者非常危險。希望他們能抓住那個 _monster_。
+
+RumorsPostfailure:  [1006]
+=monster_ 據說已經離開，仍在賣法術賺錢。
+<--->
+聽說朱利安諾斯學院派出導師騎士團去對付某人。
+
+RumorsPostsuccess:  [1007]
+他們終於抓住那個 _monster_ 了。不能讓不受約束的法師到處亂跑。
+<--->
+可惜他們抓住了那個 _monster_。聽說他手上有不少勁爆內幕。
+
+QuestorPostsuccess:  [1008]
+<ce> 你是 %pcn。對付那個 =monster_ 幹得漂亮，
+<ce> 還記得嗎，那個叛逃的施法者？
+
+QuestorPostfailure:  [1009]
+<ce> 哼。去殺叛逃施法者 =monster_ 那件差事，
+<ce> 你搞砸了，對吧？
+
+Message:  1030
+%qdt:
+ ___questgiver_ 的朱利安諾斯學院
+ 雇我去殺死他們神殿的浪子
+ _monster_，=monster_。
+ 我有 =1stparton_ 天前往 %g3 藏身處
+ ___mondung_，再回到學院。
+
+Message:  1031
+<ce> 你已殺死 =monster_。
+<ce> 學院會感到驕傲。

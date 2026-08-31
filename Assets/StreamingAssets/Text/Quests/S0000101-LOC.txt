@@ -1,0 +1,23 @@
+-- Quest: C:\QUESTS\WORKING\S0000101.Qbn.
+-- Main story quest.
+-- QuestId: 101
+Messages: 16
+Quest: S0000101
+-- Message panels
+QRC:
+
+Message:  1015
+<ce>                 伊德懷爾國王派我們來殺你，把圖騰交給他。
+<ce>                 準備受死，%pcn。
+                                      <--->
+<ce>                   我們要圖騰。精確地說，是巴倫西雅女王
+<ce>                  要圖騰。她願意用痛快的死，而不是緩慢的死
+<ce>                 來付你酬勞。
+                                      <--->
+<ce>                  你一定跟途歇城有過不愉快的往來。他們派
+<ce>                  我們來謀殺你，並帶回圖騰。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcn occurs 2 times.

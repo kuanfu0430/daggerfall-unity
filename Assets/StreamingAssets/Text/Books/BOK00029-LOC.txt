@@ -1,5 +1,5 @@
-Title: Brief History of the Empire, Part II
-Author: Stronach
+Title: 帝國簡史，第二卷
+Author: 斯托納克
 IsNaughty: False
 Price: 352
 IsUnique: False
@@ -8,32 +8,32 @@ Content:
 
 [/font=2]
 
-[/center]A Brief History
+[/center]帝國
 
-[/center]of the Empire
+[/center]簡史
 
-[/center]Part II
+[/center]第二卷
 
 [/font=4]
 
- Volume I of this series described in brief the lives of the first eight Emperors of the Septim Dynasty, beginning with the forebear Tiber Septim and ending with his great great great great grandniece Kintyra II. Kintyra's murder in Glenpoint, while in captivity, is considered by some to be the end of the pure strain of Septim blood. Certainly, it marks the end of something.
+ 本系列第一卷簡述了塞普汀王朝前八位皇帝的生平，始於始祖泰伯·塞普汀，終於他的玄孫姪女金泰拉二世。金泰拉在格倫角被俘期間遭謀殺，有些人認為這標誌著塞普汀純正血脈的終結。可以肯定的是，它標誌著某種事物的終結。
 
- Uriel III not only proclaimed himself Emperor of Tamriel, but also proclaimed himself Uriel Septim III, taking a surname as a title. In truth, his surname was Uriel Mantiarco from his father. In time, Uriel III was deposed and his crimes reviled, but the tradition of taking the name Septim as a title for the Emperor of Tamriel did not die with him.
+ 尤利爾三世不僅宣布自己為泰姆瑞爾皇帝，還宣布自己為尤利爾·塞普汀三世，把姓氏當作頭銜。事實上，他從父親那兒得來的姓是尤利爾·曼蒂亞科。後來尤利爾三世被廢黜，他的罪行遭到痛斥，但把塞普汀之名當作泰姆瑞爾皇帝頭銜的傳統並未隨他死去。
 
- For six years, the War of the Red Diamond tore apart the Empire. The combatants were the three surviving children of Pelagius II, Potema, Cephorus, and Magnus, and their offspring. Potema, of course, supported her son Uriel III, and had the support of all of Skyrim and northern Morrowind. With the efforts of Cephorus and Magnus, High Rock turned. Hammerfell, Sumurset Isle, Valenwood, Elsweyr, and Black Marsh were divided, but most kings supported Cephorus and Magnus.
+ 六年裡，紅鑽戰爭撕裂了帝國。交戰者是佩拉吉奧斯二世尚存的三個子女——波提瑪、塞弗勒斯與馬格努斯——以及他們的後代。波提瑪當然支持她的兒子尤利爾三世，並得到整個天際與北部晨風的支持。在塞弗勒斯與馬格努斯的努力下，高岩轉了向。落錘省、夏暮島、瓦倫林地、艾斯維爾與黑沼澤意見分裂，但多數國王支持塞弗勒斯與馬格努斯。
 
- In 3E 127, Uriel III was captured at the Battle of Ichidag in Hammerfell. En route to his trial in the Imperial City, a mob overtook his carriage and burned him alive within it. His captor and uncle continued on to the Imperial City, and by common acclaim, was proclaimed Cephorus I, Emperor of Tamriel. Cephorus' reign is marked by nothing but war. By all accounts, he was a kind and intelligent man, but what Tamriel needed was a great warrior, and he was that. It took an additional ten years of constant warfare for him to defeat his sister Potema. The so-called wolf queen of Solitude died in the siege of her city-state in the year 137. Cephorus only survived his sister by three years.
+ 第三紀元127年，尤利爾三世在落錘省伊奇達格之戰被俘。在押往帝國城受審途中，暴民截住他的馬車，把他活活燒死在車裡。俘獲他的人、也是他的叔父，繼續前往帝國城，經公眾擁戴，被宣布為塞弗勒斯一世，泰姆瑞爾皇帝。塞弗勒斯的統治除了戰爭別無標記。據所有記載，他是善良而聰明的人，但泰姆瑞爾需要的是偉大戰士，而他正是那樣。他又花了十年持續戰爭才擊敗姐姐波提瑪。所謂獨孤城狼女王，於137年在其城邦被圍時死去。塞弗勒斯只比姐姐多活了三年。
 
- Cephorus never had the time during the war years to marry, so it was his brother, the fourth child of Pelagius II, who assumed the throne. The Emperor Magnus was elderly, and the business of punishing the traitorous kings of the War of the Red Diamond drained much of his health. Legend also accuses Magnus' son and heir Pelagius III of murder, but that seems very unlikely. For no other reason, Pelagius was King of Solitude, following the death of Potema, and seldom visited the Imperial City.
+ 塞弗勒斯在戰爭年代從未有時間結婚，於是他的弟弟、佩拉吉奧斯二世的第四個孩子登上王位。馬格努斯皇帝年事已高，懲罰紅鑽戰爭中叛變諸王的事務耗去他許多健康。傳說也指控馬格努斯之子與繼承人佩拉吉奧斯三世謀殺，但那似乎極不可能。只說一點：佩拉吉奧斯在波提瑪死後是獨孤城國王，很少造訪帝國城。
 
- Pelagius III, sometimes called Pelagius the Mad, was proclaimed Emperor in the 145th year of the 3rd Era. Almost from the start, his eccentricities of behavior was noted. He embarassed dignitaries, offended his vassal kings, and, on one occasion, marked the end of a grand ball by attempting to hang himself. His long-suffering wife was finally awarding the regency of Tamriel and Pelagius III was sent to a series of healers and asylums until his death in 3E 153 at the age of thirty-four.
+ 佩拉吉奧斯三世，有時稱為瘋王佩拉吉奧斯，於第三紀元145年被宣布為皇帝。幾乎從一開始，他行為的古怪就被注意到。他使使節難堪，冒犯封臣諸王，有一次還試圖在盛大舞會結束時上吊。他長期受苦的妻子終於被授予泰姆瑞爾攝政，佩拉吉奧斯三世被送往一連串治療者與療養院，直到第三紀元153年三十四歲時去世。
 
- The Emperess Regent of Tamriel was proclaimed Emperess Katariah I upon the death of her husband. Some who do not mark the end of the Septim bloodline with the death of Kintyra II consider the accendancy of this dark elf woman as the true mark. Her defenders assert that though Katariah was not descended from Tiber, the son she had with Pelagius, was, so the chain does continue.
+ 泰姆瑞爾攝政女皇在丈夫死後被宣布為卡塔瑞亞一世女皇。有些不以金泰拉二世之死為塞普汀血脈終結的人，把這名黑暗精靈女子的登基視為真正的標記。她的辯護者主張，雖然卡塔瑞亞並非泰伯的後裔，她與佩拉吉奧斯所生的兒子卻是，因此血脈仍在延續。
 
- Despite the racist assertations to the contrary, Katariah's forty-six year reign was one of the most glorious in Tamriel's history. Uncomfortable in the Imperial City, Katariah travelled extensively throughout the Empire, such as no Emperor ever had since Tiber's day. She repaired much of the damage the broken alliances and bungled diplomacy had created. The people of Tamriel came to love their Emperess far more than the nobility did. Katariah's death in a minor skirmish in Black Marsh is a favorite source for conspiracy-minded historians. The sage Montalius' discovery of a disenfranchised branch of the Septim family's involvement with the skirmish was a revelation indeed.
+ 儘管有種族主義者相反的斷言，卡塔瑞亞四十六年的統治是泰姆瑞爾歷史上最光榮的時期之一。她在帝國城感到不自在，便廣泛巡遊帝國，自泰伯的時代以來沒有皇帝如此做過。她修復了破碎同盟與拙劣外交所造成的許多損害。泰姆瑞爾的人民愛戴他們的女皇，遠勝過貴族。卡塔瑞亞在黑沼澤一場小衝突中死去，是陰謀論史家最愛的題材。賢者蒙塔利烏斯發現塞普汀家族一支被剝奪權利的旁支與那場衝突有關，確實是一項揭示。
 
- When Cassynder assumed the throne at the death of his mother, he was already middle-aged. Only half-elven, he aged like a Breton. In fact, he had left the rule of Wayrest to his half-brother Uriel due to poor health. Nevertheless, as the only true blood relation of Pelagius, and thus Tiber, he was pressed into accepting the throne. To no one's surprise, the Emperor Cassynder's reign did not last long. In two years, he was dead.
+ 凱西德在母親死後登上王位時，已是中年。他只有一半精靈血統，卻像布萊頓人一樣衰老。事實上，他因健康不佳，已把途歇城的統治交給同母異父弟弟尤利爾。儘管如此，作為佩拉吉奧斯、因而也是泰伯唯一真正的血親，他被迫接受王位。不出任何人意料，凱西德皇帝的統治並不長久。兩年後，他死了。
 
- Uriel Lariat, Cassynder's half-brother, the child of Katariah I and her Imperial consort Lariat, left the kingdom of Wayrest to reign as Uriel IV. Legally, Uriel IV was a Septim: Cassynder had adopted him into the family when he had become King of Wayrest. Nevertheless, to the Council and the people of Tamriel, he was a bastard child of Katariah. Uriel did not possess the dynamism of his mother, and his long forty-three year reign was a hotbed of sedition.
+ 尤利爾·拉瑞亞特，凱西德的同母異父弟弟，卡塔瑞亞一世與其帝國皇夫拉瑞亞特之子，離開途歇城王國，以尤利爾四世之名統治。法律上，尤利爾四世是塞普汀：凱西德在成為途歇城國王時已收養他入族。儘管如此，對上古議會與泰姆瑞爾人民而言，他是卡塔瑞亞的私生子。尤利爾沒有母親那種活力，他漫長的四十三年統治是煽動的溫床。
 
- Uriel IV's story is told in the third volume of this series.
+ 尤利爾四世的故事見本系列第三卷。

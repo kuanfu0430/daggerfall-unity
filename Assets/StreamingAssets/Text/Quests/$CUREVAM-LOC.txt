@@ -1,0 +1,198 @@
+-- Quest: C:\QUESTS\WORKING\$CUREVAM.Qbn.
+-- StartsBy: letter
+-- Questee: anyone
+-- Questor: hunter
+-- QuestId: 0
+Messages: 53
+Quest: $CUREVAM
+DisplayName: 治癒吸血鬼詛咒
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+錯誤——已呼叫 1000
+
+RefuseQuest:  [1001]
+錯誤——已呼叫 1001
+
+AcceptQuest:  [1002]
+錯誤——已呼叫 1002
+
+QuestFail:  [1003]
+<ce> 錯誤——已呼叫 1003
+
+QuestComplete:  [1004]
+<ce> 當 =bloodfather_ 死去時，你感到吸血鬼詛咒
+<ce> 從靈魂中消散。
+<ce> 你不再是吸血鬼了。
+
+RumorsDuringQuest:  [1005]
+<ce> _hunter_ 即將在 %reg 發動新一輪清剿吸血鬼的聖戰。
+<ce> 也許到時候我們又能在夜間走上街頭而不必害怕了。
+
+RumorsPostfailure:  [1006]
+<ce>_hunter_ 和 %g3 手下在 %reg 殺了不少吸血鬼，但我懷疑
+<ce> 他們並沒趕盡殺絕。
+                                     <--->
+<ce> _hunter_ 不該沒事找事。%G3 聖戰只會把吸血鬼趕進暗處，
+<ce> 等 %g 一走，牠們回來時會比以前更強。
+
+RumorsPostsuccess:  [1007]
+<ce>_hunter_ 和 %g3 手下在 %reg 殺了不少吸血鬼，但我懷疑
+<ce> 他們並沒趕盡殺絕。
+                                     <--->
+<ce> _hunter_ 不該沒事找事。%G3 聖戰只會把吸血鬼趕進暗處，
+<ce> 等 %g 一走，牠們回來時會比以前更強。
+
+QuestorPostsuccess:  [1008]
+錯誤——已呼叫 1008
+
+QuestorPostfailure:  [1009]
+錯誤——已呼叫 1009
+
+Message:  1011
+_hunter_ 走遍泰姆瑞爾，搜尋並消滅吸血鬼。
+<--->
+_hunter_ 把 %g3 一生奉獻給獵殺吸血鬼。
+
+Message:  1012
+<ce>聽說 _hunter_ 自己的父親是被吸血鬼殺害的。那就是
+<ce> 驅使 %g2 對牠們懷有狂熱仇恨的原因。
+                                     <--->
+<ce> _hunter_ 在自己的父親變成吸血鬼後親手殺了他。
+<ce> 這才叫真正的狂熱分子！
+
+Message:  1020
+                       %qdt
+ 
+ 親愛的 %vam 的 %pcn：
+ 
+    容我自我介紹。我是 _hunter_。
+ 你或許聽過我——那位著名的吸血鬼獵人？
+ 不過，請先別急著對我下判斷。
+ 我還不是你的敵人，至少現在還不是。
+ 我固然深惡痛絕吸血鬼詛咒，並把一生
+ 奉獻給在泰姆瑞爾根除此等黑暗瘟疫，
+ 但我明白許多人像你一樣只是無辜受害者。
+ 求生本身並非邪惡，而我總會給獵物一次機會，
+ 證明他們的血腥作為出於必要，而非嗜殺。
+    我敢肯定你的「親族」沒告訴過你：
+ 吸血鬼詛咒是可以治癒的。要做到這一點，
+ 你必須殺掉你的「血脈之父」——創造出
+ 延續到你這一脈吸血鬼的遠古邪惡。
+ 如此一來，你不僅能解救自己，
+ 也能為 %reg 切除心腹之患。
+ 
+<ce> （續）
+ 
+    我本人並不知道你的「血脈之父」身在何處，
+ 但我的線報指出，%vam 中有一位高層應掌握此訊：
+ ___vamp1_ 的 _vamp1_。我會等待
+ =huntstart_ 天再對 %reg 的吸血鬼動手，
+ 好給你自救的機會。
+    好好考慮我的提議，%pcn。你有
+ =huntstart_ 天，然後你和其餘的 %vam
+ 都會像害蟲一樣被獵殺。
+ 
+<ce> _hunter_
+
+Message:  1021
+<ce> 你要向 _vamp1_
+<ce> 出示 _hunter_ 的信嗎？
+
+Message:  1022
+<ce> 你把這封信帶來，做得很好，
+<ce> %pcn。_hunter_ 多年來一直是
+<ce> %vam 的禍害。有了這次預警，
+<ce> 我們能挽救許多親族的性命。
+<ce> 別低估你所面臨的危險，
+<ce> %pcf。_hunter_ 既殘忍又幹練，
+<ce> %g3 間諜無處不在。%G 會是
+<ce> %vam 的絕佳成員——也許 %g
+<ce> 終有一天會加入。無論如何，%g 知道你的
+<ce> 名字，別懷疑 %g 會兌現 %g3 的威脅。
+<ce> 願黑夜護佑你。
+
+Message:  1023
+<ce> %pcn，對吧？我從其餘的 %vam
+<ce> 聽過不少關於你的好話。
+<ce> 所以，你想找到自己的血脈之父。
+<ce> 這份渴望可以理解，雖然如此特權
+<ce> 通常不會賜予你這般年輕的成員。
+<ce> 不過，你在 %vam 已有如此進展，
+<ce> 我相信可以破例。讓我想想，
+<ce> 他必定是 =elder_ 或 =bloodfather_。
+<ce> 你可以分別在 ___wrongdung_ 與
+<ce> ___fatherdung_ 找到他們。
+<ce> 不過我勸你別輕易打擾長老的隱居。
+<ce> 最好先去找 ___vamp2_ 的 _vamp2_。
+<ce> %G 是血脈守護者，能確切告訴你
+<ce> %vam 的哪一位長老才是你的血脈之父。
+<ce> 把這只手鐲帶給 %g2，%g 就會知道是我派你來的。
+
+Message:  1024
+<ce> 哼。把這種情報託付給你，未免太年輕了。
+<ce> 不過，既然你帶著 _vamp1_ 的信物，
+<ce> 我就告訴你：你的血脈之父 =bloodfather_
+<ce> 住在 ___fatherdung_ 的巢穴裡。
+<ce> 要知道，每年這個時節，長老們
+<ce> 不喜歡被任何人打擾。
+<ce> 擅闖 =bloodfather_ 的獨處，後果自負。
+
+Message:  1025
+<ce> 血脈叛徒！我們已知悉你的背叛。
+<ce> 你永遠找不到 =bloodfather_，
+<ce> 不過別擔心，你作為 %vam 一員的日子
+<ce> 即將結束。_hunter_
+<ce> 不必再親自來獵你。
+
+Message:  1030
+<ce> 乳臭未乾的東西，別打擾我的冥想！
+<ce> 滾吧，否則飢餓會迫使我殺了你！
+
+Message:  1031
+<ce> 你已殺死 %vam 的長老
+<ce> =elder_。
+
+Message:  1032
+<ce> %pcn，你的血在呼喚我。
+<ce> 為何要動手傷害自己的父親？
+<ce> %vam 以死懲罰弒父。
+<ce> 別逼我親自執行這道判決。
+<ce> 逃吧，我的孩子！
+
+Message:  1040
+<ce> _hunter_ 說我會在這兒找到你。
+<ce> 去死吧，夜行者！
+
+QuestTimeLapse:  [1045]
+<ce> 背包裡一件陌生的東西引起你的注意。
+<ce> 那是一封信，以優雅流暢的字跡寫給你。
+<ce> 它是怎麼出現在那兒的？
+
+Message:  1050
+%qdt:
+ 吸血鬼獵人 _hunter_
+ 寄來一封信，揚言除非我殺掉
+ 血脈之父以治癒吸血鬼詛咒，
+ 否則就要獵殺我。
+ _hunter_ 不知道我的血脈之父
+ 是誰、身在何處，但 %g 建議
+ ___vamp1_ 的 _vamp1_
+ 或許知情。
+ 我有 =huntstart_ 天，之後獵殺就會開始。
+
+Message:  1051
+%qdt:
+ _vamp1_ 認為我的血脈之父
+ 住在 ___wrongdung_ 或
+ ___fatherdung_，但勸我把
+ %g3 手鐲帶給 __vamp2_、___vamp2_
+ 的 _vamp2_，對方能確切告訴我
+ 該去哪裡找他。
+
+Message:  1052
+%qdt:
+ _vamp2_ 告訴我，我的血脈之父
+ 名叫 =bloodfather_，住在
+ ___fatherdung_。

@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\C0B10Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 10
+-- QuestId: 7
+Messages: 12
+Quest: C0B10Y07
+DisplayName: 遞送
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       願祝福加於你身，%pcn。
+<ce>                       __qgiver_需要你為我們跑一趟差。
+<ce>                         這_religitem_必須在=traveltime_天內
+<ce>                       送到___priest_。你會收到
+<ce>                       _gold_金幣的神殿酬金。
+<ce>                           你能為我們做這事嗎？
+
+RefuseQuest:  [1001]
+<ce>                      唉。我得另找神殿僕人來做這差事。
+
+AcceptQuest:  [1002]
+<ce>                       這是_religitem_。
+<ce>                          把它交給___priest_的__priest_
+<ce>                      之_priest_。哦，差點忘了說，
+<ce>                        敵對神殿可能會派打手來阻止你。
+
+QuestComplete:  [1004]
+<ce>                         願%god的恩寵加於你身，%pcn。
+<ce>                         這_religitem_此處急需。
+<ce>                       我知道你該得到_gold_金幣的神殿酬金。
+
+RumorsDuringQuest:  [1005]
+前幾天我長了個膿瘡……不過已經好了。
+<--->
+我剛跟人聊了三個鐘頭的天氣。
+<--->
+這時節的天氣還算平常。
+<--->
+以這個時節來說，%cn好像有點涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我祖姑要去灣對岸看專科醫生。
+<--->
+這附近天黑的時間總是讓人覺得奇妙。
+<--->
+我們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一則超棒的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有優點也有缺點。
+
+RumorsPostfailure:  [1006]
+__qgiver_一直在咒罵%pcn這個名字。
+
+RumorsPostsuccess:  [1007]
+_priest_似乎對來自__qgiver_的%g3禮物很滿意。
+
+QuestorPostsuccess:  [1008]
+_priest_向你致意，%pcf。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+若我跟你說話，_priest_永遠不會原諒我。
+
+QuestLogEntry:  [1010]
+%qdt:
+ __qgiver_的_qgiver_託付我把
+ _religitem_送到___priest_的__priest_
+ 之_priest_那裡。必須在=traveltime_天內送達。
+
+Message:  1011
+<ce>                         那_religitem_永遠到不了
+<ce>                      __priest_。相反，我要把你的頭
+<ce>                        給他們送去！

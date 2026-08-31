@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 0
+Messages: 81
+Quest: M0B00Y00
+DisplayName: 獵殺獸化生物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我們有件小差事，你或許會有興趣。
+<ce> 好像有隻「魯普」——就是你說的
+<ce> 狼人、豬人，或某種獸化野獸——
+<ce> 一直在騷擾這一帶的農夫，
+<ce> 我們需要有人去殺了它。這能讓你
+<ce> 口袋裡多 _reward_ 金幣。聽起來
+<ce> 有意思嗎？
+
+RefuseQuest:  [1001]
+<ce> 行。那就得找別人去幹了。
+
+AcceptQuest:  [1002]
+<ce> 太好了。那隻魯普在
+<ce> ___mondung_。我們要那可憐
+<ce> 畜生在 =1stparton_ 天內死掉，所以
+<ce> 你最好上路了，小子。
+
+QuestFail:  [1003]
+<ce> 魯普對你來說太難了，小子，還是
+<ce> 你根本沒試？唉，反正它大概已經
+<ce> 走了。可惜。
+
+QuestComplete:  [1004]
+<ce> 幹得好，魯普殺手。好好花你的金幣吧。
+
+RumorsDuringQuest:  [1005]
+聽說這一帶有隻狼人在亂跑。
+<--->
+聽說那豬人在名叫 ___mondung_ 的地方找到了巢穴。
+<--->
+昨晚你聽見那嚎叫了嗎？像狼嚎？
+
+RumorsPostfailure:  [1006]
+狼人還真是遊牧民族，我猜。聽說我們的魯普往南去了。
+<--->
+我表親說，我們的豬人在南邊不遠處被人看見。
+
+RumorsPostsuccess:  [1007]
+聽說他們發現那獸化東西白天是個祭司！
+<--->
+很多人知道那獸化野獸死了，覺得安全多了。
+<--->
+你聽說有個 %ra 把那狼人獵殺了嗎？
+
+QuestorPostsuccess:  [1008]
+<ce> 謝謝你處理掉那獸化傢伙，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce> 滾出去。你真可悲。
+<ce> 連一隻狼人都應付不了。
+
+Message:  1020
+<ce> 獸化生物的威脅結束了。
+
+Message:  1021
+<ce> 這一定就是人人害怕的
+<ce> 「獸化野獸」。不過是
+<ce> 一隻普通灰熊。
+
+Message:  1030
+%qdt:
+ ___questgiver_ 的戰士公會雇我
+ 去殺死一隻麻煩的狼人、豬人，
+ 或別的什麼，就在它的巢穴
+ ___mondung_。那野獸必須在
+ =1stparton_ 天內死掉，我才能領酬。
+
+Message:  1080
+<ce> 這是一張通往名叫
+<ce> ___newdung_ 之地的地圖。
+<ce> 殺戮與寶藏隨你享用。
+<ce> 盡情去吧。

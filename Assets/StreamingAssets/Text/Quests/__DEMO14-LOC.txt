@@ -1,0 +1,19 @@
+---- Example quest to demonstrate dialog linked resources and
+---- add dialog to reveals anyinfo message
+---- anyInfo message for person is available from start since no dialog link was established
+---- so player can ask about where person can be found (via tell me about)
+---- anyInfo message for item is hidden because dialog link was established
+---- will be revealed once player clicked npc via add dialog
+
+Quest: __DEMO14
+
+QRC:
+
+Message:  1011
+_someperson_ 可以在 _tavern_ 找到。
+
+Message:  1012
+這是關於物品資源的簡短資訊訊息……
+
+Message:  1013
+你該四處打聽 _someitem_……

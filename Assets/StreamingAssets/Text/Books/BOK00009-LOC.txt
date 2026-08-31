@@ -1,5 +1,5 @@
-Title: The Old Ways
-Author: Celarus
+Title: 古道
+Author: 塞拉魯斯
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,24 +8,24 @@ Content:
 
 [/font=2]
 
-[/center]The Old Ways:
+[/center]古道：
 
-[/center]The Customs and Philosophy
+[/center]莊重而忠誠之
 
-[/center]of Grave and Faithful
+[/center]議會的
 
-[/center]Council
+[/center]習俗與哲學
 
 [/font=4]
 
- We who know the Old Ways are well aware of the existence of a spiritual world invisible to the unenlightened. Just as one living in a kingdom but unaware of the political machinations may see a new tax or battle preparation as capricious fortune, many observe floods, famines, and madness with helpless incomprehension. This is deplorable. As the great Cuilean Darnizhaan moaned, "The power of ignorance can truly shatter mithril like glass."
+ 我們這些通曉古道的人，深知存在一個未開悟者看不見的靈性世界。正如住在王國裡卻不知政治謀略的人，會把新稅或備戰看成反覆無常的運氣，許多人面對洪水、饑荒與瘋狂，只能無助地茫然不解。這是可悲的。正如偉大的奎利安·達尼贊所哀嘆：「無知的力量，真能把秘銀擊碎如玻璃。」
 
- What, after all, is the origin of these spiritual forces that move the invisible strings of Mundus? Any neophyte of Artaeum knows that the spirits are our ancestors, and that, while living, they too were bewildered by the spirits of their ancestors, and so on to the original Acharyai. The daedra and gods the common people turn to are no more than the spirits of superior men and women whose power and passion granted them great influence in the phantom world. Certainly, this is our truth and our religion, but how does it help us in our sacred duty to seliffrnsae, or "provide grave and faithful counsel"?
+ 畢竟，那些撥動凡世無形之弦的靈性力量，其源頭是什麼？任何阿塔耶姆的新手都知道，那些靈是我們的祖先；而他們活著時，也曾被他們祖先的靈所迷惑，如此上溯至原初的阿卡萊。常民所求助的迪德拉與諸神，不過是卓越男女的靈，其力量與激情賦予他們在幻影世界中巨大的影響力。這當然是我們的真理與我們的宗教，可它如何幫助我們履行神聖職責——塞利夫恩薩，亦即「提供莊重而忠誠的諫言」？
 
- Firstly, we can easily grasp the necessity of both bringing good men great power and making powerful men good. We recognize the multiple threats that a strong tyrant represents -- he breeds cruelty which feeds the daedra Boethiah and hatred which feeds the daedra Vaernima; if he should he die performing a particularly malevolent act, he may go to rule in Oblivion; worst of all, he inspires other villians to power and other rulers to villiany. Knowing this, we have developed patience in our dealings with such despots. They should be crippled, humiliated, impoverished, imprisoned. Other counselors than we may advocate assassination or warfare, which, aside from its spiritual significance, is expensive, aleatric, and likely to cause at least as much pain to innocents as the brutish dictator was inflicting. No, we are intelligence gathers, dignified diplomats, not revolutionaries.
+ 首先，我們很容易把握這一必要：既要使好人握有大權，也要使掌權者為善。我們認清強權暴君所代表的多重威脅——他滋生殘忍，餵養迪德拉博耶西亞；滋生仇恨，餵養迪德拉維爾米納；若他在施行特別惡毒之舉時死去，他可能去湮滅中為王；最糟的是，他激勵其他惡徒去掌權，也激勵其他統治者去作惡。明白這一點，我們在與這類專制者打交道時便養成了耐心。應當使他們殘廢、受辱、貧窮、入獄。我們以外的諫者或許主張暗殺或戰爭——且不論其靈性意義，那既昂貴、又無常，而且很可能給無辜者帶來至少與那野蠻獨裁者所施加的一樣多的痛苦。不，我們是情報的蒐集者、有尊嚴的外交官，不是革命者。
 
- How, then, are our counselors "faithful"? We are faithful only to the Old Ways -- it is essential always to remember the spiritual world in watching our world. Performing the Rites of Moawita on the 2nd of Hearth Fire and the Vigyld on the 1st of Second Seed are essential means of empowering the salutary ghosts and debilitating the unclean spirits. How, then, are we faithful to those we counsel and to the Isle of Artaeum?
+ 那麼，我們的諫者如何「忠誠」？我們只忠誠於古道——在注視我們這個世界時，始終記住靈性世界，至關重要。在爐火月2日舉行莫阿維塔儀式，在次種月1日舉行維吉爾德，是強化有益亡靈、削弱不潔之靈的必要手段。那麼，我們又如何忠誠於我們所諫之人，以及阿塔耶姆島？
 
- Perhaps the sage Taheritae said it best: "In Mundus, conflict, disparity is what brings change, and change is most sacred of all the eleven forces. Change is the force without focus or origin, and it is the duty of the disciplined Psijic (enlightened one) to dilute change where it brings greed, gluttony, sloth, ignorance, prejudice, cruelty ... (Taheritae lists the 111 Prodigalities) ... and to encourage change where it brings excellence, beauty, happiness, and enlightenment. As such, the faithful counsel has but one master, his mind. If the man the Psijic counsels acts wickedly and brings oegnithr ("bad change") and will not be counselled, it is the Psijics duty to counterbalance the oegnithr by any means necessary."
+ 或許賢者塔赫里塔說得最好：「在凡世，衝突與差異帶來變化，而變化是十一種力量中最為神聖的。變化是沒有焦點、沒有源頭的力量，有紀律的賽伊克（開悟者）有責任在變化帶來貪婪、暴食、懶惰、無知、偏見、殘忍時加以稀釋……（塔赫里塔列出一百一十一種浪蕩）……並在變化帶來卓越、美、幸福與啟蒙時加以鼓勵。因此，忠誠的諫者只有一位主人：他自己的心智。若賽伊克所諫之人行事邪惡，帶來厄格尼瑟（『惡變』）且不肯受諫，賽伊克便有責任以任何必要手段去制衡那厄格尼瑟。」
 
- A student of the Old Ways may indeed vassal himself to a lord, but it is a risky relationship. Should the lord refuse wise counsel and order the Psijic (to use Taheritae's out-moded word) to perform an act contrary to the teachings of the Old Ways, there are few available options. The Psijic may abandon his lord, which will bring shame on him and the Isle of Artaeum, and so may never be allowed home again. The Psijic may also kill himself.
+ 古道的學生確實可以委身於一位領主，但這是危險的關係。若領主拒絕明智的諫言，並命令賽伊克（用塔赫里塔過時的詞）去做違背古道教導之事，可供選擇的路很少。賽伊克可以拋棄他的領主，這會給他和阿塔耶姆島帶來恥辱，從此或許永遠不得返鄉。賽伊克也可以自殺。

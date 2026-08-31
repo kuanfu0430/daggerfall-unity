@@ -1,0 +1,96 @@
+-- Quest: C:\QUESTS\WORKING\R0C11Y27.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 11
+-- QuestId: 27
+Messages: 13
+Quest: R0C11Y27
+DisplayName: 特殊物質
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 不知道你能不能幫我一個小忙。你看，
+<ce>                 我有個朋友需要某批特定物質在特定時間送到。
+<ce>                 我想我說得很明白了。
+<ce>               若酬勞是，比方說，_reward_ 金幣，
+<ce>             你有空接這差事嗎？
+
+RefuseQuest:  [1001]
+<ce>                   嗯，我確實很失望。
+<ce>                  我本指望你更熱衷一些。
+<ce>                     唉，想必是這年頭滋生了怠惰。
+
+AcceptQuest:  [1002]
+<ce>                  那麼，你有空。這可太好了，我得說。
+<ce>                 好了，這是個什麼玩意兒，一件 _item1_。
+<ce>                 需要交給我認識的一名煉金術士，
+<ce>                      名叫 _npc1_。
+<ce>                       你會在 ___npc1_ 的 __npc1_
+<ce>                       找到%g2。運氣好的話，%g
+<ce>                會有東西讓你帶給我的朋友 _npc2_。
+<ce>                        好了，你該走了。_npc1_
+<ce>                     告訴我%g需要在 =1stparton_ 天或更短時間內
+<ce>                      拿到 _item1_。
+<ce>                   謝謝你，一路順風。
+
+QuestFail:  [1003]
+<ce>                等你完成差事，我們會有大把時間再聊。
+
+QuestComplete:  [1004]
+<ce>                   %oth，我還在想你什麼時候到。
+<ce>                        你是%pcf？
+<ce>                            我是 _npc2_，而
+<ce>                    那件，我想，就是我的 _item2_。
+<ce>                  若你以前沒試過，真該試試。效果如登天。
+<ce>               總之，這是你的 _reward_ 金幣。
+<ce>                          多謝了，%pcf。
+<ce>                          你真是救命恩人。
+
+RumorsDuringQuest:  [1005]
+聽說 _npc2_ 是 _item2_ 成癮者，但我沒見過證據。
+<--->
+他們說要調出一劑好的 _item2_ 很難，得研究好幾年。
+
+RumorsPostfailure:  [1006]
+原來 _npc2_ 果然是 _item2_ 成癮者。他們抓到%g2在買。
+<--->
+不知道是誰在給那個 _npc1_ 供應%g需要的材料。
+
+RumorsPostsuccess:  [1007]
+_npc2_ 終於等到了那批貨。開心得像隻鷹身女妖。
+<--->
+_questgiver_ 對某個%ra傭兵似乎很滿意，卻不肯說為什麼。
+
+QuestorPostsuccess:  [1008]
+那趟運送你辦得很好，我的朋友。我能為你做什麼？
+<--->
+%oth，很高興再見到你，%pcf。那件……小事你辦得不錯。
+
+QuestorPostfailure:  [1009]
+<ce>                      我記得，你搞砸了我上次給你的差事。
+<ce>                     我看現在沒必要再跟你談。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我正把一件 _item1_ 帶給
+ ___npc1_ 的 __npc1_ 的 _npc1_，
+ 以換取 _questgiver_ 想交給第三方的某件物品。
+ 我有 =1stparton_ 天完成這趟運送的第一段。
+
+Message:  1011
+%qdt:
+ _npc1_ 派我繼續前往
+ ___npc2_ 的第三方 _npc2_，帶著一些
+ _item2_。我會認出 _npc2_
+ 是 __npc2_ 的 =npc2_，
+ 前提是我在 =2ndparton_ 天內把東西交到%g2手上。
+
+Message:  1012
+<ce>                      漂亮，%pcf，漂亮。現在，
+<ce>                        這是需要交給 ___npc2_
+<ce>                      的 __npc2_ 的 _npc2_ 的
+<ce>                      _item2_。別磨蹭，%pct。
+<ce>                     _npc2_ 需要在 =2ndparton_
+<ce>                             天或更短時間內拿到。

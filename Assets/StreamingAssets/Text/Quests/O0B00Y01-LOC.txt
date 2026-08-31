@@ -1,0 +1,111 @@
+-- Quest: C:\QUESTS\WORKING\O0B00Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 0
+-- QuestId: 1
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 31
+Quest: O0B00Y01
+DisplayName: 軍火補給
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                    好啦，%pcf，這差事簡單。
+<ce>                你不該有麻煩。你只要把這件
+<ce>               _weapons_ 帶給咱們在 ___contact_ 的
+<ce>                          線人，拿回 %g3
+<ce>                   付款，再帶回來。
+<ce>                    你應付得來吧，%pcf？
+
+RefuseQuest:  [1001]
+<ce>                   不要？你還想要多簡單的差事？
+<ce>                   站著讓我拿鰻魚抽你？
+<ce>                    那倒也不壞！
+<ce>                          %oth，真是浪費。
+
+AcceptQuest:  [1002]
+<ce>                     那好，你的接頭人是個
+<ce>                            =contact_，
+<ce>                   跟你想的差不多。應該在
+<ce>                       ___contact_ 一處叫
+<ce>                       __contact_ 的角落晃。
+<ce>                           現在，_contact_
+<ce>                    在 ___contact_ 外頭撈了些贓物，
+<ce>                         要你帶回來給咱們。
+<ce>                   若你覺得自己應付得來，我們
+<ce>                期望你在 =1stparton_ 天內回來，
+<ce>                  別找藉口。好了。去吧。
+
+QuestFail:  [1003]
+<ce>                    對，你回來了，可 _contact_
+<ce>                           的贓物呢？
+<ce>                   你該不會想在咱們面前耍聰明吧，
+<ce>                      %pcf？
+<ce>                    若是的話，再想一遍。
+
+QuestComplete:  [1004]
+<ce>                       喔，這顆 _gems_ 不錯。
+<ce>                           _contact_ 給你的？
+<ce>                      %oth，%g 在 ___contact_
+<ce>                        混得還行嘛。
+<ce>                        幹得好，%pcf。這是
+<ce>                    你的辛苦費 _reward_ 金幣。
+
+RumorsDuringQuest:  [1005]
+城衛這些天盯帶武器的人盯得像老鷹。
+<--->
+%t 顯然怕遇刺。衛兵傾巢而出。
+
+RumorsPostfailure:  [1006]
+他們抓了某個 =contact_。顯然 %g 是軍火販子。
+<--->
+盜賊公會沒那麼厲害。他們有人在 __contact_ 被抓了。
+
+RumorsPostsuccess:  [1007]
+聽說他們在走私 _weapons_。那可得有膽子。
+<--->
+%t 曾對盜賊公會的走私疑神疑鬼，不過現在 %g 不鬧了。
+
+QuestorPostsuccess:  [1008]
+嗯，你想怎樣，%pcf？該不會想把 _gems_ 要回去吧？
+
+QuestorPostfailure:  [1009]
+<ce>               你要是沒從 _contact_ 那兒帶東西回來，
+<ce>                  我沒興趣跟你說話，%pcf。
+
+QuestLogEntry:  [1010]
+<ce>                      幹得好，%pcf。我帶著那件
+<ce>                  _weapons_ 可沒這麼輕鬆到得了這兒。
+<ce>                   這是我目前偷到的樣本……一顆
+<ce>                  _gems_。帶回去給 _questgiver_，
+<ce>                   讓 %g2 知道我沒事。再次謝謝你，
+<ce>                      %pcf。回見。
+
+Message:  1020
+<ce>                       以 %nrn 之名站住！
+<ce>                        我知道你在走私武器。
+<ce>                       投降，否則承擔後果。
+
+Message:  1021
+<ce>                      聽說你在為盜賊公會
+<ce>                       走私 _weapons_。
+<ce>                       交給我，我就饒你一命。
+
+Message:  1022
+<ce>                       我們要那些 _weapons_。
+<ce>                         交出來，我們就
+<ce>                      不會把你打得太慘。
+
+Message:  1023
+<ce>                      趁你還沒受傷，
+<ce>                             快滾。
+
+Message:  1030
+%qdt:
+ ___questgiver_ 盜賊公會的
+ _questgiver_ 要我把這件 _weapons_
+ 交給 ___contact_ 的 __contact_ 的
+ _contact_，然後對方會給我一些贓物帶回來。
+ 我有 =1stparton_ 天完成這差事。

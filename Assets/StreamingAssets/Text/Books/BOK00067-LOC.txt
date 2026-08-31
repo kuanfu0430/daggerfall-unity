@@ -1,5 +1,5 @@
-Title: The Ebon Arm
-Author: Witten Rol
+Title: 黑檀之臂
+Author: 維滕·羅爾
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,19 +8,19 @@ Content:
 
 [/font=2]
 
-[/center]The Ebon Arm
+[/center]黑檀之臂
 
 [/font=4]
- The ground shakes. The great armies continue to wage their unrelenting battle. The battlefield is red, the rivers flow crimson, the sky reflects a deep pink. In the distance lightning flashes, and thunder sounds. Two huge ravens begin circling the field; their blackness is vibrant against the various shades of red in this vista of death and suffering. The bright flashes of light and rumbling begin to increase. The redness surrounding the battlefield begins giving way to a golden glow from the east, almost like a summer's setting sun. From the false sunset a massive golden stallion and single rider approach. All become suddenly still on the field of battle as both sides recognize Reymon Ebonarm, God of War, and the companion and protector of all warriors, also known as the Black Knight and his mighty steed War Master.
+  大地震動。兩支大軍繼續進行毫不停歇的戰鬥。戰場是紅色的，河流流淌猩紅，天空映出深粉。遠處電光閃爍，雷聲響起。兩隻巨大的渡鴉開始在戰場上空盤旋；在這片死亡與苦難的赤紅景象中，它們的漆黑顯得格外鮮明。明亮的閃光與轟鳴逐漸增強。籠罩戰場的赤紅開始讓位給東方一道金色光輝，幾乎像夏日的落日。從那虛假的日落中，一匹巨大的金色牡馬與一名騎手駛來。戰場上忽然萬籟俱寂，雙方都認出雷蒙·黑檀臂——戰爭之神、所有戰士的同伴與守護者，亦稱黑騎士——以及他的神駒戰主宰。
 
- He rides into the middle of the blood soaked field and dismounts. He is a very imposing figure. His very tall and heavily muscled body is encased in ebony armor. His ebony helmet does not hide the flowing reddish blonde hair and beard which appear almost as shimmering gold, nor does it shield the steel blue eyes that seem to pierce all they fall upon. In his left hand he carries a massive ebony tower shield on which is emblazoned a fiery red rose. As he raises his right arm, all see an arm and a magnificent ebony blade which are extensions of each other. The fused arm and sword are a result and symbol of the wounds suffered by this god during titanic battles in the youth of this world.
+  他騎入浸透鮮血的戰場中央，下馬。他的身形極具威壓。非常高大、肌肉飽滿的身軀裹在黑檀鎧甲裡。黑檀頭盔遮不住那幾乎如閃耀黃金的赤金長髮與鬍鬚，也擋不住那雙似乎能洞穿所及一切的鋼藍眼眸。左手他持一面巨大的黑檀塔盾，盾上紋有一朵火紅玫瑰。當他舉起右臂，眾人看見一條手臂與一柄宏偉的黑檀刃，彼此是對方的延伸。這融合的臂與劍，是這位神祇在世界幼年的巨戰中所受創傷的結果與象徵。
 
- The ravens come to rest on his shoulders. And, as the point of the ebony blade seemingly touches the sky, lightning flashes, thunder roars. Then total quiet descends and a shudder rolls through both armies.
+  渡鴉停在他肩上。當黑檀刃尖彷彿觸及天空，電光閃爍，雷聲咆哮。隨後全然寂靜降臨，一陣戰慄滾過兩軍。
 
- The leaders of both armies approach Reymon Ebonarm and kneel. In turn they tell their reasons for this war. Each asks for the favor of the Black Knight for their cause. Reymon Ebonarm listens, but there is no acknowledgment that he has chosen to favor one side or the other in this fight. However, each of the leaders has heard the other state his position. And, each now knows that this war is baseless. They embrace and turn to their armies. They instruct their forces to bury their dead, tend their wounded and return to their homes.
+  雙方將領走向雷蒙·黑檀臂，跪下。他們輪流陳述這場戰爭的緣由。各自請求黑騎士眷顧己方的事業。雷蒙·黑檀臂聽著，卻無任何表示他已選擇偏袒這場戰鬥的任何一方。然而，每位將領都聽見對方陳述立場。如今他們都知道，這場戰爭毫無根基。他們擁抱，轉向各自的軍隊。他們吩咐部下埋葬死者、照料傷者、返回家園。
 
- Reymon Ebonarm mounts his great golden stallion, War Master, and again raises the ebony blade skyward and extends the huge rose emblazoned ebony shield to both armies. A massive chorus of cheers rises from the armies. The ravens again take to the air. Lightning and thunder follow him as he rides into the sunset followed by the two birds.
+  雷蒙·黑檀臂跨上巨大的金色牡馬戰主宰，再次將黑檀刃舉向天空，把那面紋有玫瑰的巨大黑檀盾伸向兩軍。軍隊中爆發出巨大的歡呼合唱。渡鴉再次起飛。電光與雷鳴追隨他駛入日落，兩隻鳥跟在身後。
 
- The armies do as they have been bidden. They care for their wounded and bury their dead. As they retreat towards their homes each warrior is sure that the great God Reymon Ebonarm, the Black Knight, has responded to their individual prayers for intervention. Each side has won, neither has lost.
+  軍隊依命而行。他們照料傷者，埋葬死者。當他們朝家園撤退時，每個戰士都確信偉大的雷蒙·黑檀臂神、黑騎士，已回應了他們各自祈求干預的禱告。雙方都贏了，沒有任何一方輸掉。
 
- As the armies depart the field, the rivers begin to run clear, and a single red rose begins to bloom near the grave of a fallen hero.
+  軍隊離開戰場後，河流開始變得清澈，一朵紅玫瑰開始在一位隕落英雄的墳旁綻放。

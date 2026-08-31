@@ -1,0 +1,113 @@
+-- Quest: C:\QUESTS\WORKING\L0B00Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 0
+-- QuestId: 2
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 16
+Quest: L0B00Y02
+DisplayName: 討厭的競爭
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %reg 裡又有一群刺客在萌芽，
+<ce> 必須在開花前碾碎。
+<ce> 我要你進去，了結那名刺客，
+<ce> 然後再了結下令暗殺的那人。
+<ce> 你有時間做這件事，對吧？
+                                      <--->
+<ce> 自第二紀元起，黑暗兄弟會就是
+<ce> 泰姆瑞爾唯一的刺客公會。我們
+<ce> 打算保住這份壟斷。有個
+<ce> 獨行刺客囂張了好些時候，但
+<ce> =assassin_ 的運氣
+<ce> 到頭了。我要你給 %g2 上一堂
+<ce> 永遠忘不了的課，然後再把這課
+<ce> 重複教給 %g3 愚蠢的雇主。
+
+RefuseQuest:  [1001]
+<ce> 不？真奇怪，也真令人不安。
+
+AcceptQuest:  [1002]
+<ce> 很好。我們知道那名刺客
+<ce> =assassin_
+<ce> 已把獵物追到一處名叫
+<ce> ___mondung_ 的地城。
+<ce> 若你找不到雇主下落的線索，
+<ce> 就回到這裡。當然，我更希望
+<ce> 你把 =assassin_
+<ce> 和 %g3 雇主一併了結，但
+<ce> 光是獨行刺客的死，我也
+<ce> 算相當滿意。兩筆了結
+<ce> 都別超過 =queston_ 天。
+
+QuestComplete:  [1004]
+<ce> 出色，%pct。我們本來
+<ce> 只要除掉 =assassin_ 就高興了，
+<ce> 但現在 =boss_ 的
+<ce> 熟人會明白：黑暗
+<ce> 兄弟會對業餘競爭可沒好臉色。
+
+RumorsDuringQuest:  [1005]
+那個 =assassin_ 在 %reg 當獨行刺客已經好幾年了。
+<--->
+=assassin_ 不是這行最頂尖的，但 %g 熱情十足。
+
+RumorsPostfailure:  [1006]
+=assassin_ 正好證明你可以在兄弟會之外幹這行。
+<--->
+看來兄弟會擋不住泰姆瑞爾所有的獨行刺客。
+
+RumorsPostsuccess:  [1007]
+=boss_ 以為雇 =assassin_ 能省幾枚金幣……白痴。
+<--->
+用兄弟會以外的刺客根本划不來，去問 =boss_ 就知道。
+
+QuestorPostsuccess:  [1008]
+近來如何，弒殺叛逃 _assassin_ 之人？
+
+QuestorPostfailure:  [1009]
+<ce> 你就是那個連 =assassin_ 這種
+<ce> 笨手笨腳的獨行刺客都了結不了的
+<ce> 廢物暴徒。我幹嘛把氣浪費在你身上？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 黑暗兄弟會的 _qgiver_
+ 派我去拜訪一名競爭刺客 =assassin_。
+ %g 正在 ___mondung_ 執行契約。
+ 若我能找到 =assassin_ 雇主的線索，
+ 也要把那人了結。無論如何，這整樁
+ 血腥差事都得在 =queston_ 天內完成。
+
+Message:  1011
+殺了 %n 之後，
+ 到 %reg 荒野的
+ ___stronghold_ 來領賞。
+  
+  
+  =boss_
+
+Message:  1012
+%qdt:
+ 我在 =assassin_ 的屍體上找到一張字條。
+ %G3 雇主是 =boss_，%g3
+ 據點在 ___stronghold_。
+
+Message:  1013
+<ce> 你已殺死 =assassin_。
+<ce> 兄弟會會感到滿意。
+
+Message:  1014
+<ce> =boss_ 已與 %g3 雇員作伴。
+<ce> 兄弟會會感到滿意。
+
+Message:  1015
+<ce> 我們本來更希望你把
+<ce> =assassin_ 的
+<ce> 老闆也了結。不過知道
+<ce> =assassin_ 再
+<ce> 不能算是競爭對手，
+<ce> 也就夠了。

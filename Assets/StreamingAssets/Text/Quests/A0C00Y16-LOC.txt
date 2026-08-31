@@ -1,0 +1,112 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y16.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 16
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 55
+Quest: A0C00Y16
+DisplayName: 失蹤人口案
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我叫 _questgiver_。能幫我找我的朋友嗎？我只能付你 _gold_ 金幣。
+                                     <--->
+<ce> 拜託幫我。我的朋友 _missingperson_ 失踪了。我擔心 %g 可能受傷。
+<ce> 若你找到 %g2，我會付你 _gold_ 金幣。
+
+RefuseQuest:  [1001]
+<ce> 日安，%ra。我會另找別人。
+                                     <--->
+<ce> 難道沒人願意幫我嗎？
+                                     <--->
+<ce> 萬分抱歉。我誤把你當成英勇的冒險者了。
+
+AcceptQuest:  [1002]
+<ce> 我的祈禱應驗了。_missingperson_ 已經四天沒人看見，我非常擔心 %g2。
+<ce> %G 曾被人看見與 _friend1_ 和 _friend2_ 來往。你不妨從他們開始。
+<ce> 若兩天內找不到 _missingperson_，就不必再找了。
+
+QuestComplete:  [1004]
+<ce> 這是我答應你的 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說 _questgiver_ 正瘋狂尋找 _missingperson_。
+
+RumorsPostfailure:  [1006]
+<ce> 好幾天沒人見過 _missingperson_ 了。%G 已被當成死人放棄。
+<ce> 聽說 _questgiver_ 為此悲痛欲絕。
+
+RumorsPostsuccess:  [1007]
+<ce> 喂，你不就是那個幫 _questgiver_ 找到 _missingperson_ 的 %ra 嗎？
+
+QuestorPostsuccess:  [1008]
+<ce> 幫我找到 _missingperson_ 的 %ra，我怎能拒絕？
+
+QuestorPostfailure:  [1009]
+<ce> 我知道你找不到 _missingperson_ 不是你的錯。他們在水溝裡找到 %g2 的屍體。
+
+QuestLogEntry:  [1010]
+On %qdt,
+ 我答應幫 _questgiver_ 找 _missingperson_。
+ %G 已失踪四天。我唯一的線索是 %g 最近被人看見
+ 與 _friend2_ 和 _friend1_ 在一起。
+ 若兩天內不成功，就拿不到錢。
+
+Message:  1021
+<ce> 你在找 _missingperson_？嗯，%g 藏在 _hidingplace_，
+<ce> 但別告訴 _questgiver_。_missingperson_ 發誓再也不跟 _questgiver_ 說話。
+<ce> 別問我為什麼。
+
+Message:  1022
+<ce> 我最近見過 _missingperson_ 嗎？當然。衛兵逮到 %g2 從神殿偷東西。
+<ce> _questgiver_ 知道後會氣瘋。
+
+Message:  1023
+<ce> 是 _questgiver_ 叫你來的？我就知道。%oth，%g 幾天前跟
+<ce> _missingperson_ 大吵一架。_missingperson_ 離鎮後就沒人見過。
+<ce> 不，我不知道 %g 去了哪。
+
+Message:  1024
+<ce> _missingperson_？對，我知道 %g2 怎了。%G 被殺了，就這樣。
+<ce> 我朋友史邁利很客氣地向 %g2 要 %g3 金幣，%g 不肯交。
+<ce> 你真該見見史邁利和我其他朋友。抓住那個 %ra，史邁利！
+
+Message:  1031
+<ce> _missingperson_？沒。好幾天沒見 %g2 了。去問 _friend3_。%G 或許知道。
+
+Message:  1032
+<ce> %oth。前天以後我就沒見過 _missingperson_。
+<ce> 你可以問 _friend4_ 或 _friend1_。他們其中一個或許知道。
+
+Message:  1033
+<ce> _friend1_ 說我可能知道 _missingperson_ 的事？恐怕沒有。
+<ce> 我只知道 %g 昨晚出去喝酒。希望 %g2 沒碰上壞事。
+
+Message:  1034
+<ce> 抱歉，我有一陣子沒見過 _missingperson_。不知道 _friend2_ 為什麼把你送來找我……
+<ce> 你試過 _friend1_ 嗎？
+
+Message:  1040
+<ce> 你來這兒幹嘛？我再也不想見到 _questgiver_。嘿！放開我！
+<ce> 你不能就這樣把我拖過街去找 %g2。
+
+Message:  1050
+<ce> _missingperson_！我沒料到你真把 %g2 帶來了，%pcn。
+<ce> _missingperson_，你去哪了？我一直很擔心你。%pcf，接下來交給我。
+
+Message:  1051
+<ce> 原來 _missingperson_ 在躲，嗯？我會去把那個壞蛋從 %g3 藏身處揪出來。
+<ce> 你幫了大忙，%pcn。
+
+Message:  1052
+<ce> 在牢裡？我得立刻離開。也許我能賄賂治安官。
+
+Message:  1053
+<ce> 原來 _missingperson_ 離鎮了？%G 不必那樣做。我會原諒 %g2 的。
+
+Message:  1054
+<ce> 死了？怎麼可能？希望你讓那個史邁利吃盡苦頭，%pcn。
+<ce> 今天對我來說是極大的悲痛。

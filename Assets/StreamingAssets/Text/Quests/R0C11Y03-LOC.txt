@@ -1,0 +1,116 @@
+-- Quest: C:\QUESTS\WORKING\R0C11Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 11
+-- QuestId: 3
+Messages: 21
+Quest: R0C11Y03
+DisplayName: 無心迪德拉
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             我有個熟人，一名頗有本事的煉金術士，
+<ce>                    名叫 _chemist_。
+<ce>               為了完成我的一項計畫，%g需要一件相當稀有的物品——
+<ce>              一顆迪德拉之心。我不騙你；迪德拉想把這顆心要回去，
+<ce>              沿途你可能會遇上牠們。你願意冒這個險，
+<ce>                換取一筆豐厚酬勞嗎？
+
+RefuseQuest:  [1001]
+<ce>               我很失望，但不能說我不理解。自願接涉及迪德拉的差事，
+<ce>              確實需要比%ra冒險者常見的更多勇氣與勇武。
+
+AcceptQuest:  [1002]
+<ce>             你願意？那就祝你好運。這是迪德拉之心。
+<ce>               若沒在 =1stparton_ 天內交到我的朋友
+<ce>                 _chemist_ 手上，就太陳舊無法使用了。
+<ce>                送達之後，再回來領酬勞。
+<ce>                 祝你好運，願神明保佑你前往 ___chemist_。
+
+--in 1002, added the name of the city you need to go to at the end.
+
+QuestFail:  [1003]
+<ce>             你以為我不知道你還沒把迪德拉之心交給我的煉金術士？
+<ce>               我希望你別指望為這明顯的失敗領酬勞。
+<ce>            沒有新鮮的迪德拉之心，計畫又要延遲。
+<ce>                           讓它給我滾回湮滅去！
+
+QuestComplete:  [1004]
+<ce>                  出色的工作，%pcf。我就知道那些
+<ce>           迪德拉崽子擋不住你。你高超的本事已被記下。謝謝，
+<ce>                    這是我們談妥的 =reward_ 金幣。
+
+--in 1004, changed _reward_ to =reward_ to ensure specific gold amount.
+
+RumorsDuringQuest:  [1005]
+天空出現凶兆。迪德拉之星明亮地閃耀。
+<--->
+法師公會的密會說今夜迪德拉很活躍。
+
+RumorsPostfailure:  [1006]
+從所有星象來看，迪德拉似乎已經滿足。
+<--->
+我幾乎能聞到空氣裡的硫磺，但現在好像沒了。
+
+RumorsPostsuccess:  [1007]
+_chemist_ 的店裡很忙。聽說有個大實驗正在進行。
+<--->
+_questgiver_ 對一個出奇可靠的%ra傭兵非常滿意。
+
+QuestorPostsuccess:  [1008]
+我能為我勇敢的年輕%ra做什麼？
+<--->
+致敬，英雄。希望你不擔心那些迪德拉記仇。
+
+QuestorPostfailure:  [1009]
+<ce>                  你沒送達那顆迪德拉之心，讓我失望。
+<ce>                 我猜你以為我忘了。這是你還敢回宮廷的
+<ce>                  唯一解釋。
+
+QuestLogEntry:  [1010]
+<ce>             喔，妙極了。一顆出色的迪德拉主動脈，
+<ce>               幾乎沒有腐敗。現在趕緊回 _questgiver_ 那裡，%pcf。
+<ce>                %g3心裡事很多，若你沒在 =2ndparton_ 天內回去，
+<ce>                  %g可能會忘了你曾經離開。
+
+Message:  1011
+_chemist_？長得像某種 =chemist_？我想%g在這%di。
+<--->
+這%di有個為 _questgiver_ 工作的煉金術士，名叫 _chemist_。
+
+Message:  1012
+_questgiver_？怎麼，%g是貴族。最近捲入了一些迪德拉活動。
+<--->
+_questgiver_ 是貴族，在這%di。
+<--->
+像許多貴族一樣，_questgiver_ 同時醞釀著十來個計畫。
+<--->
+_questgiver_ 很相信煉金術，跟許多貴族一樣。
+
+Message:  1013
+一顆迪德拉之心。它永不腐敗，但有些配方要求它必須新鮮。
+<--->
+迪德拉之心。不是迪德拉樂見落在凡人手上的東西。
+
+Message:  1015
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 要我把一顆迪德拉之心帶給
+ ___chemist_ 的 __chemist_ 的
+ %g3煉金術士。這名煉金術士
+ 是一位叫 _chemist_ 的 =chemist_，
+ 若我能穿過試圖阻止我的所有迪德拉，
+ 在 =1stparton_ 天內把東西交到%g2手上，
+ _questgiver_ 會在我回到 __questgiver_
+ 時給我酬勞。
+
+Message:  1020
+<ce>                       迪德拉嘶聲說：「%pcn，
+<ce>                      你插手了超出你理解的事務。
+<ce>                      是的，你的名字如今我們已知。
+<ce>                   不把我們兄弟的心奪回手上，
+<ce>                      我們不會罷休。
+<ce>                    準備迎接你的命運吧，
+<ce>                               凡人……」

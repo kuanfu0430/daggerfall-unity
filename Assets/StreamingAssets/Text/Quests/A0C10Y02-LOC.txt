@@ -1,0 +1,65 @@
+-- Quest: C:\QUESTS\WORKING\A0C10Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 10
+-- QuestId: 2
+Quest: A0C10Y02
+DisplayName: 被擄走的孩子
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我走投無路了。黑暗兄弟會擄走了我的孩子 _child_，若我不付贖金就會殺 %g2。
+<ce> 我沒有足夠的錢贖回 %g3 自由，但若你願意救出 %g2，我可以付你 _money_ 金幣。
+                                     <--->
+<ce> 我的孩子，可憐的 _child_ 被黑暗兄弟會偷走了，%god 才知道為了什麼可怕目的。
+<ce> 你必須幫我，%pcf。我會把所有的 _money_ 金幣都給你，只要你把孩子帶回家。
+
+RefuseQuest:  [1001]
+<ce> 今天對我來說是黑暗的一天。_child_ 肯定會被黑暗兄弟會殺害。
+<ce> 願 %g3 鬼魂糾纏你餘生！
+
+AcceptQuest:  [1002]
+<ce> 你是我的救星！我叫 _qgiver_。快，你只有 =timeforq_ 天，之後他們就會殺 _child_。
+<ce> %G 被關在 __dbguild_ 的 _dbguild_。
+
+QuestFail:  [1003]
+<ce> _child_？%g 在哪？為什麼還沒把 %g2 帶回來？若要救 %g3 性命，現在就走！
+
+QuestComplete:  [1004]
+<ce> _child_！你還活著，還安好！%pcf，我欠你一份永遠無法完全償還的人情。
+<ce> 這份微薄報酬是我能給的最起碼。
+
+RumorsDuringQuest:  [1005]
+<ce> 黑暗兄弟會這次做得太過了。綁架 _qgiver_ 的孩子不可原諒。
+
+RumorsPostfailure:  [1006]
+<ce> 我不覺得 _qgiver_ 能撐過這個季節。%G 大概會自殺。
+<ce> 你聽說黑暗兄弟會綁架並殺害了 %g3 孩子 _child_ 嗎？
+
+
+RumorsPostsuccess:  [1007]
+<ce> 你就是救出小 _child_ 的那個 %ra！真是英雄。
+
+QuestorPostsuccess:  [1008]
+<ce> 我孩子的救星！我感謝你，_child_ 也感謝你救了 %g3 性命。祝福你，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce> 我的孩子 _child_ 因你而死！永遠別再踏進我的門檻。
+
+QuestLogEntry:  [1010]
+<ce> 你是來救我的嗎？我叫 _child_。我不喜歡這些人。拜託帶我回家。
+
+Message:  1011
+<ce> _dbguild_ 又黑又不祥。敵人肯定無處不在。
+
+Message:  1012
+On %qdt, _qgiver_
+ 告訴我 %g3 孩子 _child_ 被黑暗兄弟會綁架的心碎之事。
+ 我立刻答應從 __dbguild_ 的 _dbguild_ 救出 %g2。
+ %G3 家人會在 =timeforq_ 天內等我回到
+ ___qgiver_ 的 __qgiver_。
+
+Message:  1020
+<ce> 沒人能跟黑暗兄弟會作對還活著！

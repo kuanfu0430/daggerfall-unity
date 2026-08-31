@@ -1,5 +1,5 @@
-Title: An Overview of Gods and Worship
-Author: Brother Hetchfeld
+Title: 諸神與崇拜概論
+Author: 赫奇菲爾德修士
 IsNaughty: False
 Price: 711
 IsUnique: False
@@ -8,32 +8,30 @@ Content:
 
 [/font=2]
 
-[/center]An Overview
+[/center]泰姆瑞爾
 
-[/center]Of
+[/center]諸神與
 
-[/center]Gods and
+[/center]崇拜
 
-[/center]Worship
-
-[/center]In Tamriel
+[/center]概論
 
 [/font=4]
 
- Editor's Note: Brother Hetchfeld is an Associate Scribe at the Imperial University, Office of Introductory Studies
+  編者按：赫奇菲爾德修士為帝國大學入門學務處副書記。
 
- Gods are commonly viewed by the evidence of their interest in worldly matters. A central belief in the active participation of Deities in mundane matters can be challenged by the evidence of apathy on the part of Gods during times of plague or famine.
+  人們通常以諸神是否關切塵世事務來看待祂們。若相信神祇積極參與凡俗之事，便會被瘟疫或饑荒時諸神的冷漠所質疑。
 
- From intervention in legendary quests to manifestations in common daily life, no pattern for the Gods of Tamriel activities is readily apparent. The concerns of Gods in many ways may seem unrelated or at best unconcerned with the daily trials of the mortal realm. The exceptions do exist, however.
+  從對傳奇任務的干預，到在日常凡俗生活中的顯現，泰姆瑞爾諸神的活動並無顯而易見的規律。神祇所關切之事，在許多方面似乎與凡人國度的日常磨難無關，或至少漠不關心。不過，例外確實存在。
 
- Many historical records and legends point to the direct intervention of one or more gods at times of great need. Many heroic tales recount blessings of the divinity bestowed upon heroic figures who worked or quested for the good of a Deity or the Deity's temple. Some of the more powerful artifacts in the known world were originally bestowed upon their owners through such reward. It has also been reported that priests of high ranking in their temples may on occasion call upon their Deity for blessings or help in time of need. The exact nature of such contact and the blessings bestowed is given to much speculation, as the temples hold such associations secret and holy. This direct contact gives weight to the belief that the Gods are aware of the mortal realm. In many circumstances, however, these same Gods will do nothing in the face of suffering and death, seeming to feel no need to interfere. It is thus possible to conclude that we, as mortals, may not be capable of understanding more than a small fraction of the reasoning and logic such beings use.
+  許多史籍與傳說指出，在極大危難之時，一尊或多尊神曾直接干預。許多英雄故事講述神性祝福降於為某位神祇或其神殿行善、或踏上任務的英雄。已知世界中若干較強大的神器，最初便是作為此類獎賞賜予其主人。亦有記載，神殿中位階崇高的祭司，偶或可在危急時向其神祇祈求祝福或援助。此類接觸的確切性質與所賜祝福多有揣測，因神殿視此等關聯為機密而神聖。這種直接接觸為「諸神知曉凡人國度」的信念增添了分量。然而在許多情況下，同樣這些神面對苦難與死亡卻無所作為，似乎覺得無需干涉。由此或可斷言：作為凡人，我們所能理解的，不過是此等存在所用推理與邏輯的一小部分。
 
- One defining characteristic of all Gods and Goddesses is their interest in worship and deeds. Deeds in the form of holy quests are just one of the many things that bring the attention of a Deity. Deeds in everyday life, by conforming to the statutes and obligations of individual temples are commonly supposed to please a Deity. Performance of ceremony in a temple may also bring a Deity's attention. Ceremonies vary according to the individual Deity. The results are not always apparent but sacrifice and offerings are usually required to have any hope of gaining a Deity's attention.
+  所有神與女神的一項界定特徵，是祂們對崇拜與作為的興趣。以神聖任務為形式的作為，只是引起神祇注意的眾多事物之一。日常生活中遵從各神殿的規章與義務，通常也被認為能取悅神祇。在神殿舉行儀式同樣可能引起神祇注意。儀式因個別神祇而異。結果並非總是顯而易見，但犧牲與獻祭通常是指望獲得神祇注意所必需的。
 
- While direct intervention in daily temple life has been recorded, the exact nature of the presence of a God in daily mundane life is up to great speculation. A traditional saying of the Wood Elves goes "One mans miracle is another mans accident." While some gods are believed to take an active part of daily life, others are well known for their lack of interest in temporal affairs.
+  雖有神祇直接干預神殿日常生活的記載，神在日常凡俗生活中存在的確切性質仍大有揣測。木精靈有句老話說：「一人的奇蹟，是另一人的意外。」有些神被認為積極參與日常生活，另一些則以對塵世事務缺乏興趣而聞名。
 
- It has been theorized that gods do in fact gain strength from such things as worship through praise, sacrifice and deed. It may even be theorized that the number of worshippers a given Deity has may reflect on His overall position among the other Gods. This my own conjecture, garnered from the apparent ability of the larger temples to attain blessings and assistance from their God with greater ease than smaller religious institutions.
+  有理論認為，諸神確實從讚美、犧牲與作為等崇拜中獲得力量。甚至可以推想，某位神祇的崇拜者數量，或能反映祂在眾神中的整體地位。這是我自己的臆測，得自較大神殿似乎比小型宗教機構更容易獲得其神的祝福與援助。
 
- There are reports of the existence of spirits in our world that have the same capacity to use the actions and deeds of mortals to strengthen themselves as do the Gods. The understanding of the exact nature of such creatures would allow us to understand with more clarity the connection between a Deity and the Deity's worshipers.
+  有報告稱，我們世界中存在一些靈體，與諸神一樣能利用凡人的行動與作為來強化自身。若能理解此類生物的確切性質，便能更清晰地明白神祇與其崇拜者之間的聯繫。
 
- The implication of the existence of such spirits leads to the speculation that these spirits may even be capable of raising themselves to the level of a God or Goddess. Motusuo of the Imperial Seminary has suggested that these spirits may be the remains of Gods and Goddesses who through time lost all or most of their following, reverting to their earliest most basic form. Practioners of the Old Ways say that there are no Gods, just greater and lesser spirits. Perhaps it is possible for all three theories to be true.
+  此類靈體的存在，使人推測它們甚至可能將自己提升到神或女神的層次。帝國神學院的莫圖蘇奧曾提出，這些靈體或許是那些隨時光流逝而失去全部或大部分追隨者的神與女神的殘餘，回復到最早、最基本的形態。古道的奉行者則說根本沒有神，只有較大與較小的靈。或許這三種理論都有可能為真。

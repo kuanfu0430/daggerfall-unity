@@ -1,5 +1,5 @@
-Title: Vampires of the Iliac Bay, Part II
-Author: Anonymous
+Title: 伊利亞克灣的吸血鬼，第二部
+Author: 佚名
 IsNaughty: False
 Price: 429
 IsUnique: False
@@ -8,35 +8,35 @@ Content:
 
 [/font=2]
 
-[/center]Vampires
+[/center]伊利亞克灣
 
-[/center]of the
+[/center]的
 
-[/center]Iliac Bay,
+[/center]吸血鬼，
 
-[/center]Part II
+[/center]第二部
 
 [/font=4]
- I told in the first chapter of my story how I became a vampire and of my first kill. While it might (and, indeed, should) horrify the reader that my first victim was a friend of the mortal I used to be, it is my understanding that they are not uncommon first kills.
+  上一章我已講述自己如何成為吸血鬼，以及我的第一次獵殺。讀者或許（也理當）會感到驚駭：我的第一個犧牲者，竟是我尚為凡人時的一位友人。據我所知，這類「初殺」並不罕見。
 
- I left the snow white corpse in the alley and ran to the only place I felt perversely safe, the masoleum. For the first couple days of my undeath, I starved myself while I considered my fate. I relearned what I was capable of doing, and found that I was stronger, faster, tougher, and more agile than before. I had powers that as a knight I had only seen powerful mages wield. Later, I discovered additional abilities, such as a total immunity to disease. Helpful when descending on a plague-stricken city like a jackal.
+  我把那具雪白的屍體留在巷裡，奔向唯一讓我畸形地感到安全的地方——陵墓。成為不死之身的頭幾天，我絕食苦思自己的命運。我重新認識自己的能耐，發現自己比從前更強壯、更迅捷、更堅韌、也更敏捷。我擁有的力量，從前當騎士時只在強大法師身上見過。後來我又發現更多能力，例如對疾病的完全免疫。當你像豺狼般撲向瘟疫肆虐的城市時，這點相當好用。
 
- I also found my weaknesses. I could no longer stand the light of the sun -- exposure to it for longer than a few seconds burned me terribly. It also pained me to enter temples and other places of worship. The worst effect, of course, had to be my blood lust. If I did not kill a warm blooded creature once a night and drink its blood, my hunger would gnaw at me, and any wounds I suffered would not heal no matter how much I rested.
+  我也發現了自己的弱點。我再也無法忍受陽光——曝曬超過數秒便會被嚴重灼傷。踏入神殿與其他崇拜之地也會令我痛苦。當然，最糟的還是嗜血。若我不能每夜殺死一隻溫血生物並飲其血，飢餓便會啃噬我，無論休息多久，傷口都不會癒合。
 
- Is this the moment for me to admit that there was a time I loved being a bloodsucking creature of the night? It is not impossible to live only at night, merely occasionally inconvenient. And I wouldn't have to kill humans every night, merely warm-blooded creatures. Orcs have a delicious, rich brothy blood; rats are a little sweet for the only meal of the night; werewolves are a real treat, almost decadent the tincture between human and beast. A real gourmet's delight.
+  此刻是否該承認：曾有一段時日，我熱愛當一個吸食鮮血的夜之生物？只在夜間活動並非不可能，不過偶爾不便而已。而且我不必每晚都殺人類，溫血生物即可。獸人的血濃郁如鮮美高湯；老鼠作為整晚唯一的一餐則略甜；狼人更是珍饈，介於人與獸之間的滋味近乎奢靡。真正的美食家之樂。
 
- About a month after I died, I was having the best time of my life. One night, I received a letter from someone who said he was "family." Curious, I went to visit him at his tavern, and was told about the tribe of vampires to which I belonged -- the Montalion. In return for me performing certain duties for the "family," the man at the inn would train my in my vampiric abilities and skills.
+  死後約一個月，我過著此生最暢快的日子。某夜，我收到一封自稱「家族」的來信。出於好奇，我前往他的酒館拜訪，得知自己所屬的吸血鬼部族——蒙塔利恩。只要我為「家族」履行若干職責，旅店裡那人便會訓練我的吸血鬼能力與技能。
 
- Though I never got very much detail, I surmised that the two main differences between the different vampire clans is geography and powers. Montalion alone have the gift for teleportation, but the other eight have powers of their own.
+  細節我始終所知不多，但我推斷各吸血鬼氏族的兩大差異在於地域與能力。唯獨蒙塔利恩擁有傳送的天賦，其餘八族則各有其能。
 
- My mentor (that is the title he used) would congratulate me after each mission I performed, and came to trust me more and more. If asked, he would tell me about the Montalion's newest alliances, who they were manipulating, who they were stalking. It was then I started to become frightened at last. They, and all of their rival clans, were draining the blood of Tamriel itself.
+  我的導師（他如此自稱）每在我完成任務後祝賀我，對我愈發信任。若問起，他會告訴我蒙塔利恩最新的同盟、他們在操縱誰、在跟蹤誰。直到那時，我才終於開始感到恐懼。他們，以及所有敵對氏族，正在吸乾泰姆瑞爾本身的血。
 
- I panicked. I had to find a cure. But nowhere could I find any book or rumor suggesting that vampirism is anything but permanent. So I resolved to kill myself, but I wanted to bring the Montalion down with me. I joined guilds they opposed, and failed any mission given to me spectacularly. I thought my mentor would turn against me, but he only became quieter, less forthcoming with information, never violent. He was not concerned. He had probably seen vampires like me before.
+  我驚慌了。我必須找到療法。可是無論書籍或傳聞，都找不到任何暗示吸血鬼症並非永恆。於是我決意自殺，但我想拉蒙塔利恩一起陪葬。我加入他們敵對的公會，把指派給我的任務失敗得極其徹底。我以為導師會反目，他卻只變得更沉默、更不透露消息，從未動武。他並不擔心。他大概見過像我這樣的吸血鬼。
 
- Here's why he never attacked me: immortals can afford to be eternally patient.
+  他從不攻擊我的原因如下：不朽者有本錢永遠耐心。
 
- At last, he refused to give me any further missions. He wouldn't even talk with me, but he never left his tavern. I could come and go, and he'd watch but never talk. That's when I got another letter.
+  終於，他拒絕再給我任何任務。他甚至不肯跟我說話，卻從不離開酒館。我來去自如，他只是看著，從不開口。就在那時，我又收到一封信。
 
- There are several of us, you see, former vampires who know what to look for. We're patient too: we learned it in our unlife. We watch and listen, and anonymously contact the vampires we know wish to end the curse.
+  我們有好幾個人，都是前吸血鬼，知道該找什麼。我們也很有耐心：那是在不死生涯裡學會的。我們觀察、傾聽，匿名聯絡那些我們知道渴望結束詛咒的吸血鬼。
 
- Ending the curse is possible, but only just. It is very dangerous, but when you are cursed, the only real danger is no escape.
+  結束詛咒是可能的，僅僅是可能。過程非常危險；可一旦受詛，真正的危險只有一個——無處可逃。

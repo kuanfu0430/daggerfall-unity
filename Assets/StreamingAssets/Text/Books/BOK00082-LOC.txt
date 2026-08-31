@@ -1,5 +1,5 @@
-Title: Banker's Bet
-Author: Porbert Lyttumly
+Title: 銀行家的賭注
+Author: 波伯特·利圖姆利
 IsNaughty: True
 Price: 467
 IsUnique: False
@@ -8,66 +8,66 @@ Content:
 
 [/font=2]
 
-[/center]Banker's
+[/center]銀行家的
 
-[/center]Bet
+[/center]賭注
 
 [/font=4]
 
 [/center]
 
- It was a perfectly ordinary day at the main office of the Bank of Daggerfall. Normal transactions took place: deposits were deposited, withdrawals were withdrawn, house mortgages were collected, letters of credit were golded. When a teller named Clyton J. Wifflington saw the little old lady approaching him, dragging two large sacks, each nearly as large as her, he changed his mind. It was not to be a perfectly ordinary day at the Bank of Daggerfall after all.
+ 在匕首雨銀行總行，那本是再平常不過的一天。日常交易照常進行：存款存進去，提款提出來，房貸收進來，信用狀兌成金幣。直到一名叫克萊頓·J·威夫林頓的櫃員看見那位瘦小老太太朝他走來，拖著兩隻幾乎跟她一樣大的袋子，他才改了主意。這天，匕首雨銀行終究不會是平常的一天。
 
- "I would like you to take the thirty million gold pieces I have in these sacks and open me an account," croaked the little old biddy.
+ 「我想請你把這兩袋裡的三千萬金幣替我開個戶。」那位瘦小老太婆嘎聲說道。
 
- "Certainly, madam," Wifflington said, eagerly. He counted the gold in the sacks and found that it was thirty million gold exactly.
+ 「當然可以，夫人。」威夫林頓殷勤地說。他清點袋中金幣，分毫不差，正好三千萬。
 
- "One moment, sonny," the little old lady chirruped. "Before I open the account, I would like to meet the man I'm trusting it to. I'd like to talk to the president of the bank."
+ 「等一下，小伙子。」瘦小老太太啁啾道。「開戶之前，我想見見我把錢託付給的那個人。我想跟銀行總裁談談。」
 
- Wifflington wanted the president to know that he was the teller who had taken the largest single deposit that year, so eagerly sent word to the president's secretary. As it turned out, the president was equally eager to meet such a wealthy woman, so the old lady was brought to his office that very day.
+ 威夫林頓想讓總裁知道，自己就是收下今年單筆最大存款的櫃員，於是急忙傳話給總裁秘書。結果總裁同樣急著想見這位富婆，當天就把老太太請到了辦公室。
 
- "Pleased to make your acquaintance, milady. I am Gerander P. Baggledon," said the president, Gerander P. Baggledon.
+ 「很高興認識您，夫人。我是傑蘭德·P·巴格登。」總裁傑蘭德·P·巴格登說。
 
- "My name," said the little old lady. "Is Petuva Smuthworthy." That was, in fact, her real name. "Thank you for seeing me. I like to conduct my business in a more personal way."
+ 「我的名字，」瘦小老太太說，「是佩圖瓦·斯默斯沃西。」那的確是她的真名。「謝謝你願意見我。我喜歡把生意做得更有人情味。」
 
- "I can certainly appreciate that," said Baggledon chucklingly. "It is an appreciable sum of gold. Would it be rude of me to ask how you came by it?"
+ 「這我完全能夠體會。」巴格登咯咯笑著說。「這可是一筆可觀的金幣。若問您是怎麼得來的，會不會太失禮？」
 
- "Not at all," said Mrs. Smuthworthy.
+ 「一點也不。」斯默斯沃西太太說。
 
- "How came you by it?" asked Baggledon.
+ 「那您是怎麼得來的？」巴格登問。
 
- "I'll let you guess," replied Mrs. Smuthworthy, with a trace of unattractive girlish flirtation.
+ 「讓你猜。」斯默斯沃西太太答道，帶著一絲並不討喜的少女賣弄。
 
- Baggledon was a man of enormous imagination, for a banker. He guessed inheritance and longtime thrift, but Mrs. Smuthworthy coyly shook her head. Perhaps she had sold a large, old mansion? No. In a moment of chumminess, Baggledon asked if the gold came as a result of plunder or thievery. Mrs. Smuthworthy took no offense, but said no. Finally, he admitted defeat.
+ 以銀行家而言，巴格登的想像力算是豐富。他猜遺產、長年節儉，斯默斯沃西太太卻嬌羞地搖頭。也許她賣掉了一座巨大的老宅？不是。一時熟絡，巴格登問這金幣是否來自劫掠或盜竊。斯默斯沃西太太並不生氣，只說不是。最後，他認輸。
 
- "I'm a gambler," she said.
+ 「我是賭徒。」她說。
 
- "In arena fights?" he asked, interested.
+ 「賭競技場的決鬥？」他感興趣地問。
 
- "No, no, dearie. Different things. For example, I'd be willing to wager twenty five thousand gold pieces that at this time tomorrow morning, your testicles will be covered with feathers."
+ 「不，不，親愛的。別的東西。比方說，我願意拿兩萬五千金幣打賭，明天早上這個時辰，你的睪丸會覆滿羽毛。」
 
- Mr. Baggledon was somewhat taken aback by the old woman's words. Could she be mad? Could she be a witch? He eliminated the latter possibility, for he had a sense for such things. If she were mad, she was still a rich madwoman. And he could use twenty five thousand gold pieces. So he took her wager.
+ 巴格登先生聽了這老太婆的話，不禁愣住。她會不會瘋了？會不會是女巫？後者他排除了，他對這種事有感覺。若她瘋了，她仍是有錢的瘋婆。況且他用得上那兩萬五千金幣。於是他接下了這個賭注。
 
- For the next twenty-four hours, Mr. Baggledon obsessed over his testicles. He checked his pants so often that afternoon, his subordinates feared the worse and suggested that he not touch anything and go home for the rest of the afternoon. He spent the night seated, his pants around his ankles, his beady banker's eyes focused on his scrotum. Every time he started to doze off, his vision was filled with images of Mrs. Smuthworthy plucking feathers from his balls, cackling.
+ 接下來二十四小時，巴格登先生滿腦子都是自己的睪丸。那天下午他三番兩次檢查褲子，部屬們擔心最壞的情況，建議他別碰任何東西，下午提早回家。他整晚坐著，褲子褪到腳踝，銀行家那雙精明的小眼睛盯著自己的陰囊。每次剛要打盹，眼前就浮現斯默斯沃西太太一邊咯咯笑、一邊從他蛋蛋上拔羽毛的畫面。
 
- Mr. Baggledon arrived at the bank late the next day -- only moments before Mrs. Smethworthy's arrival. Accompanying her was a lean, bespeckled fellow she introduced as a barrister from the court. Her son, it turned out. Young Mr. Smethworthy always accompanied his mother when there was money involved, she explained.
+ 次日巴格登先生遲到了——只比斯默斯沃西太太早到片刻。陪她來的是一名瘦削、戴眼鏡的男子，她介紹說是法庭的律師。原來是她兒子。只要牽涉金錢，年輕的斯默斯沃西先生總會陪母親前來，她解釋道。
 
- "Enough banter," she crowed. "Our bet, dearie?"
+ 「閒話少說。」她高聲道。「我們的賭注呢，親愛的？」
 
- "My dear, dear madam, I can tell you that your gold will be quite safe at the Bank of Daggerfall. I hope it will not cause you distress to discover that your gold will be safer here than in your own hands. My family jewels are quite, shall we say, featherless. And you owe me a sum equally twenty five thousand gold."
+ 「我親愛的夫人，我可以告訴您，您的金幣放在匕首雨銀行會十分安全。希望您聽了不會難過：您的金幣在這裡，比在您自己手上更安全。我家的傳家寶相當，該怎麼說呢，沒有羽毛。而您欠我的數目，正好是兩萬五千金幣。」
 
- Poor Mrs. Smethworthy's face fell when she heard this. "Are you sure?"
+ 可憐的斯默斯沃西太太聽了，臉色一沉。「你確定？」
 
- "Quite, madam."
+ 「非常確定，夫人。」
 
- "Not even one feather?" Her voice suggested doubt. Mr. Baggledon could tell she thought he might be lying.
+ 「連一根羽毛都沒有？」她的聲音帶著懷疑。巴格登先生看得出，她以為他可能在說謊。
 
- "Not one, I fear, madam."
+ 「恐怕一根也沒有，夫人。」
 
- "It's not that I don't trust you, Mr. Baggledon, but it is quite a lot of gold. Might I -- would you -- could I possibly see for myself?"
+ 「不是我不信任你，巴格登先生，可這是一大筆金幣。我能不能——你願不願——讓我親自看一眼？」
 
- As he knew he was soon to be a twenty five thousand gold pieces richer, and he was still a bit punchy from lack of sleep, Mr. Baggledon merely smiled and dropped his breeches to the floor. Mrs. Smethworthy examined his testicles very carefully, under, to the left, to the right. At last, she was satisfied that there was not so much as a down feather anywhere in the region. While she was looking under them one last time, Mr. Baggledon heard a thwacking noise across the office. Young Mr. Smethworthy was banging his head against the stone wall.
+ 他知道自己很快就要多兩萬五千金幣，又因缺眠有些恍惚，巴格登先生只是微笑，把馬褲褪到地上。斯默斯沃西太太仔細檢查他的睪丸，從下方、左邊、右邊。終於，她滿意了：那一帶連一根絨毛都沒有。她最後一次往下看時，巴格登先生聽見辦公室另一頭傳來砰砰聲。年輕的斯默斯沃西先生正拿頭撞石牆。
 
- "What in the Lady's name is wrong with your son, Mrs. Smethworthy?" he asked.
+ 「以女神之名，您兒子怎麼了，斯默斯沃西太太？」他問。
 
- "Nothing, dear," she said. "I merely bet him one hundred thousand gold pieces that by this time I would have the president of the Bank of Daggerfall by the balls."
+ 「沒什麼，親愛的。」她說。「我只不過跟他賭了十萬金幣，說到這個時辰，我會把匕首雨銀行的總裁捏在手心裡。」

@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 2
+Messages: 16
+Quest: K0C00Y02
+DisplayName: 假金
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>%pcf，我恐怕惹上大麻煩了。
+<ce>看來我從前的一名同夥，為了讓我的日子
+<ce>更像地獄，把一些假金條轉給了我。
+<ce>我不知情，又把它們轉給四位最看重的盟友，
+<ce>作為服務的報酬。我顯然必須在他們發現
+<ce>那些金子其實是佛斯卡里烏姆之前——
+<ce>可能只剩=2mondung_天或更少——把金條收回來。
+<ce>你每找回一條假金，我大約付_reward1_金幣。
+<ce>聽起來可以嗎？
+
+RefuseQuest:  [1001]
+<ce>不？真的？那好吧。別人會更願意的，
+<ce>我確定。
+
+AcceptQuest:  [1002]
+<ce>%oth，太好了。其中一條在__depository_
+<ce>一間叫_depository_的銀行裡；
+<ce>一條在名叫___mondung_的要塞裡；
+<ce>一條在__palace_的宮殿裡；
+<ce>最後一條在__mansion_的_mansion_。
+<ce>記住，你只有=2mondung_天，
+<ce>我寧願你在期限內帶回一條，
+<ce>也不要四條都拿不到。祝你好運，%pcf。
+<ce>願%god保佑你的旅途。
+
+QuestFail:  [1003]
+<ce>%god在上，拜託你快一點好嗎？
+
+QuestComplete:  [1004]
+<ce>看來你已經把_qgiver_的麻煩
+<ce>處理妥當了。
+
+RumorsDuringQuest:  [1005]
+有傢伙剛問去_depository_的路。他看起來不像銀行的人。
+<--->
+<ce>聽說___mondung_在招人。
+ 至少那兒挺熱鬧的。
+<--->
+_palace_正在加強戒備，因為有謠言說附近有盜賊。
+<--->
+_mansion_的女傭說她看見有些不三不四的人在盯著那地方。
+
+RumorsPostfailure:  [1006]
+%t %rn似乎認為走私行動的頭目就是_qgiver_。
+<--->
+_qgiver_顯然一直在走私佛斯卡里烏姆，假裝那是金子。
+<--->
+據我所知，_palace_已徹底切斷與_qgiver_的往來。
+<--->
+___mondung_正設法瓦解_qgiver_生意的每一個環節。
+
+RumorsPostsuccess:  [1007]
+_qgiver_好心補上了%g3那些笨手笨腳的盟友被偷走的全部金子。
+<--->
+_qgiver_在%reg頂尖商界領袖中的人氣持續上升。
+
+QuestorPostsuccess:  [1008]
+你好啊，假金的搬運者。
+
+QuestorPostfailure:  [1009]
+我曾把財務前途託付給你一次，還記得嗎，%pcf？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的_qgiver_要我
+ 在他們發現真相之前——=2mondung_天
+ 或更短——至少取回%g交給%g3盟友的
+ 四條假金中的一條。以下各處各有一條：
+ __palace_的_palace_、
+ ___mondung_、
+ __mansion_的_mansion_，
+ 以及__depository_的_depository_。
+ 每帶回一條，大約可得_reward1_金幣。
+
+Message:  1015
+<ce>%oth，幹得好，%pcf。我還怕
+<ce>給你的時間不夠。這是真金，
+<ce>換你那些假金。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 1 time.
+--               %g3 occurs 2 times.
+--              %god occurs 2 times.
+--              %oth occurs 2 times.
+--              %pcf occurs 30 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 4 times.
+--               %rn occurs 1 time.
+--                %t occurs 1 time.
+--        =2mondung_ occurs 3 times.
+--       ___mondung_ occurs 4 times.
+--        ___qgiver_ occurs 1 time.
+--     __depository_ occurs 2 times.
+--        __mansion_ occurs 2 times.
+--         __palace_ occurs 2 times.
+--      _depository_ occurs 3 times.
+--         _mansion_ occurs 4 times.
+--          _palace_ occurs 3 times.
+--          _qgiver_ occurs 10 times.
+--         _reward1_ occurs 2 times.

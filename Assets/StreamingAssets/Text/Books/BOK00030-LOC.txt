@@ -1,5 +1,5 @@
-Title: Brief History of the Empire, Part III
-Author: Stronach
+Title: 帝國簡史，第三卷
+Author: 斯托納克
 IsNaughty: False
 Price: 352
 IsUnique: False
@@ -8,26 +8,26 @@ Content:
 
 [/font=2]
 
-[/center]A Brief History
+[/center]帝國
 
-[/center]of the Empire,
+[/center]簡史，
 
-[/center]Part III
+[/center]第三卷
 
 [/font=4]
 
- The first volume of this series tells in brief the story of the succession of the first eight emperors of the Septim Dynasty, from Tiber I to Kintyra II. The second volume described the War of the Red Diamond and the six emperors that followed its aftermath, Uriel III to Cassynder I. At the end of that volume, I described how the Emperor Cassynder's half-brother, Uriel IV assumed the throne of the Empire of Tamriel.
+ 本系列第一卷簡述了塞普汀王朝前八位皇帝的繼承，從泰伯一世到金泰拉二世。第二卷描述了紅鑽戰爭及其後的六位皇帝，從尤利爾三世到凱西德一世。該卷末尾，我描述了凱西德皇帝的同母異父弟弟尤利爾四世如何登上泰姆瑞爾帝國的王位。
 
- It will be recalled that Uriel IV was not a Septim by birth. His mother, though she reigned as Emperess for many years, was a Dark Elf married to a true Septim Emperor, Pelagius III. His father was Katariah I's consort after Pelagius' death and during her reign, a Breton nobleman named Gallivere Lariat. Before taking the throne of Empire, Cassynder I had ruled the kingdom of Wayrest, but poor health had forced him to retire. Cassynder had no children, so he legally adopted his half-brother Uriel and gave him the kingdom. Seven years later, Cassynder inherited the Empire at the death of his mother. Three years after that, Uriel found himself the recipient of Cassynder's inheritance once again.
+ 當記得，尤利爾四世並非生來就是塞普汀。他的母親雖為女皇統治多年，卻是嫁給真正塞普汀皇帝佩拉吉奧斯三世的黑暗精靈。他的父親是卡塔瑞亞一世在佩拉吉奧斯死後的皇夫，一名叫加利維爾·拉瑞亞特的布萊頓貴族。在登上帝國王位之前，凱西德一世統治途歇城王國，但健康不佳迫使他引退。凱西德沒有子女，於是他合法收養同母異父弟弟尤利爾，把王國給了他。七年後，凱西德在母親去世時繼承帝國。三年後，尤利爾再次發現自己成了凱西德遺產的接受者。
 
- Uriel IV's reign was difficult and long one. Despite being a legally adopted member of the Septim family, and despite the Lariat family's high position -- indeed, they were distant cousins of the Septims -- few of the Elder Council could be persuaded to accept him fully as a blood relation of Tiber. The Council had assumed much responsibility during Katariah I's long reign and Cassynder I's short reign, and a strong-willed alien monarch like Uriel IV found it impossible to hold their unswerving fealty. Time and time again, the Council and Emperor were at odds; and time and time again, the Council won the battles. Since the days of Pelagius II, the Elder Council had consisted of the wealthiest men and women in the Empire, and the power they wielded was ultimate.
+ 尤利爾四世的統治艱難而漫長。儘管他是合法收養的塞普汀家族成員，儘管拉瑞亞特家族地位崇高——他們確實是塞普汀的遠房表親——上古議會中幾乎沒有人能被說服，完全接受他為泰伯的血親。上古議會在卡塔瑞亞一世漫長統治與凱西德一世短暫統治期間承擔了許多責任，像尤利爾四世這樣意志堅強的異族君主，發現無法得到他們毫不動搖的效忠。一次又一次，議會與皇帝對立；一次又一次，議會贏得爭鬥。自佩拉吉奧斯二世的時代起，上古議會便由帝國最富有的男女組成，他們所握的權力是終極的。
 
- The Council's last victory over Uriel IV was posthumous. Andorak, Uriel IV's son, was disinherited by vote of Council, and a cousin more closely related to the original Septim line was proclaimed Cephorus II in 3E 268. Cephorus had been a Nordic king of For the first nine years of Cephorus II's reign, those loyal to Andorak battled the Imperial forces. In an act that the sage Eraintine called "Tiber Septim's heart beating no more," the Council granted Andorak the High Rock kingdom of Shornhelm to end the war. Andorak's descendants still rule that land.
+ 議會對尤利爾四世的最後一次勝利發生在他死後。尤利爾四世之子安朵拉克被議會投票剝奪繼承權，一位與塞普汀本脈關係更近的表親於第三紀元268年被宣布為塞弗勒斯二世。塞弗勒斯曾是諾德人的國王，屬於。塞弗勒斯二世統治的前九年，忠於安朵拉克的人與帝國軍隊交戰。在一項被賢者伊萊因廷稱為「泰伯·塞普汀的心臟不再跳動」的舉措中，議會把高岩的肖恩赫爾姆王國授予安朵拉克以結束戰爭。安朵拉克的後代至今仍統治那片土地。
 
- Of course, Cephorus II had foes that demanded more of his attention than Andorak. "From out of a nightmare," in the words of Eraintine, a man who called himself the Camoran Usurper had led an army of daedra and undead warriors on a rampage through Valenwood, conquering kingdom after kingdom. None could resist his onslaughts, and as month turned to bloody month in the year 3E 249, fewer even tried. Cephorus II sent more and more mercenaries into Hammerfell to stop the Usurper's northward march, but they were bribed, turned into undead, or slaughtered.
+ 當然，塞弗勒斯二世有比安朵拉克更需要他注意的敵人。「從夢魘中走出」，用伊萊因廷的話說，一個自稱卡莫蘭篡奪者的人率領迪德拉與亡靈戰士的軍隊橫掃瓦倫林地，征服一個又一個王國。無人能抵擋他的猛攻，第三紀元249年一月又一月變得血腥，甚至更少人嘗試抵抗。塞弗勒斯二世把越來越多傭兵派往落錘省，阻止篡奪者北進，但他們被收買、變成亡靈，或被屠殺。
 
- The story of the Camoran Usurper does deserve a book of its own. I recommend the reader find Palaux Illthre's "The Fall of the Usurper" for more detail. In short, the destruction of the forces of the Usurper had little do with efforts of the Emperor. The results was a great regional victory and an increase in hostility toward the seemingly inefficious Empire.
+ 卡莫蘭篡奪者的故事確實值得單獨成書。我建議讀者去找帕洛克斯·伊爾思雷的《篡奪者的覆滅》以了解更多細節。簡而言之，篡奪者軍隊的毀滅與皇帝的努力關係不大。結果是一場偉大的地區勝利，以及對看似無能的帝國敵意的增加。
 
- Uriel V turned opinion back toward the potential power of the Empire. Turning the attention of Tamriel away from internal strife, Uriel V embarked on a series of invasions beginning almost from the moment he took the throne in 3E 268. Uriel V conquered Roscrea in 271, Cathnoquey in 276, Yneslea in 279, and Esroniet in 284. In 3E 288, he embarked on his most ambitious enterprise, the invasion of the continent kingdom of Akavir. This was ultimately a failure, for two years later Uriel V was killed in Akavir on the battlefield of Ionith. Nevertheless, Uriel V holds a reputation second only to Tiber as the great warrior emperor of Tamriel.
+ 尤利爾五世把輿論轉回帝國潛在力量的方向。他把泰姆瑞爾的注意力從內亂轉開，幾乎從第三紀元268年登基那一刻起便展開一連串入侵。尤利爾五世於271年征服羅斯克雷亞，276年征服卡斯諾奎，279年征服伊內斯里亞，284年征服埃斯羅尼耶。第三紀元288年，他踏上最雄心勃勃的事業：入侵大陸王國阿卡維爾。這最終失敗了，兩年後尤利爾五世在阿卡維爾的伊奧尼斯戰場被殺。儘管如此，尤利爾五世作為泰姆瑞爾偉大戰士皇帝的聲望僅次於泰伯。
 
- The last four Emperors, beginning with Uriel V's infant son, are described in the fourth and final volume of the series.
+ 最後四位皇帝，始於尤利爾五世尚在襁褓的兒子，見本系列第四卷也是最後一卷。

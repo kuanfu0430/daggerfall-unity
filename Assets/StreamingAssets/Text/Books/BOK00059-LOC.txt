@@ -1,5 +1,5 @@
-Title: Biography of Queen Barenziah, Vol. I
-Author: Stem Gamboge, scribe
+Title: 巴蘭茲雅女王傳，卷一
+Author: 斯特姆·甘伯格，書記
 IsNaughty: False
 Price: 406
 IsUnique: False
@@ -8,24 +8,24 @@ Content:
 
 [/font=2]
 
-[/center]Biography of
+[/center]巴蘭茲雅
 
-[/center]Queen Barenziah,
+[/center]女王傳，
 
-[/center]Vol. I
+[/center]卷一
 
 [/font=4]
 
- Late in the Second Era an heir, a girl child, Barenziah, was born to the rulers of Mournhold in Morrowind. She was reared in all the luxury and security befitting a royal dark elf child until she reached five years of age. At that time, His Excellency Tiber Septim demanded that the decadent rulers of Morrowind yield to him and institute Imperial reforms. Trusting to their vaunted magic, they impudently refused and much of Morrowind was laid waste in the conflict that ensued.
+  第二紀元晚期，晨風哀傷之城的統治者誕下一女嗣，名為巴蘭茲雅。她在一切配得上黑暗精靈王族孩童的奢華與安穩中長大，直至五歲。那時，泰伯·塞普汀陛下要求晨風那些頹廢的統治者向他屈服，並推行帝國改革。他們仗著自詡的魔法，傲慢地拒絕，隨後的戰火使晨風大片土地化為廢墟。
 
- The little Princess Barenziah and her nurse were found among the wreckage. General Symmachus, himself a dark elf and born in Mournhold, suggested to His Excellency that the child might someday be valuable, and she was placed with a loyal supporter who had recently retired from the Imperial army. On retirement, Sven Advensen had been made Baron of Blackmoor, a small town in central Skyrim. Baron Sven and his wife reared her as their own daughter, saw to it that she was educated appropriately, and more importantly, was taught the Imperial virtues and piety. In short, she was made fit to take her place as a member of the new ruling class of Morrowind.
+  小公主巴蘭茲雅與她的乳母在廢墟中被尋獲。西瑪庫斯將軍本身是黑暗精靈，也生於哀傷之城，向陛下建議這孩子將來或許有用，於是她被安置在一名剛從帝國軍退役的忠誠擁護者身邊。退役時，斯文·阿德文森受封為黑沼男爵——那是天際中部的一座小鎮。斯文男爵與妻子把她當親生女兒撫養，確保她受適當教育，更重要的是，教她帝國的德行與虔敬。簡言之，她被培養成足以在晨風新統治階層中佔一席之地的人。
 
- The girl Barenziah grew in beauty, grace, and intelligence. She was very sweet-tempered, a joy to her adoptive parents and their five young sons, who loved her as their elder sister. Other than her appearance, she differed from young girls of her class only in that she had a strong empathy for the woods and fields, and was wont to escape her household duties to wander there.
+  少女巴蘭茲雅在美貌、儀態與才智上日漸成長。她性情極為溫柔，是養父母與他們五個幼子的喜悅，孩子們愛她如長姊。除了外貌，她與同階級少女的唯一不同，是對林地與田野有強烈的共感，常常逃開家務到那兒閒逛。
 
- Barenziah was happy and content until her sixteenth year, when a wicked orphan stable boy whom she had befriended out of pity told her that he had overheard a conspiracy of her dear guardian. Baron Sven, said the boy, had dealt with a Redguard visitor to sell her as a concubine in Rihad, as no Nord or Breton would marry her on account of her black skin, and no dark elf would have her because of her foreign upbringing.
+  巴蘭茲雅一直幸福滿足，直到十六歲那年，一個她因憐憫而結交的邪惡孤兒馬僮告訴她，他偷聽到親愛監護人的陰謀。那男孩說，斯文男爵與一名紅守衛訪客談妥，要把她賣到里哈德當妾——因為她的黑皮膚，沒有諾德人或布萊頓人願娶她；又因她在異鄉長大，也沒有黑暗精靈要她。
 
- "Whatever shall I do?" the poor girl wept, trembling, for she had been brought up in innocence and trust, and it never occured to her that her friend would lie to her.
+  「我該怎麼辦？」可憐的女孩顫抖著哭泣，因為她在天真與信任中長大，從未想過友人會對她說謊。
 
- The wicked boy, who was called Straw, said she must run away if she valued her virtue, but he would come with her and protect her. Sorrowfully, Barenziah agreed to this plan and that very night, Barenziah disguised herself as a boy and the pair escaped to the nearby city of Whiterun. After a few days there, they managed to get places as guards in a disreputable merchant caravan. The caravan was heading east by side roads in a dishonest attempt to elude the lawful tolls charged on the highway. Thus they eluded pursuit until they reached the city of Rifton, where they ceased their travels. They felt safe in Rifton, close as they were to the Morrowind border so dark elves were commonly seen.
+  那邪惡男孩名叫稻草，說她若珍惜貞操就必須逃走，而他會隨行保護她。巴蘭茲雅悲傷地同意這計劃，當夜便女扮男裝，兩人逃往附近的白漫城。在那兒待了幾天後，他們設法在一支聲名狼藉的商隊裡謀得護衛之職。商隊為了躲避官道上合法的通行稅，走小路向東。就這樣他們躲過追捕，直到抵達裂谷城才停下腳步。他們覺得在裂谷城很安全，因為此地靠近晨風邊境，黑暗精靈並不罕見。
 
- The story of how Barenziah finally came to the throne of Mournhold after this fitful start is told in Volume II of the Biography of Queen Barenziah.
+  巴蘭茲雅在這番顛沛之後，如何終於登上哀傷之城的王位，將在《巴蘭茲雅女王傳》卷二中講述。

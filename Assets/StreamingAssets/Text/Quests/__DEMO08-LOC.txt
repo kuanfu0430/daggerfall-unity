@@ -1,0 +1,108 @@
+---- Example quest based on M0B00Y16 (kill a giant, rescue NPC)
+---- Have modified as only testing specific parts of this quest
+
+Quest: __DEMO08
+
+
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 哈囉，%pcf。要是你這幾天有空，
+<ce> 剛來了一件殺巨人的差事，
+<ce> 我就想到你了。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 太忙了，是吧？我像你這年紀時，
+<ce> 從沒忙到抽不出空去幹掉一兩隻巨人。
+<ce> 唉，現在的年輕人啊。
+
+AcceptQuest:  [1002]
+<ce> 好。據說有隻巨人不久前搬進了
+<ce> ___mondung_，天天拿附近
+<ce> _dummy_ 的羊大快朵頤。
+<ce> 好像也吃了幾個村民，不過
+<ce> 老 _dummy_ 對那倒不太在意。
+<ce> 總之，%g 要你在 =qtime_ 天內解決這隻巨人，
+<ce> 報酬是 _gold_ 金幣。待會見。
+
+QuestFail:  [1003]
+<ce> 怎麼，巨人吃撐死了？
+<ce> 快去，%pcf。你還有差事沒做完。
+
+QuestComplete:  [1004]
+<ce> 向屠巨者致敬！我就知道
+<ce> 這差事找你準沒錯。
+<ce> 這是 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> ___mondung_ 有隻巨人在恐嚇當地人，可 _dummy_ 好像
+<ce> 一點也不在乎。
+                                     <--->
+<ce> 那天 ___mondung_ 那隻巨人又擄走了一個村民。
+
+RumorsPostfailure:  [1006]
+<ce> 真高興那隻巨人終於離開 ___mondung_ 了。大概是每天晚上
+<ce> 都吃村民，吃膩了吧。
+
+RumorsPostsuccess:  [1007]
+<ce> 感謝 %god，_dummy_ 終於派人去殺 ___mondung_
+<ce> 那隻巨人了。一定是咬到 %g 的寶貝羊了。
+
+QuestorPostsuccess:  [1008]
+<ce> 是我的老朋友屠巨者 %pcf 啊！
+
+QuestorPostfailure:  [1009]
+<ce> 在我那個年代，殺不死一隻普通巨人，
+<ce> 是會被戰士公會踢出去的。
+<ce> 時代變了吧。
+
+Message:  1020
+%qdt:
+ ___questgiver_ 戰士公會的
+ _questgiver_ 雇我去
+ ___mondung_ 殺掉一隻巨人。
+ 必須在 =qtime_ 天內回去覆命，
+ 報酬是 _gold_ 金幣。
+
+Message:  1021
+%qdt:
+ 我救出一名商人，那巨人顯然
+ 是把他留著當點心。
+ _villager_ 要我送 %g2
+ 到 __store_ 的 _store_。
+
+Message:  1030
+<ce> 巨人痛苦地咆哮。你聽見
+<ce> 沉重的腳步朝你走來。
+<ce> 也許巨人請了幾位朋友來吃晚餐……
+
+Message:  1040
+<ce> 感謝 %god，你來了！昨天我正要去市集，
+<ce> 巨人連我帶另外四名同行商人一起擄走。
+<ce> 那四個人已經被吃了，大概是把我留到稍後。
+<ce> 拜託你帶我離開這裡好嗎？
+<ce> 我一個人絕對走不出去。
+
+Message:  1041
+<ce> 你真是英雄。讓我自我介紹：
+<ce> ___villager_ 的 _villager_。
+<ce> 我本來要去 __store_ 的 _store_。
+<ce> 若能順路把我送到那兒，
+<ce> 我將永遠感激不盡。
+
+Message:  1042
+<ce> 謝謝你幫忙，不過從這裡開始
+<ce> 我想自己找路就行。
+
+Message:  1043
+<ce> 你真是沒心沒肺。
+
+Message:  1044
+<ce> 與你同行很愉快，%pcf。
+<ce> 你救了我的命，我不會忘記的。
+
+Message:  1080
+<ce> 嘿，這是前天另一個傢伙找到的
+<ce> ___newdung_ 地圖。
+<ce> 要是我再年輕幾歲，咱們就能一起
+<ce> 把它掃個精光，跟從前一樣。

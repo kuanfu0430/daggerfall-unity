@@ -1,0 +1,76 @@
+-- Quest: C:\QUESTS\WORKING\L0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 0
+-- QuestId: 0
+Messages: 22
+Quest: L0B00Y00
+DisplayName: 叛逃成員
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 兄弟會裡有叛徒。
+<ce> 你會把這筆帳了結掉，
+<ce> 對嗎？
+                                      <--->
+<ce> 時不時地，兄弟會也得
+<ce> 清點自己的帳冊。我們
+<ce> 在組織裡發現了一名叛徒，
+<ce> 必須了結。這份榮譽
+<ce> 選中了你。
+
+RefuseQuest:  [1001]
+<ce> 真是卑劣的回答。我原本期望更好。
+
+AcceptQuest:  [1002]
+<ce> 很好。那名叛徒已躲進
+<ce> %di 方的
+<ce> ___mondun_。若你未能在
+<ce> =queston_ 天內回來，你的
+<ce> 榮譽將被沒收，另有他人接替。
+<ce> 別讓我們失望，%pcf。
+
+QuestFail:  [1003]
+<ce> 叛徒還沒死。別想說服我
+<ce> 事情不是這樣。
+
+QuestComplete:  [1004]
+<ce> 幹得好。你有理由為此自豪。
+
+RumorsDuringQuest:  [1005]
+那名刺客逃往 ___mondun_，像有地獄獵犬在後頭追。
+<--->
+_qgiver_ 不能就這麼放走那名叛徒，尤其是在 %g 對兄弟會做了那些事之後。
+
+RumorsPostfailure:  [1006]
+看來那名叛徒比 _qgiver_ 想的還難對付。好一次脫逃。
+<--->
+<ce> 聽說那名夜刃往北去了，但
+ 兄弟會對此事的記憶仍揮之不去。
+
+RumorsPostsuccess:  [1007]
+叛徒的下場正好證明一件事：別跟兄弟會開玩笑。
+<--->
+我從沒想過兄弟會會對那種蠢蛋叛徒刺客手下留情。
+
+QuestorPostsuccess:  [1008]
+你需要什麼，弒殺叛徒之人？
+
+QuestorPostfailure:  [1009]
+<ce> 跟你說話讓我渾身不自在。
+<ce> 畢竟，我曾信任你去了結
+<ce> 那名叛徒，不是嗎？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的黑暗兄弟會派我去找出
+ 並殺死一名公會叛徒。那名叛逃刺客
+ 藏在 ___mondun_。我有 =queston_ 天
+ 完成此事。
+
+Message:  1021
+<ce> 「我不是……你們以為
+<ce> 的……那個叛徒。真正的
+<ce> 叛徒是……」契約已經履行。

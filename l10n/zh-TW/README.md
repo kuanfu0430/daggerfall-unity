@@ -6,16 +6,16 @@
 
 依官方 wiki：把 CSV 從 `Assets/StreamingAssets/Text/Master Localization CSV Files` 複製到 `Assets/StreamingAssets/Text`，只改 **Value**，不改 **Key**。選單類 `.txt` 直接改逗號右側文本。中文需自備 Unicode 字型放到 `StreamingAssets/Fonts`。
 
-## 本輪範圍（UI 抽樣）
+## 翻譯範圍（完整交付）
 
-- `Assets/StreamingAssets/Text/MainMenu.txt`
-- `Assets/StreamingAssets/Text/GameSettings.txt`
-- `Assets/StreamingAssets/Text/ModSystem.txt`
-- `Assets/StreamingAssets/Text/DialogShortcuts.txt`
-- `Assets/StreamingAssets/Text/Internal_Strings.csv`
-- `Assets/StreamingAssets/Text/Internal_Settings.csv`
+- 啟動器／設定／模組 UI
+- `Internal_Strings.csv`、`Internal_Settings.csv`、`Internal_RSC.csv`
+- 物品／法術／派系／Flat／地名 CSV
+- `Text/Books/BOK*-LOC.txt`（93）
+- `Text/Quests/*-LOC.txt`（265；只覆蓋 QRC）
+- `BIOGs/BIOG*.TXT` 角色背景
 
-術語表：`l10n/zh-TW/glossary.md`
+熱鍵 `DialogShortcuts.txt` 不譯。術語表：`l10n/zh-TW/glossary.md`。驗收：`python l10n/zh-TW/qa_full.py`。
 
 ## 怎麼測（Windows，不用編譯）
 

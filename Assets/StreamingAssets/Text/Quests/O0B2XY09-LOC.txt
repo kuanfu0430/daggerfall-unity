@@ -1,0 +1,66 @@
+-- Quest: C:\QUESTS\WORKING\O0B2XY09.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 2X
+-- QuestId: 9
+Messages: 11
+Quest: O0B2XY09
+DisplayName: 富商
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       你可以叫我 _qgiver_。
+<ce>                     我聽說有個豬一樣的商人
+<ce>                      剛買了一批 _coastal_。
+<ce>                       我要你把它摸來
+<ce>                       帶到這兒。
+<ce>                       我會付你 _gold_ 金幣。
+<ce>                          有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>                           走開，%pcn。
+<ce>                         我得找個配得上
+<ce>                          盜賊這個名號的人。
+
+AcceptQuest:  [1002]
+<ce>                          到 __mansion_ 去
+<ce>                        _mansion_。找到那批
+<ce>                        _coastal_ 該不難。
+<ce>                         在 =traveltime_ 天內
+<ce>                      帶回來給我，我就付錢。
+<ce>                          沒問題？很好。
+
+QuestComplete:  [1004]
+<ce>                        喔呵！這批貨比我想的
+<ce>                       還好。這是你的 _gold_ 金幣，
+<ce>                        %pcn。別全花在酒或
+<ce>                           聲色上。
+
+RumorsDuringQuest:  [1005]
+一批新的 _coastal_ 運進了 __mansion_。沒人確切知道放在哪。
+
+RumorsPostfailure:  [1006]
+一定有人找到了 __mansion_ 的 _coastal_。他們又要把它運走了。
+
+RumorsPostsuccess:  [1007]
+原來他們存放 _coastal_ 的地方前幾天被搶了。
+
+QuestorPostsuccess:  [1008]
+你可沒把那筆金幣花在酒或聲色上吧，%pcf？
+
+QuestorPostfailure:  [1009]
+<ce>                  你想怎樣？我告訴你 _coastal_
+<ce>                 在哪，你卻磨蹭到對誰都沒用。
+<ce>                     滾出去，%pcf。你讓我
+<ce>                             頭疼。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 盜賊公會的 _qgiver_
+ 雇我去 __mansion_ 的
+ _mansion_ 偷一些 _coastal_。
+ 我必須在 =traveltime_ 天內把它帶回
+ ___qgiver_ 的 __qgiver_
+ 領取酬勞。

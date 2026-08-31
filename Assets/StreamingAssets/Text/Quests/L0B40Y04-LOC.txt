@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\L0B40Y04.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 40
+-- QuestId: 4
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 22
+Quest: L0B40Y04
+DisplayName: 貴族的煩憂
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 這趟小小遠行不是誰都能接，
+<ce> 但我覺得你會享受這挑戰。
+<ce> 有位客戶想對 ___mondung_
+<ce> 王室的一名成員
+<ce> 了結帳目。我一聽見，
+<ce> 就想到你。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 也好。或許是明智之舉，但
+<ce> 這多少帶點……
+<ce> 我敢說，是怯懦？
+
+AcceptQuest:  [1002]
+<ce> 我就知道你抗拒不了這一份。
+<ce> 事先警告，你的目標
+<ce> _knight_ 可不是嬌生慣養的
+<ce> 小王子。客戶也是王室成員，
+<ce> 擔心 _knight_ 會鑽營登上王座。
+<ce> 據我聽說，%g 確實有這本事。
+<ce> 客戶要 %g2 在 =1stparton_
+<ce> 天內消失。我們給你這麼多時間
+<ce> 了結並回來報告。
+<ce> 願梅法拉與你同行，%pcf。
+
+QuestFail:  [1003]
+<ce> 我不知道你以為自己殺了誰，
+<ce> 但不是 _knight_。趕緊去
+<ce> 王宮，把我們接下的契約辦完。
+
+QuestComplete:  [1004]
+<ce> 漂亮，%pcf，真的。讓這雙
+<ce> 疲憊的眼睛都濕了。這是我見過
+<ce> 最美的了結。我都想寫詩了。
+<ce> 拿著你的 _reward_ 金幣滾出去，
+<ce> 好讓我寫一首敘事詩？說真的，
+<ce> 我為你驕傲，%pcf。
+
+RumorsDuringQuest:  [1005]
+我說的沒錯。_knight_ 會成為我們的下一任統治者。
+<--->
+總有一天 _knight_ 會成為我們的統治者。那時我們才會知道什麼叫真正的暴政。
+
+RumorsPostfailure:  [1006]
+_knight_ 暫時離開了宮廷，但 %g 會回來。這是一定的。
+<--->
+王室歌劇還在演。不知道 _knight_ 為什麼離開宮廷。
+
+RumorsPostsuccess:  [1007]
+他們該把這天訂成 %reg 的節日。_knight_ 忌日！萬歲！
+<--->
+我忍不住懷疑 _knight_ 的猝死。太巧了。
+
+QuestorPostsuccess:  [1008]
+我還在想那騎士的了結。真是昇華之作，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce> 我知道這差事很難。近乎不可能。
+<ce> 但你還是失敗了，而我對失敗
+<ce> 毫無容忍。
+
+Message:  1020
+%qdt:
+ 我在 ___questgiver_ 為黑暗兄弟會接下的
+ 最新契約，是 _mondung_（位於 ___mondung_）
+ 的一名貴族，名叫 _knight_。此事須在
+ =1stparton_ 天內完成。
+
+Message:  1021
+<ce> 「我本可以……成為你們的……
+<ce> 下一任……統治者，」_knight_ 呻吟。
+<ce> 契約已經履行。

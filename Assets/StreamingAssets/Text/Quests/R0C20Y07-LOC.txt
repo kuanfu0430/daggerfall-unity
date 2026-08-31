@@ -1,0 +1,81 @@
+-- Quest: C:\QUESTS\WORKING\R0C20Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 20
+-- QuestId: 7
+Messages: 12
+Quest: R0C20Y07
+DisplayName: 失落的藍寶石
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>             我有個朋友，一位潛在盟友，需要隱密的協助。
+<ce>             這是相對簡單的尋回行動，我的朋友會樂意付出極為豐厚的酬勞，
+<ce>              我也會非常感激。必須很快完成，在 =1stparton_ 天內。
+<ce>            若你有興趣，我再細說。
+
+RefuseQuest:  [1001]
+<ce>           嗯，一開始就拒絕絕對比答應了卻失敗好。
+<ce>          我有點失望，但這會過去的。
+
+AcceptQuest:  [1002]
+<ce>           出色，我就知道你會幫忙。好了，我的朋友是
+<ce>                     ___qgfriend_ 的 _qgfriend_。
+<ce>        %G丟了一顆寶石，一顆藍寶石，我的密探已追到
+<ce>                ___itemdung_，居然是那地方。
+<ce>                      _qgfriend_ 需要這顆石頭，
+<ce>               因為%g是向第三方借的。若沒在 =1stparton_ 天內
+<ce>             交到%g3手上，可就會有大麻煩。此外，
+<ce>         據我的密探說，現在持有這顆石頭的人隨時會撤離 ___itemdung_。
+<ce>           顯然，你最好立刻動身，在 =1stparton_ 天內帶著藍寶石
+<ce>          趕到 ___qgfriend_。祝你好運，%pcf。讓我驕傲。
+
+QuestFail:  [1003]
+<ce>                     那顆藍寶石，%pcf？你是不是
+<ce>                       忘了什麼？%oth！
+
+QuestComplete:  [1004]
+<ce>                     喔，%pcf，你不知道我有多慶幸
+<ce>              你找到了那顆藍寶石。我甚至不想想像若你沒找到。
+<ce>             這是我能給的最好酬勞，一件 _reward_。請收下，
+<ce>                        這是我由衷的感謝。
+
+RumorsDuringQuest:  [1005]
+___itemdung_ 那些賊有些相當厲害的護衛。
+<--->
+_qgfriend_ 最近緊張得很。
+
+RumorsPostfailure:  [1006]
+顯然有個強大的巫師跟 _qgfriend_ 過不去。
+<--->
+_questgiver_ 一直在抱怨像樣的%ra傭兵太少。
+
+RumorsPostsuccess:  [1007]
+原來 _qgfriend_ 終究沒偷那顆寶石。他們找到了。
+<--->
+_qgfriend_ 曾被叫作賊，但他們找到了%g據說偷走的寶石。
+
+QuestorPostsuccess:  [1008]
+我的朋友說你拿到了藍寶石。現在，我能為你做什麼？
+<--->
+很高興再見到你。我的朋友很感謝那份小小的藍色禮物。
+
+QuestorPostfailure:  [1009]
+<ce>                     你的膽子讓我印象深刻，%pcn。
+<ce>                          你搞砸了尋回藍寶石的任務，
+<ce>                      卻還回來。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 派我去尋回從%g3的朋友
+ ___qgfriend_ 的 __qgfriend_ 的
+ _qgfriend_ 那裡被偷的藍寶石。
+ 我有 =1stparton_ 天把藍寶石從
+ ___itemdung_ 送到 __qgfriend_，
+ 才能領到酬勞。
+
+Message:  1011
+你找到了藍寶石。

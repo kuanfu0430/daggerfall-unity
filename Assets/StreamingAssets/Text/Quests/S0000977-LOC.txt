@@ -1,0 +1,47 @@
+-- Quest: C:\QUESTS\WORKING\S0000977.Qbn.
+-- Main story quest.
+-- QuestId: 977
+Messages: 10
+Quest: S0000977
+DisplayName: 匕首雨的詛咒
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+
+
+RefuseQuest:  [1001]
+
+
+AcceptQuest:  [1002]
+
+
+QuestFail:  [1003]
+
+
+QuestComplete:  [1004]
+
+
+RumorsDuringQuest:  [1005]
+鬼魂在匕首雨的街道上作祟。
+<--->
+別在夜間走匕首雨的街道。
+<--->
+<ce>      萊桑達斯國王的鬼魂夜間縈繞他舊日的都城。
+<ce>                           沒人知道為什麼。
+
+RumorsPostfailure:  [1006]
+
+
+RumorsPostsuccess:  [1007]
+
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+
+
+
+-- Symbols used in the QRC file:
+--    ***  None  ***

@@ -1,0 +1,74 @@
+-- Quest: C:\QUESTS\WORKING\N0B30Y15.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 30
+-- QuestId: 15
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 11
+Quest: N0B30Y15
+DisplayName: 失控的小鬼
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       我叫 _questgiver_。
+<ce>                    我們需要有人去殺死一隻失控的
+<ce>                    小鬼。你有興趣嗎？
+<ce>                     這差事會付 _gold_ 金幣。
+
+RefuseQuest:  [1001]
+<ce>                               真可惜。
+                                     <--->
+<ce>                             太遺憾了。
+                                     <--->
+<ce>                      明白了。那就到別處晃晃吧，
+<ce>                            %pcn。
+
+AcceptQuest:  [1002]
+<ce>                       態度不錯，%pcn。有件事
+<ce>                    我還沒告訴你。
+<ce>                   這隻小鬼曾是一位地位極高的
+<ce>                    法師的使魔。看來它掉進了
+<ce>                  實驗性法術裡，被灌入了各式
+<ce>                  類似法術的力量。你可以在
+<ce>                      __palace_ 的 _palace_
+<ce>                        找到這傢伙。顯然它
+<ce>                自以為適合統治。務必小心，
+<ce>                       %pcn。若你沒在
+<ce>               =traveltime_ 天內回來，我們就當
+<ce>                           你死了。
+
+QuestComplete:  [1004]
+<ce>                   難纏的小東西，對吧？你
+<ce>                    確實賺到了這份酬勞。
+
+RumorsDuringQuest:  [1005]
+__palace_ 的 _palace_ 出了事。很奇怪的事。
+<--->
+__palace_ 的每個人都在猜 _palace_ 裡到底怎了。
+
+RumorsPostfailure:  [1006]
+有某種生物從 __palace_ 的 _palace_ 飛出來，往南去了。
+
+RumorsPostsuccess:  [1007]
+感謝 %god，當時有 %ra 傭兵在 __palace_ 殺死了那隻小鬼。
+<--->
+要不是那個 %ra 幫忙，那隻小鬼可能在 __palace_ 造成不少破壞。
+
+QuestorPostsuccess:  [1008]
+我沒忘記你，%pcf。你就是殺死那隻煩人小鬼的 %ra。
+
+QuestorPostfailure:  [1009]
+<ce>                    那隻小鬼差點毀了 __palace_，
+<ce>                  你卻袖手旁觀。在我看來，
+<ce>                      這相當可恥，
+<ce>                           %pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___questgiver_ 法師公會的
+ _questgiver_ 責成我消滅一隻
+ 失控的小鬼。那傢伙潛伏在
+ __palace_ 的 _palace_。
+ 我有 =traveltime_ 天完成任務。

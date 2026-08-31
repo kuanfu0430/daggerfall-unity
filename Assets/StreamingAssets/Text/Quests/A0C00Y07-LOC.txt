@@ -1,0 +1,69 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 7
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 11
+Quest: A0C00Y07
+DisplayName: 除蟲者
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我需要幫忙。_qgiver_ 為你效勞，
+<ce> 雖然我希望你能為我效勞。
+<ce> _house_ 被怪物侵擾了。
+<ce> 你能替我殺掉牠們嗎？我可以付你 _gold_ 金幣。
+
+RefuseQuest:  [1001]
+<ce> 我需要幫忙！難道沒人肯幫我嗎？
+
+AcceptQuest:  [1002]
+<ce> 謝謝、謝謝、謝謝你！若牠們明天這個時候還沒消失，我就完了。
+
+QuestComplete:  [1004]
+<ce> 真是鬆了一口氣。我恨那些東西。你幫了大忙，%pcn。
+<ce> 這是我答應的 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 我覺得超好笑！_qgiver_ 的 _house_ 被巨型蟲子佔領了！
+                                     <--->
+<ce> 我為 _qgiver_ 感到難過。%G3 _house_ 幾乎被
+<ce> 十二呎長、帶毒刺的老鼠佔領了。聽說牠們一眼就能把人變成石頭！
+
+RumorsPostfailure:  [1006]
+<ce> _qgiver_ 只好把 _house_ 賣掉了。
+                                     <--->
+<ce> 聽說戰士公會有人在清理 _qgiver_ 的 _house_ 蟲患時死了。
+
+RumorsPostsuccess:  [1007]
+<ce> 你不就是那個幫 _qgiver_ 除掉佔領 %g3 _house_ 那些野獸的 %ra 嗎？
+                                     <--->
+<ce> 聽說 _qgiver_ 花錢雇人去殺光佔領 %g3 _house_ 的那些生物。
+
+QuestorPostsuccess:  [1008]
+<ce> %pcf，我欠你一份人情，謝謝你清掉 _house_ 的怪物。
+                                     <--->
+<ce> 各位聽好。我想介紹我的朋友 %pcn，除蟲奇才。
+<ce> %G 清掉了我 _house_ 裡的三打怪物！
+
+QuestorPostfailure:  [1009]
+<ce> 是你！你毀了我！我失去 _house_，就因為你連裡面那一小撮怪物都處理不了。
+                                     <--->
+<ce> 你不就是那個讓我失望的 %ra 嗎？
+<ce> 我雇你去殺侵擾我 _house_ 的怪物，你就是辦不到。走開。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 在 ___qgiver_，我遇見 _qgiver_。
+ %G 要我清除 __house_ 的 _house_ 裡的怪物。
+ %G 需要在一天內搞定。
+
+Message:  1011
+<ce> 應該夠了。
+
+Message:  1012
+<ce> 你聽見牆壁傳來刮擦聲。
+<ce> 那些生物對你侵入牠們的地盤，肯定會反應很差。

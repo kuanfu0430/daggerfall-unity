@@ -1,5 +1,5 @@
-Title: Special Flora of Tamriel
-Author: Hardin
+Title: 泰姆瑞爾特殊植物
+Author: 哈丁
 IsNaughty: False
 Price: 453
 IsUnique: False
@@ -8,28 +8,28 @@ Content:
 
 [/font=2]
 
-[/center]Special Flora
+[/center]泰姆瑞爾
 
-[/center]of
+[/center]的
 
-[/center]Tamriel
+[/center]特殊植物
 
 [/font=4]
 
- Poppies, both black and white, can be found growing wild in the mountains of Hammerfell. Their succulent pods are often the only nourishment of adventurers who find themselves in the wilderness without rations. It is said that the black and white poppies together have magical properties. When they are crushed and mixed with the milk of the agile footed mountain goat, a potion that allows the user to glide safely above the ground can be made.
+ 罌粟，黑白兩種，可見於落錘省山間野生。它們多汁的蒴果，常常是在荒野中發現自己沒有口糧的冒險者唯一的滋養。據說黑白罌粟合在一起具有魔法特性。把它們碾碎，與步履敏捷的山羊奶混合，可以製成讓使用者能在地面之上安全滑翔的藥劑。
 
- Fire Fern, a perennial herb, native to Morrowind. The flowers are inconspicuous and often hidden. The glossy, evergreen foliage and flowers are resistant to the conditions of high heat and bright light. A petal from this plant placed under an adventurer's tongue will provide protection from the heat and fire found in the lava pits and streams found around Dagoth-Ur.
+ 火蕨，多年生草本，原產晨風。花不顯眼，常常藏著。光亮的常綠葉與花能抵抗高熱與強光。把這植物的一片花瓣放在冒險者舌下，可提供對達格斯-烏爾周圍熔岩坑與熔岩流中熱與火的防護。
 
- Dragon's-Tongue, common name for a fern like herb found in Black Marsh. It is especially prolific around the area of Utherus Swamp. It is a beautiful wildflower. Its name comes from the fire red fronds that protect its golden flower. As pretty as it is, it is a deadly poison to most living beings and needs to be avoided by adventurers. It is said, however, that Argonians can pick the plant and use the sap derived from its roots as an enhancement to their endurance.
+ 龍舌，黑沼澤一種蕨類般草本的俗名。在烏瑟魯斯沼澤一帶尤其繁盛。它是美麗的野花。其名來自保護金色花朵的火紅葉片。儘管漂亮，它對大多數生物都是致命毒藥，冒險者需要避開。然而據說亞龍人能採摘此植物，用其根部提取的汁液增強耐力。
 
- Domica Redwort is a herb grown by many residents of Valenwood for their beautiful and showy flowers. They attain a height of about three feet and have feathery leaves; the flowers are usually bright red. In addition to their beauty, they are said to have magical abilities to enhance the appearance of anyone who carries or wears one of the flowers.
+ 多米卡紅草是瓦倫林地許多居民栽種的草本，為了美麗而醒目的花。它們可長到約三呎高，葉子如羽毛；花通常鮮紅色。除了美麗，據說它們有魔法能力，能增強任何攜帶或佩戴其中一朵花之人的外貌。
 
- Ironwood Nut, this rare nut comes from the Ironwood trees which grow deep in the forests of Skyrim. The wood from these trees is as hard as the metal for which they are named. The very rare black ironwood tree is said to produce a nut which is very succulent and is believed to enhance the strength of the adventurer who is able to crack its shell.
+ 鐵木堅果，這種稀有堅果來自深生於天際森林中的鐵木樹。這些樹的木材硬如它們得名的金屬。極為稀有的黑鐵木據說會結出非常多汁的堅果，據信能增強能敲開其殼的冒險者的力量。
 
- The Ginko leaves which are found along the banks of rivers and lakes in Hammerfell are most inconspicuous, only its peculiar halfmoon shape makes it noticeable. It is very sweet and tasty. Legend has it that when mixed properly with the pulp of the Aloe plant, the potion has the ability to increase one's stamina for a short while.
+ 沿落錘省河岸與湖岸可見的銀杏葉極不顯眼，只有其奇特的半月形才使人注意到。它非常甜而可口。傳說若與蘆薈的果肉適當混合，這藥劑能在短時間內增加一個人的耐力。
 
- The Somnalius Fern can be found in the swamps of Black Marsh. The fronds from this plant are light green and quite delicate. Picking a frond can be very difficult, but once retrieved it can be used to put an enemy to sleep for a short while by passing it under his nose.
+ 眠蕨可見於黑沼澤的沼澤中。這植物的葉片淺綠而十分纖弱。採下一片葉子可能非常困難，但一旦取得，把它從敵人人鼻下掠過，便能讓敵人昏睡片刻。
 
- Arrowroot is a thick, rubbery tuber that can be found in the Province of Valenwood. The plant is very difficult to find as its above ground foliage is very meager and scrawny. But the Arrowroot itself can be most beneficial to the gatherer as it has magical properties. The paste made from grinding the root is very tasty and can improve the user's accuracy with a bow and arrow.
+ 竹芋是一種厚實、橡膠般的塊莖，可見於瓦倫林地行省。這植物極難找到，因為地面上的枝葉非常貧乏瘦弱。但竹芋本身對採集者極有益，因為它有魔法特性。把根磨成的糊非常美味，能提高使用者弓箭的準確度。
 
- Nightshade is reputed to be a very poisonous herb. However the variety found in many parts of Elsweyr is cherished by Khajiits who have followed the career path of thievery. Many Khajiits will tuck a piece of Nightshade inside their armor to increase their abilities to skulk, hide and become invisible.
+ 夜影據說是一種劇毒草本。然而在艾斯維爾許多地方可見的品種，卻為走上盜賊生涯的卡吉特所珍視。許多卡吉特會把一小片夜影塞進鎧甲裡，以增強潛行、躲藏與隱身的能力。

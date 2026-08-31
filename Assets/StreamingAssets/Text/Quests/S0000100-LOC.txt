@@ -1,0 +1,21 @@
+-- Quest: C:\QUESTS\WORKING\S0000100.Qbn.
+-- Main story quest.
+-- QuestId: 100
+Messages: 16
+Quest: S0000100
+-- Message panels
+QRC:
+
+Message:  1015
+<ce>                 阿科里希女王派我們來卸下你沉重的負擔。
+<ce>                 圖騰一定壓得你心神不寧。可惜你沒有更努力
+<ce>                  討她歡心。她還下令殺你。當然，不能留
+<ce>                 目擊者。
+                                      <--->
+<ce>                     我們是來殺你的，%pcn。
+<ce>                  別往心裡去。我們只要圖騰，而你擋了路。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcn occurs 1 time.

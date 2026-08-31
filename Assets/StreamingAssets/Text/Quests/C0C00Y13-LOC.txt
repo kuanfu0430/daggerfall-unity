@@ -1,0 +1,58 @@
+-- Quest: C:\QUESTS\WORKING\C0C00Y13.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 13
+Messages: 12
+Quest: C0C00Y13
+DisplayName: 差事
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       願祝福加於你身，%pcn，
+<ce>                     即便你是異教徒，不光顧我們神殿。
+<ce>                         我是_qgiver_。
+<ce>                      那麼你想討__qgiver_的好。
+<ce>                        在=traveltime_天內把這_religitem_
+<ce>                          送到___priest_，我就能為你美言。
+
+RefuseQuest:  [1001]
+<ce>                     那是你的損失。短期內別再求這神殿的恩惠，%pcn。
+
+AcceptQuest:  [1002]
+<ce>                       這是_religitem_。
+<ce>                          把它交給___priest_的__priest_
+<ce>                      之_priest_。哦，差點忘了說，
+<ce>                        敵對神殿可能會派打手來阻止你。
+
+QuestComplete:  [1004]
+<ce>                       願神明的恩寵加於你身，%pcn。
+<ce>                         這_religitem_此處急需。
+
+RumorsDuringQuest:  [1005]
+兩座神殿正在爭奪那_religitem_。
+
+RumorsPostfailure:  [1006]
+_priest_沒拿到%g3的_religitem_，_qgiver_大發雷霆。
+
+RumorsPostsuccess:  [1007]
+多虧一名勇敢的%ra，_priest_與__qgiver_得到了那_religitem_。
+
+QuestorPostsuccess:  [1008]
+願%god保佑你，我當然記得%pcf。你好嗎，我的孩子？
+
+QuestorPostfailure:  [1009]
+_priest_沒拿到那_religitem_，我一點也不高興。
+
+QuestLogEntry:  [1010]
+%qdt:
+ __qgiver_的_qgiver_託付我把
+ _religitem_送到___priest_的__priest_
+ 之_priest_那裡。必須在=traveltime_天內送達。
+
+Message:  1011
+<ce>                         那_religitem_永遠到不了
+<ce>                      __priest_。相反，我要把你的頭
+<ce>                        給他們送去！

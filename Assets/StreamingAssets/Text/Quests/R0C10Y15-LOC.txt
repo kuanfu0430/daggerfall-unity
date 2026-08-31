@@ -1,0 +1,92 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y15.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 15
+Messages: 17
+Quest: R0C10Y15
+DisplayName: 第四人
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              我有一項稍嫌複雜的任務，需要第四個人參與。
+<ce>              可能要花幾天，但能讓你口袋多進 _reward_ 金幣。
+<ce>                           聽起來有意思嗎？
+
+RefuseQuest:  [1001]
+<ce>                       真令人失望。
+<ce>                               唉。
+
+AcceptQuest:  [1002]
+<ce>                   我在 ___npc1_ 有個接應人，
+<ce>            手上有件東西，是我在 ___npc2_ 的另一個同夥需要的。
+<ce>                     當然，___npc1_ 的接應人
+<ce>                       _npc1_ 得為%g3的物品收費。
+<ce>                所以我需要你把這顆鑽石當作付款帶給
+<ce>                       _npc1_。鑽石必須在
+<ce>                        =1stparton_ 天內交到%g3手上。
+<ce>             你到了 __npc1_ 之後，_npc1_ 會給你
+<ce>                 進一步指示。謝謝你，%pcf，願%god與你同在。
+
+QuestFail:  [1003]
+<ce>                   我知道這有點複雜，%pcf，
+<ce>                但我以為你那顆厚頭蓋骨裡至少還有一點腦子。
+<ce>                 希望你有做筆記，因為我沒有重複自己的習慣。
+
+QuestComplete:  [1004]
+<ce>                           啊，是 _item2_。
+<ce>                  我還怕它永遠到不了。
+<ce>             好了，這是答應你的 _reward_ 金幣。
+<ce>                        告訴 _npc1_ 我欠%g3一份人情。
+<ce>                     也謝謝你。
+
+RumorsDuringQuest:  [1005]
+__npc2_ 的 _npc2_ 還在為%g3的 _item2_ 尖叫。
+<--->
+%oth，那個 _npc1_ 真貪。不付錢連%g3自己的母親都不幫。
+
+RumorsPostfailure:  [1006]
+聽說 _questgiver_ 對某個%ra冒險者氣得要命。
+<--->
+_npc2_ 怒氣沖沖地離開了 __npc2_，為了%g3丟失的某種魔法物品。
+
+RumorsPostsuccess:  [1007]
+不知道 _questgiver_ 和 _npc2_ 之間有什麼關係。
+<--->
+聽說 _npc1_ 賣掉了%g3的 _item2_。在泰姆瑞爾，那價錢能是多少？
+
+QuestorPostsuccess:  [1008]
+唷，這不是%pcn，終極信差嗎。近來可好，我的朋友？
+<--->
+我急需時你幫過我，%pcf。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+<ce>                       我猜你是來為沒完成的
+<ce>                     信差差事道歉的，%pcf。
+<ce>                         歉我不接受。
+<ce>                             現在離開。
+
+QuestLogEntry:  [1010]
+<ce>                   感謝%god你到了，%pcf。
+<ce>               快把鑽石給我。現在帶上這件 _item2_，
+<ce>                        交給 __npc2_ 的 _npc2_——
+<ce>                       那是在 ___npc2_。到了之後，
+<ce>                    %g會付錢給你。
+
+Message:  1015
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 派我去 ___npc1_ 找%g3的接應人，
+ 一名叫 _npc1_ 的 =npc1_，
+ 在 __npc1_。我要把一件 _item1_
+ 交給%g2，然後再聽進一步指示。
+ 我有 =1stparton_ 天趕到 ___npc1_。
+
+Message:  1016
+%qdt:
+ _npc1_ 派我繼續前往
+ ___npc2_ 的 __npc2_ 的 _npc2_。
+ 我必須在 =2ndparton_ 天內把一件 _item2_
+ 帶給%g2。

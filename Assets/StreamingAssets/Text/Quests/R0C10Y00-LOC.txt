@@ -1,0 +1,104 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 0
+Messages: 22
+Quest: R0C10Y00
+DisplayName: 珠寶走私
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              若你願意受僱，我需要一個可靠的人
+<ce>              去執行一項隱密任務。這可能頗費時日，
+<ce>              但我保證酬勞會相當豐厚。你有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>              真的？或許太忙了。真可惜。
+
+AcceptQuest:  [1002]
+<ce>            很好。我給你一顆綠寶石，請交給我的接應
+<ce>                    ___npc1_ 的 _npc1_。
+<ce>                    %G會在 __npc1_ 等候。
+<ce>               物品必須在 =1stparton_ 天內送到。這一點
+<ce>                非常重要。你到了之後，_npc1_ 會給你
+<ce>            進一步指示。我指望你守口如瓶，%pcf，
+<ce>                     而且會有人盯著你。
+<ce>                        祝你好運，謝謝。
+
+QuestFail:  [1003]
+<ce>           我想我們此刻沒有別的好談了。
+                                      <--->
+<ce>                            我認識你嗎？
+
+QuestComplete:  [1004]
+<ce>                   啊，很高興見到你，%pcf。還有
+<ce>          _item2_ 也到了。出色。這是 _reward_ 金幣
+<ce>           酬勞，表彰你的辛勞，以及——我得補一句——
+<ce>              你的謹慎。你的名字不會被遺忘。
+
+RumorsDuringQuest:  [1005]
+<ce>       聽說 _questgiver_ 還在幹走私這行。
+                                      <--->
+<ce>      近來走私活動異常猖獗。
+
+RumorsPostfailure:  [1006]
+<ce>      聽說 _questgiver_ 對某個%ra冒險者氣得要命。
+
+RumorsPostsuccess:  [1007]
+<ce>     沒人知道 _item2_ 走私的幕後主使是誰。
+
+QuestorPostsuccess:  [1008]
+<ce>            啊，我偶爾用用的走私客。有何貴幹？
+                                      <--->
+<ce>       又見面了。恐怕我暫時沒有更多貨要送。
+
+QuestorPostfailure:  [1009]
+<ce>                失敗了還爬回來道歉，是嗎？
+<ce>                 太遲了。
+                                      <--->
+<ce>                       你就是那個搞砸
+<ce>                   運送任務的%ra，對吧？
+<ce>                            滾去湮滅吧。
+
+QuestLogEntry:  [1010]
+<ce>                啊，很好。_questgiver_ 上回雇的
+<ce>           那個運送人根本找不到我，我們只好把他獵殺了。
+<ce>             很不愉快。這是 _item2_。請交給
+<ce>                         ___npc2_ 的 _npc2_，
+<ce>                         這位 =npc2_。
+<ce>             你必須在不到 =2ndparton_ 天內送到。
+<ce>                            祝你好運，%pcf。
+
+Message:  1011
+%qdt:
+ ___questgiver_ 的 __questgiver_
+ 的 _questgiver_ 派我前往
+ ___npc1_ 的 __npc1_，
+ 把一顆綠寶石交給 _npc1_。
+ 我有 =1stparton_ 天完成此事。
+ 到了之後，可能還會接到進一步指示。
+
+Message:  1012
+%qdt:
+ _npc1_ 派我帶著 _item2_
+ 前往 ___npc2_，交給
+ 一處名叫 __npc2_ 的地方的
+ _npc2_。_npc1_
+ 形容 _npc2_ 是一名
+ =npc2_。若我能在
+ =2ndparton_ 天內趕到%g2那裡，
+ _npc2_ 就會給我酬勞。
+
+Message:  1020
+<ce>                    盜賊公會得到消息，
+<ce>                     你身上帶著一顆價值不菲的
+<ce>                    寶石。交出來，
+<ce>                       我就對你手下留情。
+
+Message:  1021
+<ce>                    簡直像從小孩手裡搶錢。
+<ce>                     滾出我的視線，你這
+<ce>                          沒種的信差。

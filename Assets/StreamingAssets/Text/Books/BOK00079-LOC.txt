@@ -1,5 +1,5 @@
-Title: Etiquette With Rulers
-Author: Erystera Ligen
+Title: 與統治者相處的禮儀
+Author: 埃里斯特拉·利根
 IsNaughty: False
 Price: 738
 IsUnique: False
@@ -8,25 +8,25 @@ Content:
 
 [/font=2]
 
-[/center]Etiquette With
+[/center]與統治者
 
-[/center]Rulers
+[/center]相處的禮儀
 
 [/font=4]
 
 [/center]
- Because the rules are so complex and the stakes are so high, many people blanche at the thought of speaking with a noble with a title. For starters, it is important to address them correctly, for just as no one likes to be misnamed, no one likes to be mistitled. The problem is that in High Rock, traditions of the peerage differ slightly from region to region. The base rules follow:
+  因為規矩如此複雜、賭注如此之高，許多人一想到要跟有頭銜的貴族說話就臉色發白。首先，正確稱呼他們很重要，因為正如沒有人喜歡被叫錯名字，也沒有人喜歡被冠錯頭銜。問題在於，在高岩，貴族傳統因地略有不同。基本規則如下：
 
- There are eight kingdoms in High Rock in the following regions: Northpoint, Daggerfall, Shornhelm, Camlorn, Farrun, Evermore, Wayrest, and Jehanna. If a woman is ruling one of these areas, she is called the Queen. The husband of a Queen and the wife of a King is not necessarily of equal rank -- they may not be Kings and Queens themselves. Their children are Princes and Princesses. Their grandchildren are also Princes and Princesses. If a male ruler dies, his wife takes the title Dowager Queen, providing there is not a Dowager Queen already. Like all rules, there are exceptions. One noted exception took place recently in Daggerfall, when King Lysandus died. In most regions, his wife Mynisera would not have become Dowager Queen of Daggerfall, because Lysandus' mother, the widow Nulfaga, still lived. In Daggerfall, however, it is permissable for there to be two persons with the same title. Thus, both Nulfaga and Mynisera have the title Dowager Queen.
+  高岩有八個王國，位於下列地區：北點、匕首雨、肖恩赫姆、卡姆洛恩、法倫、永固城、途歇城，以及耶漢娜。若由女性統治其中一地，她稱為女王。女王的丈夫與國王的妻子未必同等階——他們本身不一定是國王與女王。他們的子女是王子與公主。孫輩也是王子與公主。若男性統治者去世，其妻取得太后頭銜，前提是尚無太后在世。一如所有規則，皆有例外。最近在匕首雨就有一樁著名例外：萊桑達斯國王去世。在多數地區，其妻米尼塞拉不會成為匕首雨太后，因為萊桑達斯的母親、未亡人努爾法加仍在世。然而在匕首雨，允許兩人共用同一頭銜。因此，努爾法加與米尼塞拉皆有太后頭銜。
 
- If a female ruler, who does not share rank with her husband, dies, there is no male equivalent to the word Dowager. Widowers of Queens usually take another title, either a lesser family title or one given by their children. There have been a few men in the history of High Rock who have fallen from being addressed as King to being addressed as Mister at the death of their wife.
+  若女性統治者——其夫並不共享她的等階——去世，則沒有對應「太后」的男性稱謂。女王的鰥夫通常另取頭銜，要麼是較低的家族頭銜，要麼由子女賜予。高岩歷史上有少數男子，在妻子去世後從被稱為國王跌落到被稱為先生。
 
- Other regions are ruled by Dukes and Duchesses, Marquises (or Marquesses) and Marquises (or Marchionesses), Counts and Countesses, Viscounts or Viscountesses, Barons or Baronesses, and Lords or Ladies. This list is theoretically listed from highest to lowest rank, but the ruler of a territory outranks all other nobles, regardless of title. Dwynnen, for example, is a Barony, and the Baron or Baroness of Dwynnen outrank any other noble in that territory, even Dukes and Counts.
+  其他地區由公爵與公爵夫人、侯爵與侯爵夫人、伯爵與女伯爵、子爵與女子爵、男爵與女男爵，以及領主與夫人統治。這份名單理論上由高至低排列，可一地的統治者壓過該地所有其他貴族，不論頭銜。例如德溫寧是男爵領，德溫寧男爵或女男爵壓過該地任何其他貴族，即使是公爵與伯爵。
 
- In theory, (again, this may not be the case according to local custom) the eldest son or daughter of a noble takes their parents highest family title below their parents. Thus, the Duke of Northmoor, who is also the Marquis of Calder, had a daughter who became the Marchioness of Calder.
+  理論上（再次，依地方習俗未必如此），貴族的長子或長女繼承其父母低於自身的最高家族頭銜。因此，北沼公爵——同時也是卡爾德侯爵——有一個女兒成為卡爾德侯爵夫人。
 
- Kings and Queens are always addressed as "Your Majesty" in conversation; Dukes and Duchesses, "Your Grace". All other rulers may be addressed with their title and name, or Lord or Lady and their name.
+  國王與女王在交談中一律稱為「陛下」；公爵與公爵夫人稱為「閣下」。所有其他統治者可以頭銜加姓名稱呼，或以領主、夫人加其姓名稱呼。
 
- A few hints may be needed to determine exactly who rules a territory. You may rely on people on the streets to make reference to their ruler, but that may not be enough. After all, if the gossip involved Lord Bemmish and Viscountess Byrd, neither or both could be the ruler of the territoy. I have found that a more predictable method is to pay some attention to the names of taverns and shops in a region. By tradition, many of these are called "The Duke's Fox" or "The Lady's Provisions." This, more often than not, is the name of the ruler. If the shop's name is "Lady Annisa's Provisions" or "Lord Boxworth's Fox," that is probably the name of a local titled merchant, not the ruler. A store with a unnamed ruler's title has probably been around for some time, and does not bother to change its name with the new name of the ruler.
+  要準確判斷誰統治一地，也許需要幾點提示。你可以靠街上的人提到他們的統治者，但那也許不夠。畢竟，若閒話涉及本米什領主與伯德女子爵，兩者可能都不是、或都是該地統治者。我發現較可預期的方法，是留意一地酒館與店鋪的名稱。依傳統，許多叫「公爵的狐狸」或「夫人的補給」。這往往就是統治者的頭銜。若店名是「安妮莎夫人的補給」或「博克斯沃斯領主的狐狸」，那多半是當地有頭銜商人的名字，而非統治者。店名只用無名統治者頭銜的，大概已開了相當久，並不費心隨統治者易名而改招牌。
 
- In speaking with any person, a ruler or not, it is best to know what sort of a person they are first. Rulers tend to stand on ceremony, and prefer that people addressing them speak politely and deferentially. There are, of course, acceptions to this, particularly among younger rulers, or rulers new to their positions. They may prefer a bolder, slangy style. If you are unsure, or unsure of your ability to adopt the vocubulary of either an aristocrat or a criminal, choose to speak as plainly and directly as possible. You will seldom charm someone by plain talk, but you will also not alienate by mangled politesse or dated slang. Alienating a ruler, I need not tell you, can be the last mistake one can make.
+  與任何人說話，無論是否統治者，最好先知道對方是怎樣的人。統治者往往講究禮儀，喜歡對他們說話的人措辭禮貌而恭敬。當然也有例外，尤其是較年輕的統治者，或新登位者。他們也許偏好更大膽、帶俚語的風格。若你不確定，或不確定自己能否採用貴族或罪犯的詞彙，就選擇盡量明白直接地說。你很少能憑直話迷住誰，但也不會因蹩腳的客套或過時的俚語而疏遠人。疏遠一位統治者，無需我說，可能是一個人所能犯的最後一個錯誤。

@@ -1,0 +1,87 @@
+-- Quest: C:\QUESTS\WORKING\C0C00Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 12
+Messages: 21
+Quest: C0C00Y12
+DisplayName: 失竊之物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       通常我不會把差事給非__qgiver_成員。
+<ce>                      不過我們現在人手不足。一名厚顏無恥的盜賊
+<ce>                          從神殿偷走了_religitem_。
+<ce>                       一名祭司把罪犯看得很清楚。
+<ce>                    是個普通的街頭小偷，名叫_thief_的=thief_，
+<ce>                   那天在神殿裡假裝禮拜。
+<ce>                  追查這盜賊，把我們被偷的_religitem_帶回來，
+<ce>                    日後我會為你美言。
+
+RefuseQuest:  [1001]
+<ce>                      我給你機會，你卻吐在我臉上。
+<ce>                      別再來找我求人情。
+
+AcceptQuest:  [1002]
+<ce>                        你必須在=traveltime_天內把它找回來。
+<ce>                       到那時我們的騎士團就能派出搜索隊，
+<ce>                        你也就失去機會了。
+
+QuestComplete:  [1004]
+<ce>                       讚美歸於你，%pcn。
+<ce>                          那_religitem_已歸還神殿。
+<ce>                       你已贏得%god的恩寵。
+
+RumorsDuringQuest:  [1005]
+<ce>     _thief_藏在__thiefplace_的_thiefplace_。正是躲避__qgiver_的好地方。
+
+RumorsPostfailure:  [1006]
+看來__qgiver_再也拿不回那_religitem_了。
+
+RumorsPostsuccess:  [1007]
+_thief_被繩之以法，__qgiver_拿回了他們的_religitem_。
+
+QuestorPostsuccess:  [1008]
+別以為我已經忘了是誰把_religitem_帶回來的，%pcf。
+
+QuestorPostfailure:  [1009]
+我們的_religitem_永遠失去了，你還想說話。難以置信。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_給了我機會去尋找
+ 被一名叫_thief_的=thief_偷走的_religitem_。
+ 我有=traveltime_天把它找回來。
+
+Message:  1011
+<ce>                       %oth！神殿居然僱賞金獵人
+<ce>                       就為了拿回他們那不值錢的_religitem_？
+<ce>                       %oth，這可不值得為它送命。拿去。
+<ce>                      現在看看你覺得這值不值得送命……
+<ce>                       救命！！這%ra要帶著我們的贓物跑了！
+
+Message:  1012
+<ce>                      入侵者！拉響警報！
+<ce>                      屋子裡有入侵者！
+
+Message:  1013
+<ce>      _thief_……這名字聽來耳熟，但我想不起來。
+<ce>     也許是我在__thiefplace_碰見過的人？抱歉幫不上更多忙。
+                                     <--->
+<ce>          一個=decoy_？當然，我認識%g2。住在___decoy_。
+                                     <--->
+<ce>   若你說的是一個=thief_，聽起來像__thiefplace_那個曾想摸我口袋的小黃鼠狼。
+
+Message:  1014
+<ce>  當然，我認識那個鬼鬼祟祟的小傢伙。去__thiefplace_的_thiefplace_看看。
+<ce>                                   
+<ce> _thief_？對，%g正在__thiefplace_的_thiefplace_「低調」著呢。
+<ce> 不過也沒那麼低調，既然你我都知道%g在哪！
+
+Message:  1020
+<ce>                  _thief_把_religitem_扔給你，
+<ce>                    然後消失在陰影裡。
+<ce>                        現在該逃了！

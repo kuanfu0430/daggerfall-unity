@@ -1,5 +1,5 @@
-Title: Galerion the Mystic
-Author: Asgrim Kolsgreg
+Title: 秘術師加列里恩
+Author: 阿斯格里姆·科爾斯格雷格
 IsNaughty: False
 Price: 638
 IsUnique: False
@@ -8,18 +8,18 @@ Content:
 
 [/font=2]
 
-[/center]Galerion
+[/center]秘術師
 
-[/center]The Mystic
+[/center]加列里恩
 
 [/font=4]
 
- During the early bloody years of the Second Era, Vanus Galerion was born under the name Trechtus, a serf on the estate of a minor nobleman, Lord Gyrnasse of Sollicich-on-Ker. Trechtus' father and mother were common laborers, but his father had secretly, against the law of Lord Gyrnasse, taught himself and then Trechtus to read. Lord Gyrnasse had been advised that literate serfs were an abomination of nature and dangerous to themselves and their lords, and had closed all bookstalls within Sollicich-on-Ker. All booksellers, poets, and teachers were forbidden, except within Gyrnasse's keep. Nevertheless, a small scale smuggling operation kept a number of books and scrolls in circulation right under Gyrnasse's shadow.
+  第二紀元早期血腥歲月裡，瓦努斯·加列里恩出生時名為特雷克圖斯，是科爾河畔索利奇一名小貴族吉爾納斯領主莊園上的農奴。特雷克圖斯的父母是普通勞工，可他父親曾秘密地——違反吉爾納斯領主的法令——自學識字，再教特雷克圖斯。吉爾納斯領主聽人勸說，識字的農奴是自然的憎惡，對自身與領主皆危險，於是關閉了科爾河畔索利奇境內所有書攤。除吉爾納斯城堡之內，所有書商、詩人與教師皆被禁止。儘管如此，一場小規模走私仍使若干書籍與卷軸在吉爾納斯眼皮底下流通。
 
- When Trechtus was eight, the smugglers were found and imprisoned. Some said that Trechtus's mother, an ignorant and religious woman fearful of her husband, was the betrayer of the smugglers, but there were other rumors as well. The trial of the smugglers was nonexistant, and the punishment swift. The body of Trechtus' father was kept hanging for weeks during the hottest summer Sollicich-on-Ker had seen in centuries.
+  特雷克圖斯八歲時，走私者被發現並囚禁。有人說是特雷克圖斯的母親——一個無知而虔誠、懼怕丈夫的女人——出賣了走私者，但也有別的傳聞。走私者的審判並不存在，懲罰卻迅疾。特雷克圖斯父親的屍體在科爾河畔索利奇數百年來最炎熱的夏天裡懸掛了數週。
 
- Three months later, Trechtus ran away from Lord Gyrnasse's estate. He made it as far as Alinor, half-way across Sumurset Isle. A band of troubadours found him nearly dead, curled up in a ditch by the side of the road, nursed him to health, and employed him as an errand boy in return for food and shelter. One of the troubadours, a soothsayer named Heliand began testing Trechtus' mind and found the boy, though shy, to be preternaturally intelligent and sophisticated given his circumstances. Heliand recognized in the boy a commonality, for Heliand had been trained on the Isle of Artaeum as a mystic.
+  三個月後，特雷克圖斯逃出吉爾納斯領主的莊園。他一路跑到亞寧諾，幾乎橫跨半個夏暮島。一班遊唱詩人發現他幾近死去，蜷在路邊溝裡，將他照料至康復，僱他當差役以換取食宿。其中一名遊唱詩人、占卜者赫利安德開始測驗特雷克圖斯的心智，發現這害羞的男孩以他的處境而言，聰明與練達得超乎尋常。赫利安德在男孩身上認出共通之處，因他自己曾在阿塔耶姆島受訓為秘術師。
 
- When the troupe was performing in the village of Potansa on the far eastern end of Sumurset, Heliand took Trechtus, then a boy of eleven, to the Isle of Artaeum. The Magister of the Isle, Iachesis, recognized potential in Trechtus and took him on as pupil, giving him the name of Vanus Galarion. Vanus trained his mind on the Isle of Artium, as well as his body.
+  當劇團在夏暮島極東的波坦薩村演出時，赫利安德帶著當時十一歲的特雷克圖斯前往阿塔耶姆島。島上的學監伊阿契西斯看出特雷克圖斯的潛力，收他為徒，賜名瓦努斯·加拉里恩。瓦努斯在阿提烏姆島上錘鍊心智，也錘鍊身體。
 
- Thus was the first Archmagister of the Mages Guild trained. From the Psijics of the Isle of Artaeum, he received his training. From his childhood of want and injustice, he received his philosophy of sharing knowledge.
+  法師公會第一任大法師便是如此受訓。他從阿塔耶姆島的賽伊克教團得到訓練。他從童年的匱乏與不公得到分享知識的哲學。

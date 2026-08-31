@@ -1,0 +1,72 @@
+-- Quest: C:\QUESTS\WORKING\M0B60Y10.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 60
+-- QuestId: 10
+Messages: 81
+Quest: M0B60Y10
+DisplayName: 獵殺侍靈
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我們有位新客戶，要人去獵殺侍靈，
+<ce> 一種元素魔像類的畜生。酬勞是
+<ce> _gold_ 金幣。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 你一定更喜歡低風險差事，
+<ce> 比如打老鼠。
+
+AcceptQuest:  [1002]
+<ce> 有個我發誓不提名字的年輕紈袴，
+<ce> 非法玩弄魔法。像個傻瓜，他
+<ce> 居然召喚出一隻侍靈。必須在法師公會
+<ce> 那幫傢伙發現前把東西毀掉。那東西
+<ce> 逃進了 ___dungeon_ 深處。若你能在
+<ce> =2dung_ 天內完成這任務，就能領酬。
+
+QuestComplete:  [1004]
+<ce> 幹得漂亮，%pct。
+<ce> 法師公會那些笨蛋還沒識破
+<ce> 我們客戶的把戲。他會樂意付上
+<ce> _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 子爵的兒子最近不太對勁。這就是他
+<ce> 想學魔法的下場。該去幹他最懂的事。
+
+RumorsPostfailure:  [1006]
+<ce> 法師公會已請求 %t %rn 准許他們
+<ce> 懲罰子爵的兒子。
+<ce> 好像他召喚了一隻侍靈，結果失控了。
+
+RumorsPostsuccess:  [1007]
+<ce> 子爵的兒子最近加入了法師公會。
+<ce> 不知道他為什麼改了主意？
+
+QuestorPostsuccess:  [1008]
+<ce> 侍靈零分，%pcf 一分。
+<ce> 照這速度，你在公會會走得很遠。
+
+QuestorPostfailure:  [1009]
+<ce> 若你應付不了，就不該接殺侍靈的
+<ce> 差事。現在子爵的兒子面臨非法巫術的指控。
+
+QuestLogEntry:  [1010]
+於 %qdt，
+ ___qgiver_ 的戰士公會雇我悄悄幹掉
+ 某個非公會法師召喚出來的侍靈。
+ 牠躲在 __dungeon_。我有 =2dung_ 天
+ 完成任務。
+
+Message:  1011
+<ce> 侍靈死了。
+<ce> 但願法師公會不會發現。
+
+Message:  1080
+<ce> 還有，看你這麼有風度，
+<ce> 這是一張通往名叫 ___newdung_
+<ce> 之地的地圖，據說滿是戰利品。
+<ce> 盡情去吧，%pcf。

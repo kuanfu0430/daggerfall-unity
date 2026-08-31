@@ -1,0 +1,143 @@
+-- Quest: C:\QUESTS\WORKING\S0000009.Qbn.
+-- Main story quest.
+-- QuestId: 9
+Messages: 22
+Quest: S0000009
+DisplayName: 艾莉薩娜的背叛
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  你本人比伍德伯恩領主說的還要
+<ce>                 英俊瀟灑。我就是愛跟行動派的
+<ce>                  男人和女人說話！我知道你在找
+<ce>                    某樣東西，%pcf。一根圖騰柱
+<ce>                  之類的？嗯，我有個熟人，一位
+<ce>                        非常討人喜歡的
+<ce>                        =contact_，有樣東西
+<ce>                    也許能幫你。若你願意護送我的
+<ce>                       表親_foil_去見_contact_，
+<ce>                       那東西就是你的。你願意幫
+<ce>                    我這個小小小小的忙嗎？
+
+RefuseQuest:  [1001]
+<ce>                   不行？多可怕！我可憐的表親
+<ce>                    會多失望。你一點也不像
+<ce>                  伍德伯恩領主說的那麼有趣。
+
+AcceptQuest:  [1002]
+<ce>                    多刺激！這會是一場真正的
+<ce>                    冒險。_foil_就是愛旅行，
+<ce>                而且一直渴望跟_contact_相處一段時間。
+<ce>                       去____contact_的
+<ce>                      ___contact_，一個叫
+<ce>                     __contact_的地方。
+<ce>                %G會付你=reward_金幣，作為把
+<ce>                     _foil_帶來的報酬。你難道
+<ce>                  不就是愛這種危險任務嗎？
+
+QuestFail:  [1003]
+<ce>                  我跟你沒什麼好談的。
+
+QuestComplete:  [1004]
+<ce>                      %pcf！你怎麼……我是說，
+<ce>                      很高興見到你。還有_foil_
+<ce>                也是。來，拿金幣。東西？什麼圖騰？
+<ce>                跟你聊天真愉快。我得走了！
+
+RumorsDuringQuest:  [1005]
+剛才有一群形跡可疑的人在這裡找一名%ra傭兵。
+<--->
+聽說艾莉薩娜公主在途歇城荒野待了不少時間。
+
+RumorsPostfailure:  [1006]
+聽說有幫人伏擊了那個%ra？要我說，這事很古怪。
+<--->
+伏擊那個%ra的那些人不是本地人。是雇來的刺客。
+
+RumorsPostsuccess:  [1007]
+聽說有個神秘人在雇刺客殺某個%ra傭兵。
+<--->
+_contact_氣壞了。你還以為%g見到%g3表親會高興。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 艾莉薩娜公主要我護送她的表親_foil_
+ 到____contact_的___contact_去見_contact_。
+ %G會付我=reward_金幣，並給我與圖騰有關的東西。
+
+Message:  1011
+<ce>                    _foil_突然跑開，%g3腳步
+<ce>               毫無聲息，%g消失在陰影裡。
+
+Message:  1012
+<ce>                       %pcf，這不是我的錯！
+<ce>                 我是被雇來陷害你的！來，拿這
+<ce>                 _reward_金幣。某個穿灰斗篷的人
+<ce>                   付我正好這麼多去做這件事。
+<ce>                      _foil_不過是個被雇來
+<ce>                  陪你的娼妓。對了，我剛想起來。
+<ce>                 我還有_bribe_金幣，實在太重了
+<ce>                 帶不動。你何不收下，我就告辭了。
+
+Message:  1013
+在知道太多之前殺掉%pcn。
+ 不擇手段。
+<ce>                                    
+<ce>                                 —— W.
+
+Message:  1015
+<ce>                   一個街頭小孩跑來喊著
+<ce>                         「給%pcn的，來自
+<ce>                  灰衣人的口信。」你還沒抓住他，
+<ce>                  孩子就跑了，留下你手裡拿著一張
+<ce>                            紙條。
+
+Message:  1016
+%pcn：
+  
+ 我的好友伍德伯恩領主說你是可以信賴的英雄。
+ 若你有空過來聊聊，我會非常感激。或許你甚至
+ 能幫我做點事。我會萬分感謝。
+  
+<ce>                            艾莉薩娜公主
+<ce>                             途歇城城堡
+
+Message:  1018
+%pcf：
+  
+ 若你不想變得跟萊桑達斯一樣死透，立刻停止調查。
+ 你真的願意為一個死人賭上性命嗎？
+ 你正被監視。
+
+Message:  1019
+%pcn必須死。沒有藉口。
+<ce>                                    
+<ce>                                 —— W.
+
+Message:  1020
+<ce>                      _foil_說：「那些野蠻人
+<ce>                  是誰？他們差點殺了你！也許你該
+<ce>                   忘了萊桑達斯的鬼魂。」
+
+Message:  1021
+<ce>                       _foil_說：「你比艾莉薩娜
+<ce>                          說的要強硬得多。」
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 7 times.
+--               %g2 occurs 1 time.
+--               %g3 occurs 65 times.
+--              %pcf occurs 4 times.
+--              %pcn occurs 3 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 4 times.
+--         =contact_ occurs 1 time.
+--          =reward_ occurs 2 times.
+--      ____contact_ occurs 5 times.
+--           _bribe_ occurs 1 time.
+--         _contact_ occurs 4 times.
+--            _foil_ occurs 9 times.
+--          _reward_ occurs 1 time.

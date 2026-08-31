@@ -1,5 +1,5 @@
-Title: The War of Betony
-Author: Fav'te
+Title: 貝托尼戰爭
+Author: 法夫特
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,24 +8,24 @@ Content:
 
 [/font=2]
 
-[/center]The War of
+[/center]貝托尼
 
-[/center]Betony
+[/center]戰爭
 
 [/font=4]
 
 [/center]
 
- Could there be a better proof of the natural perversity of Bretons than their conduct before, during, and after what history will remember as the War of Betony? By the most depraved of motivations, the most despicable of tactics, and the most ungentlemanly of triumphs, the kingdom of Daggerfall changed the nature of warfare in the Iliac Bay and perhaps over all of Tamriel. In Sentinel, we call the recent carnage the Siege of Betony, but as the book of history is writ by the victors, let us speak instead of the War of Betony.
+ 若論布萊頓人天生的乖僻，還有什麼比史書將銘記為「貝托尼戰爭」的前後作為更能證明？憑最墮落的動機、最可鄙的手段、最無禮的勝利，匕首雨王國改變了伊利亞克灣——或許整個泰姆瑞爾——的戰爭本質。在哨兵城，我們稱近日的屠殺為「貝托尼圍城」；然而歷史之書由勝者書寫，且讓我們改稱它為貝托尼戰爭。
 
- Redguards by their nature are a modest and practical people. We are not phlegmatic like the High Elves, nor cowardly like the Wood Elves and Khajiiti. But what would infuriate and enrage the swaggering, vainglorious Nords and Bretons would not merit a shrug from a Redguard. Had any Breton kingdom possessed the little island of Betony, it would have been covetously guarded. Betony's trade would have been seriously restricted; its religion subjugated; its people bound by active and constant pledges and duties of vassalage. But Betony was not a Breton dominion. Betony was part of the Kingdom of Sentinel.
+ 紅守衛生性謙遜務實。我們不像高精靈那樣冷淡，也不像木精靈與卡吉特那樣怯懦。足以激怒那些趾高氣揚、愛慕虛榮的諾德人與布萊頓人的事，紅守衛往往只會聳聳肩。任何布萊頓王國若據有小小的貝托尼島，必會貪婪地嚴加看守。貝托尼的貿易會遭嚴密限制；其信仰會被征服；其人民會被主動而持續的效忠誓言與義務所束縛。可貝托尼並非布萊頓領地。貝托尼屬於哨兵城王國。
 
- King Lysandus -- may the Old Ones continue to torment his soul for his wickedness! -- saw the prosperous island which is closer to his land than to Sentinel, and his black heart turned to avarice. Through threats, lies, acts of piracy and, finally, invasion, Daggerfall illegally took possession of the Island of Betony. His court sorceress, the Lady Medora, his enchantress mother, and other experienced counselors were horrified by the brutality of his campaign and begged him to abandon his tyrannical act of war. Gradually, all dissentors were removed from court. None but the ignorant and the warmongers remained.
+ 萊桑達斯國王——願遠古諸靈繼續折磨他邪惡的靈魂！——看見這座離他的土地比離哨兵城更近的富庶島嶼，黑心便生出貪婪。透過威脅、謊言、海盜行徑，終至入侵，匕首雨非法占領了貝托尼島。他的宮廷術士梅朵拉女士、他精於附魔的母親，以及其他歷練豐富的謀臣，都為他戰役的殘暴而驚駭，懇求他放棄這專制的戰爭行徑。異議者逐漸被清除出宮廷。留下的只剩無知者與好戰之徒。
 
- Our late king Camaron tried to employ civil diplomacy with Daggerfall, but in the end, he made the former declaration of war. Daggerfall and Sentinel have fought many times in their two thousand years of coexistance, and Camaron knew the black magic and espionage the Bretons considered honest warfare. Never debasing the Sentinel character by duplicating the Breton villainy, Camaron knew best how to combat Lysandus. King Lysandus' knavish battle tactics were even more perfidious than his ancestors', and the war continue to rage until it began to involve more than Sentinel and Daggerfall.
+ 我們已故的卡瑪隆國王曾試圖以文明外交對待匕首雨，最終仍發出了開戰宣言。匕首雨與哨兵城在兩千年共存中交戰多次，卡瑪隆深知布萊頓人視為正當戰爭的黑魔法與間諜手段。他從不以降格模仿布萊頓人的奸惡來玷汙哨兵城的品格，也最懂得如何對抗萊桑達斯。萊桑達斯國王無賴的戰術甚至比他祖先更背信棄義，戰火持續延燒，直到捲入的不再只是哨兵城與匕首雨。
 
- Lord Graddock, ruler of Reich Gradkeep, acted as concilator between Sentinel and Daggerfall, and eventually convinced both monarchs to meet and make peace. The ill-fated Treaty of Gradkeep began civilly; the terms of peace were discussed, agreed on, and set to paper. The terms were excessively generous. Camaron had agreed to give up some of his rights to Betony in order to placate the madness of Lysandus and bring peace back to the Iliac Bay. It was not until King Camaron read the Treaty he was about to sign that he realized the outrageous perfidy of the Bretons: the Treaty had actually been purposefully miswritten by the Daggerfall scribe in a desparate and ignominious attempt to trick Camaron into signing a contract different from the one to which he had agreed. The castle of Reich Gradkeep erupted into bloodbath, and the war continued.
+ 萊赫格拉德基普的統治者格拉多克領主擔任哨兵城與匕首雨之間的調停者，終於說服兩位君主會面言和。命運多舛的格拉德基普條約起初還算文明：和談條件經討論、議定，並寫成文書。條件過於慷慨。卡瑪隆同意放棄他對貝托尼的部分權利，以安撫萊桑達斯的瘋狂，讓和平重回伊利亞克灣。直到卡瑪隆國王讀到他即將簽署的條約，才發現布萊頓人駭人的背信：條約竟被匕首雨的書記蓄意寫錯，不顧廉恥地企圖誘使卡瑪隆簽下一份與他所同意者不同的契約。萊赫格拉德基普城堡爆發血洗，戰爭繼續。
 
- The Battle of Cryngaine Field was the tragic ending of the senseless war of attrition. The Cryngaine Field is located in between the Yeorth Burrowland and the Ravennian Forest where the armies of Sentinel and Daggerfall respectively made camp after the massacre at Reich Gradkeep. As the battle began, Daggerfall proved that she had some foul daedric magical tricks left by blinding the Redguard army with a wall of mist. Lysandus did not have the opportunity to gloat over his cozenage for long, for the sure arm of a Sentinel archer struck him in the throat even through the thick, swirling fog. Lysandus' son, Gothryd, who had spent the battle in lugubrious relaxation, was crowned without ceremony, and thereupon demanded a duel with King Camaron. Camaron was many years Gothryd's senior, and though a superior warrior, was exhausted from the endless warfare the boy king had been spared. Nevertheless, as a point of honor, our king agreed to the duel. The new king of Daggerfall, by dirty trick and black magic, managed to backstab our king before the duel ever began. Thus, the victor of Cryngaine Field, and the War of Betony, was Daggerfall.
+ 克林蓋恩原野之戰，是這場毫無意義的消耗戰悲慘的終局。克林蓋恩原野位於約爾斯穴地與拉文尼安森林之間，哨兵城與匕首雨的大軍在萊赫格拉德基普屠殺之後，分別在兩處紮營。戰事一起，匕首雨證明她還留著污穢的迪德拉魔法把戲，以一道霧牆迷盲紅守衛大軍。萊桑達斯還沒來得及為這詭計得意多久，一名哨兵城弓手準確的一箭，即使隔著濃密漩渦的霧氣，仍射穿了他的咽喉。萊桑達斯之子戈斯瑞德整場戰鬥都在陰鬱地歇息，未經儀式便被加冕，隨即要求與卡瑪隆國王決鬥。卡瑪隆比戈斯瑞德年長許多，雖是更出色的戰士，卻已因這少年國王得以倖免的無盡戰事而精疲力竭。然而為了榮譽，我們的國王答應了決鬥。匕首雨的新王憑骯髒詭計與黑魔法，竟在決鬥開始之前便從背後刺中我們的國王。於是，克林蓋恩原野與貝托尼戰爭的勝者，是匕首雨。
 
- Daggerfall's wickedness continued even after her inglorious victory. While the widow queen of Sentinel, Her Majesty Akorithi, mourned and tried to mend her shattered lands, Gothryd demanded the Princess of Sentinel as a hostage of war. To save her homeland, the Princess Aubk-i agreed to leave Sentinel and even marry the murderer of her father. But we true Redguards of Sentinel know where her love and honor lies. The Queen of Daggerfall is the Princess of Sentinel first and foremost.
+ 匕首雨的邪惡在她不光彩的勝利之後仍未停止。當哨兵城的孀后阿柯瑞希陛下哀悼並試圖修補破碎的國土時，戈斯瑞德卻要求把哨兵城公主當作戰爭人質。為了拯救家園，奧布琪公主同意離開哨兵城，甚至嫁給殺害她父親的兇手。可我們真正的哨兵城紅守衛，知道她的愛與榮譽歸於何處。匕首雨的王后，首先且始終是哨兵城的公主。

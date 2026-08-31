@@ -1,0 +1,250 @@
+-- Quest: C:\QUESTS\WORKING\P0B00L06.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 0
+-- QuestId: 6
+Messages: 24
+Quest: P0B00L06
+DisplayName: 致命知識
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called
+
+QuestComplete:  [1004]
+<ce>                     很好。你讀過了嗎？當然
+<ce>                  讀過。真是一派胡言。從前還有
+<ce>                   另一名法師對吸血鬼部族抱持
+<ce>                    類似看法，我記不得他的名字了。
+<ce>                   你做得很好，年輕人。
+<ce>                      非常好。
+
+RumorsDuringQuest:  [1005]
+_mage_ 在 ___mondung_ 底下做著極其重要的研究。
+<--->
+___mondung_ 是個陰森的地方，但正好讓 _mage_ 安靜完成 %g3 工作。
+
+RumorsPostfailure:  [1006]
+=mage_ 關於吸血鬼的研究，顯然已引起法師公會注意。
+<--->
+法師公會的大法師長本人正在研究 _mage_ 的成果。
+
+RumorsPostsuccess:  [1007]
+泰姆瑞爾或許永遠不會知道可憐的 _mage_ 當時那麼努力在研究什麼。
+<--->
+聽說 _mage_ 是被謀殺的，因為 %g 在研究對抗迪德拉的護符。
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called. Whoopsy
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called. My Bad
+
+QuestLogEntry:  [1010]
+                       __vamp_
+                        ___vamp_
+ 
+ 
+ 親愛的 %pcn，
+ 
+       那些自稱為法師公會的
+ 昏聵未開化野蠻人，又在搞另一樁
+ 相當沒意義的事業。這一次，他們或許會
+ 在無意間走上揭開陰影、暴露 %vam
+ 的道路。法師公會真能做成任何事，
+ 簡直難以想像，但我們必須為這種可能
+ 預作準備。
+ 
+        盡快到上述地址來見我。
+ 
+                       死蔭敬上，
+ 
+ 
+                       _vamp_
+
+Message:  1011
+%qdt:
+ 我收到 %vam 的
+ _vamp_ 從 ___vamp_
+ 寄來的信。
+ 我得盡快到一處叫
+ __vamp_ 的地方
+ 與 %g2 會面。
+
+Message:  1012
+<ce>               晚安，親族。法師公會那些傻瓜
+<ce>               在漫無目的的解剖中，盲目撞上了
+<ce>               幾條赤裸的事實。他們不太可能
+<ce>               有什麼進展，但主持這項研究的法師
+<ce>              至少聰明到懂得躲藏。單憑這一點，
+<ce>                就足以引起我們的關切。當然，
+<ce>                     在 %reg 任何地方想躲過
+<ce>                        %vam，都是徒勞。
+<ce>                    _mage_ 在 ___mondung_，
+<ce>                     某種實驗室。我要你取得
+<ce>                這項研究的筆記，帶回來給我。
+<ce>                      據我所知，_mage_
+<ce>              把筆記帶在 %g3 身上，可笑地以為
+<ce>                那樣就安全了。
+<ce>                去指出 %g3 這個想法的錯誤吧，
+<ce>                                 %pcf。
+
+Message:  1013
+親愛的老友 %pcn，
+ 
+     無論你何時來到 ___mg_
+ 附近，你若能現身於
+ __mg_，對我們當前的需求
+ 將極為有益。作為你協助一項事業的回報，
+ 我能提供你個人經濟上的豐裕之樂，
+ 以及更為高雅的、援助法師公會同僚
+ 之愉悅。
+ 
+      盼能盡快見到你。
+ 
+ 
+ 
+      謹此等等，
+ 
+ 
+      _mg_
+
+Message:  1014
+<ce>                    一名身穿深藍袍的信差
+<ce>                   把一封信交給你，鞠躬後
+<ce>                           便消失了。
+
+Message:  1015
+<ce>                      噢，噢，%oth，是 %pcn
+<ce>                   嗎？我、我明白你正是合適人選，
+<ce>                 夠膽大、夠結實，簡言之，夠強悍，
+<ce>                            能援助 _mage_。
+<ce>                  那位術士擔心 %g3 的研究
+<ce>                  已引起當地吸血鬼部族……呃，
+<ce>                審問式的關注。
+<ce>                  過多工作已讓這可憐的老術士
+<ce>                 變得，嗯，過度敏感。若你願意
+<ce>                   到 %g3 的實驗室 ___mondung_
+<ce>                       走一趟，把這些珍貴筆記
+<ce>                 取來，我會非常、非常，呃，
+<ce>                  感激。只要小心老
+<ce>                         _mage_——聽說 %g
+<ce>                      有點，呃，焦躁。
+
+Message:  1016
+<ce>                       %oth！我珍貴的筆記！
+<ce>                        滾開，吸血的！滾開！
+
+Message:  1017
+<ce>                      等一下！你就是那個
+<ce>                           該把筆記交給的
+<ce>                         %ra 嗎？
+
+Message:  1018
+<ce>                      由衷道歉，%pcn。
+<ce>                  我近來非常緊張。筆記
+<ce>                   在這裡。不過要小心。
+<ce>                           誰都別信。%vam
+<ce>                       的吸血鬼可能是任何人。
+
+Message:  1019
+%qdt:
+  ___mg_ 的 __mg_
+  的 _mg_
+  要我前往 ___mondung_，
+  把 _mage_ 的研究成果
+  從 %g3 手中取走，安全帶回
+  ___mg_。
+  儘管 _mage_
+  在等我，%g 可能還是有點
+  緊張……畢竟，誰都可能
+  是吸血鬼……
+
+Message:  1020
+%vam 是 %reg 的主導
+ 部族，但絕非整個伊利亞克灣
+ 地區的主導部族。（在此補上
+ Montalion、Vrasethi、Ghulari、
+ Selenu 等等，諸如此類，諸如此類。
+ 力量各異，但內部結構
+ 基本相同，諸如此類，諸如此類）。
+ 如何治癒吸血鬼之身（去找那本
+ 《伊利亞克灣的吸血鬼》，
+ 其中提到一個由前吸血鬼組成的
+ 會社）？據我從私人訪談等等
+ 所能整理的，是殺死同一血脈中
+ 最卓越的成員。（給自己的備註：
+ ___vamp_ 那個相當……的
+ =vamp_ 對我的研究表示過興趣。
+ 可能的受訪者，還是陷阱？）吸血鬼滲入
+ 王室宮廷、黑暗兄弟會，甚至
+ %reg 及其他地方的法師公會。
+ %reg 的 %t 是否受
+ %vam 影響，或者
+ 豈止是「受影響」？做標準測試
+ （那項專利先擱著）看看究竟如何。
+ 需要寧芙髮絲、聖徽，
+ 諸如此類，諸如此類，這次得是新鮮的，
+ 看在 %god 的份上。跟 _mg_
+ 談增加經費。毫無進展。
+
+Message:  1021
+%qdt:
+  一名叫 _mage_ 的術士
+  已接近關於 %vam 的
+  重大發現，
+  _vamp_ 派我前往實驗室
+  ___mondung_ 取回筆記。
+  _mage_ 很可能把筆記帶在
+  %g3 身上，彷彿那樣就能
+  防得了我。
+
+Message:  1022
+<ce>                      這就是 _mage_ 想保護的
+<ce>                  東西？一個瘋子東拉西扯的胡話。
+<ce>                   不過想來也不是你的錯。這是
+<ce>                  _mggold_ 金幣，酬謝你這次
+<ce>                    及時的遞送。
+
+Message:  1023
+<ce>                     一個蒼白的少年把一封信
+<ce>                  交給你，然後像老鼠一樣竄走。
+
+
+-- Symbols used in the QRC file:
+--
+--              %dat occurs 2 times.
+--                %g occurs 3 times.
+--               %g2 occurs 1 time.
+--               %g3 occurs 11 times.
+--              %god occurs 1 time.
+--              %oth occurs 2 times.
+--              %pcf occurs 1 time.
+--              %pcn occurs 6 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--              %reg occurs 4 times.
+--                %t occurs 1 time.
+--              %vam occurs 9 times.
+--            =mage_ occurs 1 time.
+--            =vamp_ occurs 1 time.
+--            ___mg_ occurs 3 times.
+--       ___mondung_ occurs 7 times.
+--          ___vamp_ occurs 7 times.
+--             __mg_ occurs 2 times.
+--           __vamp_ occurs 2 times.
+--            _mage_ occurs 14 times.
+--              _mg_ occurs 4 times.
+--          _mggold_ occurs 1 time.
+--            _vamp_ occurs 5 times.

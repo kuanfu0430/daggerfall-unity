@@ -1,0 +1,92 @@
+-- Quest: C:\QUESTS\WORKING\I0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Stendarr
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: I0B00Y00
+DisplayName: 特殊植株
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>我們的治療師需要一種特殊植株，
+<ce>名叫_item_，用來配製治療藥劑。
+<ce>我給不了多少，但若你願為我們的神聖職責
+<ce>帶來一些_item_，我可以把
+<ce>斯丹達爾神殿的聖徽交給你。
+
+RefuseQuest:  [1001]
+<ce>可惜，這種回應很常見。
+<ce>我們無法拿出大堆金幣珠寶
+<ce>來引誘接任務的人。儘管如此，
+<ce>我對你特別失望，%pcf。
+<ce>我原指望更高尚的答覆。
+
+AcceptQuest:  [1002]
+<ce>你果然心地善良，%pcf。
+<ce>我們需要的_item_在___chemist_
+<ce>一處名叫__chemist_的地方。
+<ce>一名叫_chemist_的=chemist_
+<ce>會免費給我們，只要你在
+<ce>=1stparton_天內趕到。請務必快些，%pcf。
+<ce>我們有許多受傷的無辜者等著醫治。
+
+QuestFail:  [1003]
+<ce>與你交談我一向高興，%pcf，
+<ce>但請別耽擱去取那_item_。
+
+QuestComplete:  [1004]
+<ce>你手上那是_item_嗎，%pcf？
+<ce>哦，感謝斯丹達爾。請收下
+<ce>我們這份微薄的心意——本會的聖徽。
+
+RumorsDuringQuest:  [1005]
+斯丹達爾神殿是我能想到唯一純粹行善的教團。
+<--->
+母親在等斯丹達爾神殿的治療師。她的情況很糟。
+
+RumorsPostfailure:  [1006]
+我妹妹就是等那該死的斯丹達爾神殿治療師等到死的。
+<--->
+聽說神殿的治療師沒能及時拿到需要的藥草。
+
+RumorsPostsuccess:  [1007]
+神殿裡有過幾段驚險時刻。受傷的人比平常多。
+<--->
+斯丹達爾神確實在守護祂的神殿，這點毫無疑問。
+
+QuestorPostsuccess:  [1008]
+不跟為我們帶來_item_的人說話，未免不近人情，%pcf。
+
+QuestorPostfailure:  [1009]
+我會按捺住脾氣，但你是不是忘了那_item_，%pcf？
+<--->
+或許你想跟那些因你沒取到_item_而死去的人談談。
+
+QuestLogEntry:  [1010]
+<ce>這是_item_，%pcf。現在
+<ce>趕緊回神殿。那兒有許多人
+<ce>等著被醫治。
+
+Message:  1030
+%qdt:
+ ___questgiver_的斯丹達爾神殿
+ 願把本會聖徽給我，只要我
+ 在=1stparton_天內找到一些_item_
+ 並交給他們。
+ ___chemist_一處名叫__chemist_的地方，
+ 有個叫_chemist_的人願意給一些，
+ 只要我能及時趕到。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 9 times.
+--              %qdt occurs 1 time.
+--       =1stparton_ occurs 2 times.
+--         =chemist_ occurs 3 times.
+--    ___questgiver_ occurs 1 time.
+--        __chemist_ occurs 5 times.
+--            _item_ occurs 28 times.

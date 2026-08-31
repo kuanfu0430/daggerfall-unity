@@ -1,0 +1,96 @@
+-- Quest: C:\QUESTS\WORKING\O0B10Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 10
+-- QuestId: 3
+Messages: 11
+Quest: O0B10Y03
+DisplayName: 神殿探訪
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      有份公會差事，你若有興趣。
+<ce>                        我叫 _qgiver_。有人想
+<ce>                       從 _temple_ 把
+<ce>                       _religiousitem_ 「請走」。
+<ce>                             要接嗎？
+
+RefuseQuest:  [1001]
+<ce>                       我會記得你，%pcn，
+<ce>                       要是有更有意思的差事
+<ce>                               出現。
+
+AcceptQuest:  [1002]
+<ce>                        好。內情是這樣。
+<ce>                         你去 __temple_ 的
+<ce>                          _temple_。拿走
+<ce>                       _religiousitem_，帶回來
+<ce>                         給我。你拿公會慣例的
+<ce>                         _gold_ 金幣酬勞。
+<ce>                      你有 =traveltime_ 天
+<ce>                            交到我手上。
+
+QuestComplete:  [1004]
+<ce>                      唉，有些人真讓人搞不懂。
+<ce>                      你能相信他付錢請人去偷這個？
+<ce>                      又不是有什麼「可怕的守護者」
+<ce>                      擋著他自己動手。蛤？
+<ce>                      真有？！那他或許沒那麼瘋。
+<ce>                       這是你的酬勞，%pcf。
+<ce>                           跟你合作愉快。
+
+RumorsDuringQuest:  [1005]
+前幾天我長了個膿瘡……不過已經好了。
+<--->
+我剛跟人聊了三個鐘頭的天氣。
+<--->
+這時節的天氣還算平常。
+<--->
+以這個時節來說，%cn好像有點涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我祖姑要去灣對岸看專科醫生。
+<--->
+這附近天黑的時間總是讓人覺得奇妙。
+<--->
+我們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一則超棒的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有優點也有缺點。
+
+RumorsPostfailure:  [1006]
+看來 _temple_ 對盜賊守得挺嚴。
+
+RumorsPostsuccess:  [1007]
+擁有 _temple_ 的那個人付錢請盜賊闖自己的地方。
+
+QuestorPostsuccess:  [1008]
+你好嗎，%pcf？我還在等那個雇我們的人回音。
+
+QuestorPostfailure:  [1009]
+<ce>                       我才不管那座神殿
+<ce>                     是不是湮滅之主親自看守，
+<ce>                         %pcf。
+<ce>                     失敗絕不是盜賊公會
+<ce>                         差事的藉口。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 盜賊公會的
+ _qgiver_ 給了我一份差事，
+ 去 __temple_ 的 _temple_
+ 偷走一件 _religiousitem_。
+ 我有 =traveltime_ 天把它交還給
+ %g2 以領取酬勞。

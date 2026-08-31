@@ -1,0 +1,113 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 12
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 36
+Quest: A0C00Y12
+DisplayName: 初版
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 抱歉打擾。你讀過 _book_ 嗎？那本書極好，而我有一本初版。
+<ce> 或者該說，曾經有。似乎有人拿走了。
+<ce> 誰先把它還給我，我樂意付 _gold_ 金幣。你覺得找得到嗎？
+
+RefuseQuest:  [1001]
+<ce> 真可惜。我真的需要找回那本書。
+
+AcceptQuest:  [1002]
+<ce> 太好了！那對我非常重要，畢竟是初版。可惜我完全不知道是誰拿走的。
+<ce> 你可以試試在鎮上打聽。
+
+QuestComplete:  [1004]
+<ce> 好極了！我的 _book_！幹得好，%pcn。
+<ce> 這是我答應你的 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> _giver_ 拼命在找他那本發臭的舊書。誰會想偷那種東西？
+
+RumorsPostfailure:  [1006]
+<ce> 聽說 _giver_ 終於放棄，另買了一本他那寶貝書。
+<ce> 你知道嗎，%g 居然還雇人去找？真是傻瓜！
+
+RumorsPostsuccess:  [1007]
+<ce> 你一定就是那個幫 _giver_ 找回書的 %ra。%G 逢人就講。
+<ce> 搞得好像救了國王似的。
+
+QuestorPostsuccess:  [1008]
+<ce> 為了我的朋友 %pcf，什麼都願意。
+<ce> 你找回了我的寶貝書，我非常感激。
+
+QuestorPostfailure:  [1009]
+<ce> 哼。我雇你去找我的書。你失敗後，我只好自己再買一本。
+<ce> 我不想跟你說話。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___giver_ 的 _giver_ 出 _gold_
+ 金幣，要我找回 %g3 的書 _book_。
+
+Message:  1014
+<ce> 你不妨去 _informant1_ 找 _informant_。%G 似乎知道
+<ce> __informant1_ 附近發生的每件事。
+                                     <--->
+<ce> 你該去當地酒館問問。那兒閒話多得很。
+                                     <--->
+<ce> 你該試試 _informant1_。那兒總有人在聊。
+                                     <--->
+<ce> 那是從 _giver_ 那兒偷走的。
+                                     <--->
+<ce> _giver_ 一直在打聽它。
+                                     <--->
+<ce> 我讀的時候真的很喜歡。
+                                     <--->
+<ce> 你大概該去圖書館看看。
+
+Message:  1015
+<ce> 這一定就是從 _giver_ 那兒被偷走的那本書。
+
+Message:  1025
+<ce> 你好，%pcn。聽說你一直在打聽我。我該知道。
+<ce> __informant1_ 所有消息都從這雙耳朵經過。
+<ce> 別再說我了。我確實聽過 _giver_ 的不幸。你該去找 _thief_。
+<ce> %G 找 _book_ 的初版已經有一陣子了。而且 %g 也是那種
+<ce> 不問自取的人，你懂我的意思。
+
+Message:  1035
+%qdt:
+ _informant_ 給了我關於失踪的 _book_ 的寶貴資訊。
+ %G 似乎認為 _thief_ 可能與此事有關。
+ 現在只要能找到 %g2……
+
+Message:  1027
+_thief_ 住在 __house_ 的 _house_。
+<--->
+_thief_ 住在 __house_。
+<--->
+_thief_ 晚上常在 _house_ 過夜。
+<--->
+你該去 %g3 家找 _thief_。%G 住在 __house_。
+<--->
+_thief_ 常在 _store_ 做買賣。
+<--->
+你不妨開始去 _store_ 購物。_thief_ 就是那樣。
+<--->
+_store_ 是交易贓物的熱門地點，而 _thief_ 贓物很多。
+<--->
+有人在 _store_ 見過 _thief_。
+<--->
+_inn_ 是許多盜賊的據點。
+<--->
+_thief_ 喜歡在 _inn_ 喝酒。
+<--->
+_thief_ 最喜歡的酒館是 _inn_。
+<--->
+_thief_ 最喜歡的餐點在 _inn_ 供應。
+
+Message:  1030
+<ce> 你想要那本書？你也沒那麼厲害。
+<ce> 儘管來搶啊！

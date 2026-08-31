@@ -1,0 +1,121 @@
+-- Quest: C:\QUESTS\WORKING\P0B01L02.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 01
+-- QuestId: 2
+Messages: 31
+Quest: P0B01L02
+DisplayName: 吸血鬼聖物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+親愛的 %pcf，
+ 
+    我們有件小事要你去做，以證明你
+ 決心成為我們的一員。有一件我們的
+ _vamprelic_，像陳腐的古版殘卷一樣
+ 被封存在 __itemdung_ 的法師公會。
+ 在 =1stparton_ 天內將它從囚籠中解放——
+ 他們計劃在那之後把它移到更安全的地方。
+    一旦取得 _vamprelic_，就來見我。
+ 我會在 ___vampire_ 的 __vampire_
+ 等你 =1stparton_ 天。我很容易辨認。
+ 找一名 =vampire_ 即可。
+    我期待能以較不拘禮的方式結識你，
+ %pcf。務必前來。
+ 
+<ce>                               於死蔭中，
+<ce>                           %vam 的 _vampire_
+
+RefuseQuest:  [1001]
+Error: Dagtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Dagtext 1002 Called.
+
+QuestComplete:  [1004]
+<ce>                  終於見到你，很高興，%pcf。
+<ce>                      我當然就是 _vampire_。
+<ce>                            %vam 部族
+<ce>                       會妥善接管這件
+<ce>                       _vamprelic_。別妄想
+<ce>                     這件事還能拿到報酬。
+<ce>                     能為 %vam 效勞，
+<ce>                          本身就是榮譽。
+
+RumorsDuringQuest:  [1005]
+聽說法師公會正在清掉許多沒用的舊雜物。
+<--->
+聽說有個傾倒場，各處法師公會都把舊東西往那裡送。
+
+RumorsPostfailure:  [1006]
+法師公會戒備那麼森嚴，裡面一定有值得偷的東西。
+<--->
+他們終於把那批積塵的舊雜物送出法師公會了。
+
+RumorsPostsuccess:  [1007]
+昨晚洛坎達三星閃耀。那代表不潔的同盟。
+<--->
+法師公會對那起竊案困惑不解。誰會想要那東西？
+
+QuestorPostsuccess:  [1008]
+向你致意，%pcn。再次感謝你送來 _vamprelic_。
+
+QuestorPostfailure:  [1009]
+<ce>                       %pcf，現在可不是
+<ce>                   試探我耐心極限的時候。
+<ce>                    我的信明確要你把
+<ce>                         _vamprelic_ 帶來，
+<ce>                      可它在哪？表現得非常
+<ce>                       差勁，%pcf。非常差勁。
+
+QuestLogEntry:  [1010]
+一個那個名字、模樣陰森的角色在這裡 %di 邊的 __vampire_。
+<--->
+一名叫 _vampire_ 的古怪 =vampire_ 住在這裡 %di 邊的 __vampire_。
+
+Message:  1011
+_vampire_ 是 %vam 部族的成員，其幼輩的導師。
+<--->
+_vampire_ 是 %vam 相當年輕的成員，但也驕傲而強大。
+
+Message:  1013
+不過是一件 _vamprelic_。不太好看。
+<--->
+一件模樣古怪的 _vamprelic_。
+
+Message:  1015
+據我聽說，這是 %vam 長老圈的一件 _vamprelic_。
+<--->
+這是 %vam 主事者在某些秘密儀式中使用的 _vamprelic_。
+
+Message:  1020
+%qdt:
+ 我收到 ___vampire_ 的 _vampire_
+ 來信，給我 =1stparton_ 夜，
+ 從 __itemdung_ 法師公會的密室
+ 偷出一件 _vamprelic_。事成之後，
+ 我要把 _vamprelic_ 帶到
+ __vampire_ 交給 _vampire_。
+
+Message:  1030
+<ce>                   地上一卷羊皮紙吸引了
+<ce>                     你的目光。走近一看，
+<ce>                   你驚訝地發現
+<ce>                  它是寫給你的。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 2 times.
+--              %pcf occurs 9 times.
+--              %pcn occurs 1 time.
+--              %qdt occurs 1 time.
+--              %vam occurs 14 times.
+--       =1stparton_ occurs 3 times.
+--         =vampire_ occurs 4 times.
+--       __itemdung_ occurs 2 times.
+--        __vampire_ occurs 14 times.
+--       _vamprelic_ occurs 27 times.

@@ -1,5 +1,5 @@
-Title: Oelander's Hammer
-Author: Krowle
+Title: 奧蘭德之錘
+Author: 克羅爾
 IsNaughty: False
 Price: 424
 IsUnique: False
@@ -8,66 +8,66 @@ Content:
 
 [/font=2]
 
-[/center]Oelander's Hammer:
+[/center]奧蘭德之錘：
 
-[/center]An Instructive Tale
+[/center]一則給孩子的
 
-[/center]For Children
+[/center]啟迪故事
 
 [/font=4]
 
- The two children, Froedwig and his younger sister Silvanda, had been exploring all morning. The noon sun was directly overhead and everything was warm and bright. The had left their Redguard village, Granitsta, early that morning for a day in the wildnerness, a picnic, and with a stern warning from their father to be home before dark. They crossed a huge field that was bare save a single rose bush right in the middle.
+ 兩個孩子，弗羅德維格和他的妹妹希爾凡達，整個上午都在探險。正午的太陽正當頭頂，萬物溫暖明亮。他們一大早就離開紅守衛村莊格拉尼茨塔，到荒野過一天、野餐，父親嚴厲警告他們天黑前必須回家。他們穿過一片巨大的原野，原野上空蕩蕩的，正中央只有一叢玫瑰。
 
- The little girl asked Froedwig about it.
+ 小女孩向弗羅德維格問起那叢玫瑰。
 
- "Well," he said, "according to father a great battle was fought in this place many years ago. The battle was visited by the God of all warriors, Reymon Ebonarm, who caused the leaders to end the battle and return to their homes. It is said that the rose bush grows where he stood that day."
+ 「這個嘛，」他說，「據父親說，許多年前這地方打過一場大戰。戰士之神雷蒙·黑檀之臂降臨戰場，使雙方首領結束戰鬥、各自回家。據說那叢玫瑰就長在他當日站立之處。」
 
- "Oh, how exciting," giggled Silvanda.
+ 「喔，真刺激，」希爾凡達咯咯笑道。
 
- The children continued their trek approaching some woods. As they entered the forest the air became very cool and a deep quiet seemed to envelope them.
+ 孩子們繼續趕路，走近一片樹林。他們走進森林，空氣變得很涼，一層深沉的靜謐彷彿把他們包裹起來。
 
- "What is that?"
+ 「那是什麼？」
 
- Silvanda pointed to a large hole in the ground from which protruded a long, thick pole. Around the hole thorny plants had grown into an impenetrable wall.
+ 希爾凡達指向地上一個大洞，洞裡伸出一根又長又粗的桿子。洞的四周，帶刺的植物已長成無法穿越的牆。
 
- "I don't know," said Froedwig, "but let's see if we can get a closer look."
+ 「我不知道，」弗羅德維格說，「不過我們走近點看看。」
 
- "Stop!"
+ 「停下！」
 
- They did.
+ 他們停了。
 
- Looking beyond the hole, the children saw an elderly Redguard of many years. His gray beard, scraggly hair and stooped shoulders certainly did not support the authoritarian command he gave. But the children stopped just the same as he approached.
+ 望過那個洞，孩子們看見一位年事已高的紅守衛老人。他灰白的鬍鬚、凌亂的頭髮和佝僂的肩膀，絕不像能發出那樣威嚴命令的人。但孩子們還是停了下來，等他走近。
 
- "Who are you?" stammered Froedwig as Silvanda carefully tucked herself behind her brother's back.
+ 「你們是誰？」弗羅德維格結結巴巴地問，希爾凡達小心翼翼地縮到哥哥背後。
 
- "My name is Hoennig Groevinger, and I live in these woods."
+ 「我叫霍恩尼格·格羅文格，住在這片林子裡。」
 
- "Why can't we examine yon hole, Master Groevinger?" asked Froedwig.
+ 「我們為什麼不能去查看那個洞，格羅文格大人？」弗羅德維格問。
 
- "Because, my dear children, it and what it holds are cursed. Now just wh-h-h-o are you?" he stuttered, mimicing Froedwig.
+ 「因為，親愛的孩子們，它以及它所盛的東西都受了詛咒。那——麼，你——們——又是誰？」他結巴著，模仿弗羅德維格。
 
- Finally gaining his composure, Froedwig said, "I am Froedwig-aj- Murr of the village Granitsta. This is my sister Silvanda. We are on an outing. Can you tell us about this mysterious hole?"
+ 弗羅德維格終於鎮定下來，說：「我是格拉尼茨塔村的弗羅德維格-阿吉-穆爾。這是我妹妹希爾凡達。我們出來郊遊。您能告訴我們這個神秘的洞是怎麼回事嗎？」
 
- "Well," said the old man as he slowly settled to the ground, "Why don't you sit here with me for a while and I will tell you about Oelander's Hammer. That's the handle of the fabled weapon sticking out from yonder chasm."
+ 「好吧，」老人一邊慢慢坐到地上，一邊說，「何不跟我坐一會兒，我來講講奧蘭德之錘。從那邊裂隙裡伸出來的，就是那件傳說兵器的手柄。」
 
- With this the children also settled into sitting positions in front of the old Redguard ranger.
+ 孩子們也在這位年邁紅守衛巡林者面前坐了下來。
 
- Groevinger began, "Many year's ago there was a huge battle fought in this very field ..."
+ 格羅文格開始說：「許多年前，就在這片原野上，打過一場大戰……」
 
- "Oh, yes, I know," said Silvanda, interrupting the old man. "It was ended by the Warrior God Reymon Ebonarm, and the magic rose bush grows where he stood that day..." she continued breathlessly.
+ 「喔，對，我知道，」希爾凡達打斷老人。「是戰士之神雷蒙·黑檀之臂結束的，那叢魔法玫瑰就長在他當日站立之處……」她上氣不接下氣地繼續說。
 
- The old man sternly cleared his throat causing the little girl to again shrink behind her brother.
+ 老人嚴厲地清了清喉嚨，小女孩又縮回哥哥背後。
 
- "Now, if I may continue without interruption... On the day that battle ended, a young Redguard soldier stopped in this spot as he was leaving to go to his home. He carried the equipment he had used on the field which included a marvelously fashioned war hammer that had been given to him by his father. The weapon was beautifully made and unknown to the young warrior carried an enchantment that had protected him through the vicious battle just ended."
+ 「現在，若我可以不被打斷地繼續……戰鬥結束那天，一名年輕的紅守衛士兵在離開回家的路上，停在這個地方。他帶著戰場上用過的裝備，其中包括一把打造得極為精巧的戰錘，是他父親給他的。那件兵器極其華美，年輕戰士並不知道，它還帶有附魔，在剛剛結束的惡戰中保護了他。」
 
- "The young man, Oelander by name, rested by this very tree. Suddenly he was confronted by a wizard dressed all in black from head to toe. Without so much as a how-do-you-do, the wizard demanded that Oelander give him his hammer. Still flushed from the battle, the young man just looked at the dark man and laughed. The wizard shaking with rage raised his hands to cast a horrible spell against the soldier. However, the young man was quicker. The huge war hammer whistled through the air smiting the wizard a mortal blow just as the spell left his fingers. There was a loud explosion."
+ 「那年輕人名叫奧蘭德，就在這棵樹旁休息。忽然，一個從頭到腳一身黑的巫師出現在他面前。連句問好也沒有，巫師就要求奧蘭德把錘子交給他。年輕人心裡還燒著戰鬥的熱血，只是看著那黑衣人，笑了出來。巫師氣得發抖，舉起雙手，要對士兵施一個可怕的法術。然而年輕人更快。巨大的戰錘呼嘯破空，給了巫師致命一擊，就在法術離指的同一瞬間。一聲巨響。」
 
- The children stared at the old man. He surpressed a grin and continued.
+ 孩子們盯著老人。他忍住笑意，繼續說。
 
- "Clouds of dusk and smoke covered the forest clearing, and when the air settled, yon hole was there with the hammer's handle protruding from it. Oelander and the wizard had vanished! The thorny vines you see grew up immediately around the hole, and to this day no one has been able to approach it close enough to remove that marvelous weapon. Many have tried and all have failed. It is said that only someone of tremendous merit can take it."
+ 「塵煙籠罩了林中空地，等空氣落定，那邊的洞就在那兒，錘柄從裡面伸出來。奧蘭德和巫師都消失了！你們看見的那些帶刺藤蔓立刻在洞四周長了起來，直到今天，沒有人能靠近到足以取走那件神奇的兵器。許多人試過，全都失敗了。據說只有功德極高的人才能取走它。」
 
- All of a sudden, both children in unison stood and shouted, "Oh, look how the day has gone. We must go. If we are late getting home, our father will be most unhappy with us."
+ 突然，兩個孩子齊齊站起來喊道：「喔，看看天色已晚。我們得走了。若回家遲了，父親會很不高興的。」
 
- As they turned to leave, Froedwig said to the old man, "Thank you, Master Groevinger, for telling us of Oelander's Hammer. You know, I may just come back one day and try to retrieve it!"
+ 他們轉身要走時，弗羅德維格對老人說：「謝謝您，格羅文格大人，告訴我們奧蘭德之錘的事。您知道嗎，我也許有一天會回來，試試把它取走！」
 
- As they disappeared from his view, the old man said to himself, "Ah, yes, Master Froedrig aj-Murr, you just might do that."
+ 等他們從他視線裡消失，老人對自己說：「啊，是的，弗羅德里格·阿吉-穆爾大人，你也許真會那樣做。」

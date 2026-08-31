@@ -1,0 +1,100 @@
+-- Quest: C:\QUESTS\WORKING\X0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Hircine
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: X0C00Y00
+DisplayName: 赫辛的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  若你不介意為我做一件小事，我可以把
+<ce>                    極其出色的報酬_artifact_交到你手中。
+<ce>                  我有一個孩子，顯然對我給他的所有祝福
+<ce>                    感到悲慘，他需要……委婉怎麼說？
+<ce>                     被教訓一課？非常嚴肅的一課。
+<ce>                    這聽來像一份合意的契約嗎，%pct？
+
+RefuseQuest:  [1001]
+<ce>                   我深感失望，%pct。
+                                      <--->
+<ce>                 我很少被召喚，更罕見的是我有空回應
+<ce>                    召喚。坦白說，這浪費了我非常
+<ce>                  寶貴的時間。
+
+AcceptQuest:  [1002]
+<ce>                   啊，很好。我這個孩子是一頭野豬人，
+<ce>                  把巢穴築在一個叫___mondung_的地方。
+<ce>                你應該不難找到。你讓他解脫那明顯的悲慘
+<ce>                       之後，不該超過=1stparton_天，
+<ce>                 到___contact_一個叫__contact_的地方，
+<ce>                  找一個名叫_contact_的人。若你從現在起
+<ce>                =1stparton_天內抵達，且野豬人已死，%g會
+<ce>           把_artifact_給你。很高興與你做生意，%pct。
+<ce>                  祝你好運，再見。
+
+QuestFail:  [1003]
+<ce>                           聽著，%pcf，你我都知道
+<ce>                    那頭野豬人還在呼吸。契約就是契約。
+
+QuestComplete:  [1004]
+<ce>                       你好，%pcf。你做到了。
+<ce>                     赫辛對你印象深刻，這可不是小事。
+<ce>                   這是答應你的_artifact_。保重。
+
+RumorsDuringQuest:  [1005]
+___mondung_傳來非常難聽的尖叫與哼聲，在此地%di。
+<--->
+聽說此地%di的___mondung_有某種瘋狂的半豬東西。
+
+RumorsPostfailure:  [1006]
+那頭豬東西往北跑了，像有什麼在追它。
+<--->
+不知道什麼會嚇到一頭野豬人，讓它那樣逃跑。
+
+RumorsPostsuccess:  [1007]
+___mondung_附近近來很安靜。
+<--->
+不知道以前在這附近跑的那頭豬東西怎麼了。
+
+Message:  1011
+最微不足道的迪德拉親王。他是他們的狩獵之主。
+<--->
+據說赫辛是所有獸化人的創造者。
+
+Message:  1012
+某個行為古怪的=contact_在此地%di的__contact_。
+<--->
+一個叫那名字的=contact_不久前在此地%di的__contact_。
+
+Message:  1013
+<ce>                 我不知道_artifact_有什麼用。
+
+Message:  1020
+%qdt:
+ 作為_artifact_的回報，迪德拉親王赫辛要我殺掉
+ ___mondung_的一頭野豬人。野豬人必須在=1stparton_天內死去，
+ 而我必須在=1stparton_天內到___contact_的__contact_，
+ 與一名=contact_ _contact_會面，取得_artifact_。
+
+Message:  1030
+<ce>                         野豬人死了，如你對迪德拉
+<ce>                        親王赫辛所承諾。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 13 times.
+--                %g occurs 2 times.
+--              %pcf occurs 2 times.
+--              %pct occurs 5 times.
+--              %qdt occurs 1 time.
+--       =1stparton_ occurs 4 times.
+--         =contact_ occurs 7 times.
+--       ___mondung_ occurs 6 times.
+--        __contact_ occurs 5 times.
+--        _artifact_ occurs 9 times.
+--         _contact_ occurs 9 times.

@@ -1,5 +1,5 @@
-Title: Fools' Ebony, Part the Threeth
-Author: Frincheps
+Title: 愚人烏木，其三
+Author: 弗林切普斯
 IsNaughty: True
 Price: 317
 IsUnique: False
@@ -9,192 +9,192 @@ Content:
 
 [/font=2]
 
-[/center]Fools' Ebony,
+[/center]愚人烏木，
 
-[/center]Part the
+[/center]其
 
-[/center]Threeth
+[/center]三
 
 [/font=4]
 
 [/center]
 
- Dramatis Personae
+  登場人物
 
- Prologue; The Adventurer, A Dark Elf Rascal; Komon, A Priest of Akatosh; Lheban, Another Priest of Akatosh; Epilogue; Stete, A Priest of Julianos; Raic, Another Priest of Julianos; Shub, A Mage; Shub, A Different Mage of the Same Name; Nephron, A Somewhat Sleazy Merchant; 5 Armorers; Ortho; Crunn, Husband of Millie; A Lusty Contessa; Millie, Innkeep and Philosopher; Gurnsey, Bovine Wench; Assorted Wenches and Cads of the Taverns; Soldiers; Dwarves; Giants.
+  開場白；冒險者，一名黑暗精靈無賴；科蒙，阿卡托什的祭司；勒班，另一名阿卡托什的祭司；收場白；斯特特，朱利安諾斯的祭司；雷克，另一名朱利安諾斯的祭司；舒布，一名法師；舒布，另一名同名的法師；奈夫隆，一名有點下流的商人；五名鑄甲師；奧索；克朗，明妮之夫；一位好色的女伯爵；明妮，旅店老闆兼哲學家；格恩西，牛一般的女侍；酒館裡各色女侍與無賴；士兵；矮人；巨人。
 
- Part The Threeth - In The Mages' Guild, One to Three Days Later
+  其三——在法師公會，一至三日後
 
- (Enter Prologue)
+  （開場白上）
 
- Prologue: We are now at the halfway point of our disjointed epic. If you are just arriving, you have missed little. The Adventurer, our rogue Dark Elf, has joined with a quadripartite (that's a triumvirate plus one) of priests intent on discovering a burning metal called Fools' Ebony and becoming wealthy. The priests have given our hero some gold for bribing merchants, but the only people who know where the Fools' Ebony is are the mages of the Mages Guild. As the Epilogue pointed out at the end of Part the Twoth, there is no such thing as Fools' Ebony and real Ebony is not mined. Something our playwrite [sic] apparently did not research. Well, accept it as high fantasy, if you will. Or whatever. Hark, here comes our hero now. Imagine the miasma (if that's the word I want) of magical elixirs, bubbling cauldrons, hovering balls of sparkling whatnot. And now, the Prologue must depart.
+  開場白：我們這齣支離破碎的史詩現已過半。若你才剛到，你沒錯過多少。冒險者，我們的黑暗精靈無賴，已與一個四人組（就是三巨頭再加一個）的祭司聯手，一心要找出一種叫愚人烏木的燃燒金屬，好發大財。祭司給了我們的英雄一些金幣去賄賂商人，可唯一知道愚人烏木在哪兒的，是法師公會的法師。如收場白在其二結尾指出，沒有愚人烏木這種東西，真正的烏木也不是開採出來的。我們的劇作家顯然沒做這項研究。好吧，就當它是高幻想，隨你。或別的什麼。聽，我們的英雄來了。請想像魔法藥劑的濁氣（若這是我想要的詞）、冒泡的大釜、懸浮閃爍的不知什麼球。現在，開場白必須告退。
 
- (Enter the Adventurer and Shub)
+  （冒險者與舒布上）
 
- Adventurer: Ho! Anyone around?
+  冒險者：喂！有人在嗎？
 
- Shub: Over here, young man, in the corner ...
+  舒布：這邊，年輕人，在角落……
 
- Adventurer: Morning. Do I call you ... Shub ..?
+  冒險者：早。我該叫你……舒布……？
 
- Shub: Oh yes, Shub is my name, Shub it is ... How on Tamriel did you know?
+  舒布：噢對，舒布是我的名字，就是舒布……你到底怎麼在泰姆瑞爾上知道的？
 
- Adventurer: Can we have some ... privacy ... I have a somewhat ... er ... delicate matter to discuss ..?
+  冒險者：我們能有點……隱私……嗎，我有一件有點……呃……微妙的事要談……？
 
- Shub: No need for privacy here! We Mages do not hide anything!
+  舒布：這兒不需要隱私！我們法師什麼也不藏！
 
- Adventurer: Fools' Ebony?
+  冒險者：愚人烏木？
 
- Shub: Quick through this door ..! Turn right ... Turn left ... Ah ... just let me throw a privacy spell around us ...
+  舒布：快進這扇門……！右轉……左轉……啊……讓我在我們周圍丟一道隱私法術……
 
- (Loud zap sounds)
+  （巨大的霹靂聲）
 
- (Enter Shub)
+  （舒布上）
 
- Good! Now Sir -- Oh, by the way, meet my fellow Mage, Shub.
+  好！現在先生——噢，順便，見見我的法師同伴，舒布。
 
- Shub: Mmmm.
+  舒布：嗯嗯。
 
- Shub: Now, you mentioned Fools' Ebony ..?
+  舒布：現在，你提到愚人烏木……？
 
- Adventurer: Well, I fancy myself a bit of an expert in ebony. Had quite a bit come and go through my hands in my time, I have ...
+  冒險者：這個，我自認對烏木略通一二。這輩子經我手來去的可不少……
 
- Shub: We notice that you have an ebony amulet, and an ebony katana -- Of Lightning, no less! And an ebony belt ... ...mmmm...
+  舒布：我們注意到你有烏木護符，還有烏木武士刀——還是閃電的，一點不差！還有烏木腰帶……嗯嗯……
 
- Adventurer: Hands off the toys, gentlemen, please!
+  冒險者：別碰玩具，兩位，拜託！
 
- Shub: Forgive us -- but we so appreciate such fine items ...
+  舒布：原諒我們——我們太欣賞這麼精美的物件……
 
- Shub: ... collect them too ...
+  舒布：……也收藏……
 
- Adventurer: Well, the other day, just by chance of course, I just happened to hear two priests of the Temple of ... er ... Stendarr, I think it was ... They were a bit high in their cups, I think, a bit loud, and never noticed me skulking -- I mean, standing -- there. They were going on about this Fools' Ebony - stuff like the real thing, only no magicka at all. None. But it burns like wood, only longer, hotter, no smoke, nice even heat.
+  冒險者：這個，前幾天，當然純屬偶然，我碰巧聽見兩名……呃……斯丹達爾神殿的祭司，我想是……他們杯中物喝高了，我想，有點大聲，完全沒注意到我蹲——我是說，站——在那兒。他們大談這愚人烏木——樣子像真貨，卻一點魔力也沒有。沒有。可它像木頭一樣燒，只是更久、更熱、沒煙，熱得均勻。
 
- Shub: Yes ... we have heard similar rumors. Seen a bit of that stuff -- lumps from a sack or two that some crazed delver dragged up, that kind of thing. Right, Shub?
+  舒布：對……我們聽過類似謠言。見過一點那東西——某個瘋鑽探者拖上來的一兩袋裡的塊，那種。對吧，舒布？
 
- Shub: Oh - Oh yes, right, that kind of thing ... right ... (aside) I must remember to keep the secret, whatever it is.
+  舒布：噢——噢對，對，那種……對……（旁白）我得記住保密，不管那秘密是什麼。
 
- Adventurer: Well, these fool priests seemed to talk as if they knew a location for lots, I mean piles, of that stuff -- somewhere up in the Wrothgarians ...
+  冒險者：這個，那些傻祭司說得好像他們知道一個地點，有很多，我是說成堆，那種東西——在沃斯加里安某處……
 
- Shub and Shub (Together): Where! Who! Did they say? How? When? Where?Shub: [sic] You didn't let them know you were listening, did you?
+  舒布與舒布（齊聲）：哪兒！誰！他們說了嗎？怎麼？何時？哪兒？舒布：你沒讓他們知道你在聽，對吧？
 
- Adventurer: Of course not! What do you take me for, a priest lover?
+  冒險者：當然沒有！你把我當成什麼，祭司情人？
 
- Shub: Calm yourself, my lord ... that's better...just don't go fiddling with that katana so much. Makes us nervous.
+  舒布：冷靜，閣下……這樣好多了……別老去撥那把武士刀。弄得我們緊張。
 
- Shub: Yes, nervous, very ...
+  舒布：對，緊張，非常……
 
- Shub: Here, sit down. There. Want some mulled wine? No? Oh well, just have to finish it myself.
+  舒布：來，坐下。好。要熱葡萄酒嗎？不要？噢好吧，只好我自己喝完。
 
- Shub: So they seemed to know the location. (aside) Hmmmm. This means we have to act fast, quickly, speedily, and with great rapidity.
+  舒布：所以他們好像知道地點。（旁白）嗯嗯。這意味著我們得快、迅速、疾速，並且以極大的敏捷行動。
 
- Adventurer: Oh yes! They were talking like they were going to get a load in a few weeks or so ...
+  冒險者：噢對！他們說得好像幾週內就要弄一大批……
 
- Shub: Oh My! Oh Dear Me! Ohhh...
+  舒布：噢我的天！噢親愛的！噢……
 
- Shub: Now then. Seems you know a fair amount about this Fools' Ebony. And you realize the potential -- just think, big warm fires in all our study rooms ...
+  舒布：好了。看來你對這愚人烏木知道不少。你也明白其中潛力——想想，我們所有書房裡都有大火爐……
 
- Shub and Shub (Together): ... Selling it to the Palace... selling it to those stupid Alchemists ... the Armorer's Guild would be good for a lot ... ... keep out familiars nice and warm ... ... and our posteriors ..! ... just think how Daedra Seducers love a nice warm fire ... Giving smoldering lumps to the peasants to warm their hovels with -- in return for some gold, of course ...
+  舒布與舒布（齊聲）：……賣給王宮……賣給那些蠢煉金術士……鑄甲師公會能吃下不少…………讓使魔暖和舒服…………還有我們的臀部……！……想想迪德拉誘惑者多愛一堆好火……把悶燒的塊給農民去暖茅屋——當然，換一點金幣……
 
- Shub: ...just think of all that gold...
+  舒布：……想想那所有金幣……
 
- Shub: Trouble is, son - we would like to get that stuff by the cartload, bring it down here ...
+  舒布：麻煩是，孩子——我們想整車整車弄到那東西，運下來……
 
- Shub: Have some trustworthy merchant ...
+  舒布：找個靠得住的商人……
 
- Shub: Put a spell on him!
+  舒布：給他下道法術！
 
- Shub: ... Have some merchant act as sort of, middleman, for us ...
+  舒布：……讓某個商人當我們的，可以說，中間人……
 
- Adventurer: But ... then why the delay, gentlemen?
+  冒險者：可是……那為什麼遲遲不動，兩位？
 
- Shub: You seem like an honest fellow. We'll tell you -- mind you, you let out a word of this, and there will be a Fire Daedra in your bed ... but no threats between gentlemen, right!
+  舒布：你看起來像個誠實的傢伙。我們告訴你——記住，你漏一個字，你床上就會有火焰迪德拉……不過紳士之間不必威脅，對吧！
 
- Adventurer: Very well -- I shall be the very soul of discretion.
+  冒險者：很好——我必是謹慎的化身。
 
- Shub: You see, we know where the stuff it, cartloads and cartloads of it. But we can't get there and back ...
+  舒布：你看，我們知道那東西在哪兒，整車整車的。可我們去不了也回不來……
 
- Shub: We are not the outdoorsy types.
+  舒布：我們不是戶外那一型。
 
- Shub: Far safer here in town.
+  舒布：待在城裡安全得多。
 
- Shub: Much warmer too.
+  舒布：也暖和得多。
 
- Shub: Think of all the supplies we would have to take.
+  舒布：想想我們得帶多少補給。
 
- Shub: All those nasty things out there.
+  舒布：外頭那些討厭的東西。
 
- Shub: Did you know that seducers won't come to us in the wilderness?
+  舒布：你知道誘惑者不肯到荒野來找我們嗎？
 
- Shub: We'd have to hire guards, to keep those awful priests away.
+  舒布：我們得僱衛兵，擋住那些可怕的祭司。
 
- Shub: And the strain of dealing with all those coarse types ... the Merchants.
+  舒布：還有跟那些粗人打交道的折磨……商人。
 
- Shub: The Armorers.
+  舒布：鑄甲師。
 
- Shub: The Royals.
+  舒布：王室。
 
- Adventurer: Mmm. I think I comprehend. You want some -- experienced explorer-hero type, someone used to the wilderness -- to go get it for you, set up a supply line, so on ..?
+  冒險者：嗯。我想我明白了。你們要某個——有經驗的探險英雄型，習慣荒野的人——替你們去弄，建一條補給線，諸如此類……？
 
- Shub: Exactly. And find us a nice, useable merchant. Someone we can control.
+  舒布：正是。還要給我們找個好用的商人。我們能控制的那種。
 
- Shub: With a big, big warehouse, delivery service, that kind of thing ...
+  舒布：要有很大、很大的倉庫，還有配送，那種……
 
- Adventurer: Well, gentlemen. Let me volunteer my services! I have always admired you Mage gentlemen -- so clever, so sharp. No fooling you in anything, is there?
+  冒險者：好，兩位。讓我自告奮勇！我一向欽佩你們法師紳士——那麼聰明，那麼敏銳。什麼也騙不了你們，對吧？
 
- Shub: No, no fooling us ...
+  舒布：不，騙不了我們……
 
- (Enter Prologue)
+  （開場白上）
 
- Prologue: This, ladies and gentlemen, is irony.
+  開場白：諸位，這就叫反諷。
 
- (Exit Prologue)
+  （開場白下）
 
- Adventurer: Tell you what, I can probably arrange a suitable merchant or [sic] you. Take some gold though -- those thieves know the value of a gold piece! As luck would have it, my last gold was swindled off me by a thieving priest, in some little town south of here. And I lost a lot of good stuff in a shipwreck just before that ...
+  冒險者：這樣吧，我大概能替你們安排一個合適的商人。不過得花金幣——那些賊知道一枚金幣的價值！碰巧，我最後一點金幣被一個偷東西的祭司騙走了，在南邊某個小鎮。那之前我又在船難裡丟了不少好東西……
 
- Shub: Well ... since you have agreed to help us ... we can spare some gold from the treasury, can't we, Shub?
+  舒布：這個……既然你同意幫我們……我們能從金庫撥一點金幣，對吧，舒布？
 
- Shub: Oh! Oh yes, lots there ... always make more ...
+  舒布：噢！噢對，那兒有很多……總能再變出來……
 
- Adventurer: Now, I do need to know roughly where this site is, got to pick the right breed of horse, calculate my supplies to the last drop, figure out what weapons I might need ... supplies, like food, little things like that ... diameter of the cart wheels in square yurts ... ambush points for the priests, in case they try to get up there ... mmmmm ...
+  冒險者：現在，我確實需要大概知道這地點在哪兒，得挑對馬種，把補給算到最後一滴，盤算可能需要什麼武器……補給，像食物，那種小事……車輪直徑以平方氈帳計……祭司的伏擊點，萬一他們想上去……嗯嗯……
 
- Shub: Tell you what - here is 500 gold. Go get things started.
+  舒布：這樣吧——這兒是 500 金幣。去把事情啟動。
 
- Shub: Yes ... we can always make some more.
+  舒布：對……我們總能再變一些。
 
- Shub: (aside, to Shub) Shut up!
+  舒布：（旁白，對舒布）閉嘴！
 
- Shub: (Shub fires a spell at Shub that burns him to a cinder and then reconstitutes him)
+  舒布：（舒布朝舒布放一道法術，把他燒成灰燼，再重新組起來）
 
- Shub: (to all) Excuse us ... where was I ... Oh ... get a merchant, guards, carts, whatever you think it will take. Come back if you need more.
+  舒布：（對眾人）失禮……我講到哪兒……噢……找個商人、衛兵、車，你覺得需要的無論什麼。不夠再來。
 
- Shub: But what about those priests?
+  舒布：可那些祭司怎麼辦？
 
- Adventurer: I've an idea or two there. Let me get friendly with them - maybe hire a couple of good lamppost girls, lay in a few cases of holy wine ... I'll have them eating out of my hand in no time. And if you show me where this Fools' Ebony is ... why, I can misdirect them, send them straight into an trolls' den or something.
+  冒險者：我有一兩個主意。讓我跟他們套近乎——也許僱幾個像樣的燈柱女孩，備幾箱聖酒……很快就能讓他們吃我的手。而若你讓我看這愚人烏木在哪兒……我就能把他們帶錯路，直接送進巨魔巢或什麼的。
 
- Shub: You're the expert! Here, let me show you on a map ... and I don't need to mention Fire Daedras, do I?
+  舒布：你是專家！來，我在地圖上指給你看……而且我不必再提火焰迪德拉了，對吧？
 
- Adventurer: So ... seems to be ... hmmmm ... only thirty days there, this time of year. Maybe forty back, with the loads. Let me study this a bit more ...
+  冒險者：所以……看來……嗯嗯……這個時節去只要三十天。回來也許四十，帶著貨。讓我再研究一下……
 
- Shub: Can't take it with you, of course ... don't want this getting out now ...
+  舒布：當然不能帶走……現在可不想這事傳出去……
 
- Adventurer: Oh no. That's fine. Look, let me have a bit more gold. Going to need some heavy-duty carts. See here, this section ... cut by all these washes ... hmmmm ... the flummox there will be something terrible ... Oh, and these ruins, full of ghosts, I bet ... hmmmm ... and this pass, just full of willies too ...
+  冒險者：噢不。沒問題。聽著，再給我一點金幣。得要些重載車。看這兒，這一段……全被這些沖溝切開……嗯嗯……那兒的弗勒莫克斯會要命……噢，還有這些廢墟，我敢打賭滿是鬼魂……嗯嗯……還有這隘口，也盡是讓人發毛的東西……
 
- Shub: If you say so ... My, seems that we picked the right man, right, Shub!
+  舒布：你這麼說的話……哎呀，看來我們找對人了，對吧，舒布！
 
- Shub: Oh yes, indeed.
+  舒布：噢對，確實。
 
- Adventurer: So -- why don't I make arrangements, get back to you in ... er ... say a week? Say -- sure that you don't want to come with me. After all, there's nothing like the wilderness life. Waking up with the sun, shaking off the frost. Catching an orc for breakfast - ever have orc guts fried over stinkwood? Oh, that's a treat! Checking each stream for dead giant spiders - or live ones! Imp jerky for lunch! Scanning the ridges for dragonlings! Standing guard against Ice Daedra in a blinding snowstorm! Oh, what a life!
+  冒險者：所以——何不讓我去安排，大約……呃……一週後回來找你們？喂——確定你們不想跟我一起去。畢竟，沒什麼比得上荒野生活。跟著太陽醒來，抖掉霜。抓一頭獸人當早餐——你們吃過臭木上煎的獸人內臟嗎？噢，那可是享受！檢查每條溪有沒有死巨蜘蛛——或活的！午餐吃小惡魔肉乾！掃視山脊找幼龍！在盲目暴風雪裡站崗防寒冰迪德拉！噢，怎樣的生活！
 
- Shub and Shub (Together): No, no ... we, we better stay here at the Guild. Got our duties after all ... someones got to mind the store ... someones got to get the word out to selected customers ... No, thank you kind Sir, it does sound such a lovely life, but I think we best be here ... yes, indeed ...
+  舒布與舒布（齊聲）：不，不……我們，我們最好待在公會。畢竟有職責……得有人看店……得有人把話傳給精選客戶……不，謝謝好心的先生，這生活聽起來真美好，可我想我們最好待在這兒……對，確實……
 
- Adventurer: A pity, gentlemen. Well, I'll be about it then. And don't worry if you see me with those priests -- got to mislead and misdirect them, haven't I!
+  冒險者：可惜，兩位。好，那我去辦。若看見我跟那些祭司在一起別擔心——得誤導他們、帶錯路，不是嗎！
 
- Shub: One week, then!
+  舒布：那就一週！
 
- (Exeunt Shub, the Adventurer, and Shub)
+  （舒布、冒險者與舒布同下）
 
- (Enter Epilogue)
+  （收場白上）
 
- Epilogue: Shub and Shub, ladies and gentlemen. Implausibly retarded mages, yes, but perhaps there's something more to them than this act suggests. Do you think so, maybe? Well, if you are not in the theater for Part the Fourth, you won't know for certain, will you? Don't forget to tip your wenches and think on that while we change the set.
+  收場白：舒布與舒布，諸位。難以置信地遲鈍的法師，對，可也許他們不只是這場戲所顯示的那樣。你覺得呢，也許？好，若你不在劇院看其四，你就不會確定，對吧？別忘了給女侍小費，換佈景時想想這個。
 
- So Endeth Part the Three
+  其三終

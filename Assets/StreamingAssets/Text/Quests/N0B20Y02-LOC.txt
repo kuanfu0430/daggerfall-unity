@@ -1,0 +1,124 @@
+-- Quest: C:\QUESTS\WORKING\N0B20Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 20
+-- QuestId: 2
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 31
+Quest: N0B20Y02
+DisplayName: 保護尊貴法師
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        我是 _qgiver_，
+<ce>                     強大的 _sleepingmage_ 的僕人。
+<ce>                       我受命尋找公會成員，
+<ce>                     在 %g 陷入法術恍惚時
+<ce>                      保護 %g2。_sleepingmage_ 懷疑
+<ce>                        %g3 對手可能
+<ce>                       趁 %g 無力時派刺客
+<ce>                         殺害 %g2。
+<ce>                    若能阻止刺客，%G 會給你一件
+<ce>                              附魔的
+<ce>                          _magicitem_。
+<ce>                 你願意接下這任務嗎？
+                                     <--->
+<ce>                     親愛的 %pcf，能被選中
+<ce>                       協助著名的
+<ce>                          _sleepingmage_
+<ce>                   可是極大的榮譽，我想你以前
+<ce>                     總聽過這名字。
+<ce>                     是的，%g 特別點名
+<ce>                     要你在 %g 沉睡時守護 %g2。
+<ce>                   顯然，如此地位的法師
+<ce>                    總有嫉妒 %g3 龐大力量的敵人。
+<ce>                    我想你會接受這份榮譽吧？
+
+RefuseQuest:  [1001]
+<ce>                        嗯。公會成員通常
+<ce>                      更樂意幫忙。我相信
+<ce>                        _sleepingmage_ 會
+<ce>                             記住這件事。
+
+AcceptQuest:  [1002]
+<ce>                    正如我所料。  _sleepingmage_
+<ce>                剛開始三小時的恍惚，
+<ce>                 所以你必須在那段時間守護
+<ce>                 _magesguild_，在他脆弱時保護他。
+<ce>                 恍惚結束時，他會被傳送到乙太界。
+<ce>                  等他安全了，公會會派人
+<ce>                       送上你的酬勞。
+
+QuestComplete:  [1004]
+<ce>                   一名身著深藍袍的年輕女子
+<ce>                          在你面前深深鞠躬。
+<ce>                                    
+ 「公會讚許你出色的工作。
+ _sleepingmage_
+ 極為感激。  這是 %g 答應的
+ _magicitem_。」
+
+RumorsDuringQuest:  [1005]
+_sleepingmage_ 在 ___sleepingmage_ 是個傳奇。
+<--->
+_sleepingmage_ 施放強大法術後一直在休養。
+
+RumorsPostfailure:  [1006]
+_sleepingmage_ 沉睡時出了事。我想 %g 可能已經死了。
+<--->
+_sleepingmage_ 消失了。沒人知道 %g 是生是死。
+
+RumorsPostsuccess:  [1007]
+_sleepingmage_ 在漫長沉睡後醒來，完好如初。
+<--->
+_sleepingmage_ 沉睡時遇襲，但有守衛保護 %g。
+
+QuestorPostsuccess:  [1008]
+看在你為 _sleepingmage_ 所做的一切，我當然樂意幫忙。
+
+QuestorPostfailure:  [1009]
+<ce>                    _sleepingmage_ 消失了，
+<ce>                    而你本該守護 %g2，%pcf。
+<ce>                     我對你無話可說。
+<ce>                        至少，沒有好話。
+
+QuestLogEntry:  [1010]
+%qdt: 
+ 我答應在 _magesguild_
+ 保護 _sleepingmage_，
+ 趁 %g 陷入恍惚、無力抵抗時
+ 守護 %g2 三小時，
+ 即刻開始。
+
+
+Message:  1011
+<ce>                    讓開，學徒小鬼！
+<ce>                   我們要在 _sleepingmage_ 醒來前
+<ce>                     砍死他。讓開，否則
+<ce>                        連你一起砍。
+
+Message:  1012
+<ce>                     傻瓜！你不該打擾
+<ce>                      陷入法術恍惚的法師。
+<ce>                      你會為此付出代價！
+<ce>                       立刻離開這座公會廳。
+<ce>                      我會把這事提交
+<ce>                       法師議會。
+
+Message:  1013
+<ce>                      若你殺了我，你會被
+<ce>                     逐出法師公會！
+<ce>                        現在離開，否則承擔
+<ce>                             後果。
+
+Message:  1014
+<ce>                     我來領這名對法師公會
+<ce>                      背誓者的賞金，
+<ce>                    為了 _sleepingmage_ 之死。
+
+Message:  1030
+<ce>                     通知大法師！  這個
+<ce>                %ra 刺客殺死了 _sleepingmage_！
+<ce>                   把門封上！  拿起武器，拿起武器！

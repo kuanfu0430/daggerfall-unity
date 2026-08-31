@@ -1,0 +1,123 @@
+-- Quest: C:\QUESTS\WORKING\Q0C0XY02.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 0X
+-- QuestId: 2
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: Q0C0XY02
+DisplayName: 詭詐贈禮
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     汝願幫助 ==qgiver_ 嗎，
+<ce>                    %pcf？許多人來向我們求援，
+<ce>                   願望一償便轉身離去，他們的誓言
+<ce>                   成了詛咒，他們的承諾成了
+<ce>                    可憎之物。為了 ==qgiver_
+<ce>                         的感激，汝可願為
+<ce>                     姊妹會懲罰一名背信者？
+
+RefuseQuest:  [1001]
+<ce>                    連這點汝也不願做？
+<ce>                         %oth，以 ==daedra_ 之名，
+<ce>                  我想不承諾自己做不到的事更好，
+<ce>                  但我仍感哀傷。
+
+AcceptQuest:  [1002]
+<ce>                 汝當真願意？若汝願意，一件精美的
+<ce>                        _mitem_ 將為汝打造。
+<ce>                如今，汝前往最遠的 __tavern_，
+<ce>                     尋找背叛我們的那人，一名
+<ce>                    自稱 _man_ 的邪惡 =man_。
+<ce>                把這件 _jewelry_ 交給 %g2，告訴 %g2
+<ce>                這是 %g3 舊情人的禮物，然後回到我們
+<ce>                 這裡。汝必須快，因為那件 _jewelry_
+<ce>                 會把 %g3 外在之貌變成 %g3 內在之美
+<ce>                        的模樣。==qgiver_ 期望
+<ce>                  汝在 =queston_ 天內歸來。願
+<ce>                        ==daedra_ 對汝這神聖
+<ce>                             任務微笑。
+
+--needed to change %g on line 36 due to gender mismatches
+
+QuestComplete:  [1004]
+<ce>                       好 %pcf，汝對 ==qgiver_
+<ce>                      的承諾已履行。
+<ce>                         這是我答應的
+<ce>                         _mitem_。可憐的 _man_。
+<ce>                我希望他們讓 %g2 深深受苦，
+<ce>                      再把 %g 處死。
+
+RumorsDuringQuest:  [1005]
+_man_ 真是白手起家的 =man_ 典範。令人讚嘆。
+<--->
+==qgiver_ 可以極為記仇。
+
+RumorsPostfailure:  [1006]
+_man_ 嘲笑自己還欠 ==qgiver_ 什麼的念頭。
+<--->
+_man_ 已離開 __tavern_。人們會非常想念 %g。
+
+RumorsPostsuccess:  [1007]
+_man_ 在 _tavern_ 的酒客面前變成了可怕的野獸。
+<--->
+_man_ 一定跟迪德拉有來往。%oth，何等命運。
+
+QuestorPostsuccess:  [1008]
+真的，我希望汝喜歡汝的 _mitem_，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce>                      我們對 _man_ 的復仇尚未
+<ce>                 完成！離開此地，否則 %g3 應得的命運
+<ce>                 將降臨汝身，%pcf。
+
+Message:  1011
+<ce>                         _man_ 為這件 _jewelry_
+<ce>                   向你道謝。%G 一邊試戴，你一邊告訴
+<ce>                 %g2 是誰送來的。%G3 眼中因
+<ce>                      ==qgiver_ 之名燃起恐懼，
+<ce>                          隨即恐懼轉為痛苦。
+
+Message:  1012
+<ce>                     汝不該殺死 _man_，
+<ce>                   只需把 _jewelry_ 交給 %g2！
+<ce>                         蠢材！刺客！_man_
+<ce>                本該為 %g3 的傲慢深深受苦，
+<ce>                       而非毫無痛苦地被殺。
+<ce>                            ==daedra_ 詛咒
+<ce>                              汝，%pcf。
+
+Message:  1020
+%qdt:
+  %reg 的 ==qgiver_
+  派我把一件 _jewelry_ 帶給
+  __tavern_ 一名叫 _man_ 的
+  =man_。他們要我趕快行動，因為
+  那件 _jewelry_ 會「把 %g3
+  外在之貌變成 %g3 內在之美
+  的模樣」。我必須把 _jewelry_
+  交到 %g3 手上，並在不超過
+  =queston_ 天內回到 ==qgiver_。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 7 times.
+--               %g2 occurs 6 times.
+--               %g3 occurs 10 times.
+--              %oth occurs 3 times.
+--              %pcf occurs 42 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 1 time.
+--         ==daedra_ occurs 3 times.
+--         ==qgiver_ occurs 9 times.
+--             =man_ occurs 2 times.
+--         =queston_ occurs 4 times.
+--         __tavern_ occurs 4 times.
+--         _jewelry_ occurs 8 times.
+--             _man_ occurs 12 times.
+--           _mitem_ occurs 5 times.
+--          _tavern_ occurs 1 time.

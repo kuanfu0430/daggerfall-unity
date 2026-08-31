@@ -1,5 +1,5 @@
-Title: The Epic of the Grey Falcon
-Author: Anido Jhone, editor
+Title: 灰隼號史詩
+Author: 阿尼多·瓊，編者
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,62 +8,62 @@ Content:
 
 [/font=4]
 
-As uncovered and translated by Anido Jhone, Royal Archaeologist, from an ancient tome:
+如皇家考古學家阿尼多·瓊從一部古籍中發掘並翻譯：
 
 [/center]
 
- This tale comes from sometime in the 2nd Era, most probably after the time of the Knahaten Flu, or at least I have so surmised due to reasons in the text. Whether or not the tale is true, it remains an interesting story of survival.
+ 這則故事出自第二紀元某時，極可能在克納哈滕流感之後，或至少我因文中緣由如此推測。無論故事是否真實，它仍是一則有趣的求生故事。
 
- The reader will, I trust, forgive me if I translated the epic somewhat informally. The message, I think, is universal, and should not be misread.
+ 讀者想必會原諒我把這篇史詩翻譯得略為不拘形式。我想，其中的訊息是普遍的，不應被誤讀。
 
- Enjoy, gentle reader.
+ 請享受，溫和的讀者。
 
- A.J.J.
+ 阿·瓊
 
 [/font=2]
 
-[/center]The Epic of
+[/center]灰隼號
 
-[/center]the Grey Falcon
+[/center]史詩
 
 [/font=4]
 
- The Grey Falcon, a small warship of the Sumurset Isle, Was patrolling deep in the ocean for a pirate That had been looting the coast. The first three weeks out were uneventful. Two hours after sunset, on the 22nd day out of port, The lookout spotted a top of a sail in the moonlight, Just on the horizon.
+ 灰隼號，夏暮島的一艘小型戰船， 正在大洋深處巡邏，搜尋一名 一直在沿海劫掠的海盜。 出航的前三週平靜無事。 出港第二十二日，日落後兩小時， 瞭望員在月光下瞥見天際一角船帆。
 
- "Sail! To starboard, forward quarter!" The lookout of the Grey Falcon cried. The crew and captain of the Grey Falcon were quickly roused, And stumbled to the deck.
+ 「船帆！右舷前方！」灰隼號的瞭望員喊道。 灰隼號的船員與船長迅速被喚醒， 跌跌撞撞走上甲板。
 
- "'Tis the ship we're looking for, Captain," said the lookout. "All hands to battle stations! All archers to their posts,"
+ 「正是我們要找的那艘船，船長，」瞭望員說。 「全員就戰鬥崗位！所有弓手就位，」
 
- The Captain yelled, "Full ahead!" The two ships closed, And a dark figure stepped out onto the forecastle of the pirate ship. The figure made a gesture with his hands, And a giant ball of fire streaked towards the Grey Falcon. The ball of fire struck the Grey Falcon in her sails, Quickly catching them aflame. The figure made another gesture. Large bolts of ice streaked out from his hands, And hit the Grey Falcon just above and below the water line, Gouging large holes in her hull. The Grey Falcon was mortally wounded.
+ 船長喊道，「全速前進！」兩船接近， 一個黑影步上海盜船的前甲板。 那人影雙手一揮， 一顆巨大的火球劃向灰隼號。 火球擊中灰隼號的船帆， 迅速燃起火焰。 那人影再次揮手。 巨大的冰箭從他手中射出， 擊中灰隼號吃水線上下， 在船體上鑿出大洞。 灰隼號受到了致命傷。
 
- The Captain cried, "All hands abandon shi-" As he was cut off by a pirate's arrow shot into his throat. As the Grey Falcon, aflame and listing badly, plunged into the sea, One of her sailors, Darik Seaspit, managed avoid the pirate arrows and spells to make his way to a lifeboat, And lowered it into the darkness below. Just as the lifeboat entered the water, a quick grey shape jumped into it. Darik looked, and saw it was Helnor Snarlsbane, A Khajiit mercenary assigned to the ship. The two rowed the small boat away, As the Grey Falcon finished her descent into the sea. In the darkness, the pirate ship missed their small craft. After the two rowed well out of the pirates possible view, They both collapsed from exhaustion.
+ 船長喊道：「全員棄——」 話被海盜射入他喉嚨的箭打斷。 灰隼號燃著火、嚴重傾斜，沉入海中時， 她的一名水手達里克·海唾設法避開海盜的箭與法術，來到一艘救生艇旁， 把它放入下方的黑暗中。 救生艇剛入水，一個飛快的灰色身影跳了進去。 達里克一看，原來是赫爾諾爾·咆哮災， 一名派駐船上的卡吉特傭兵。 兩人划著小船離開， 灰隼號完成她沉入海中的最後路程。 黑暗中，海盜船錯過了他們的小艇。 兩人划到海盜可能看見的範圍之外後， 都因精疲力竭而倒下。
 
- Early morning the next day, They took an inventory of the lifeboats stores. Normally the lifeboat carries enough food and water to supply seven people for at least ten days. In place of the food, though, Helnor found a note:
+ 次日清晨， 他們清點救生艇的補給。 通常救生艇載有足夠供應七人至少十天的食物與水。 然而食物的位置，赫爾諾爾找到一張字條：
 
- "The food in this lifeboat was found to being [sic] violation of Sumerset Navy regulation during inspection. In accordance to that article, the food was taken away and destroyed. A replacement may be obtained by redeeming this letter at the Port Supply Office. Signed, Lt. Inspector Windhollow" Helnor read aloud.
+ 「本救生艇中的食物經檢查發現違犯夏暮海軍條例。依該條款，食物已被取走銷毀。可憑此函至港口補給處換領替代品。夏暮海軍中尉檢查官溫德霍洛簽字。」赫爾諾爾大聲讀道。
 
- Said Darik, to his Khajiit Companion, "We have plenty of water, but we are out of food. I don't know what we're going to do. I suppose we could try fishing, but we have no bait.
+ 達里克對他的卡吉特同伴說：「我們有足夠的水，卻沒有食物。我不知道該怎麼辦。我想我們可以試試釣魚，可是沒有誘餌。
 
- "There's no chance we can make it back to land before we starve to death - 'twill be over a month in this craft."
+ 「我們絕無可能在餓死前回到陸地——坐這艘小艇得超過一個月。」
 
- "Wait, I have an idea" said Helnor, with a gleam in his catlike eye.
+ 「等一下，我有個主意，」赫爾諾爾說，貓眼裡閃著光。
 
- Six weeks later, the lifeboat entered the port of Corwich. As it was tethered to the dock, a solitary figure was pulled out, Looking weather beaten and thin. One of the dock workers peered into the life raft, After the figure was taken away to the port healer for treatment.
+ 六週後，救生艇進入科維奇港。 它被繫上碼頭時，一個孤獨的身影被拉了出來， 看上去飽經風霜、消瘦。 那人被送往港口治療者接受治療後， 一名碼頭工人朝救生艇裡望去。
 
- "Hmm, what's this", a worker said to himself, As he picked up a large bone from the boat, A bone bleached white by the sun.
+ 「嗯，這是什麼，」一名工人對自己說， 從艇裡拾起一根大骨頭， 被太陽曬得發白的骨頭。
 
- After the sole survivor of the Grey Falcon recovered from his ordeal, He was taken to the inquest for the death of Darik Seaspit, And placed on a chair before the magistrate.
+ 灰隼號唯一的倖存者從磨難中復原後， 被帶到達里克·海唾之死的審訊， 安置在裁判官面前的椅子上。
 
- "We here in High Rock have a dim view of cannibalism. You'd better have a good reason for your actions," The inquisitor boomed at Helnor Snarlsbane, "By the Lady, do you?"
+ 「我們高岩這裡對食人看法不佳。 你最好有充分的理由解釋你的行為，」 審問者對赫爾諾爾·咆哮災轟然說道，「憑女士起誓，你有嗎？」
 
- Helnor stood, and said, "Your Honor, I had no choice. There was no food, and it was at least two months to the closest port. We both decided this was the only way someone would make it."
+ 赫爾諾爾站起來，說：「閣下，我別無選擇。沒有食物，到最近的港口至少兩個月。我們都認定這是能有人活下來的唯一辦法。」
 
- "Well, then, I suppose that is understandable, If somewhat distasteful," the inquisitor said.
+ 「好吧，那麼，我想那是可以理解的， 雖然有些令人反感，」審問者說。
 
- "You think it was distasteful?," Helnor muttered to himself, "I didn't have any seasoning."
+ 「你覺得令人反感？」赫爾諾爾對自己嘀咕，「我連調味料都沒有。」
 
- "One final thing, Mr. Snarlsbane, How was it decided that you would be the one that would dine on the other? The toss of a coin?"
+ 「最後一件事，咆哮災先生， 如何決定由你來享用另一位？ 擲金幣嗎？」
 
- Helnor drew himself up and said, "Your honor, it was very simple. Darik Seaspit was a vegetarian."
+ 赫爾諾爾挺直身子說：「閣下，很簡單。達里克·海唾是素食者。」
 
- "Case dismissed!"
+ 「本案駁回！」

@@ -1,0 +1,171 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y04.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 4
+Messages: 17
+Quest: K0C00Y04
+DisplayName: 兩個懦夫
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>我恐怕陷入了尷尬的困境。
+<ce>_lover_和我有過……某種默契，
+<ce>但%g3情人對此卻令人苦惱地守舊。
+<ce>我被挑戰決鬥了。幸好我的情敵
+<ce>_competitor_不認得我長什麼樣。
+<ce>你可以代我上場。_gold_金幣，願意嗎？
+<ce>我會非常感激。
+<--->
+<ce>%cn這兒這個=competitor_
+<ce>向我下了戰書。大概風聲傳開了，
+<ce>說我毀了%g3情人_lover_的名譽。
+<ce>其實%reg大半的人早就跟那老_lover_
+<ce>有過一腿。總之，我需要像你這樣的人
+<ce>在決鬥中假扮我。_gold_金幣能引起你的興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>不？真可惜。不過我大概也該找個
+<ce>長得更像我的人。
+
+AcceptQuest:  [1002]
+<ce>好極了，%pcf。把這份回覆帶給
+<ce>_competitor_。你會在__competitor_
+<ce>找到%g2。我期望你在=queston_天內
+<ce>凱旋歸來，領取應得的報酬。
+<ce>祝你好運，我的朋友。
+
+QuestComplete:  [1004]
+<ce>榮譽恢復了，對吧，我出色的%ra？
+<ce>這是你的_gold_金幣。現在，我該去探望
+<ce>親愛的_lover_，把這番磨難告訴%g2……
+<ce>當然，事實會有若干修改。
+
+RumorsDuringQuest:  [1005]
+他們說_lover_害死人比任何瘟疫都多。
+<--->
+_lover_上一個情人死在%g3懷裡，想滿足%g3……胃口。
+<--->
+要是_lover_發現他們為%g2決鬥……%oth，那就完了。
+
+RumorsPostfailure:  [1006]
+_lover_把_competitor_和_qgiver_都甩了。
+<--->
+_lover_、_competitor_和_qgiver_之間全完了。
+
+RumorsPostsuccess:  [1007]
+_lover_和_qgiver_又在一起了。真浪漫。
+<--->
+_qgiver_殺了一個=competitor_，全是為了愛_lover_。
+
+QuestorPostsuccess:  [1008]
+能幫你是我的榮幸，%pcf。而榮譽這回事，咱們都懂，對吧？
+
+QuestorPostfailure:  [1009]
+你本該假扮我的，白痴！還是你不記得了？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_、__qgiver_的
+ _qgiver_被挑戰決鬥，派我去假扮%g2。
+ 我要把%g3對_competitor_戰書的回覆帶去，
+ 並進行決鬥。我能在___competitor_
+ 的__competitor_找到這名_competitor_。
+ 決鬥後，我要回到__qgiver_
+ 向_qgiver_領取報酬。
+ 這一切都是為了愛_lover_。
+
+Message:  1011
+<ce>我，___qgiver_的_qgiver_，
+<ce>特此回應你的挑戰。
+<ce>
+<ce>依正式決鬥規則賦予我的權利，
+<ce>將由我指定會面之地。
+<ce>地點就在此處，時間就是現在。
+<ce>
+<ce>此契約具有法律約束力。
+<ce>若無正式道歉而拒絕應戰，
+<ce>即是永遠捨棄榮譽。
+<ce>
+<ce>___qgiver_的_qgiver_
+
+Message:  1012
+<ce>你，呃，是_qgiver_？你一定是在找
+<ce>另一個叫_competitor_的人，
+<ce>一個真正難纏的，呃，_duelist_。
+<ce>你會在_arena_找到%g2。
+<ce>祝你好運，_qgiver_。我希望你贏！
+<--->
+<ce>若你是_qgiver_……
+<ce>%oth，我到_arena_跟你會面。
+<ce>讓我先，啊，換上我的_duelist_衣服。
+<ce>再見！
+
+Message:  1013
+<ce>你來到了_arena_，
+<ce>_competitor_說%g會在這兒見你。
+
+Message:  1014
+<ce>你假扮_qgiver_，
+<ce>殺死了一名假扮_competitor_的_duelist_。
+<ce>你只需回到雇主那兒，榮譽便恢復了。
+
+Message:  1015
+<ce>這太荒謬了！一方面，_competitor_
+<ce>向_qgiver_挑戰決鬥，十足的莽漢。
+<ce>另一方面，_qgiver_派你頂替%g3，
+<ce>又是十足的懦夫。謝謝你讓我知道這件事。
+<ce>他們誰也別想得到我，不過你可以拿
+<ce>_lovgold_金幣，既然那傻瓜答應要付給你。
+<--->
+<ce>這太浪漫了！想像一下——
+<ce>_competitor_和_qgiver_為了小小的我
+<ce>互相撕成碎片。%oth，這份心意雖體貼，
+<ce>我卻不能讓它發生。我將永遠離開___lover_，
+<ce>但首先，請收下_lovgold_金幣，
+<ce>代替_qgiver_答應給你的那些。
+<ce>不能因為決鬥取消就讓你變窮。
+<ce>願你平安，%pcf。
+<--->
+<ce>讓我把事情搞清楚。那白痴_competitor_
+<ce>嫉妒我和_qgiver_，向%g2挑戰決鬥。
+<ce>而那該死的懦夫_qgiver_派你假裝成%g2
+<ce>去決鬥？難怪我誰也不愛。這事我來處理。
+<ce>這是_lovgold_金幣，代替_qgiver_答應給你的。
+<ce>不會有決鬥了。
+
+Message:  1016
+%qdt:
+ 我把對挑戰的回覆交給_competitor_時，
+ %g2跑掉了。決鬥仍會以某種形式進行，
+ 地點在__arena_的_arena_。
+
+
+-- Symbols used in the QRC file:
+--
+--               %cn occurs 1 time.
+--                %g occurs 3 times.
+--               %g2 occurs 11 times.
+--               %g3 occurs 7 times.
+--              %oth occurs 5 times.
+--              %pcf occurs 5 times.
+--              %qdt occurs 2 times.
+--               %ra occurs 1 time.
+--              %reg occurs 1 time.
+--      =competitor_ occurs 3 times.
+--         =queston_ occurs 1 time.
+--    ___competitor_ occurs 1 time.
+--         ___lover_ occurs 1 time.
+--        ___qgiver_ occurs 4 times.
+--          __arena_ occurs 3 times.
+--     __competitor_ occurs 2 times.
+--         __qgiver_ occurs 2 times.
+--           _arena_ occurs 6 times.
+--      _competitor_ occurs 14 times.
+--         _duelist_ occurs 5 times.
+--            _gold_ occurs 3 times.
+--           _lover_ occurs 16 times.
+--         _lovgold_ occurs 3 times.
+--          _qgiver_ occurs 20 times.

@@ -1,5 +1,5 @@
-Title: Divad the Singer
-Author: Destri Melarg
+Title: 歌者迪瓦德
+Author: 德斯特里·梅拉格
 IsNaughty: False
 Price: 684
 IsUnique: False
@@ -8,36 +8,34 @@ Content:
 
 [/font=2]
 
-[/center]Divad
+[/center]歌者
 
-[/center]The
-
-[/center]Singer
+[/center]迪瓦德
 
 [/font=4]
 
 [/center]
 
- Divad The Singer is in one body, two unique and distinct people. Divad is the most well known of the Redguard heroes. Frandar Hunding's son, probably the most accomplished Ansei who ever lived. Yet early in his life, Divad appeared to thoroughly have rejected The Way of the Sword.
+ 歌者迪瓦德集於一身，卻是兩個獨特而分明的人。迪瓦德是最廣為人知的紅守衛英雄。弗蘭達爾·亨丁之子，大概是有史以來最有成就的安塞。然而早年，迪瓦德似乎徹底拒絕了劍之道。
 
- Divad was the only son of Frandar Hunding, and was born late in Hunding's life (2396 in the old way of reckoning, probably about 1E 760 by the Tamrielic calendar), when he was away most of the time fighting the last of his duels and engaging in the many battles and insurrections of the period. At eleven, Divad entered the Hall of the Virtues of War and began training, but at 16, he finally let his anger at growing up essentially fatherless get the better of him. Divad broke his swords and left the Hall to become an acrobat in a traveling circus.
+ 迪瓦德是弗蘭達爾·亨丁的獨子，生於亨丁晚年（舊算法2396年，以泰姆瑞爾曆大約是1E 760），那時亨丁多半不在家，忙著打完最後的決鬥，投入那個時期的諸多戰役與叛亂。十一歲時，迪瓦德進入武德殿開始訓練，但到了十六歲，他終於讓自己在本質上無父成長的憤怒占了上風。迪瓦德折斷劍，離開武德殿，成為巡迴馬戲團的雜技演員。
 
- The life in the circus was unsatisfying to Divad, and after two years, his innate artisan heritage drove him to become a musician and finally a Bard. For two more years he traveled, singing in the cities of the empire -- gaining no small amount of fame and recognition for his stirring and popular songs and music.
+ 馬戲團的生活令迪瓦德不滿，兩年後，他天生的工匠傳承驅使他成為樂師，終成吟遊詩人。他又旅行了兩年，在帝國的城市歌唱——他激動人心而廣受歡迎的歌曲與音樂，為他贏得不小的名聲與認可。
 
- Although Divad had publicly forsaken the Way of the sword, it would appear that he continued to practice the compulsory forms of training he was taught in the Hall. He carried no sword, but in the late evening, bright lights could be often be seen in his tent (my source says nothing more about this, but it may be assumed that the writer was suggesting that Divad was practicing the form of the Way known as Shehai Shen She Ru -- the Way of the Spirit Sword, or simply the Shehai).
+ 儘管迪瓦德公開放棄了劍之道，他似乎仍繼續練習武德殿教導的必修形式。他不佩劍，但深夜裡，他的帳篷裡常可見明亮的光（我的資料來源對此沒有更多說明，但不妨假定作者是在暗示迪瓦德在練習稱為「謝海·申·謝·魯」的道之形式——靈劍之道，或簡稱謝海）。
 
- Divad was very popular with the people of the empire, and his music and concerts were well attended. Still he could not escape his heritage of the sword. When the Last Emperor ascended to power and began to persecute the sword-singers, Divad was among the first to attract his attention.
+ 迪瓦德在帝國人民中極受歡迎，他的音樂與音樂會總是座無虛席。他仍無法逃脫劍的傳承。當末代皇帝登基並開始迫害劍歌者時，迪瓦德是最先引起他注意的人之一。
 
- Once the Emperor Hira and his consort decided to go to war with the Singers for control of the empire, he moved swiftly against those Singers who were visibly a part of empire society. Most he had killed, but Divad's music and fame were so wide spread that he sent a team of his personal guards to arrest him.
+ 一旦希拉皇帝與他的配偶決定為控制帝國而與劍歌者開戰，他便迅速對那些明顯屬於帝國社會的劍歌者下手。多數人他下令殺害，但迪瓦德的音樂與名聲如此廣布，他派出一隊親衛去逮捕他。
 
- The Emperor's men were either very lucky or very unlucky depending on how you choose to view it. Being no fool, Hira sent 100 of his best guards, for even an unarmed Singer was a very dangerous foe. The luck was that they were able to capture Divad and place him in chains, for they came at him as he sat dining with his elderly mother. The disaster was that as he surrendered, they rashly struck the pleading old woman. Too hard, it would seem, for she fell dead with that single blow.
+ 皇帝的人要麼非常幸運，要麼非常不幸，端看你怎麼看。希拉並非傻瓜，派出一百名精銳衛士，因為即使是手無寸鐵的劍歌者也是極危險的對手。幸運之處在於他們捕獲了迪瓦德並為他戴上鎖鏈，因為他們在他與年邁母親共進晚餐時襲來。災難之處在於，當他投降時，他們魯莽地毆打那懇求的老婦人。下手太重，似乎如此，因為她被那一擊打倒，死去。
 
- That single thoughtless deed, as is often the case in war, was the one pivotal factor causing their eventual defeat. That act ignited in Divad the spirit of the Way. Up until that careless stroke, Divad was an ordinary artisan, no, an artist, a great artist, but no warrior.
+ 那一件欠思量的事，正如戰爭中常見的那樣，成了導致他們最終敗北的關鍵因素。那行為在迪瓦德心中點燃了道之精神。直到那一記粗心的打擊之前，迪瓦德只是普通的工匠，不，是藝術家，偉大的藝術家，卻不是戰士。
 
- The moment of her death, Divad rose from his seat, took his chains between his two hands and began swinging the heavy chain in a deadly arc. He slew four of the guards, gaining enough space to run and dive through the window and into the river He disappeared into the night
+ 母親死去的那一刻，迪瓦德從座位上站起，雙手抓住鎖鏈，開始以致命的弧線揮動沉重的鏈子。他殺死四名衛士，贏得足夠空間奔向窗口，躍入河中。他消失在夜色裡。
 
- From that point, Divad was spotted many times and told of in many more rumors all across the empire -- far more places than a mere mortal man could have ever been. At every point where Hira's men gathered to do mischief, the resistance was attributed to Divad.
+ 從那以後，迪瓦德在帝國各處被多次目擊，更多傳聞講述他的行蹤——遠多於一個凡人可能同時出現的地方。凡希拉的人聚集作惡之處，抵抗都被歸於迪瓦德。
 
- As Hira moved against the Singers and began forming his army to invade High Desert, it was Divad who carried the news to the Singers. Divad was among those who climbed Hattu to find Hunding in his cave. What is not well known is that Hunding, at first refused to take leadership of the Singers. The first attempt to interrupt him at his death poem cause him to drive the elders from his cave, he even formed the Shehai in his anger. It was Divad who reentered the cave alone to speak with Hunding. To this day, no one knows what was said, what happened in that cave. Scribes of the time reported bright flashes of light and angry voices. Five long hours came and went, then both emerged from the cave, Divad, at Hunding's side. The rest, as they say, is history ...
+ 當希拉對劍歌者採取行動、開始組建大軍入侵高漠時，是迪瓦德把消息帶給劍歌者。迪瓦德也在那些攀上哈圖山、在洞穴中尋找亨丁的人當中。鮮為人知的是，亨丁起初拒絕擔任劍歌者的領袖。第一次試圖打斷他的死亡之詩，使他把長老們趕出洞穴，憤怒中甚至凝聚出謝海。是迪瓦德獨自再入洞穴與亨丁交談。時至今日，無人知道那洞穴裡說了什麼、發生了什麼。當時的書記報告明亮的閃光與憤怒的聲音。五個漫長的時辰來了又去，然後兩人從洞穴走出，迪瓦德在亨丁身側。其餘的，如他們所說，便是歷史……
 
- Divad, who had not completed training in the Hall of the Virtues of War, became an adviser to Hunding and spent his time reading the newly completed Book of Circles, but his role in the Hammer and Anvil strategy was as a simple sword-singer and fighter. It was not till the Singers fled their native empire and landed In New Land that his story truly begins.
+ 尚未在武德殿完成訓練的迪瓦德，成為亨丁的顧問，把時間花在閱讀新近完成的《圓環之書》上，但他在錘砧之計中的角色只是一名普通的劍歌者與戰士。直到劍歌者逃離故國帝國、登陸新地，他的故事才真正開始。

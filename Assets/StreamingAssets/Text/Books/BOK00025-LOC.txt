@@ -1,5 +1,5 @@
-Title: Legal Basics
-Author: Anchivius, M.Z.F.
+Title: 法律基礎
+Author: 安奇維烏斯，M.Z.F.
 IsNaughty: False
 Price: 636
 IsUnique: False
@@ -7,31 +7,31 @@ WhenVarSet:
 Content:
 
 [/font=2]
-[/center]Legal Basics
+[/center]法律基礎
 
 [/font=4]
- Ignorance of the law is no defense. Be forewarned that the following are but the most universal of Tamrielan laws and regulations. Your own local province or principality may have unique laws of its own. As a citizen of Empire, it is your right and responsibility to know and follow these laws of the land.
+ 不知法不能作為抗辯。預先警告：以下僅是泰姆瑞爾最普遍的法律與規章。你所在的行省或公國可能另有獨特的法律。作為帝國公民，知曉並遵守這些土地之法，是你的權利與責任。
 
- Breaking and Entering: This refers to any act including, but not limited to opening, breaking, incinerating, magically transporting, or in any way causing a door, window, or other portal that has been magically or mundanely locked or which a reasonable person would assume to be so restricted to be passable, and the act (though the act is not required for the definition) of entering the house, business, or public location through said defined portal. The punishment for this crime may include a fine or incarceration, or a fine and incarceration. The fine and incarceration, or both, or neither, may be less in a crime of Attempted Breaking and Entering. A crime of Attempted Breaking and Entering is defined as an any act that a reasonable person would perceive as the preparation for, an attempt (whether successful or not, or perceived to be possibly successful or not) to bring about the opening, breaking, incinerating, magically transporting, or in any way causing a door, window, or other portal that has been magically or mundanely locked or which a reasonable person would assume to be so restricted to be passable, and the act (though the act is not required for the definition) of preparing or attempting (whether successful or not, perceived to be possibly successful or not) entering the house, business, or public location through said defined portal.
+ 破門而入：此指任何行為，包括但不限於打開、打破、焚燒、以魔法傳送，或以任何方式使一扇已被魔法或凡俗手段上鎖、或理性之人會假定如此受限的門、窗或其他入口變得可通行，以及（雖然該行為並非定義所必需）經由上述所定義入口進入房屋、商號或公共場所的行為。此罪之罰可包括罰金或監禁，或罰金與監禁。罰金與監禁，或二者，或二者皆無，在未遂破門而入之罪中可較輕。未遂破門而入之罪定義為：任何理性之人會視為準備、企圖（無論成功與否，或被視為可能成功與否）造成打開、打破、焚燒、以魔法傳送，或以任何方式使一扇已被魔法或凡俗手段上鎖、或理性之人會假定如此受限的門、窗或其他入口變得可通行的行為，以及（雖然該行為並非定義所必需）準備或企圖（無論成功與否，被視為可能成功與否）經由上述所定義入口進入房屋、商號或公共場所的行為。
 
- Trespassing: This refers to walking, flying, riding, teleporting, floating, or in any way moving or existing on a property without the explicit written or spoken permission (or permission a reasonable person might infer) of the owner or caretaker of the property. The punishment for this crime may include a fine or incarceration, or a fine and incarceration.
+ 侵入：此指在未經產業所有人或管理人明確書面或口頭許可（或理性之人可能推斷之許可）的情況下，步行、飛行、騎乘、傳送、漂浮，或以任何方式在該產業上移動或存在。此罪之罰可包括罰金或監禁，或罰金與監禁。
 
- Assault Any threat or attempt (whether successful or not) to do physical, emotional, mental, or magical harm or injury to another person, group of persons, or entity a reasonable person might assume to be sentient. The punishment for this crime may include a fine or incarceration, or a fine and incarceration.
+ 傷害 任何對另一人、一群人，或理性之人可能假定為有知覺之實體，作出身體、情感、心智或魔法傷害或損傷的威脅或企圖（無論成功與否）。此罪之罰可包括罰金或監禁，或罰金與監禁。
 
- Murder Any act of premeditated or malicious or premeditated and malicious (or an act that a reasonable person would call premeditated and malicious or premeditated or malicious) or accidental but criminally intended (or what a reasonable person would call criminally intended) purpose that results directly in the death (or destruction with implied death) of a person, group of persons, or entity a reasonable person might assume to be sentient. The punishment for this crime may include a fine or incarceration, or a fine and incarceration.
+ 謀殺 任何預謀或惡意或預謀且惡意（或理性之人會稱為預謀且惡意或預謀或惡意）或意外但具犯罪意圖（或理性之人會稱為具犯罪意圖）之目的所造成的行為，直接導致一人、一群人，或理性之人可能假定為有知覺之實體死亡（或帶有隱含死亡的毀滅）。此罪之罰可包括罰金或監禁，或罰金與監禁。
 
- Criminal Conspiracy Any meeting, communication, or encounter with the purpose (or which a reasonable person might assume had the purpose) of preparing or arranging a crime of any kind (or crimes of any kind) to be commited or caused to be commited. The punishment for this crime may include a fine or incarceration, or a fine and incarceration.
+ 犯罪共謀 任何以準備或安排犯下或致使犯下任何種類之罪（或任何種類之諸罪）為目的（或理性之人可能假定具有該目的）的會面、通訊或遭遇。此罪之罰可包括罰金或監禁，或罰金與監禁。
 
- Vagrancy Any act of idleness, disorder, begging, or conduct unbecoming a person with occupation, gold, or a home, (or occupation, gold, and a home, or occupation or gold and home, or occupation and gold or home, or occupation and home or gold), or what a reasonable person would consider idle, disorderly, beggarly, or unbecoming. The punishment for this crime may include a fine or incarceration, or a fine and incarceration.
+ 遊蕩 任何怠惰、擾亂、乞討，或不配有職業、金幣或住所之人（或職業、金幣與住所，或職業或金幣與住所，或職業與金幣或住所，或職業與住所或金幣）的行為，或理性之人會視為怠惰、擾亂、乞討或不配的行為。此罪之罰可包括罰金或監禁，或罰金與監禁。
 
- Smuggling Any act of bringing in, taking out, teleporting, or causing to be brought in, taken out, or teleported an object considered illegal or, if not illegal, requiring an import or export tax which is not paid. The punishment for this crime may include a fine or incarceration, or a fine and incarceration, and will include confiscation of the offensive or illegal object. It may also include, but not be restricted to, execution or banishment, or execution and banishment.
+ 走私 任何把被視為非法、或雖非非法但需繳進出口稅而未繳之物件帶入、帶出、傳送，或致使被帶入、帶出或傳送的行為。此罪之罰可包括罰金或監禁，或罰金與監禁，並將包括沒收該冒犯或非法物件。亦可能包括但不限於處決或放逐，或處決與放逐。
 
- High Treason Any act against (whether directly or indirectly, or any nonaction which results in circumstances, directly or indirectly, against) a allegiated sovereign or by a vassal to a liege, resulting (or what a reasonable person would assume would result) in physical, emotional, mental, or magical harm or injury in said sovereign or liege. The punishment for this crime will be death.
+ 大逆 封臣對所效忠之君主或領主所作出的任何反對行為（無論直接或間接，或任何導致直接或間接反對之情勢的不作為），造成（或理性之人會假定會造成）該君主或領主身體、情感、心智或魔法傷害或損傷。此罪之罰將是死刑。
 
- Pickpocketing Any act of stealing, taking, or, without explicit written or verbal permission (or what a reasonable person would infer as implied permission) an item or items a person, group of persons, or entity a reasonable person might assume to be sentient has on his, her, its, or their own person. The punishment for this crime may include a fine or incarceration, or a fine and incarceration.
+ 扒竊 任何在未經明確書面或口頭許可（或理性之人會推斷為默示許可）的情況下，竊取、拿走一人、一群人，或理性之人可能假定為有知覺之實體身上所攜物品的行為。此罪之罰可包括罰金或監禁，或罰金與監禁。
 
- Theft (sometimes called Larceny) Any act of stealing, taking, or, without explicit written or verbal permission (or what a reasonable person would infer as implied permission) an item or items from a person, group of persons, or entity a reasonable person might assume to be sentient's place of residence, business, person, or other location a reasonable person would assume is secured from looting. The punishment for this crime may include a fine or incarceration, or a fine and incarceration.
+ 盜竊（有時稱為竊盜） 任何在未經明確書面或口頭許可（或理性之人會推斷為默示許可）的情況下，從一人、一群人，或理性之人可能假定為有知覺之實體的住所、商號、身上，或其他理性之人會假定已防備劫掠的地點，竊取、拿走物品的行為。此罪之罰可包括罰金或監禁，或罰金與監禁。
 
- These are the usual, day-to-day definitions used by legal experts (like myself), but both the definitions and punishments may fluctuate wildly according to location and situation. In the Imperial City, legal counsel is available by persons like myself, but the provinces have no such system in place. Perhaps that will change in time. We can all hope so.
+ 這些是法律專家（如我）通常日常使用的定義，但定義與懲罰都可能依地點與情勢劇烈波動。在帝國城，可獲得像我這樣的人提供的法律諮詢，但各行省尚無此種制度。或許假以時日會改變。我們都可以如此希望。
 
- As a final note: the Tamriel legal system has its basis in the civilized, reasonable credo uttered by the prophet Marukh in the first era: "All are guilty until they have proven themselves innocent." Were truer word ever spoke?
+ 最後一註：泰姆瑞爾法律體系的根基，是先知馬魯克在第一紀元所說那句文明而理性的信條：「所有人有罪，直到他們證明自己無罪。」更真的話可曾說過？

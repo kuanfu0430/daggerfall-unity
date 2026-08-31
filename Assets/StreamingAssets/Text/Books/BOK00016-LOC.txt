@@ -1,5 +1,5 @@
-Title: Ark'ay The God
-Author: Mymophonus the Scribe
+Title: 神祇阿凱
+Author: 抄寫員邁莫弗努斯
 IsNaughty: False
 Price: 562
 IsUnique: False
@@ -8,34 +8,34 @@ Content:
 
 [/font=2]
 
-[/center]Arkay The God
+[/center]神祇阿凱
 
 [/font=4]
 
- So be it known that the gods were once as we.
+ 當知：諸神一度與我們無異。
 
- Ark'ay, the god of death and birth, was an ordinary shopkeeper whose only unusual characteristic was a passion for knowledge. To indulge his hobby he became an avid collector of books on almost any subject he could find in print.
+ 阿凱，死亡與誕生之神，曾是一名尋常店主，唯一不尋常之處是對知識的熱愛。為了滿足這個嗜好，他熱衷收集幾乎任何他能找到的印刷書籍。
 
- One day he stumbled across a tome which purported to tell the secrets of life, death, and the purpose of existence. After months of studying the convoluted logic, written in opaque language, he thought that he was finally beginning to understand what the author was saying.
+ 有一天，他偶然得到一本據稱講述生命、死亡與存在目的之奧秘的典籍。經過數月鑽研那曲折的邏輯與晦澀的文字，他以為自己終於開始明白作者在說什麼。
 
- During this time he became so intent on understanding the book that he ignored everything else: his business started to slide towards bankruptcy, his few friends stopped visiting him, he ignored the plague which was ravaging the town, and his family were ready to leave him.
+ 這段時間裡，他如此專注於理解那本書，以致忽略了其餘一切：生意開始滑向破產，僅有的幾個朋友不再來訪，他無視正在肆虐城鎮的瘟疫，家人也準備離他而去。
 
- Just as he felt that the book was opening visions of new worlds, the plague brought him low. His family tended his illness out of a sense of duty, but he slowly sank towards death. So, as a last resort, he prayed to Mara the mother-goddess to allow him enough time to complete his studies of the book.
+ 正當他感到那本書正為他開啟新世界的幻象時，瘟疫把他擊倒。家人出於責任照料他的病體，他卻慢慢沉向死亡。於是，作為最後一著，他向母親女神瑪拉祈禱，求她給他足夠的時間，好完成對那本書的研讀。
 
- "Why should I make an exception for you, Ark`ay?" asked Mara.
+ 「我為何該為你破例，阿凱？」瑪拉問。
 
- "Mother Mara, I am finally beginning to understand this book and the meaning of life and death" he answered, "and with a little more time to study and think, I should be able to teach others".
+ 「瑪拉母親，我終於開始理解這本書，以及生與死的意義，」他回答，「再多一點時間研讀與思考，我就該能教導他人。」
 
- "Hmmm, it sounds to me like that `teaching others' is an afterthought to appeal to me", she replied. "What is the reason for death and birth?"
+ 「嗯，聽起來那『教導他人』像是事後才想到、用來打動我的，」她答道。「死亡與誕生的緣由是什麼？」
 
- "There are far more souls in the Universe than there is room for in the physical world. But it is in the physical world that a soul has an opportunity to learn and progress. Without birth, souls would not be able to acquire that experience, and without death there would be no room for birth."
+ 「宇宙中的靈魂遠多於物質世界所能容納。但靈魂唯有在物質世界才有機會學習與進步。沒有誕生，靈魂便無法獲得那種經驗；沒有死亡，便沒有誕生的餘地。」
 
- "Not a very good explanation, but it does have elements of truth. Maybe with more study you could improve it," she mused. "I cannot give you `a little more time.' I can only condemn you to Eternal labor in the field you have chosen. How say you to that?"
+ 「解釋不算很好，卻含有若干真理。或許再多研讀，你能改進它，」她沉吟道。「我不能給你『多一點時間』。我只能把你判處在你所選擇的領域裡永恆勞作。你對此怎麼說？」
 
- "I do not understand, mother," said Ark'ay.
+ 「我不明白，母親，」阿凱說。
 
- "Your choice is to either accept the death that is so close or to become a god with us. But a god is not an easy nor pleasant thing to be. As the god of death and birth you will spend eternity making sure that deaths and births stay in proper balance in the physical world. And, in spite of what you believe you understand, you will always agonize over whether your decisions are truly correct. How do you decide?"
+ 「你的選擇是：接受已近在咫尺的死亡，或與我們一道成為神。但為神既不容易，也不愉快。作為死亡與誕生之神，你將永遠確保物質世界中的死亡與誕生維持恰當的平衡。而且，不論你自以為理解了什麼，你將永遠苦惱：自己的決斷是否真正正確。你如何決定？」
 
- Ark'ay spent what seemed to him as an eternity in thought before answering. "Mother, if my studies are not completely wrong, my only choice is to accept the burden and try to transmit the reasons for death and birth to humanity."
+ 阿凱在思考中度過了對他而言彷彿永恆的時光，然後回答。「母親，若我的研讀並非完全錯誤，我唯一的選擇便是接受這副重擔，並試著把死亡與誕生的緣由傳達給人類。」
 
- "So be it, Arkay, God of Birth and Death."
+ 「那就如此吧，阿凱，誕生與死亡之神。」

@@ -1,0 +1,13 @@
+---- Example quest to demonstrate dialog linked resources
+---- one resource is revealed when mentioned in message of
+---- other resource given as answer by npc (via tell me about)
+
+Quest: __DEMO15
+
+QRC:
+
+Message:  1011
+_someperson_ 曾經擁有 _someitem_。
+
+Message:  1012
+據說 _someitem_ 具有魔力。

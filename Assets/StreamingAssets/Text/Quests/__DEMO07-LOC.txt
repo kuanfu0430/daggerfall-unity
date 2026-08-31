@@ -1,0 +1,23 @@
+---- Example quest used to test Person resource
+---- Send player on a hunt to click both the King and Queen of Daggerfall
+
+Quest: __DEMO07
+
+
+QRC:
+
+QuestLogEntry:  [1010]
+%qdt
+    你要在 __dirtypit_ 的酒館
+ _dirtypit_ 與 _king_ 會面，
+ 並前往匕首雨城堡拜訪 _queen_。
+
+Message: 1030
+嘿 %pcn，你剛點到了 _king_！
+
+Message: 1035
+嘿 %pcn，你剛點到了 _queen_！
+
+Message: 1040
+幹得好，%pcn。你已點到
+匕首雨的國王與王后。

@@ -1,0 +1,88 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y17.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 17
+Messages: 51
+Quest: A0C00Y17
+DisplayName: 護送
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我是 _questgiver_。我需要護衛。你願意在我前往 __destination_ 的旅途中保護我嗎？
+<ce> 離這兒不到 =traveltime_ 天。
+                                     <--->
+<ce> 我叫 _questgiver_。我得立刻離開 ___questgiver_。
+<ce> 我想雇你在前往 __destination_ 的路上守護我。我可以付你 _gold_ 金幣。
+                                     <--->
+<ce> 你得幫我！我叫 _questgiver_。我必須在 =traveltime_ 天內抵達 __destination_，而且需要護衛。
+
+RefuseQuest:  [1001]
+<ce> 看來我得另找人在旅途中保護我。
+                                     <--->
+<ce> 沒心沒肺的笨蛋！
+
+AcceptQuest:  [1002]
+<ce> 祝福你，%pcn。我輕裝上路，隨時可以走。
+<ce> 我知道你不是白做的。把我送到 __destination_ 的 _destination_，
+<ce> 抵達時我會付你 _gold_ 金幣。
+
+QuestComplete:  [1004]
+<ce> 啊！_destination_！你已履行協議中屬於你的那一端。這是我答應你的金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> 聽說衛兵在找 _questgiver_。%G 不得不逃出鎮子。
+                                     <--->
+<ce> 你不知道嗎？盜賊公會在追 _questgiver_。還是黑暗兄弟會？我忘了。
+                                     <--->
+<ce> 聽說 _questgiver_ 被迫結婚。%G 得在懷孕顯形前趕到 __destination_。
+
+RumorsPostfailure:  [1006]
+<ce> 他們抓住了 _questgiver_。%G 下週將受審。
+
+RumorsPostsuccess:  [1007]
+<ce> 聽說了嗎？某個 %ra 及時把 _questgiver_ 偷運出鎮。否則他們肯定會砍 %g2 的頭。
+
+QuestorPostsuccess:  [1008]
+<ce> 謝謝你帶我離開那個鎮子，%pcf。我已向好幾位朋友推薦你。
+
+QuestorPostfailure:  [1009]
+<ce> 是你！因為你不肯幫我出鎮，盜賊公會把我的店拿走了！走開。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我在 ___questgiver_ 遇見 _questgiver_。
+ %G 會付錢讓我護送 %g2 到 __destination_ 的 _destination_。
+ 尤其是，%g 必須在 =traveltime_ 天內抵達 _destination_。
+
+Message:  1019
+<ce> _questgiver_ 說：「哈！我雇這個 %ra 來保護我免受這種事。
+<ce> %pcn，你要把我交出去嗎？」
+
+Message:  1020
+<ce> 站住！我以 %reg 之名持有逮捕 _questgiver_ 的令狀。
+<ce> 我們不要你，只要 %g2。把 %g2 交出來，你就可以走。
+
+Message:  1021
+<ce> 我們沒必要動手。我們的仇在 _questgiver_。
+<ce> 法師公會不會輕易容忍背叛。把 %g2 交給我們，你就可以上路。
+
+Message:  1022
+<ce> 讓開，%ra。我們要 _questgiver_，你擋不住我們。把 %g2 交出來。
+<ce> 嘿，_questgiver_。你以為騙了盜賊公會還能活，是嗎？
+
+Message:  1023
+<ce> 讓開，%ra。黑暗兄弟會要 _questgiver_。
+<ce> 你不會蠢到想保護 %g2 吧？
+
+Message:  1030
+<ce> _questgiver_ 就在你眼前被殺了。
+
+Message:  1040
+<ce> 隨你便。兩個都殺了！
+
+Message:  1050
+<ce> 你迷路了嗎，%pcn？看來我得自己找路去 __destination_。
+<ce> 什麼忙也沒幫上，沒用的傢伙。

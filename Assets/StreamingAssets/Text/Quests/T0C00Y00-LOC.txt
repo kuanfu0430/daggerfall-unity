@@ -1,0 +1,119 @@
+-- Quest: C:\QUESTS\WORKING\T0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Lady Azura
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: T0C00Y00
+DisplayName: 阿祖拉女士的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              你竟敢召喚緋紅之門的阿祖拉，懇求力量？
+<ce>               我不知道你是否配得上這樣的恩寵。事實上，
+<ce>                我非常懷疑。我想，就算我要求你謀殺一名
+<ce>                對我說了非常、非常無禮的話的祭司，你連
+<ce>               這點小小的、簡單的請求都會拒絕。你會為我
+<ce>                 做這件事嗎？
+
+RefuseQuest:  [1001]
+<ce>                不！你應該說好！你應該說：好的，美麗的
+<ce>                 阿祖拉，只要你象牙般的手指一彈，我樂意
+<ce>                  殺人。
+<ce>                                 粗魯的人！
+<ce>                                 偏執的人！
+<ce>                               野蠻人！
+<ce>                        現在我得走了，免得我忘了
+<ce>                    自己是位淑女，說出會後悔的話……
+
+AcceptQuest:  [1002]
+<ce>                 你願意！喔，太好了。嗯，這個糟糕透頂
+<ce>                的祭司也是治療師，若那有什麼意義。這不
+<ce>                就是典型嗎？一如既往，這些自以為是的人，
+<ce>                      =monster_隱居在___mondung_，
+<ce>                       做什麼淨化之類的荒謬事情。
+<ce>                總之，你何不趕過去，用劍捅%g2或什麼的。
+<ce>                 然後趕去___qgfriend_見我親愛的_qgfriend_，
+<ce>                      %g會把我的星給你。那對任何人
+<ce>                   都夠力量了。我想=1stparton_天夠了，
+<ce>                你說呢？喔，好。那就快去吧，%pcf。別當
+<ce>                     陌生人。替我跟_qgfriend_問好。
+<ce>                     好了，再見。
+
+QuestFail:  [1003]
+<ce>                              嗯？什麼？
+<ce>                             我認識你嗎？
+
+QuestComplete:  [1004]
+<ce>                          喔。喔，%pcn！你在這裡
+<ce>                  很久了嗎？抱歉，我剛在做白日夢，想著
+<ce>                  我的女主人阿祖拉女士。那根蠟燭讓我想起
+<ce>                  她眼眸的閃爍，你看。我真傻。好了，這是
+<ce>                  _artifact_。她不是隨便給人的，但別讓它
+<ce>                  沖昏你的頭。她先是我的。
+
+RumorsDuringQuest:  [1005]
+你聽過=monster_進城時關於虛榮之罪的演說嗎？
+<--->
+若你跟=monster_談話，就會明白自負是最糟的罪。
+
+RumorsPostfailure:  [1006]
+=monster_已經走了，但%g3關於謙遜美德的訊息仍在。
+<--->
+=monster_已離開%reg，聽說仍在傳播%g3關於虛榮的訊息。
+
+RumorsPostsuccess:  [1007]
+=monster_的事不算真正的悲劇——我是說，%g真是個假正經。
+<--->
+<ce>我並不為=monster_的死高興，但%g3的訊息……嗯，相當極端，
+ 你不覺得嗎？
+
+Message:  1011
+_qgfriend_就是我看見在%di方向__qgfriend_做白日夢的那個=qgfriend_。
+<--->
+_qgfriend_就是__qgfriend_那個睡眼惺忪的=qgfriend_，在此地%di。
+
+Message:  1012
+_qgfriend_是阿祖拉女士的情人之一，也是她在%reg的密探。
+<--->
+_qgfriend_是個被阿祖拉女士蠱惑成近乎奴隸的=qgfriend_。
+
+Message:  1013
+阿祖拉是湮滅的迪德拉攝政之一。她的領域是虛榮。
+<--->
+阿祖拉女士是虛榮與自負的迪德拉親王。
+
+Message:  1014
+_artifact_能把活物永遠變成雕像。
+
+Message:  1020
+%qdt:
+ 我與迪德拉親王之一阿祖拉有個約定。若我殺死住在廢棄神殿
+ ___mondung_的一名修士，並在=1stparton_天內與她的聯絡人、
+ ___qgfriend_的_qgfriend_會面，就會得到_artifact_。
+
+Message:  1030
+<ce>                     你已如對阿祖拉承諾的那樣，殺死了
+<ce>                   _monster_ =monster_。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 2 times.
+--                %g occurs 2 times.
+--               %g2 occurs 1 time.
+--               %g3 occurs 4 times.
+--              %pcf occurs 1 time.
+--              %pcn occurs 1 time.
+--              %qdt occurs 1 time.
+--              %reg occurs 2 times.
+--       =1stparton_ occurs 2 times.
+--         =monster_ occurs 8 times.
+--        =qgfriend_ occurs 3 times.
+--       ___mondung_ occurs 2 times.
+--      ___qgfriend_ occurs 4 times.
+--        _artifact_ occurs 3 times.
+--         _monster_ occurs 1 time.
+--        _qgfriend_ occurs 7 times.

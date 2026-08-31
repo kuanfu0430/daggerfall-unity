@@ -1,0 +1,123 @@
+-- Quest: C:\QUESTS\WORKING\N0B00Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 6
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: N0B00Y06
+DisplayName: 木乃伊繃帶
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     %oth，還有什麼比發現
+<ce>             你打算拿來配藥的木乃伊繃帶
+<ce>               居然全都發綠了更讓人火大？
+<ce>              我大可用公會的繃帶，但配方
+<ce>              偏偏寫著「極為新鮮的
+<ce>             木乃伊繃帶」，管它是什麼意思。
+<ce>              你願不願意幫我去弄些布料來？
+<ce>               我認識一具木乃伊，身上的繃帶
+<ce>                     多到它自己都用不完。
+                                     <--->
+<ce>                  配方這玩意兒真是瘋了，%pct。
+<ce>               我正在調一份藥方，裡面要
+<ce>                  「相當分量的 =mummy_」。什麼是
+<ce>                   =mummy_？香草？礦物？唉，
+<ce>              我查過了，原來 =mummy_
+<ce>             就是木乃伊。真沒想到。而且這具
+<ce>                  木乃伊就在 %reg。能不能
+<ce>              請你去它的陵墓裡抓一塊
+<ce>            =mummy_ 回來？酬勞大概是 _gold_ 金幣？
+
+RefuseQuest:  [1001]
+<ce>                           喔，%oth。我知道
+<ce>                     這可不是順路去雜貨店
+<ce>                     那麼簡單，但我還是希望
+<ce>                      你能多一點興致
+<ce>                          和冒險精神之類的。
+
+AcceptQuest:  [1002]
+<ce>                      太好了，%pct。這對你來說
+<ce>                     值 _gold_ 金幣。那具
+<ce>                    木乃伊的陵墓其實不遠，
+<ce>                   所以你應該用不了超過
+<ce>                 =queston_ 天就能到那兒、
+<ce>                   下手、再趕回來。記住，
+<ce>                   一定要新鮮——最好是
+<ce>                   直接從它身上撕下來的。
+<ce>                   那地方的名字好像叫
+<ce>                           ___mondung_。
+<ce>                    那兒肯定很噁心。
+<ce>                    你最好帶把劍
+<ce>                     或什麼武器。祝你好運，
+<ce>                            年輕的 %ra。
+
+QuestComplete:  [1004]
+<ce>                     這塊繃帶可真漂亮。
+<ce>                      太感謝了。我們說好是
+<ce>                    _gold_ 金幣，對吧？
+
+RumorsDuringQuest:  [1005]
+___mondung_ 的 =mummy_ 據說是 %reg 古代某位 %t 僅存的遺骸。
+<--->
+=mummy_ 據說是古代 %reg 的一位 %t，邪惡到死不了。
+
+RumorsPostfailure:  [1006]
+前幾天我長了個膿瘡……不過已經好了。
+<--->
+我剛跟人聊了三個鐘頭的天氣。
+<--->
+這時節的天氣還算平常。
+<--->
+以這個時節來說，%cn好像有點涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我祖姑要去灣對岸看專科醫生。
+<--->
+這附近天黑的時間總是讓人覺得奇妙。
+<--->
+我們這兒該立一座戰爭雕像。
+<--->
+現在的年輕人搞那些魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一則超棒的笑話。%jok
+<--->
+%jok 說真的，這是笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg的法律制度有優點也有缺點。
+
+RumorsPostsuccess:  [1007]
+=mummy_ 在 %reg 的統治始於第一紀元之前，卻終結在你手上。
+<--->
+多虧 =mummy_ 的「貢獻」，_qgiver_ 總算能把 %g3 藥劑調完了。
+
+QuestorPostsuccess:  [1008]
+你好嗎，%pcf？希望你沒染上什麼木乃伊腐症之類的。
+
+QuestorPostfailure:  [1009]
+<ce>                     我需要那塊繃帶，%pcf。
+<ce>                  缺東少西卻拿不到，
+<ce>                            真是煩人。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 法師公會的
+ _qgiver_ 派我去
+ ___mondung_，從一具名叫
+ =mummy_ 的木乃伊身上
+ 取下一些繃帶。我有
+ =queston_ 天完成這項任務。
+
+Message:  1011
+<ce>                        你找到了 _qgiver_
+<ce>                             要你從
+<ce>                         =mummy_ 身上
+<ce>                                取來的繃帶。

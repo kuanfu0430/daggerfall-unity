@@ -1,5 +1,5 @@
-Title: Fools' Ebony, Part the Fourth
-Author: Frincheps
+Title: 愚人烏木，其四
+Author: 弗林切普斯
 IsNaughty: True
 Price: 317
 IsUnique: False
@@ -8,124 +8,124 @@ Content:
 
 [/font=2]
 
-[/center]Fools' Ebony
+[/center]愚人烏木
 
-[/center]Part The
+[/center]其
 
-[/center]Fourth
+[/center]四
 
 [/font=4]
 
 [/center]
 
- Dramatis Personae
+  登場人物
 
- Prologue; The Adventurer, A Dark Elf Rascal; Komon, A Priest of Akatosh; Lheban, Another Priest of Akatosh; Epilogue; Stete, A Priest of Julianos; Raic, Another Priest of Julianos; Shub, A Mage; Shub, A Different Mage of the Same Name; Nephron, A Somewhat Sleazy Merchant; 5 Armorers; Ortho; Crunn, Husband of Millie; A Lusty Contessa; Millie, Innkeep and Philosopher; Gurnsey, Bovine Wench; Assorted Wenches and Cads of the Taverns; Soldiers; Dwarves; Giants.
+  開場白；冒險者，一名黑暗精靈無賴；科蒙，阿卡托什的祭司；勒班，另一名阿卡托什的祭司；收場白；斯特特，朱利安諾斯的祭司；雷克，另一名朱利安諾斯的祭司；舒布，一名法師；舒布，另一名同名的法師；奈夫隆，一名有點下流的商人；五名鑄甲師；奧索；克朗，明妮之夫；一位好色的女伯爵；明妮，旅店老闆兼哲學家；格恩西，牛一般的女侍；酒館裡各色女侍與無賴；士兵；矮人；巨人。
 
- Part The Fourth - Mercantile Dealings, The Armorers Involve Themselves. After some general discussion and verbal dancing around, finally the topic of Fools' Ebony is explored ... Somewhere near the market, in the back of a store called "Nephron's General Mercantile". The day after.
+  其四——商事往來，鑄甲師插手。經過一番泛泛討論與言語周旋，終於談到愚人烏木……市集附近，一家叫「奈夫隆雜貨商行」的店後頭。次日。
 
- (Enter Prologue, the Adventurer, and Nephron)
+  （開場白、冒險者與奈夫隆上）
 
- Prologue: Whilst the actors playing the Adventurer and the merchant Nephron dramatically move their mouths to pantomime a conversation, it is on poor Prologue's shoulders to update the audience on the play's actions in its first three acts. The Adventurer, a rogue of a Dark Elf, has been hired two different groups -- four inebriated priests and two greedy mages -- to delay the other group, and find the lost cache of Fools' Ebony in the Wrothgarian Mountains. Now, picture this clownishly decorated set as the back room at a prosperous merchant's shop. And before the Adventurer and Nephron develop lockjaw, Prologue will leave you thus.
+  開場白：當扮演冒險者與商人奈夫隆的演員誇張地動嘴做無聲交談時，可憐的開場白肩負向觀眾交代前三場劇情之責。冒險者，一名黑暗精靈無賴，已被兩批不同的人僱用——四名醉祭司與兩名貪法師——去拖住對方，並在沃斯加里安山脈找出失落的愚人烏木礦藏。現在，請把這俗麗可笑的佈景想像成一家興旺商鋪的後房。趁冒險者與奈夫隆還沒下巴脫臼，開場白就此告退。
 
- Adventurer: So you see, friend Nephron, just what an opportunity we have here. We have this new commodity, for which you agree there will be a huge demand.
+  冒險者：所以你看，奈夫隆朋友，我們這兒有怎樣的機會。我們有這種新商品，你也同意需求會極大。
 
- Nephron: Especially from the Royals -- once one of them has something new, they all want it, of course.
+  奈夫隆：尤其來自王室——一旦他們有一個有了新東西，當然就全都要。
 
- Adventurer: And do not forget the Armorers for their forges, and the Alchemists for their retorts and whatnots...
+  冒險者：別忘了鑄甲師要給熔爐，煉金術士要給蒸餾器之類……
 
- Nephron: You seem to have the Mages lined up nicely, got their location, memorized the access map, and so on - you know, we merchants have had a suspicion for quite some time that those old twits had some deep dark secret of interest to us... Now, the priests - the School of Julianos we already work well with, hand and glove, you might say. But of course we shall cut them out of the major profits -- maybe let them distribute some to their flocks? And their Temples make good, how can I say? -- storehouses? But the Akatosh Chantry is a problem, always running off and doing things on their own initiative, no cooperation, just crazy people ... we really need to do something about them, to ... er ... ensure their cooperation ...
+  奈夫隆：你似乎把法師收拾得不錯，弄到了他們的地點，記住了通路地圖，諸如此類——你知道，我們商人早就懷疑那些老笨蛋藏著什麼對我們有用的深暗秘密……現在，祭司——朱利安諾斯學院我們一向合作良好，可以說如手如手套。不過當然我們會把他們從大頭利潤裡切出去——也許讓他們給羊群分一點？他們的神殿也是不錯的，我該怎麼說？——倉庫？可阿卡托什聖堂是個問題，老是自作主張跑去幹事，毫不合作，一幫瘋子……我們真得對他們做點什麼，好……呃……確保他們合作……
 
- Adventurer: I have a suggestion that might help ... you recall how old Komon left and apparently dragged off some little blonde lamppost girl ... just suppose, that just by chance, in his state of ... befuddlement ... he dragged off someone important by mistake..? Might be a lot of trouble for the Chantry, if word got out?
+  冒險者：我有個建議也許有用……你記得老科蒙怎麼走了，顯然拖走了某個金髮小燈柱女孩……就假設，純屬偶然，他在那種……迷糊狀態……錯拖了某個重要人物……？若傳出去，聖堂豈不是大麻煩？
 
- Nephron: Hmmm. Indeed ... there's this silly little blonde Royal who's all excited by the 'real life' down in these parts of town. Disguises herself (or so she thinks), comes on down here and plays at being poor. Stupid little twit ... Komon is still in hiding with his blonde, right?
+  奈夫隆：嗯。確實……有個愚蠢的金髮小王室，對這一帶的「真實生活」興奮得不得了。喬裝自己（她自以為如此），跑下來扮窮人。愚蠢的小傻瓜……科蒙還跟他的金髮藏著，對吧？
 
- Adventurer: Yes, in that 'retreat' the Priests have, down near the waterfront.
+  冒險者：對，在祭司那處「靜修所」，靠碼頭那邊。
 
- Nephron: Oh yes, I know that place - often sell them some 'spiritual powders' and so on ... Good ... you see, just imagine what would happen if Komon, by mistake, had grabbed this slumming little Contessa ... Akatosh Chantry would have no end of trouble from the palace if something nasty happened to her ... and then we could move in, offer to 'help' the Chantry during their hard times ... Hmmm. Yes! Leave it to me, I shall contact a few of my ... er ... business associates, as it were ... make some arrangements.
+  奈夫隆：噢對，我知道那地方——常賣他們一些「靈性藥粉」之類……好……你看，想像若科蒙錯手抓了這個下來貧民窟玩的小女伯爵……若她出了什麼糟事，阿卡托什聖堂會沒完沒了地被王宮找麻煩……然後我們就能插手，在他們的艱難時期提出「幫忙」聖堂……嗯。對！交給我，我會聯絡幾個我的……呃……可以說是商業夥伴……做些安排。
 
- Adventurer: And I'll keep up chatting with the priests, get them to support our little business venture?
+  冒險者：那我繼續跟祭司套話，讓他們支持我們這點小生意？
 
- Nephron: Right! And I should introduce you to some of the more senior members of our Brotherhood ... excuse me, Guild. Let me contact you in a few days, when everything is all set. You are here every evening?
+  奈夫隆：對！而且我該把你介紹給我們兄弟會一些較資深的成員……抱歉，公會。過幾天一切就緒，我再聯絡你。你每晚都在這兒？
 
- Adventurer: Yes, not particularly safe outside after dark these days.
+  冒險者：對，這些日子天黑後在外頭不太安全。
 
- Nephron: I see. We shall have to arrange some ... protection for you. Well, in a few days, then.
+  奈夫隆：明白。我們得給你安排一些……保護。好，過幾天見。
 
- (Exit Nephron, inconspicuously)
+  （奈夫隆不引人注意地下）
 
- (Enter Five Armorers)
+  （五名鑄甲師上）
 
- (Armorers and the Adventurer fight)
+  （鑄甲師與冒險者打鬥）
 
- (The Adventurer falls)
+  （冒險者倒下）
 
- (The Armorers tie the Adventurer up and then wake him up)
+  （鑄甲師把冒險者捆起來，再把他弄醒）
 
- Armorer 1: OK, fellow. Lets not spriggen-foot around! We know about this Fools' Ebony thing. And about the Mages who apparently discovered the location. And we have been watching you dance around with the Priests, the Mages, the Merchants. Just about everyone with two feet!
+  鑄甲師一：好了，傢伙。別跟我繞圈子！我們知道這愚人烏木的事。也知道那些顯然發現地點的法師。我們一直看著你跟祭司、法師、商人跳舞。差不多每個有兩隻腳的人！
 
- Armorer 2: And how you are really working with Nephron.
+  鑄甲師二：還有你其實在跟奈夫隆合作。
 
- Armorer 3: And how you are double-crossing the Priests and Mages ...
+  鑄甲師三：還有你在兩頭騙祭司和法師……
 
- Armorer 2: You and Nephron are really doing a good job on the Akatosh Chantry, we must admit.
+  鑄甲師二：你和奈夫隆在阿卡托什聖堂這件事上幹得漂亮，我們得承認。
 
- Armorer 1: But now, we want that Fool's Ebony supply. We need it to increase our production, our quality -- and our prices. We can work with Nephron and his gang, we need warehouses and distribution anyway.
+  鑄甲師一：可現在，我們要那愚人烏木貨源。我們需要它來提高產量、品質——還有價錢。我們能跟奈夫隆和他那幫合作，反正我們也需要倉庫和分銷。
 
- Armorer 4: We could torture it out of you ...
+  鑄甲師四：我們可以拷問出來……
 
- Armorer 3: We could let the Priests know about your plans -- they would throw you to the Afterdark Society in a flash!
+  鑄甲師三：我們可以讓祭司知道你的計畫——他們轉眼就會把你扔給暮後會社！
 
- Armorer 5: We could let the Mages know -- they would send you to Oblivion for a very, very long time!
+  鑄甲師五：我們可以讓法師知道——他們會把你送到湮滅去，很久、很久！
 
- Armorer 1: But we would rather you 'joined' our Guild. We cannot afford to leave Daggerfall for some hairy wilderness trip. Too much demand these days, for our sevices.
+  鑄甲師一：可我們寧願你「加入」我們公會。我們抽不出身離開匕首雨去什麼毛茸茸的荒野。這些日子對我們的服務需求太大。
 
- Armorer 2: But we can send a group of our apprentices along to keep you company.
+  鑄甲師二：可我們能派一組學徒陪你作伴。
 
- Armorer 4: Our apprentices usually test all our products ... and will be just itching to test out there.
+  鑄甲師四：我們的學徒通常測試所有產品……到外頭會手癢得很想試。
 
- Adventurer: Gentlemen, gentlemen! Please - I really was going to give the whole deal to you, once I had gotten gold from everyone else.
+  冒險者：各位，各位！拜託——我本來就要把整筆交易給你們，等我從其他人那兒把金幣弄到手。
 
- (Armorer 5 slaps the Adventurer with a hot poker)
+  （鑄甲師五用燒紅的撥火棍抽冒險者）
 
- Ohhh ... well, I thought of it...
+  噢……好吧，我想到過……
 
- Armorer 5: Sure! And I'm a Nymph!
+  鑄甲師五：當然！那我就是寧芙！
 
- Adventurer: Yes, Yes, Yes, you are very persuasive. I would welcome an ... er ... escort and guard of such tough gentlemen. Be very handy out there.
+  冒險者：對，對，對，你們非常有說服力。我歡迎……呃……這麼強悍的紳士護衛。外頭會很有用。
 
- Armorer 1: Good. Thought you would see it our way! Some of our other members are presently having a little ... chat with Nephron. We can handle him. And from now on, two of our bigger apprentices will always be close at hand. Protection, of course -- this town can be quite dangerous at night ...
+  鑄甲師一：好。就知道你會想通！我們其他幾個成員此刻正在跟奈夫隆……小小談談。我們能對付他。從現在起，我們兩個塊頭較大的學徒會一直近在身邊。當然是保護——這城晚上可相當危險……
 
- Armorer 3: So continue with your arrangements, work with Nephron. You can always leave word about your departure date with any weapons shop. And about any problems you may have ...
+  鑄甲師三：所以繼續你的安排，跟奈夫隆合作。出發日期隨時可以留話給任何武器店。還有你可能遇到的任何問題……
 
- Adventurer: Certainly, gentlemen. Yes, you are indeed very persuasive. I shall keep you up to date. And, er...thanks for the protection.
+  冒險者：當然，各位。對，你們確實非常有說服力。我會隨時通報。而且，呃……謝謝保護。
 
- (Enter Ortho, the very large apprentice)
+  （奧索上，非常高大的學徒）
 
- (The Adventurer is untied)
+  （冒險者被解開）
 
- (Exeunt Five Armorers)
+  （五名鑄甲師同下）
 
- Adventurer: Hello, who are you?
+  冒險者：喂，你是誰？
 
- Ortho: Me am Ortho!
+  奧索：我是奧索！
 
- Adventurer: My ... protection?
+  冒險者：我的……保護？
 
- Ortho: Me am Ortho!
+  奧索：我是奧索！
 
- Adventurer: You look very familiar to me for some reason. Have you every [sic] been to Morrowind?
+  冒險者：不知怎的你看起來很面熟。你去過晨風嗎？
 
- Ortho: Me am Ortho!
+  奧索：我是奧索！
 
- Adventurer: Fine then. (aside) My old man used to say the very worst thing that can happen to a fellow is an evening spent in the company of an earnest politician. This, I think, is a close second.
+  冒險者：那好。（旁白）我老爹常說，一個人能碰上最糟的事，就是整晚跟一個熱誠的政客作伴。這個，我想，是個近第二。
 
- (Exeunt the Adventurer and Ortho)
+  （冒險者與奧索同下）
 
- (Enter Epilogue)
+  （收場白上）
 
- Epilogue: Our play has six parts, and we've just finished the fourth. It's interesting I think that the Lusty Contessa has not made an appearance yet. You don't suppose our playwrite [sic] forgot he put her in the Dramatis Personae, do you? Well, you'll only know if you come back for The Fools' Ebony, Part the Fiveth. And if your neighbor decides not to return, don't tell him what happened. We actors have to make a living too, you know. Don't forget to tip your wenches while we change the scene.
+  收場白：我們這齣戲有六場，剛演完第四場。有意思的是，我覺得那位好色的女伯爵還沒登場。你不會以為我們的劇作家忘了把她寫進登場人物吧？好，你只有回來看《愚人烏木，其五》才會知道。若你鄰座決定不回來，別告訴他發生了什麼。我們演員也得過日子，你懂。換景時別忘了給女侍小費。
 
- (Exit Epilogue)
+  （收場白下）
 
- So Endeth Part The Fourth.
+  其四終。

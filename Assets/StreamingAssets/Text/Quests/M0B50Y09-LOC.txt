@@ -1,0 +1,69 @@
+-- Quest: C:\QUESTS\WORKING\M0B50Y09.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 50
+-- QuestId: 9
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B50Y09
+DisplayName: 獵殺石像鬼
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 有位商人需要除掉一隻怪物，精確地說
+<ce> 是石像鬼。酬勞不算多，_gold_ 金幣。
+<ce> 這事能請你幫忙嗎？
+
+RefuseQuest:  [1001]
+<ce> 嗯。看來不是那種勇敢
+<ce> 英雄型的。
+
+AcceptQuest:  [1002]
+<ce> 好像這商人雇了個巫師給他蓋豪宅。
+<ce> 然後這可憐傻瓜想騙走法師的工錢。
+<ce> 巫師發怒，把新豪宅上的一隻石像鬼
+<ce> 活化了。牠不停攻擊那商人。到
+<ce> ___dungeon_ 去把那東西殺了。
+<ce> 你有 =2dung_ 天完成任務。
+
+QuestComplete:  [1004]
+<ce> 向英雄致敬，%pcn！
+<ce> 幹得好！這區區 _gold_
+<ce> 幾乎配不上這樣的功績。
+
+RumorsDuringQuest:  [1005]
+<ce> 法師公會拒絕去殺那發狂的石像鬼。
+<ce> 他們說不是他們的錯。懶鬼。
+
+RumorsPostfailure:  [1006]
+<ce> 最近有個商人被殺了。聽說有隻
+<ce> 石像鬼在他屍體上空盤旋。
+
+RumorsPostsuccess:  [1007]
+<ce> 戰士公會幹掉了一隻石像鬼。
+<ce> 有這幫人在真好。
+
+QuestorPostsuccess:  [1008]
+<ce> 石像鬼幹得漂亮，%pcn。
+
+QuestorPostfailure:  [1009]
+<ce> 那石像鬼殺了商人。你不該接
+<ce> 這差事。現在你讓自己和公會
+<ce> 都丟臉了。
+
+QuestLogEntry:  [1010]
+於 %qdt，
+ ___qgiver_ 的戰士公會責成我摧毀
+ 巢穴在 ___dungeon_ 的石像鬼。
+ 我有 =2dung_ 天完成任務。
+
+Message:  1011
+<ce> _monster_ 死了。
+<ce> 但願那愚蠢商人學會
+<ce> 永遠別欺騙法師。
+
+Message:  1080
+<ce> 或許這張通往 ___newdung_
+<ce> 的地圖能讓交易甜一點。

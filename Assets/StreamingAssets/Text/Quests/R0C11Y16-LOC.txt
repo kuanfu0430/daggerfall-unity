@@ -1,0 +1,93 @@
+-- Quest: C:\QUESTS\WORKING\R0C11Y16.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 11
+-- QuestId: 16
+Messages: 17
+Quest: R0C11Y16
+DisplayName: 間諜裝備
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                若你能抽出幾天，又不介意多賺 _reward_ 金幣，
+<ce>                我有一項需要速度與謹慎的任務。
+
+RefuseQuest:  [1001]
+<ce>                     不？我沒料到你會為幾天的工作
+<ce>                   拒絕 _reward_ 金幣。有多少農人
+<ce>                   會為那種錢殺人？唉，好吧。
+<ce>                      你的人生，我想。
+
+AcceptQuest:  [1002]
+<ce>                     出色，%pcf。現在，我在 ___npc1_
+<ce>                       有個間諜 _npc1_，需要一具望遠鏡
+<ce>                 才能繼續%g3的監視。據我所知%g發現了
+<ce>                  我們共同友人感興趣的東西，也需要送達。
+<ce>                 所以，這是望遠鏡。帶到 ___npc1_
+<ce>                       一處名叫 __npc1_ 的地方，
+<ce>                           交給一名 =npc1_，
+<ce>                  你會在那裡接到進一步指示。祝你好運，%pcf。
+
+QuestFail:  [1003]
+<ce>                  在這裡晃悠不會讓你更有錢，%pcf。
+
+QuestComplete:  [1004]
+<ce>                           你一定是%pcn。
+<ce>                     _npc1_ 說會有你來。
+<ce>                          我是 _npc2_。讓我
+<ce>                    看看那件聖物。非常有意思。好了，
+<ce>                  這是你的 _reward_ 金幣。你從沒見過我，
+<ce>                            懂嗎？
+
+RumorsDuringQuest:  [1005]
+若 _questgiver_ 真有間諜網，一定藏得很深。
+<--->
+據說 _npc1_ 是間諜，但%g從不離開 __npc1_。
+
+RumorsPostfailure:  [1006]
+結果他們抓住了 _npc1_，沒收了%g3的不義之財。
+<--->
+他們說 _npc1_ 是為 _questgiver_ 效勞的間諜。
+
+RumorsPostsuccess:  [1007]
+在 ___npc1_ 我總覺得到處都有人在看我。
+<--->
+不知道他們會不會找到從宮殿被偷走的那件聖物。
+
+QuestorPostsuccess:  [1008]
+唷，這不是我最喜歡的間諜嗎。近來可好，年輕的%pcf？
+<--->
+聽說那樁事業進行得毫無差錯。出色，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce>                  我派你去的那任務相當失敗，不是嗎？
+<ce>                 我實在沒有非跟你說話不可的理由，對吧？
+
+QuestLogEntry:  [1010]
+<ce>                     來得正好，%pcf。容我自我介紹。
+<ce>                          我叫 _npc1_，我相信
+<ce>                  你帶著的就是我的望遠鏡。
+<ce>                        我想 _questgiver_ 告訴過你
+<ce>                   我會有件小差事給你。把這件聖物帶給
+<ce>                         ___npc2_ 的一名 =npc2_。
+<ce>                         名字是 _npc2_，
+<ce>                      你會在 __npc2_ 找到%g2。
+<ce>                你的金幣也會在那裡等你。最好上路了；%g
+<ce>                 指望你在 =2ndparton_ 天內到達。
+
+Message:  1015
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 雇的一名間諜需要一具望遠鏡，我被要求去送。
+ 我有 =1stparton_ 天趕到 ___npc1_
+ 一處名叫 __npc1_ 的地方找 _npc1_。
+ 到了之後，會接到進一步指示。
+
+Message:  1016
+%qdt:
+ 我把望遠鏡交給了 _npc1_，%g派我帶著某種聖物
+ 繼續前往 ___npc2_ 一個名叫 _npc2_ 的人那裡。
+ 我有 =2ndparton_ 天趕到 ___npc2_ 的 __npc2_
+ _npc2_ 的住處。

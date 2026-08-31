@@ -1,0 +1,133 @@
+-- Quest: C:\QUESTS\WORKING\S0000503.Qbn.
+-- Main story quest.
+-- QuestId: 503
+Messages: 72
+Quest: S0000503
+DisplayName: 昔日學生·第三部
+-- Message panels
+QRC:
+
+Message:  1020
+%qdt:
+ 我收到一封神秘召喚，要我到____tavern_、__tavern_的_tavern_，
+ 我相信是我的朋友_rebel_發的。
+
+Message:  1021
+%qdt:
+ 我已同意幫_rebel_從__magesguild_的法師公會「解放」一張通往
+ ___itemdung_的地圖。
+
+Message:  1022
+%qdt:
+ 我們已取回地圖。_rebel_另有要事，所以我會在=keytime_天後
+ 在_tavern_與他會合。
+
+Message:  1023
+%qdt:
+ 我們已取回地圖。我自告奮勇前往___keydung_，尋找進入
+ ___itemdung_所需的特殊_key_。我會在=keytime_天後
+ 在_tavern_與_rebel_會合。
+
+Message:  1030
+<ce>                    一張破舊的___itemdung_地圖。
+
+Message:  1040
+<ce>               你能來真好。我有個新計畫，想你可能會有興趣。
+<ce>             不過會涉及對我們法師公會的朋友來一次小小突襲。
+<ce>               你怎麼說？
+
+Message:  1041
+<ce>                隨你便。我還以為你我是朋友，如此而已。
+
+Message:  1042
+<ce>             我就知道你忍不住！計畫是這樣。一段時間以來，
+<ce>             我一直在尋找___itemdung_的位置，據說那是一批
+<ce>                魔法物品的安息處，包括我自己用途所需的一件
+<ce>              _item_——那是另一個故事，改天再說。眼前的問題
+<ce>              是，我得知__magesguild_的法師公會得到了一張通往
+<ce>               ___itemdung_的地圖。儘管公會正式禁止我，我在
+<ce>           公會裡仍有幾個朋友……公會不知道自己握有什麼，所以
+<ce>             要由我們來解放這張地圖，讓它發揮全部潛力。
+
+Message:  1043
+<ce>                         對，就是這張地圖！
+
+Message:  1044
+<ce>                       _rebel_舉起他的法杖。
+<ce>           「女士們、先生們，我們現在真的該走了。」
+<ce>               一道光球從法杖爆發，瞬間使你目眩。
+
+QuestTimeLapse:  [1045]
+<ce>           我想暫時分開比較好，讓這個馬蜂窩平靜一下。
+<ce>           進入___itemdung_之前我還有一件事要辦……除非你
+<ce>                    願意替我處理？
+
+Message:  1046
+<ce>          很好。沒有鑰匙就無法進入___itemdung_，那是一把
+<ce>          _key_，我得知它在___keydung_某處。你拿到_key_後，
+<ce>           到__tavern_的_tavern_與我會面，就說，=keytime_天後。
+
+Message:  1047
+<ce>            沒關係。我需要，就說，=keytime_天來處理這件事。
+<ce>             等我取得___itemdung_的鑰匙後，我會在__tavern_
+<ce>                    的_tavern_與你會面。祝你好運！
+
+Message:  1050
+<ce>           這一定是那把_key_，___itemdung_的鑰匙。
+
+Message:  1051
+<ce>          有了這把_key_，我們就準備好勇闖___itemdung_了。
+<ce>               帶路吧，我的朋友！
+
+Message:  1052
+<ce>                         一個空洞的聲音轟鳴：
+<ce>                   「入侵者不受歡迎！」
+
+Message:  1053
+<ce>              你來得太遲了，_rebel_！一旦你為我找到了_key_，
+<ce>              跟著你到___itemdung_是件簡單的事。_item_如今是
+<ce>                     我的了，只屬於我！
+
+Message:  1054
+<ce>             「好了，朋友%pcf，一趟愉快的小旅行，對吧？我拿走
+<ce>             _item_就走。」
+<ce>                                    
+<ce>                  你要把_item_給_rebel_嗎？
+
+Message:  1055
+<ce>                           下次見！
+
+Message:  1056
+<ce>                     原來如此，你真正的嘴臉終於露出。
+<ce>                   我只求一樣小東西，你的貪婪顯然沒有
+<ce>                       止境。
+
+Message:  1070
+<ce>                   一個影子從頭上掠過。一隻渡鴉盤旋，
+<ce>                  刺耳地叫著，然後消失在西方：
+<ce>                                    
+<ce>                          「沒時間了！沒時間了！
+<ce>                               _tavern_，
+<ce>                               __tavern_
+<ce>                             ____tavern_！」
+
+Message:  1071
+<ce>                          %pcf，你迷路了嗎？
+<ce>                         恐怕我現在得離開你了。
+
+
+-- Symbols used in the QRC file:
+--
+--               %g3 occurs 1 time.
+--              %pcf occurs 2 times.
+--              %qdt occurs 4 times.
+--         =keytime_ occurs 7 times.
+--       ____tavern_ occurs 3 times.
+--      ___itemdung_ occurs 14 times.
+--       ___keydung_ occurs 2 times.
+--     __magesguild_ occurs 4 times.
+--         __tavern_ occurs 5 times.
+--            _item_ occurs 8 times.
+--             _key_ occurs 7 times.
+--           _rebel_ occurs 14 times.
+--          _tavern_ occurs 10 times.

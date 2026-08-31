@@ -1,0 +1,105 @@
+-- Quest: C:\QUESTS\WORKING\O0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 0
+-- QuestId: 0
+Messages: 21
+Quest: O0B00Y00
+DisplayName: 燙手寶石
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                       聽著，%pcf，咱們有個
+<ce>                    自己人遇上麻煩了。
+<ce>                     你有幾天時間能幫
+<ce>                        這個自己人嗎？
+
+RefuseQuest:  [1001]
+<ce>                      那好吧。看來你指望
+<ce>                      自己將來永遠不會
+<ce>                        落到這種地步。
+
+AcceptQuest:  [1002]
+<ce>                       好 %ra。咱們在 ___contact_
+<ce>                      最好的飛賊之一
+<ce>                   正躲在一間叫 __contact_ 的破店裡。
+<ce>                       %g 身上有顆從宮裡
+<ce>                     摸來的燙手寶石。
+<ce>                   現在有話說有人看見寶石在 %g2 身上，
+<ce>                    衛兵正在外頭盯梢。
+<ce>                      看在 __contact_ 老闆的面子上，
+<ce>                    他們會等 =1stparton_ 天才動手。
+<ce>                      趕到 __contact_，
+<ce>                          把這塊 _metal_
+<ce>                 交給 _contact_，換回那顆 _gems_，
+<ce>                    再把它帶回來。聽懂了嗎？
+<ce>                  很好。現在快點，沒時間了。
+
+QuestFail:  [1003]
+<ce>                        很高興見到你，%pcf，
+<ce>                     但你不該空手回來。
+<ce>                     你該帶著一顆 _gems_，記得嗎？
+
+QuestComplete:  [1004]
+<ce>                      幹得好，%pcf。聽說
+<ce>                         _contact_ 把衛兵當成
+<ce>               _gems_ 的那塊 _metal_ 拿出來給他們看，
+<ce>                   他們還買了酒向 %g2 道歉。
+<ce>                  跟你說，沒有比當無賴
+<ce>                   更痛快的日子了。這是你那份
+<ce>                  _gems_ 的分成——_reward_ 金幣。
+<ce>                               你賺到了，%pcf。
+
+RumorsDuringQuest:  [1005]
+大家都知道那顆珠寶是 _contact_ 偷的。他們怎麼不去抓 %g2？
+<--->
+__contact_ 那兒有好多民團。衛兵在那兒不受歡迎。
+
+RumorsPostfailure:  [1006]
+衛兵終於抓住 _contact_ 了。看來 %g 終究擋不住他們。
+<--->
+對，他們找到了 %t 的 _gems_，把那個 =contact_ 抓起來了。
+
+RumorsPostsuccess:  [1007]
+他們最後還是得放 _contact_ 走。原來 %g 是無辜的。
+<--->
+_metal_ 怎麼會被當成 _gems_？兩邊都是石頭，但拜託！
+
+QuestorPostsuccess:  [1008]
+怎麼了，%pcf？想把那顆 _gems_ 要回去？我賭你想！
+
+QuestorPostfailure:  [1009]
+<ce>                      你不記得自己該去
+<ce>                 _contact_ 那兒把那顆 _gems_ 拿回來，
+<ce>                      再把我給你的 _metal_
+<ce>                       交給 %g2 嗎？%oth！
+<ce>                   搞得跟高深科學似的。
+
+QuestLogEntry:  [1010]
+<ce>                   %oth，%pcf，你真是救命恩人。
+<ce>                    原來有人看見我拿著一顆
+<ce>                _gems_，就認定那是失竊的寶石。
+<ce>                   這塊 _metal_ 會是我離開這兒的
+<ce>                  門票。改天記得提醒我請你喝酒。
+<ce>                  現在快回 _questgiver_ 那兒。
+<ce>                  你要是沒在 =1stparton_ 天內回去，
+<ce>                 他們會起疑的。
+
+Message:  1015
+%qdt:
+ ___questgiver_ 盜賊公會的
+ _questgiver_ 派我去 ___contact_
+ 一間叫 __contact_ 的破店。
+ 我有一塊 _metal_，該交給
+ _contact_，換回 %g 被人看見
+ 拿著的那顆贓石。我有 =1stparton_
+ 天完成這件事。
+
+Message:  1020
+<ce>                      我有可靠消息，
+<ce>                       你手上有 _contact_ 偷走的
+<ce>                         那顆 _gems_。
+<ce>                       交出來，我就讓你
+<ce>                           毫髮無傷地走。

@@ -1,0 +1,98 @@
+-- Quest: C:\QUESTS\WORKING\O0B00Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 0
+-- QuestId: 12
+Messages: 36
+Quest: O0B00Y12
+DisplayName: 藥品遞送
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     %pcf，有份差事，你若有興趣。
+<ce>                      有個小包裹得送到
+<ce>                            ___contact1_。
+<ce>                            你說呢？
+
+RefuseQuest:  [1001]
+<ce>                     別賣我人情，夥計。
+
+AcceptQuest:  [1002]
+<ce>                   太好了。  包裹在這兒，一些
+<ce>                      _drugs_。  得盡快送到
+<ce>                        ___contact1_。
+<ce>                       _contact1_ 會在那兒的
+<ce>                     __contact1_ 跟你碰面。
+<ce>                      小心點。  這批貨的消息
+<ce>                       要是走漏，咱們可能會
+<ce>                    跟那些自以為掌控 %reg
+<ce>                     生意的散戶走私客
+<ce>                     惹上麻煩。
+
+QuestFail:  [1003]
+<ce>                  我不是說了「盡快」嗎？
+
+QuestComplete:  [1004]
+<ce>                 很高興你撐過來了。  這些業餘貨色
+<ce>                 根本不是咱們組織的對手。
+<ce>                 這是你的服務費 _gold_ 金幣。
+<ce>                     幹得好。
+
+RumorsDuringQuest:  [1005]
+<ce>        聽說盜賊公會跟一幫新冒出來的走私團
+<ce>                        起了衝突。
+
+RumorsPostfailure:  [1006]
+<ce>       看來盜賊公會得放棄他們在 %reg
+<ce>                 的走私壟斷了。
+
+RumorsPostsuccess:  [1007]
+<ce>     盜賊公會似乎已經把那些找麻煩的
+<ce>                     對立走私客壓下去了。
+
+QuestorPostsuccess:  [1008]
+<ce>       嘿，可靠的老 %pcn，我記得你。  我可靠的信差。
+
+QuestorPostfailure:  [1009]
+<ce>貨送不到的走私客回來了。  你想怎樣？
+
+Message:  1020
+%qdt:
+ 我正帶著一批 _drugs_
+ 前往 ___contact1_，
+ 要交給會在 __contact1_
+ 與我會面的 _contact1_。
+ 他們警告我小心
+ 對立走私團的打手。
+
+Message:  1021
+%qdt:
+ 我剛收到 _contact1_ 的紙條，
+ 說 %g 無法在 ___contact1_
+ 與我會面。  %G 要我改去
+ ___contact2_，把貨交給
+ __contact2_ 的一個 =contact2_。
+
+Message:  1030
+%pcn——
+ 
+ 抱歉無法如約在 ___contact1_ 碰面。
+ 風聲太緊，我沒法再等。
+ 我在 ___contact2_ 安排了備用交接。
+ 去 __contact2_ 找一個等你的 =contact2_。
+ 
+<ce>                            小心背後，
+<ce>                                    
+<ce>                               _contact1_
+
+Message:  1031
+<ce>                一個髒兮兮的小男孩拉了拉你的袖子。
+<ce>                   他把一張紙片塞給你，然後
+<ce>                       衝進巷子裡跑掉了。
+
+Message:  1035
+<ce>                你們盜賊公會的打手什麼時候才會明白，
+<ce>                  %reg 這一帶的 _drugs_ 生意
+<ce>                         是我們在掌控？

@@ -1,0 +1,138 @@
+-- Quest: C:\QUESTS\WORKING\U0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Boethiah
+-- Repute: 0
+-- QuestId: 0
+Messages: 43
+Quest: U0C00Y00
+DisplayName: 博耶西亞的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                力量，哈！一個在凡間爬行的%ra會知道真正的
+<ce>             力量該怎麼用嗎？你的意思是想能欺負幾個其他凡人，
+<ce>              對吧？嗯，那可以安排。我要你向我證明你有膽識
+<ce>              真正使用我給你的東西。你願意為此殺人嗎？
+
+RefuseQuest:  [1001]
+<ce>                  呸，你讓我噁心。別再召喚我，%pcf，
+<ce>                       除非你長大了，或是想打架。
+
+AcceptQuest:  [1002]
+<ce>             嗯，這總算是朝正確方向邁出一步。我要你為了力量
+<ce>             去宰掉的法術劍士是=monster_，一個完美迷人、樂善
+<ce>                   好施的蠢驢，煩了我好多年。你會在%g3
+<ce>             要塞找到%g2，一個叫___mondung_的地方。別以為
+<ce>                     因為=monster_是個珍貴的紈袴，
+<ce>             %g就不會打架。我要讓你為這份禮物稍微賣點力。
+<ce>                 謀殺之後，去見_qgfriend_，我在
+<ce>                ___qgfriend_的密探。只要找一個在
+<ce>                      __qgfriend_閒晃的=qgfriend_。
+<ce>                別讓%g2等太久。我會告訴%g2你會在=1stparton_
+<ce>              天內到。那該夠了。我會看著。
+
+QuestFail:  [1003]
+<ce>                        走開，%ra。我們沒什麼好談的。
+
+QuestComplete:  [1004]
+<ce>                         所以，你就是%pcn。嗯，
+<ce>                     你不像博耶西亞說的那麼弱小。
+<ce>                 把這當恭維吧。另外，拿著這個。博耶西亞
+<ce>                   打造了這件_artifact_。她認為它該
+<ce>                 助你尋求力量。她對你有興趣，這一點確定。
+<ce>                  我從她說「弱小」那個詞時的微笑就知道。
+
+RumorsDuringQuest:  [1005]
+下次選市長，我要把票投給=monster_。
+<--->
+=monster_真是個甜美、善良、慷慨的人。是%reg的光榮。
+
+RumorsPostfailure:  [1006]
+泰姆瑞爾誰會想刺殺=monster_？感謝%god %g沒事。
+<--->
+=monster_碰上了刺客。幸好那刺客無能。
+
+RumorsPostsuccess:  [1007]
+對整個%reg都是悲劇。什麼怪物會殺了=monster_？
+<--->
+%oth，我無法相信=monster_死了。多麼悲慘、可怕的浪費。
+
+Message:  1011
+_qgfriend_是__qgfriend_那邊那個說話強硬的=qgfriend_的名字。
+<--->
+那是%di方向__qgfriend_那個惡霸的名字。
+
+Message:  1012
+_qgfriend_是迪德拉親王博耶西亞在泰姆瑞爾的密探之一。
+<--->
+_qgfriend_是個為迪德拉親王博耶西亞效力的惡毒惡霸。
+
+Message:  1013
+博耶西亞是殘酷與折磨的迪德拉親王。不是什麼好女士。
+<--->
+她是湮滅的親王，迪德拉攝政之一，真正的殺手。
+
+Message:  1014
+_artifact_保護穿戴者免受多種傷害。火焰與生命吸取是兩種廣為人知的。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我與博耶西亞訂了契約，謀殺住在%g3要塞___mondung_的
+ 法術劍士=monster_，以換取名叫_artifact_的神器。我需要
+ 殺掉那名法術劍士，並在=1stparton_天內與博耶西亞的聯絡人、
+ ___qgfriend_的__qgfriend_的_qgfriend_會面。
+
+Message:  1030
+<ce>                你已履行與博耶西亞的約定——=monster_死了。
+
+Message:  1040
+=monster_：
+  
+ 立刻離開___mondung_！我得知博耶西亞已安排人殺你。你那輕率的
+ 行為我們改天再談，眼下你該去我們常會面的地方。等我完成把你
+ 送出%reg的安排，我會親自來見你。
+  
+<ce>                            小心背後，
+<ce>                                    
+<ce>                               _mfriend_
+<ce>                              ___mfriend_
+
+Message:  1041
+<ce>                   你怎麼進來的……%oth！我就知道
+<ce>                         =monster_總有一天會害我
+<ce>                    喪命。聽著，既然%g不把我的命當一回事，
+<ce>                     連我的信都隨便亂丟，%g就不值得再保護。
+<ce>                      你可以在___hideout_找到%g2。
+<ce>                    我終於洗手不管%g2了。
+
+Message:  1042
+%qdt:
+ =monster_在___mondung_逃過了我，但我得知
+ %g如今藏在___hideout_。%G第二次逃不掉了。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 1 time.
+--                %g occurs 6 times.
+--               %g2 occurs 7 times.
+--               %g3 occurs 2 times.
+--              %god occurs 1 time.
+--              %oth occurs 3 times.
+--              %pcf occurs 1 time.
+--              %pcn occurs 1 time.
+--              %qdt occurs 2 times.
+--               %ra occurs 2 times.
+--              %reg occurs 10 times.
+--       =1stparton_ occurs 3 times.
+--         =monster_ occurs 16 times.
+--        =qgfriend_ occurs 2 times.
+--       ___hideout_ occurs 2 times.
+--       ___mfriend_ occurs 1 time.
+--       ___mondung_ occurs 4 times.
+--      ___qgfriend_ occurs 7 times.
+--        _artifact_ occurs 3 times.
+--         _mfriend_ occurs 1 time.
+--        _qgfriend_ occurs 5 times.

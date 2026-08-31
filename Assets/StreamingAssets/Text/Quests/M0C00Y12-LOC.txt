@@ -1,0 +1,62 @@
+-- Quest: C:\QUESTS\WORKING\M0C00Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 12
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: M0C00Y12
+DisplayName: 獵殺巨型蜘蛛
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我名叫 _qgiver_。
+<ce> 我不喜歡把差事交給非公會成員。不過你
+<ce> 看起來是可靠的那種。有個可憐人把巨型
+<ce> 蜘蛛蛋帶回家，結果孵出來了。好像把牠當成
+<ce> 蠶繭了。那可憐蟲付不起錢請我們除掉。不過
+<ce> 若你免費處理，公會面子好看，我也會讓你
+<ce> 面子好看。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce> 我就該知道你對工作不是認真的。
+
+AcceptQuest:  [1002]
+<ce> 這是你闖出名堂的機會。蜘蛛
+<ce> 被困在 _house_。今天殺了牠，
+<ce> 我會替你美言。
+
+QuestComplete:  [1004]
+<ce> 你有種，%pcf。
+<ce> 繼續好好幹，你遲早會成為
+<ce> 戰士公會的材料。
+
+RumorsDuringQuest:  [1005]
+<ce> 你聽說那個白痴把巨型蜘蛛蛋帶回家了嗎？
+<ce> 現在他有隻八條腿的寵物，正想拿他當晚餐！
+
+RumorsPostfailure:  [1006]
+<ce> 有個可憐傻瓜被巨型蜘蛛螫了，差點喪命，
+<ce> 還是在自己家裡！
+
+RumorsPostsuccess:  [1007]
+<ce> 你就是殺了那巨型蜘蛛的人。
+<ce> 你該加入戰士公會什麼的。
+
+QuestorPostsuccess:  [1008]
+<ce> 那巨型蜘蛛幹得漂亮。
+
+QuestorPostfailure:  [1009]
+<ce> 若你連蜘蛛都應付不了，還指望應付
+<ce> 公會可能要你幹的其他差事？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的戰士公會讓我去殺死
+ 在 _house_ 孵出來的巨型蜘蛛。
+ 必須今天完成。
+
+Message:  1011
+<ce> _monster_ 死了。

@@ -1,0 +1,67 @@
+-- Quest: C:\QUESTS\WORKING\B0B80Y17.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 80
+-- QuestId: 17
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0B80Y17
+DisplayName: 不死軍團
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      我是==qgiver_的_qgiver_。
+<ce>                     我有一項極為危險的任務，%pcn。
+<ce>                      能接下這差事的人寥寥無幾。
+<ce>                      一名巫妖正在召集不死軍團。
+<ce>                     我們需要有人進去制止。
+
+RefuseQuest:  [1001]
+<ce>                          我理解，%pcn。
+<ce>                     這連對你都太危險了。還有一兩位
+<ce>                      英雄也許能辦成。我去問問他們。
+
+AcceptQuest:  [1002]
+<ce>                    你確實勇敢。那巫妖已把___dungeon_
+<ce>                       當成巢穴。去那裡摧毀那污穢之物。
+<ce>                    若你未能歸來，我們會在=2dung_天後
+<ce>                     另派人前往。
+
+QuestComplete:  [1004]
+<ce>                        向英雄%pcn致敬！
+<ce>                      幹得好！你的名字將被記入
+<ce>                     所有史冊。
+
+RumorsDuringQuest:  [1005]
+___dungeon_的大巫妖又醒了。
+
+RumorsPostfailure:  [1006]
+聽說___dungeon_的巫妖去了灣對岸。
+<--->
+那巫妖正在%reg之外集結勢力。
+
+RumorsPostsuccess:  [1007]
+感謝%god有==qgiver_。他們救了我們所有人。
+<--->
+==qgiver_的一名%ra摧毀了___dungeon_的巫妖。
+
+QuestorPostsuccess:  [1008]
+能以任何方式幫助你，是我的榮幸，英雄。
+
+QuestorPostfailure:  [1009]
+___dungeon_那場慘敗之後，你還有臉回來。
+<--->
+我信任你去斬殺那巫妖。想想我的處境！
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_責成我摧毀
+ ___dungeon_的巫妖。
+ 我有=2dung_天完成任務。
+
+Message:  1011
+<ce>                       巫妖死了。沒了他的魔法支撐，
+<ce>                        不死軍團將重歸墳墓。

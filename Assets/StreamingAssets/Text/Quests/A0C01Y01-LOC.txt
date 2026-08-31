@@ -1,0 +1,47 @@
+Quest: A0C01Y01
+DisplayName: 保鑣
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pcn，我連性命都感到恐懼。你願意保護我嗎？
+<ce> _villains_s 因我拒絕賣地而威脅今晚殺我。我可以付你 _gold_ 金幣。
+                                     <--->
+<ce> 你看見我陷入絕境，親愛的 %ra。我收到 %cn 一些暴徒的消息，
+<ce> 他們打算今晚洗劫我家。你願不願意幫這些傢伙來點創意的臉部重整？
+
+RefuseQuest:  [1001]
+<ce> 別擔心我的安全，%pcn。我會另找保護者……總會有辦法。
+
+AcceptQuest:  [1002]
+<ce> 謝謝你，祝福你！他們會在午夜前三小時襲擊 _qgiverhome_。
+<ce> 到那兒與我一起等待。一旦擊敗他們，我就再次安全了。
+
+QuestComplete:  [1004]
+<ce> 你救了我的命，%pcf。我樂意按約定金額付給你。
+
+RumorsDuringQuest:  [1005]
+<ce> _qgiver_ 跟盜賊公會有糾紛。聽說他們要好好修理 %g2。
+
+RumorsPostfailure:  [1006]
+<ce> 我最近看見 _qgiver_。%G 被一些暴徒打了一頓。
+
+RumorsPostsuccess:  [1007]
+<ce> 你不就是趕走那些想毆打 _qgiver_ 的暴徒的 %ra 嗎？
+
+QuestorPostsuccess:  [1008]
+<ce> 我仍記得你為我所做的，%pcf。趕走那些暴徒讓我欠你一份人情。
+
+QuestorPostfailure:  [1009]
+<ce> 那些暴徒找到我時留下的疤還在。我雇你保護我，你搞砸了。離我遠點。
+
+QuestLogEntry:  [1010]
+On %qdt,
+ ___qgiver_ 的 _qgiver_ 要我保護 %g2。
+ _villains_s 威脅在九點到午夜之間於 _qgiverhome_ 襲擊 %g2。
+
+Message:  1011
+<ce> 這不關你的事，陌生人。把 _qgiver_ 留給我們，否則我們就在這兒砍倒你！
+
+Message:  1013
+<ce> 這一定就是那個地方。符合 _qgiver_ 給你的描述。

@@ -1,5 +1,5 @@
-Title: Biography of Queen Barenziah, Vol. III
-Author: Stem Gamboge, scribe
+Title: 巴倫西雅女王傳，卷三
+Author: 抄寫員斯特姆·甘寶吉
 IsNaughty: False
 Price: 406
 IsUnique: False
@@ -8,24 +8,22 @@ Content:
 
 [/font=2]
 
-[/center]Biography of
+[/center]巴倫西雅女王傳，
 
-[/center]Queen Barenziah,
-
-[/center]Vol. III
+[/center]卷三
 
 [/font=4]
 
 [/center]
 
- Barenziah was welcomed kindly by the Emperor Tiber Septim and his family, who treated her like a daughter during her stay in the newly built Imperial City. After several happy months there learning her duties as a regent under the Empire, Symmachus escorted her to Mournhold where she took up her duties as Queen of her people, under his wise guidance. Gradually they came to love one another and were married and crowned in a splendid ceremony at which the Emperor himself officiated.
+ 巴倫西雅受到泰伯·塞普丁皇帝及其家族的親切歡迎，在新建的帝都逗留期間，他們待她如女兒。在帝國治下愉快地學習了數月攝政職責之後，西瑪庫斯護送她前往哀傷之城，她在他睿智的指導下承擔起作為子民女王的職責。他們逐漸相愛，在一場輝煌的典禮中成婚並加冕，皇帝親自主持。
 
- After several hundred years of marriage a son, Helseth, was born to the royal couple, amid rejoicing and prayers to the goddess who had at last blessed their marriage. Although it was not known at the time, it was shortly before this blessed event that the Staff of Chaos was stolen from its hiding place deep in the Mournhold mines by a clever bard known only as Nightingale.
+ 數百年婚姻之後，皇室夫婦喜得一子赫爾賽斯，人們歡慶並向終於祝福他們婚姻的女神祈禱。當時無人知曉，就在這件喜事前不久，混沌法杖被一名只稱為夜鶯的聰明吟遊詩人，從哀傷之城礦坑深處的藏匿處偷走。
 
- Eight years after Helseth's birth, Barenziah bore a daughter, Morgiah, named for Symmachus' mother and the royal couple's joy was complete. Alas, shortly after that, relations with the Empire mysteriously deteriorated, leading to much civil unrest in Mournhold. After fruitless inquiries and attempts at reconciliation, in desperation Barenziah took her young children and travelled to Imperial City herself to seek the Emperor's ear. Symmachus remained in Mournhold.
+ 赫爾賽斯出生八年後，巴倫西雅生下一女莫吉雅，以西瑪庫斯母親之名命名，皇室夫婦的喜悅至此圓滿。哀哉，此後不久，與帝國的關係莫名惡化，導致哀傷之城爆發許多內亂。在毫無結果的調查與和解嘗試之後，巴倫西雅在絕望中帶著年幼的孩子親自前往帝都，求見皇帝。西瑪庫斯留在哀傷之城。
 
- During her audience with the Emperor, Barenziah, through her magical arts, came to realize, to her horror and dismay, that the so-called Emperor was an imposter, none other than the Bard Nightingale who had stolen the Staff of Chaos. Exercising great self control she concealed this realization from him. That evening news came that Symmachus had been killed in battle and that Mournhold had been taken by the rebels. Barenziah knew not where to seek help, when a knock sounded at her door. It was Eadwyre, King of Wayrest, and an old friend of Uriel Septim and Symmachus. He comforted her, pledged his friendship and confirmed her suspicions that the Emperor was indeed an impostor, and none other than Jagar Tharn, the Imperial Battlemage. Tharn had supposedly retired from public work and put his assistant, Ria Silmane, in his stead. As it seemed, Tharn had never left the Imperial City. Ria was indeed dead, but her ghost had appeared in Eadwyre's dreams and revealed that the true Emperor had been kidnapped by Tharn and imprisoned in an alternate plane. Tharn had then used the Staff of Chaos to kill her when she attempted to warn the Council of his nefarious plot.
+ 覲見皇帝時，巴倫西雅憑她的魔法技藝驚恐地意識到，所謂的皇帝是冒牌貨，正是偷走混沌法杖的吟遊詩人夜鶯。她以極大的自制向他隱瞞了這一認知。當晚傳來消息：西瑪庫斯已在戰鬥中陣亡，哀傷之城已被叛軍占領。巴倫西雅不知該向何處求援，這時門上傳來敲門聲。來者是途歇城國王艾德懷爾，烏列爾·塞普丁與西瑪庫斯的老友。他安慰她，誓言友誼，並證實她的懷疑：皇帝確是冒牌貨，不是別人，正是帝國戰法師賈加·薩恩。薩恩據說已退出公務，讓助手莉亞·希爾曼接替。事實看來，薩恩從未離開帝都。莉亞確實死了，但她的鬼魂出現在艾德懷爾的夢中，揭示真正的皇帝已被薩恩綁架，囚禁在另一個位面。莉亞試圖警告議會他邪惡的陰謀時，薩恩用混沌法杖殺了她。
 
- Together, Eadwyre and Barenziah plotted to gain the imposter's confidence and unmask him with the help of another friend of Ria's, who was currently in prison, but to whose dreams she had access, and who possessed great, albeit untapped, potential. Barenziah charmed and befriended the fake Emperor. By reading his secret diary she learned that he had broken the Staff into eight pieces and hidden them. She managed to obtain a copy of the key to Ria's friend's cell and bribed a guard to leave it within the cell, as if by accident. Their Champion, whose name was unknown even to Barenziah and Eadwyre, made his escape through a shift gate Ria had openned in a dark rat infested corner of the prison where the cowardly goblin guards feared to venture. It took Barenziah several months to learn the hiding places of all eight staff pieces through snatches of overheard conversation and rare glimpses of the diary. Once she had the vital information, she and Eadwyre fled to Wayrest where they managed to stave off the sporadic efforts of Tharn's henchmen to obtain revenge. Tharn, whatever else might be said of him, was no one's fool save perhaps Barenziah's, and he concentrated most of his efforts in tracking down and destroying the great Champion.
+ 艾德懷爾與巴倫西雅共同密謀贏得冒牌貨的信任，並在莉亞另一位友人的幫助下揭穿他。那人當時在獄中，但莉亞能進入他的夢，而他擁有巨大卻尚未開發的潛力。巴倫西雅迷惑並結交了假皇帝。藉由閱讀他的祕密日記，她得知他把法杖分成八截藏起。她設法取得莉亞友人牢房鑰匙的複製品，賄賂一名守衛把它像意外掉落一般留在牢房裡。他們的勇者——連巴倫西雅與艾德懷爾也不知道他的名字——經由莉亞在監獄一處黑暗、鼠患的角落開啟的移位之門逃脫，怯懦的哥布林守衛害怕踏入那裡。巴倫西雅花了數月，從偶然聽見的片言與罕見瞥見的日記中，得知全部八截法杖的藏匿處。一旦掌握關鍵資訊，她與艾德懷爾便逃往途歇城，設法抵擋住薩恩爪牙零星的報復。薩恩無論還能說他什麼，除了或許栽在巴倫西雅手上之外，絕非任何人的傻瓜，他把大部分精力集中在追蹤並摧毀那位偉大的勇者。
 
- As all now know, the brave, tireless, and forever nameless Champion was successful in reuniting the Staff of Chaos. With it, he destroyed Tharn and rescued the true Emperor, Uriel Septim VII. Following the Restoration, a grand state memorial service was held for Symmachus in the Imperial City, befitting the man who had served the Septim family so long and so well. Barenziah and good King Eadwyre had come to care deeply for one another, and had married in the year after their flight from Imperial City. Her children remained with her and a regent was appointed to rule Mournhold in her absence. She planned to return after Eadwyre's death. He was elderly when they wed so she knew that event, alas, could not be far off as the elves reckon time.
+ 如今人人皆知，那位勇敢、不知疲倦、永遠無名的勇者成功重聚了混沌法杖。憑它，他摧毀了薩恩，救出真正的皇帝烏列爾·塞普丁七世。復辟之後，帝都為西瑪庫斯舉行了盛大的國葬紀念儀式，以配得上這位如此長久、如此出色地侍奉塞普丁家族的人。巴倫西雅與善良的艾德懷爾國王已彼此深切關懷，並在逃離帝都後的那一年成婚。她的孩子們留在她身邊，哀傷之城則任命攝政在她缺席期間統治。她計畫在艾德懷爾死後返回。他們成婚時他已年邁，因此她知道那一天——唉——以精靈計算時間，不會太遠。

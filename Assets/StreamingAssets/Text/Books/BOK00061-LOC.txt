@@ -1,5 +1,5 @@
-Title: A History of Daggerfall
-Author: Odiva Gallwood
+Title: 匕首雨史
+Author: 奧迪瓦·高爾伍德
 IsNaughty: False
 Price: 358
 IsUnique: False
@@ -8,36 +8,36 @@ Content:
 
 [/font=2]
 
-[/center]A
+[/center]匕
 
-[/center]History
+[/center]首
 
-[/center]of
+[/center]雨
 
-[/center]Daggerfall
+[/center]史
 
 [/font=4]
 
- There is sufficient archaeological evidence for the modern historian to believe that there has been some variety of human settlement in the city-state of Daggerfall starting at least a thousand years before recorded history. The first use of the name Daggerfall to refer to the area around the current capitol was most probably in the 246th year of the 1st Era. The north half of the Iliac Bay, in fact all of the current province of High Rock, was conquered by invading Nords who brought a rough sort of civilization with them. One of the first civilized acts the Nords performed was a census -- the so-called Book of Life. Listed on page 933 of the Book is this entry:
+  現代史家已有充足考古證據相信，在有記載的歷史之前至少一千年，匕首雨城邦便已有某種人類聚落。以「匕首雨」稱呼當今都城附近地區，最早很可能是在第一紀元246年。伊利亞克灣北岸，實際上即今日整個高岩行省，被入侵的諾德人征服，他們帶來一種粗樸的文明。諾德人最先從事的文明舉措之一便是普查——所謂的《生命之書》。該書第933頁有如下記載：
 
- "North of the Highest bluffs, south of the moors, west of the hills, and east of the sea is called DAGGERFALL. 110 men, 93 women, 13 children under 8 years of age, 58 cows, 7 bulls, 63 chickens, 11 cocks, 38 hogs live here."
+  「最高峭壁之北，沼地之南，丘陵之西，大海之東，稱為匕首雨。此地住有男子110人，女子93人，八歲以下孩童13人，母牛58頭，公牛7頭，母雞63隻，公雞11隻，豬38頭。」
 
- Nearly four thousand years after this census was taken, we can see that these two hundred and sixteen people have multiplied heartily. The last census, in the year 3E 401, lists the population at over 110,000. It is always difficult to find an exact number, but the capitol city of Daggerfall certainly outnumbers her rivals, Sentinel and Wayrest.
+  這次普查近四千年後，我們可見這二百一十六人已繁衍興旺。最近一次普查在第三紀元401年，人口逾十一萬。精確數字向來難以求得，但匕首雨都城無疑多過其對手哨兵城與途歇城。
 
- It has been a consistant, if not actually helpful amusement of historians to find the origin of placenames. Daggerfall, by tradition, is said to refer to the knife the first chieftain threw to form the borders of his lands. But there are other legends that may have equal validity.
+  尋找地名由來，向來是史家一貫——即便未必真正有益——的消遣。依傳統說法，匕首雨得名於首位酋長拋出小刀以劃定領地邊界。但也有其他傳說，或許同樣可信。
 
- The Daggerfall entry from the Book of Life actually supports one theory about the reason for Daggerfall's longevity. The people were coastal fishermen, but they also found the land itself sufficiently rich to support raising livestock. This inclination of the early citizenry toward reinforcing their principal products brought stability to a fickle land.
+  《生命之書》中匕首雨的條目，其實支持一種關於其長盛不衰的理論。居民是沿海漁民，卻也發現土地本身足夠肥沃，足以飼養牲畜。早期公民這種強化主產的傾向，為一片反覆無常的土地帶來了穩定。
 
- Daggerfall thrived during the years of the Skyrim occupancy. When the Wild Hunt killed King Borgas of Winterhold in 1E 369, the northlands engaged in the War of Succession and Skyrim, greatly weakened, lost her holdings in High Rock and Morrowind. The Iliac Bay had become important strategically, and Daggerfall began to expand her military.
+  天際佔領時期，匕首雨蓬勃發展。第一紀元369年，野獵殺死冬堡之王博加斯後，北方陷入繼承戰爭，天際大為削弱，失去在高岩與晨風的領地。伊利亞克灣在戰略上變得重要，匕首雨開始擴張軍力。
 
- There were multiple opportunities for her to exercise this army and navy during the Direnni conflicts with the force of the Alessian Reform. The Dirennis were native Bretons, and Bretons are hardly ever given to excessive religion. Daggerfall became a minor base of operations for the Dirennis and their allies. Raven Direnni, the enchantress whose magic helped secure the final victory over the Alessians in the Glenumbria Moors, was one of the earliest occupants of Castle Daggerfall.
+  在迪倫尼家族與阿萊西亞改革勢力的衝突中，她有多次機會動用這支陸海軍。迪倫尼是土生布萊頓人，而布萊頓人極少過度耽於宗教。匕首雨成為迪伦尼及其盟友的小型行動基地。女巫拉文·迪倫尼的魔法，助他們在格倫姆布利亞沼地最終戰勝阿萊西亞派，她也是匕首雨城堡最早的居住者之一。
 
- Over the centuries that followed, the Dirennis felt into obscurity, but Daggerfall continued her growth. In 1E 609, King Thagore of Daggerfall defeated the army of Glenpoint and became the preeminant economic, cultural, and military force in southern High Rock. A position the kingdom has precariously kept ever since.
+  隨後數世紀，迪倫尼家族沒入湮沒，匕首雨卻持續成長。第一紀元609年，匕首雨的薩戈爾國王擊敗格倫角軍隊，成為高岩南部首屈一指的經濟、文化與軍事力量。這個王國此後一直岌岌可危地維持著這一地位。
 
- Ironically, it was another successful military exercise three hundred and seventy years later that ended Daggerfall's monopoly of Bay trade: the annihilation of the orcish capitol Orsinium by a joint effort of Daggerfall, the new kingdom of Sentinel, and the now extinct Order of Diagna. The scattering of the orcs from southeastern High Rock made the river route to the Bay more accessible. The tiny village of Wayrest grew like a flower that no longer feared the mow. In twenty years, Wayrest's trade profits equalled Daggerfall's. In forty years, Wayrest was the acknowledged master of Iliac Bay trade. In one hundred and twenty years, Wayrest became the Kingdom of Wayrest.
+  諷刺的是，三百七十年後另一次成功的軍事行動，卻結束了匕首雨對海灣貿易的壟斷：匕首雨、新興的哨兵城王國，以及現已滅絕的迪亞格納騎士團聯手殲滅獸人首都奧辛紐姆。獸人從高岩東南部散去，通往海灣的河道變得更暢通。小小的途歇村如不再懼怕刈割的花朵般綻放。二十年內，途歇城的貿易利潤已與匕首雨相當。四十年內，途歇城被公認為伊利亞克灣貿易的主宰。一百二十年內，途歇城成為途歇城王國。
 
- The Kingdom of Sentinel did not exhibit Wayrest's aggrandizement during the First Era. The Redguards were warriors learning the ways of the merchants, and their land was enemy enough to keep their population checked. Indeed, the number of people in all areas of the Iliac Bay was halved once in the First Era by the Thrassian Plague, once again by the War of Righteousness, and a third time by the invading Akavari. If Daggerfall had not spent its first thousand years preparing for the battles of the next thousand years, it is indeed conceivable that the Iliac Bay today might be Akavarian.
+  第一紀元期間，哨兵城王國並未展現途歇城那樣的壯大。紅守衛是正在學習商道的戰士，他們的土地本身便足以抑制人口。的確，伊利亞克灣各地人口在第一紀元曾因斯拉斯瘟疫減半一次，因正義之戰再減一次，又因阿卡維爾入侵第三次減半。若匕首雨未曾用最初一千年為後一千年的戰事做準備，今日的伊利亞克灣很可以想像會是阿卡維爾人的。
 
- The Second Era, like the latter part of the First Era, is a tapestry of wars, insurrections, and plagues. Daggerfall, Sentinel, and Wayrest continued to expand and improve their military and economic positions in the Bay. Daggerfall and Wayrest would transpose positions as major trading center of the Bay, and Daggerfall and Sentinel likewise bandied over which was the superior military power.
+  第二紀元一如第一紀元後期，是戰爭、叛亂與瘟疫交織的織錦。匕首雨、哨兵城與途歇城繼續在灣區擴張並提升軍力與經濟地位。匕首雨與途歇城輪流擔任海灣主要貿易中心，匕首雨與哨兵城同樣反覆爭奪誰才是更優越的軍事強權。
 
- The Iliac Bay has continued to hold an important position in the Imperial government of the Third Era. Rarely allies (though the combined armies in opposition to the Camoran Usurper in the 3rd century of the 3rd Era is a notable exception), but not always enemies, Daggerfall, Sentinel, and Wayrest have weathered the storms of contention, plague, famine, and pestilence. The recent War of Betony was typical of Iliac Bay warfare: sincere, frighteningly violent, and peaceably resolved.
+  伊利亞克灣在第三紀元帝國政府中仍佔重要地位。他們罕為盟友（第三紀元三世紀聯合對抗卡莫蘭篡奪者的軍隊是顯著例外），卻也不總是敵人；匕首雨、哨兵城與途歇城熬過了爭端、瘟疫、饑荒與疫病的風暴。近期的貝托尼戰爭是典型的伊利亞克灣戰事：誠懇、駭人地暴力，而又和平收場。

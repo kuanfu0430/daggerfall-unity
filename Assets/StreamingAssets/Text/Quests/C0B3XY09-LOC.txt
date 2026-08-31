@@ -1,0 +1,75 @@
+-- Quest: C:\QUESTS\WORKING\C0B3XY09.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 3X
+-- QuestId: 9
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 13
+Quest: C0B3XY09
+DisplayName: 大惡
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                           %pcn，我名叫_qgiver_。
+<ce>                          %god預言附近一座地城的核心
+<ce>                        正滋長著大惡。我們需要你去摧毀這東西。
+<ce>                         你願意嗎？
+
+RefuseQuest:  [1001]
+<ce>                       我沒時間可浪費。必須另找人接下這任務。
+
+AcceptQuest:  [1002]
+<ce>                      沒時間可浪費。前往___dungeon_。
+<ce>                        你會在那裡找到_evilfocus_。
+<ce>                   在=traveltime_天內摧毀它，一切就會恢復正常。
+<ce>                         完成時神殿會出現徵兆。
+<ce>                        回到我這裡，我會好好酬謝你。
+
+QuestComplete:  [1004]
+<ce>                          %pcn，你得到我們全體神職人員的感謝。
+<ce>                             邪惡已被摧毀。如我所承諾，
+<ce>                     這是_gold_金幣作為你的報酬。
+
+RumorsDuringQuest:  [1005]
+__qgiver_突然對___dungeon_非常感興趣。
+
+RumorsPostfailure:  [1006]
+那邪惡仍在___dungeon_裡，只是改了形態。
+
+RumorsPostsuccess:  [1007]
+__qgiver_摧毀了___dungeon_裡幾乎沒人知道存在的邪惡。
+
+QuestorPostsuccess:  [1008]
+你是那_evilfocus_的摧毀者，我當然記得你。
+
+QuestorPostfailure:  [1009]
+那_evilfocus_仍在滋長。我對你只有鄙夷。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 成員_qgiver_責成我摧毀
+ ___dungeon_中邪惡的_evilfocus_。
+ 必須在=traveltime_天內完成，否則邪惡將被釋放
+ 到一個無辜的世界。或者說，大致無辜的世界。
+
+Message:  1011
+<ce>                   當你伸手去拿_evilfocus_，
+<ce>                 它變成了一名美麗的女子。
+<ce>                                    
+<ce>                      「多麼可口的年輕凡人！
+<ce>                       我看你是來摧毀_evilfocus_的。
+<ce>                       我有個更好的主意。若我給你這件魔法_magicitem_，
+<ce>                       你就回神殿告訴他們找不到_evilfocus_。
+<ce>                      他們很難說你什麼，而你還能留下_magicitem_。」
+
+Message:  1012
+<ce>                        「那就死吧，像你這種虔誠的凡人該有的下場！」
+
+Message:  1013
+<ce>  詛咒已解除。你該向_qgiver_回報。
+
+Message:  1014
+<ce>  __qgiver_的憤怒不會輕易因這背叛而平息。

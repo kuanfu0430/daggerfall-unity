@@ -1,0 +1,86 @@
+-- Quest: C:\QUESTS\WORKING\M0B30Y04.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 30
+-- QuestId: 4
+Messages: 81
+Quest: M0B30Y04
+DisplayName: 戰士公會的巫妖
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 聽著，%pcf，若你
+<ce> 還沒替我們幹過一堆差事，我連提
+<ce> 都不會提。但有份差事我甚至
+<ce> 不想告訴你。聽起來像是
+<ce> 癡心妄想，而且更危險。是去
+<ce> ___mondung_ 幹掉一隻巫妖。而且
+<ce> 只付 _reward_ 金幣。你不會有興趣的，
+<ce> 對吧？
+
+RefuseQuest:  [1001]
+<ce> 感謝 %god 你還剩點
+<ce> 理智。那就讓那巫妖愛幹
+<ce> 什麼幹什麼。我沒意見。
+
+AcceptQuest:  [1002]
+<ce> 唉，我就知道不該提。聽著，若你
+<ce> 真要幹，把能弄到的最好裝備都帶上，
+<ce> 魔法物品、烏木刃，什麼都行。
+<ce> 這巫妖必須在 =1stparton_ 天內
+<ce> 被送進湮滅，而且你得在期限內
+<ce> 回來領酬。你真是不可思議，
+<ce> %pcf。祝你好運。你會
+<ce> 需要的。
+
+QuestFail:  [1003]
+<ce> 獵巫妖前先歇一會兒，%pcf？
+<ce> 只是別等太久。
+
+QuestComplete:  [1004]
+<ce> 我沒指望再見到你，%pcf，不騙你。
+<ce> %god 一定在照看你。
+<ce> 這是你的 _reward_ 金幣。好好享受。
+
+RumorsDuringQuest:  [1005]
+聽說有個蠢 %ra 要去打 ___mondung_ 的巫妖。
+<--->
+人人都在對那個去 ___mondung_ 打巫妖的 %ra 下注。
+
+RumorsPostfailure:  [1006]
+那巫妖還在外面某處，而且對我們不高興。
+<--->
+真希望他們別去惹那巫妖。只是把它惹怒了。
+
+RumorsPostsuccess:  [1007]
+居然有人殺了那巫妖！我還以為巫妖是不死的。
+<--->
+我賭那個去殺巫妖的 %ra 會輸，結果輸了錢。
+
+QuestorPostsuccess:  [1008]
+<ce> 巫妖殺手歸來了！接下來是什麼？
+<ce> 龍？迪德拉？
+
+QuestorPostfailure:  [1009]
+<ce> 我才不會接打巫妖的差事。從不明白
+<ce> 你為什麼接。現在你只是看起來蠢，
+<ce> 因為你殺不掉它。
+
+Message:  1020
+<ce> 可憐的凡人！你不該試圖
+<ce> 干涉不死者的事務。現在
+<ce> 我要把你加入我收藏的
+<ce> 被殺 %ra 傭兵裡。
+
+Message:  1030
+%qdt:
+ ___questgiver_ 的戰士公會雇我
+ 在 =1stparton_ 天內殺死一隻巫妖。
+ 巫妖的巢穴名叫 ___mondung_。
+
+Message:  1080
+<ce> 來，拿這張通往 ___newdung_ 的地圖。
+<ce> 對你這種巫妖殺手來說，這該是
+<ce> 早餐前就該幹的事。

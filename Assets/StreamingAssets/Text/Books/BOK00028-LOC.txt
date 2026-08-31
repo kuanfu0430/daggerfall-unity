@@ -1,5 +1,5 @@
-Title: Brief History of the Empire, Part I
-Author: Stronach
+Title: 帝國簡史，第一卷
+Author: 斯托納克
 IsNaughty: False
 Price: 352
 IsUnique: False
@@ -8,33 +8,33 @@ Content:
 
 [/font=2]
 
-[/center]A Brief History
+[/center]帝國
 
-[/center]of the Empire,
+[/center]簡史，
 
-[/center]Part I
+[/center]第一卷
 
 [/font=4]
- Before the day of Tiber Septim, all Tamriel was chaos. The poet Tracizis called that era "the days and nights of blood and venom." The kings were a petty lot of grasping tyrants, who fought Tiber's attempts to bring order to the land. But they were as disorganized as they were dissolute, and the strong hand of Septim brought peace forcibly to Tamriel. The year was 2E 896. The following year, the Emperor declared the beginning of a new era, so we began the 3rd Era, year aught.
+ 在泰伯·塞普汀的時代之前，整個泰姆瑞爾都是混亂。詩人特拉齊齊斯稱那個時代為「血與毒液的晝夜」。諸王是一幫貪婪的小暴君，對抗泰伯把秩序帶到這片土地的嘗試。但他們既放蕩又缺乏組織，塞普汀強有力的手腕以武力把和平帶到泰姆瑞爾。那一年是第二紀元896年。次年，皇帝宣布新紀元開始，於是我們開始了第三紀元，零年。
 
- For thirty-eight years, the Emperor Tiber reigned: a just, pious, and glorious age, when justice was known to one and all, from serf to king. It rained for a fortnight after as if the land of Tamriel itself was weeping.
+ 三十八年裡，泰伯皇帝統治：一個公正、虔誠而光榮的時代，從農奴到國王，人人皆知正義。此後連下兩週的雨，彷彿泰姆瑞爾這片土地本身在哭泣。
 
- The Emperor's eldest living son, Pelagius came to the throne. Though his reign was short, he was as strong and resolute as his father had been, and we could have enjoyed a continuation of the Golden Age. Alas, an unknown enemy of the Septims hired the cursed organization of cutthroats, the Dark Brotherhood, to kill the Emperor Pelagius I as he knelt at prayer at the Temple of the One in the Imperial City. Pelagius I's reign lasted less than three years.
+ 皇帝尚在人世的長子佩拉吉奧斯登上王位。雖然在位短暫，他與父親一樣堅強果決，我們本可享受黃金時代的延續。可惜，塞普汀家族的一名未知敵人雇了那受詛咒的殺手組織黑暗兄弟會，在佩拉吉奧斯一世皇帝於帝國城唯一神殿跪禱時殺死了他。佩拉吉奧斯一世在位不到三年。
 
- Pelagius had no living children, so the crown of the Empire passed to his first cousin, the daughter of Tiber's brother Agnorith. So did Kintyra, former Queen of Silvenar, assume the throne. Kintyra I was blessed with a time of prosperity and good harvests, and was an avid patroness of art, music, and dance.
+ 佩拉吉奧斯沒有在世的子女，於是帝國的皇冠傳給他的堂妹，泰伯之弟阿格諾里斯的女兒。於是金泰拉，前希爾維納女王，登上王位。金泰拉一世蒙受繁榮與豐收的祝福，是藝術、音樂與舞蹈熱心的贊助者。
 
- Kintyra's son was crowned after her death, the first Emperor of Tamriel to use the imperial name Uriel. The Emperor Uriel I was the great lawmaker of the Septim Dynasty, and a promoter of independent organizations and guilds. Under his kind hand, the Fighters Guild and the Mages Guild increased in prominence throughout Tamriel.
+ 金泰拉之子在她死後加冕，是第一位使用帝國之名尤利爾的泰姆瑞爾皇帝。尤利爾一世皇帝是塞普汀王朝偉大的立法者，也是獨立組織與公會的推動者。在他仁慈的手下，戰士公會與法師公會在整個泰姆瑞爾聲望日增。
 
- His son Uriel II reigned for eighteen years, from the death Uriel I in 3E 64 to 3E 82. Tragically, the rule of Uriel II was cursed with blights, plagues, and insurrections. His tenderheartedness inherited from his father did not serve Tamriel well, and little justice was done.
+ 其子尤利爾二世在位十八年，從尤利爾一世於第三紀元64年去世到第三紀元82年。可悲的是，尤利爾二世的統治被災荒、瘟疫與叛亂所詛咒。他從父親繼承的心軟並未好好服務泰姆瑞爾，正義很少得到伸張。
 
- Pelagius II inherited not only the throne from his father, but the debt from the poor financial and judicial management. Pelagius dismissed all of the old Elder Council, and allowed only those willing to pay great sums to return. He encouraged similiar acts of his vassals, the kings of Tamriel, and by the end of his seventeen year reign, Tamriel had returned to prosperity. His critics, however, have suggested that any advisor of wisdom, but without gold had been forcibly ousted. This may have led to some of the trouble his son Antiochus faced when he became Emperor.
+ 佩拉吉奧斯二世不僅從父親繼承了王位，也繼承了糟糕財政與司法管理留下的債務。佩拉吉奧斯解散了整個上古議會，只允許願意支付巨款的人返回。他鼓勵封臣、亦即泰姆瑞爾諸王採取類似舉動，到他十七年統治結束時，泰姆瑞爾已恢復繁榮。然而他的批評者指出，任何有智慧卻沒有金幣的顧問都被強行趕出。這或許導致了他的兒子安條克成為皇帝時所面對的某些麻煩。
 
- Antiochus was certainly one of the most flamboyant of the usually austere Septim family. He had many mistresses and nearly as many wives, and was renowned for his grandness of dress and good humor. Unfortunately, his reign was rife with civil wars, surpassing even that of his grandfather Uriel II. The War of the Isle in 3E 110, twelve years after Antiochus assumed the throne, nearly took the province of Sumurset Isle away from Tamriel. The united alliance of the kings of Sumurset and Antiochus only managed to defeat King Orgnum of the island-kingdom of Pyandonea due to a freak storm. Legend credits the Psijic Order of the Isle of Artaeum with the magic behind the storm.
+ 安條克無疑是通常嚴肅的塞普汀家族中最華麗的一位。他有許多情婦，妻子幾乎一樣多，以衣著的鋪張與幽默感聞名。不幸的是，他的統治內戰頻仍，甚至超過祖父尤利爾二世。第三紀元110年的島嶼之戰，在安條克登基十二年後，幾乎使夏暮島行省脫離泰姆瑞爾。夏暮諸王與安條克的聯合同盟，只因一場怪風才擊敗了島國派安多尼亞的奧格努姆國王。傳說把風暴背後的魔法歸於阿塔耶姆島的賽伊克修會。
 
- The story of Kintyra II, heiress of her father's throne, is certainly one of the saddest tales in modern history. Her first cousin Uriel, son of Queen Potena of Solitude, accused Kintyra of being a bastard, alluding to the famous decadence of the Imperial City during her father's reign. When this accusation failed to stop her coronation, Uriel bought the support of several disgrunted kings of High Rock, Skyrim, and Morrowind, and, with Queen Potena's assistance, coordinated three attacks on the Septim Empire.
+ 金泰拉二世繼承父位的故事，無疑是近代史上最悲哀的故事之一。她的堂兄尤利爾，獨孤城波提娜女王之子，指控金泰拉是私生子，影射其父統治期間帝國城著名的放蕩。當這指控未能阻止她加冕，尤利爾買通高岩、天際與晨風若干不滿的國王，並在波提娜女王協助下，協調了對塞普汀帝國的三次進攻。
 
- The first attack occured in the Iliac Bay that separates High Rock and Hammerfell. Kintyra's entourage was destroyed and the Emperess was taken captive. For two years, Kintyra II languished in an Imperial prison believed to be somewhere in Glenpoint or Glenmoril Wyrd before she was slain in her cell.
+ 第一次進攻發生在分隔高岩與落錘省的伊利亞克灣。金泰拉的隨從被殲滅，女皇被俘。兩年裡，金泰拉二世困於據說位於格倫角或格倫莫利女巫團某處的帝國監獄，直到在牢房中被殺。
 
- The second attack was on a series of Imperial garrisons along the coastal Morrowind islands. The Emperess' consort Kontin Arynx died defending the forts. The third attack was a siege of the Imperial City itself, occuring after the Elder Council had divided the army to attack western High Rock and eastern Morrowind. The much weakened government had little defense against Uriel's attack, and surrendered after only a fortnight of resistance. Uriel took the throne that night and proclaimed himself Uriel III, Emperor of Tamriel. The year was 3E 121.
+ 第二次進攻針對晨風沿海諸島的一系列帝國駐軍。女皇的配偶康廷·阿林克斯死於防守要塞。第三次進攻是圍攻帝國城本身，發生在上古議會已把軍隊分開去攻打西部高岩與東部晨風之後。大為削弱的政府面對尤利爾的進攻幾乎沒有防禦，只抵抗了兩週便投降。尤利爾當夜登上王位，宣布自己為尤利爾三世，泰姆瑞爾皇帝。那一年是第三紀元121年。
 
- Thus begins the War of the Red Diamond, described in Volume II of this series.
+ 紅鑽戰爭由此開始，見本系列第二卷。

@@ -1,0 +1,153 @@
+-- Quest: C:\QUESTS\WORKING\B0B81Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 81
+-- QuestId: 2
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 43
+Quest: B0B81Y02
+DisplayName: 失落的神器
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                         我是本騎士團的_qgiver_。
+<ce>                     我有一項極為危險的任務，%pcf。
+<ce>                     能接下這差事的人寥寥無幾。
+<ce>                    一名巫妖正在召集不死軍團。
+<ce>                     我們需要有人進去制止。
+
+RefuseQuest:  [1001]
+<ce>                          我理解，%pcn。
+<ce>                    這連對你都太危險了。還有一兩位
+<ce>                     英雄也許能辦成。我去問問他們。
+
+AcceptQuest:  [1002]
+<ce>                    你確實勇敢。那巫妖已把___dungeon_
+<ce>                       當成巢穴。去那裡摧毀那污穢之物。
+<ce>                    若你未能歸來，我們會在=2dung_天後
+<ce>                    另派人前往。
+
+QuestComplete:  [1004]
+<ce>                        向英雄%pcn致敬！
+<ce>                       幹得好！你的名字將被記入
+<ce>                     史冊。
+
+RumorsDuringQuest:  [1005]
+%reg正嚴陣以待，準備抵擋巫妖的進攻。
+<--->
+整個%reg都在祈禱==qgiver_能殺死那巫妖。
+
+RumorsPostfailure:  [1006]
+巫妖暫時離開了___dungeon_。暫時。
+<--->
+巫妖會回到___dungeon_。那是一定的。
+
+RumorsPostsuccess:  [1007]
+%reg得救了，我們得感謝==qgiver_。
+<--->
+==qgiver_的一名%ra騎士擊敗了那大巫妖。
+
+QuestorPostsuccess:  [1008]
+不幫%reg的救命恩人，未免太失禮了，對吧？
+
+QuestorPostfailure:  [1009]
+你運氣好，那巫妖沒把整個%reg毀掉，%pcf。
+<--->
+%reg曾因那巫妖陷入嚴重危險。而你毫不在乎。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_責成我摧毀
+ ___dungeon_的巫妖。
+ 我有=2dung_天完成任務。
+
+Message:  1011
+<ce>                       巫妖死了。沒了他的魔法支撐，
+<ce>                       不死軍團將重歸墳墓。
+
+Message:  1020
+……終於找到一條線索了！
+ 我甚至不敢點名它所指向的
+ 那件失落的遠古力量神器。
+ 對我來說太遲了。我將死在
+ ___dungeon2_這黑暗通道之中。
+ 首先，我要藏起我的線索。
+ 若我無法……
+
+Message:  1028
+<ce>                        抱歉，%pcn。你太久沒回來，
+<ce>                     我們以為你死了。另一名公會成員
+<ce>                    接下了這任務。
+
+Message:  1030
+<ce>                   你大老遠跑來跟我說話，現在卻不想繼續？
+<ce>                   不可思議！從我眼前消失！
+
+Message:  1031
+<ce>                     詛咒你打擾我，%pcn。%oth，我當然
+<ce>                知道你的名字，而且不，我不會告訴你我的。
+<ce>                   當巫師要是不能知道普通人不知道的事，
+<ce>                    還有什麼意思。我也知道你為何而來。
+<ce>                      你想要克里薩米爾，只是你不知道
+<ce>                   它叫這名字，對吧？你要得到它，
+<ce>                     就得先幫我一個忙。
+
+Message:  1032
+<ce>                     詛咒你打擾我，%pcn。%oth，我當然
+<ce>                  知道你的名字。當巫師要是不能知道
+<ce>                   普通人不知道的事，還有什麼意思。
+<ce>                    我也知道你為何而來。你想要
+<ce>                    死靈法師護符，只是你不知道
+<ce>                      它叫這名字，對吧？你要得到它，
+<ce>                     就得先幫我一個忙。
+
+Message:  1033
+<ce>                     詛咒你打擾我，%pcn。%oth，我當然
+<ce>                  知道你的名字。當巫師要是不能知道
+<ce>                   普通人不知道的事，還有什麼意思。
+<ce>                    我也知道你為何而來。你想要
+<ce>                   馬格努斯之杖，只是你不知道
+<ce>                    它叫這名字，對吧？你要得到它，
+<ce>                   就得先幫我一個忙。
+
+Message:  1034
+<ce>                     詛咒你打擾我，%pcn。%oth，我當然
+<ce>                  知道你的名字。當巫師要是不能知道
+<ce>                   普通人不知道的事，還有什麼意思。
+<ce>                     我也知道你為何而來。你想要
+<ce>                    術士戒指，只是你不知道
+<ce>                    它叫這名字，對吧？你要得到它，
+<ce>                   就得先幫我一個忙。
+
+Message:  1035
+<ce>                    你看，我其實不知道你的神器在哪。
+<ce>                   我曾祖父曾經尋找過它。據家族歷史，
+<ce>                   他找到時，法師公會從他手中奪走，
+<ce>                   藏到某處。此後他的靈魂從未安寧。
+<ce>                    若你在安撫他的魂靈時帶著這綹我的頭髮，
+<ce>                    他也許會告訴你所尋之物的下落。
+<ce>                        他盤據在___dungeon3_。
+
+Message:  1040
+<ce>                    你持有我血脈的信物，
+<ce>                     一綹後人的頭髮。要知道我已在
+<ce>                    這些廳堂遊蕩數十載，等待這徵兆。
+<ce>                       前往__mageguild_的_mageguild_。
+<ce>                        你會在那裡找到我曾經失去的東西。
+
+Message:  1041
+%qdt:
+ 我在___dungeon2_找到了_wizard_。
+ 如今我必須去___dungeon3_尋找
+ %g3的曾祖父，他也許能告訴我神器的位置。
+ _wizard_還給了我一綹%g3的頭髮，
+ 好讓我能讓他安息。
+
+Message:  1042
+%qdt:
+ _wizard_的曾祖父告訴我，
+ 我能在__mageguild_的_mageguild_
+ 找到那神器。

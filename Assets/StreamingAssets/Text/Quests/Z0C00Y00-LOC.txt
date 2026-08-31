@@ -1,0 +1,120 @@
+-- Quest: C:\QUESTS\WORKING\Z0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Mephala
+-- Repute: 0
+-- QuestId: 0
+Messages: 42
+Quest: Z0C00Y00
+DisplayName: 梅法拉的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              我就知道會是你。我本不該回應這些召喚。
+<ce>            好吧，或許蟲子想進化成黃蜂是自然的。很好，
+<ce>               %pcf，我會給你力量，但你必須先為我做一件事。
+<ce>                  我需要人殺掉某個麻煩的小貴族。我能
+<ce>             指望你嗎？
+
+RefuseQuest:  [1001]
+<ce>               那也好。我有比為忘恩負義、懶惰的陰溝老鼠
+<ce>                 建立權力基礎更好的時間用途。
+
+AcceptQuest:  [1002]
+<ce>             嗯，這總算是點什麼。你可以在__palace_找到這個
+<ce>                     惱人的官員_enemy_，他自以為安穩
+<ce>              地待在宮殿裡。我不知道你要怎麼進去，或許你會
+<ce>                想出辦法。或許。若你沒設法把自己弄死，
+<ce>             就去___qgfriend_，我會安排僕人把你的新力量來源
+<ce>             _artifact_帶給你。我會請我的僕人_qgfriend_在
+<ce>                __qgfriend_等你=1stparton_天。請不要遲到。
+<ce>                   就這些。
+
+QuestFail:  [1003]
+<ce>                     不、不、不、不！你先殺掉
+<ce>                          __palace_的騎士，
+<ce>                    然後再來見我！
+<ce>                        %oth，梅法拉說得對。
+
+QuestComplete:  [1004]
+<ce>                    日安，%pcf，我是_qgfriend_。
+<ce>            梅法拉告訴我你可能會出現，但她對你能否活過與
+<ce>             _enemy_的遭遇表示懷疑。嗯，幸好我帶了那把刃，
+<ce>                 對吧？抱歉若梅法拉對你說了難聽的話。
+<ce>           有_enemy_死了，她心情該會好很多。單憑這一點，
+<ce>              我就感謝你。
+
+--removed odd <---> in 1004.
+
+RumorsDuringQuest:  [1005]
+_enemy_說%g能找到通往黑暗兄弟會總部的路。
+<--->
+有_enemy_跟他們作對，黑暗兄弟會一定嚇壞了。
+
+RumorsPostfailure:  [1006]
+黑暗兄弟會派人去抓_enemy_，但他們殺不了%g2！
+<--->
+那次刺殺失敗後，_enemy_已搬出__palace_。
+
+RumorsPostsuccess:  [1007]
+_enemy_一定太接近找到夜側收容所的位置了。
+<--->
+我猜黑暗兄弟會聽說了_enemy_與%g3的野心。
+
+Message:  1011
+_qgfriend_就是在此地%di的__qgfriend_裝闊的那個勢利=qgfriend_。
+<--->
+_qgfriend_是此地%di、__qgfriend_那個=qgfriend_的名字。
+
+Message:  1012
+_qgfriend_是梅法拉在%reg的密探之一，以__qgfriend_為據點。
+<--->
+_qgfriend_是梅法拉的棋子；%g是__qgfriend_的一個=qgfriend_。
+
+Message:  1013
+梅法拉是謀殺的迪德拉攝政，也是黑暗兄弟會的女主保。
+<--->
+梅法拉是湮滅親王之一，其領域為謀殺。
+
+Message:  1014
+<ce> _artifact_是具有吸血之力的神器，吸取受害者的生命，同時餵養其主人。
+
+Message:  1020
+%qdt:
+ 我與迪德拉親王之一梅法拉訂了契約——我殺死一名叫_enemy_
+ 的官員，她給我一件名叫_artifact_的神器。她的聯絡人
+ _qgfriend_會在___qgfriend_的__qgfriend_等我=1stparton_天。
+ 另一個麻煩是梅法拉告訴我，_enemy_住在__palace_的宮殿。
+ 要接近%g2可能不容易。
+
+Message:  1030
+<ce>                       梅法拉會驕傲——
+<ce>                         _enemy_死了。該逃了。
+
+Message:  1040
+<ce>              你是誰，在這裡做什麼？
+
+Message:  1041
+<ce>           你們鬼鬼祟祟的刺客都一樣。所以我才決定給自己找點
+<ce>           真正的保護。=bodyguard_！醒醒，你這大蠢漢。殺！
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 2 times.
+--                %g occurs 2 times.
+--               %g2 occurs 3 times.
+--               %g3 occurs 8 times.
+--              %oth occurs 1 time.
+--              %pcf occurs 3 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 1 time.
+--       =1stparton_ occurs 2 times.
+--       =bodyguard_ occurs 1 time.
+--        =qgfriend_ occurs 5 times.
+--         __palace_ occurs 4 times.
+--       __qgfriend_ occurs 6 times.
+--        _artifact_ occurs 3 times.
+--           _enemy_ occurs 18 times.
+--        _qgfriend_ occurs 8 times.

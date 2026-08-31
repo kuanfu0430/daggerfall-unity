@@ -1,0 +1,74 @@
+-- Quest: C:\QUESTS\WORKING\B0B20Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 20
+-- QuestId: 7
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0B20Y07
+DisplayName: 獸人再起風波
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     容我自我介紹。我是
+<ce>                         ==qgiver_的_qgiver_。
+<ce>                      這附近似乎有一夥獸人盜匪
+<ce>                     盤據著。誰能掃平他們，
+<ce>                         %reg的榮耀就歸誰。
+<ce>                       能指望你嗎，%pcf？
+                                     <--->
+<ce>                     獸人正湧入美麗的%reg，
+<ce>                        所過之處盡是污穢。
+<ce>                    你可願助我們完成這場淨化？
+
+RefuseQuest:  [1001]
+<ce>                      你是我今天第四個拒絕的人。
+<ce>                     看來沒人想再對付獸人了。
+
+AcceptQuest:  [1002]
+<ce>                     你不必殺光那夥裡的每一個獸人。
+<ce>                      只要幹掉相當數量，
+<ce>                       並務必殺死他們的首領
+<ce>                           =monster_。
+<ce>                         我碰巧知道他們盤據在
+<ce>                         __dungeon_。若你未能在
+<ce>                     =2dung_天內回來，我會在葬禮上
+<ce>                           為你唱頌辭。
+
+QuestComplete:  [1004]
+<ce>                     漂亮！商人們已經跟我說，
+<ce>                      獸人一走他們有多高興。
+<ce>                     你為騎士團爭了光。
+
+RumorsDuringQuest:  [1005]
+__dungeon_的獸人幾乎把正常商隊路線毀了。
+<--->
+__dungeon_的獸人以前還算平和。現在可完全不是了。
+
+RumorsPostfailure:  [1006]
+獸人自己搬走了。但我敢打賭他們還會回來。
+
+RumorsPostsuccess:  [1007]
+%kno從__dungeon_的獸人手中拯救了%reg。英雄是一名%ra騎士。
+
+QuestorPostsuccess:  [1008]
+能為您效勞是我的榮幸，哦獸人殲滅者。
+
+QuestorPostfailure:  [1009]
+哦，你好，%pct。若那檔獸人事辦成了，我會更高興見到你。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_交付我掃平一夥
+ 盤據在__dungeon_的獸人盜匪。
+ 尤其必須除掉首領，某個_monster_。
+ 我得在=2dung_天內回到%g2身邊，
+ 否則%g會當我已死。
+
+Message:  1011
+<ce>                      你已殺死=monster_。
+<ce>                      沒了首領，這些獸人
+<ce>                  頂多再成個麻煩而已。

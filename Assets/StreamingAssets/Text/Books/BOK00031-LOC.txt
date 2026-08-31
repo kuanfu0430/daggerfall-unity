@@ -1,5 +1,5 @@
-Title: Brief History of the Empire, Part IV
-Author: Stronach
+Title: 帝國簡史，第四卷
+Author: 斯托納克
 IsNaughty: False
 Price: 352
 IsUnique: False
@@ -8,36 +8,36 @@ Content:
 
 [/font=2]
 
-[/center]A Brief History
+[/center]帝國
 
-[/center]of the Empire,
+[/center]簡史，
 
-[/center]Part IV
+[/center]第四卷
 
 [/font=4]
 
- The first book of this series described, in brief, the first eight emperors of the Septim Dynasty beginning with Tiber I. The second volume described the War of the Red Diamond and the six emperors who followed. The third volume describes the troubles of the next three emperors, the frustrated Uriel IV, the ineffectual Cephorus II, and the the heroic Uriel V. At Uriel V's death across the sea in distant hostile Akavir, Uriel VI was but five years old. In fact, Uriel VI was born only shortly before his father left for Akavir. Uriel V's only other progeny, by a different woman, were the twins Morihatha and Eloisa, who had been born a month after Uriel V left. Uriel VI was coronated in the 290th year of the third era. The consort Thonica as the boy's mother was given a restricted Regency until Uriel VI reached his minority. The Council retained the real power, as they had ever since the days of Katariah I.
+ 本系列第一冊簡述了塞普汀王朝前八位皇帝，始於泰伯一世。第二卷描述了紅鑽戰爭及隨後的六位皇帝。第三卷描述了其後三位皇帝的困境：受挫的尤利爾四世、無能的塞弗勒斯二世，以及英勇的尤利爾五世。尤利爾五世在遙遠敵對的阿卡維爾海外死去時，尤利爾六世才五歲。事實上，尤利爾六世只在父親前往阿卡維爾前不久出生。尤利爾五世僅有的其他後代，出自另一名女子，是雙胞胎莫里哈薩與埃洛伊薩，在尤利爾五世離開一個月後出生。尤利爾六世於第三紀元290年加冕。皇妃索妮卡作為男孩的母親，被授予有限的攝政，直到尤利爾六世成年。真正的權力仍在上古議會手中，一如卡塔瑞亞一世的時代以來。
 
- The Council so enjoyed its unlimited and unrestricted freedom to make laws (and profits), Uriel VI was not given full license to rule until 307, when he was 22 years old. He had been slowly assuming positions of responsibility for years, but both the Council and his mother, who enjoyed even her limited regency, were loath to give him reign. By the time he came to the throne, the mechanisms of government gave him little power, but the power to veto.
+ 上古議會如此享受其無限、不受限制的立法（與牟利）自由，尤利爾六世直到307年二十二歲時才被給予充分統治權。多年來他一直慢慢承擔職責，但議會與他的母親——她甚至享受那有限的攝政——都不願把統治交給他。等他登上王位時，政府機制給他的權力很少，卻有否決之權。
 
- This power he regularly exercised. By 313, Uriel VI could boast with conviction that he truly did rule Tamriel. He utilized defunct spy networks and guard units to bully and coerce the difficult members of the Elder Council. His sister was his usual ally, after her marriage to Baron Ulfe Gersen of Winterhold brought her considerable wealth and influence. As the sage Ugaridge said, "Uriel V conquered Esroniet, but Uriel VI conquered the Elder Council."
+ 這權力他經常行使。到313年，尤利爾六世可以確信地誇口，他真正統治了泰姆瑞爾。他利用廢棄的間諜網路與衛隊，威嚇、脅迫上古議會中難纏的成員。他的妹妹通常是他的盟友，她嫁給冬堡男爵烏爾費·格森後，帶來可觀的財富與影響力。正如賢者烏加里奇所說：「尤利爾五世征服了埃斯羅尼耶，尤利爾六世征服了上古議會。」
 
- When Uriel VI fell from his horse and could not be saved by the finest Imperial healers, his beloved sister Morihatha took the throne. At 25 years of age, she had been described by (admittedly self-serving) diplomats as the most beautiful creature in Tamriel. She was certainly well-learned, vivacious, athletic, and a well-practiced politician. She brought the Archmagister of Skyrim to the Imperial City and created the second Imperial Battlemage since the days of Tiber Septim.
+ 當尤利爾六世墜馬、連最出色的帝國治療者也救不了他時，他所摯愛的妹妹莫里哈薩登上王位。二十五歲時，她已被（固然別有用心的）外交官描述為泰姆瑞爾最美麗的生物。她無疑博學、活潑、矯健，而且是訓練有素的政治家。她把天際的首席法師請到帝國城，設立自泰伯·塞普汀時代以來第二位帝國戰法師。
 
- Morihatha finished the job her brother had begun, and made the Imperial Province truly a government under the Emperess. Outside the Imperial Province, however, the Empire had been slowly disintegrating. Open revolutions and civil wars had raged un challenged since the days of her grandfather Cephorus II. Carefully coordinating her counterattacks, Morihatha slowly took back her rebellious vassals, always avoiding overextending herself.
+ 莫里哈薩完成了兄長開始的工作，使帝國行省真正成為女皇治下的政府。然而在帝國行省之外，帝國一直在慢慢解體。公開革命與內戰自其祖父塞弗勒斯二世的時代以來便肆虐無阻。莫里哈薩精心協調反擊，慢慢收復叛亂的封臣，始終避免過度擴張。
 
- Though Morihatha's military campaigns were remarkable successful, the Council was often frustrated by her deliberate pace. One Councilman, an Argonian named Thoricles Romus, furious at her refusal to send troops to his troubled lands, is believed to be the man who hired the assassins who claimed her life in 3E 339. Romus was tried and executed, though he protested his innocence. Morihatha had no surviving children, and Eloisa had died of a fever four years before. Eloisa's 25-year-old son Pelagius was crowned Pelagius IV.
+ 雖然莫里哈薩的軍事戰役極為成功，議會卻常因她審慎的步調而沮喪。一名亞龍人議員索里克勒斯·羅穆斯，因她拒絕派兵到他動盪的土地而震怒，據信就是雇兇在第三紀元339年取她性命的人。羅穆斯受審並被處決，儘管他抗議無辜。莫里哈薩沒有在世的子女，埃洛伊薩四年前已死於熱病。埃洛伊薩二十五歲的兒子佩拉吉奧斯加冕為佩拉吉奧斯四世。
 
- Pelagius IV continued his aunt's work, slowly bringing back the seditious kingdoms of his Empire. He had Morihatha's patience and deliberate pace in his endeavors, but, alas, he did not have her success. The kingdoms had been free of constraints for so long, even a benign Imperial presence was odious. Nevertheless, when Pelagius died, after an astonishing forty-nine year reign, Tamriel was closer to unity than it had been since the days of Uriel I.
+ 佩拉吉奧斯四世繼續姑母的工作，慢慢把帝國中煽動叛亂的王國拉回來。他在努力中有莫里哈薩的耐心與審慎步調，可惜沒有她的成功。那些王國擺脫約束太久，即便善意的帝國存在也令人生厭。儘管如此，佩拉吉奧斯在驚人的四十九年統治後去世時，泰姆瑞爾比自尤利爾一世的時代以來更接近統一。
 
- Our current Emperor, his Awesome and Terrible Majesty, Uriel Septim VII, son of Pelagius IV, has the diligence of his great aunt Morihatha, the political skill of hallenged since the days of her grandfather Cephorus II. Carefully coordinating her counterattacks, Morihatha slowly took back her rebellious vassals, always avoiding overextending herself.
+ 當今皇帝，威嚴可畏的陛下尤利爾·塞普汀七世，佩拉吉奧斯四世之子，有其姑祖母莫里哈薩的勤勉，其政治手腕自其祖父塞弗勒斯二世的時代以來便肆虐無阻。莫里哈薩精心協調反擊，慢慢收復叛亂的封臣，始終避免過度擴張。
 
- Though Morihatha's military campaigns were remarkable successful, the Council was often frustrated by her deliberate pace. One Councilman, an Argonian named Thoricles Romus, furious at her refusal to send troops to his troubled lands, is believed to be the man who hired the assassins who claimed her life in 3E 339. Romus was tried and executed, though he protested his innocence. Morihatha had no surviving children, and Eloisa had died of a fever four years before. Eloisa's 25-year-old son Pelagius was crowned Pelagius IV.
+ 雖然莫里哈薩的軍事戰役極為成功，議會卻常因她審慎的步調而沮喪。一名亞龍人議員索里克勒斯·羅穆斯，因她拒絕派兵到他動盪的土地而震怒，據信就是雇兇在第三紀元339年取她性命的人。羅穆斯受審並被處決，儘管他抗議無辜。莫里哈薩沒有在世的子女，埃洛伊薩四年前已死於熱病。埃洛伊薩二十五歲的兒子佩拉吉奧斯加冕為佩拉吉奧斯四世。
 
- Pelagius IV continued his aunt's work, slowly bringing back the seditious kingdoms of his Empire. He had Morihatha's patience and deliberate pace in his endeavors, but, alas, he did not have her success. The kingdoms had been free of constraints for so long, even a benign Imperial presence was odious. Nevertheless, when Pelagius died, after an astonishing forty-nine year reign, Tamriel was closer to unity than it had been since the days of Uriel I.
+ 佩拉吉奧斯四世繼續姑母的工作，慢慢把帝國中煽動叛亂的王國拉回來。他在努力中有莫里哈薩的耐心與審慎步調，可惜沒有她的成功。那些王國擺脫約束太久，即便善意的帝國存在也令人生厭。儘管如此，佩拉吉奧斯在驚人的四十九年統治後去世時，泰姆瑞爾比自尤利爾一世的時代以來更接近統一。
 
- Our current Emperor, his Awesome and Terrible Majesty, Uriel Septim VII, son of Pelagius IV, has the diligence of his great aunt Morihatha, the political skill of his great uncle Uriel VI, and the military prowess of his great grand-uncle Uriel V. For twenty-one years he reigned and brought justice and order to Tamriel. In the year 3E 389, his Imperial Battlemage Jagar Tharn betrayed him.
+ 當今皇帝，威嚴可畏的陛下尤利爾·塞普汀七世，佩拉吉奧斯四世之子，有其姑祖母莫里哈薩的勤勉，其叔祖父尤利爾六世的政治手腕，以及其曾叔祖父尤利爾五世的軍事才能。二十一年裡他統治並把正義與秩序帶到泰姆瑞爾。第三紀元389年，他的帝國戰法師賈加·薩恩背叛了他。
 
- Uriel VII was imprisoned in a dimension of Tharn's creation, and Tharn used his magic of illusion to assume the Emperor's aspect. For the next ten years, Tharn used Imperial priveleges, but did not continue Uriel VII's schedule of reconquest. It is not entirely known yet what Tharn's goals and personal accomplishments were during the ten years he imitated his liege lord. In 3E 399, a mysterious champion defeated the Battlemage in the dungeons of the Imperial Palace and freed Uriel VII from his other dimensional cell.
+ 尤利爾七世被囚禁在薩恩所創的維度裡，薩恩用幻術魔法假扮皇帝的形貌。此後十年，薩恩使用帝國特權，卻不繼續尤利爾七世的再征服日程。薩恩在那十年模仿其君主期間的目標與個人成就，至今尚未完全為人所知。第三紀元399年，一名神秘的勇士在帝國宮殿的地城中擊敗了戰法師，把尤利爾七世從異維牢房中救出。
 
- Since his release, Uriel VII has worked diligently to renew the battle to reunite Tamriel. Tharn's interference broke the momentuum, but the years since then have proven that the glorious golden age of Tiber Septim may be visited on Tamriel once again.
+ 獲釋以來，尤利爾七世勤勉工作，重新展開統一泰姆瑞爾的戰鬥。薩恩的干擾打斷了勢頭，但此後的歲月已證明，泰伯·塞普汀那光榮的黃金時代，或許會再次降臨泰姆瑞爾。

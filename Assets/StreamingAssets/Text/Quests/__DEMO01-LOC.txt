@@ -1,0 +1,7 @@
+- Minimal example quest used to demonstrate how to script custom actions
+
+Quest: __DEMO01
+
+QRC:
+
+- No text resources

@@ -1,0 +1,145 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 32
+Quest: A0C00Y00
+DisplayName: 郵差
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我叫 _qgiver_。我有一項需要極度隱密的任務。
+<ce> 風險很小，我會付你 _gold_ 金幣。
+<ce> 只會花你 =traveltime_ 天。除非你接受，否則我不能多說。
+                                     <--->
+<ce> 哈囉，年輕的 %ra。想不想只靠傭兵圈所謂的「偷天換日」
+<ce> 就賺到 _gold_ 金幣？
+
+RefuseQuest:  [1001]
+<ce> 我理解。很高興我沒向你透露任何細節。現在你無法背叛我。
+                                     <--->
+<ce> 好吧，但缺乏野心很可能就是你的敗因，年輕的朋友。
+
+
+AcceptQuest:  [1002]
+<ce> 去 __inn_ 的 _inn_。
+<ce> 那兒住著一名帶信的信差。拿走那封信，把這封假的放回去。
+<ce> 別動他任何其他物品。若他發現信被換過，我所有計畫都會毀了。
+<ce> 若你被逮到，別費心來找我。
+
+QuestFail:  [1003]
+<ce> 你不是有封信要替我「送」嗎？
+                                     <--->
+<ce> 完成任務再回來，%pcf。
+
+QuestComplete:  [1004]
+<ce> 啊！幹得好，%pcf。這是你的報酬。
+<ce> 永遠別對任何人提起此事。我會否認見過你。
+
+RumorsDuringQuest:  [1005]
+<ce> 今年收成看來不錯。
+
+RumorsPostfailure:  [1006]
+<ce> _qgiver_ 最近日子不好過。
+
+RumorsPostsuccess:  [1007]
+<ce> _qgiver_ 最近走了一連串好運。
+
+QuestorPostsuccess:  [1008]
+<ce> 噓。我當然記得你替我跑的那件換信小事，
+<ce> 但我寧願沒有別人知道。
+
+QuestorPostfailure:  [1009]
+<ce> 是你！我不過是要你換一封簡單的信，你連這都辦不到！
+<ce> 離開我的視線。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我在 ___qgiver_ 與 _qgiver_ 密會，
+ 對方給了我一封偽造信件。
+ 我必須潛入 __inn_ 的 _inn_，
+ 把真信換掉。完成時限為 =traveltime_ 天。
+ 若被逮到，只能自求多福。
+
+Message:  1011
+_npc1_：
+    你真是個惡毒的男人。我怎會以為自己愛過你？
+ 既然你在陽台上撞見我躺在 _npc2_ 懷裡，
+ 我現在可以坦白：我們確實是情人。%G 能給我你給不了的一切。
+ 你那些噁心的金幣禮物讓我覺得自己骯髒。
+ 別再踏進我的門檻。
+ 
+                       _npc3_
+
+Message:  1012
+我最親愛的 _npc1_：
+    我知道你既憤怒又受傷。為了挽回你的愛，我什麼都願意做。
+ 你在陽台上看到的並非我所願。那夜我喝太多，
+ _npc2_ 趁機偷了一吻。%G 已被鞭打，不再為我效力。
+ 請原諒我。我只愛你。
+ 
+                       _npc3_
+
+Message:  1013
+<ce> 這酒館看起來跟別家沒什麼兩樣。不過對你而言，
+<ce> 這裡潛行比力量更重要。現在得找出信差把那封信放在哪。
+
+Message:  1014
+<ce> 小偷！我要教你別偷誠實信差的東西！
+
+Message:  1015
+<ce> 當那封滿是謊言的信離開你的手指，
+<ce> 你知道任務已完成一半。
+
+Message:  1016
+_npc1_ 男爵：
+    _npc2_ 伯爵會讓 %g3 部隊在隘口埋伏你。
+ 別落入他的陷阱。
+                     _npc3_
+
+Message:  1017
+_npc1_：
+    你的報價荒謬！
+ 我能用半價向 ___npc1_ 任何其他商人買到，
+ 而我也會這麼做。
+                  _npc2_
+
+Message:  1018
+尊敬的 _npc1_：
+    公會投票選司庫時，我已決定投你。
+ 當然，我期望不久後能得到善待。
+                   _npc2_
+
+Message:  1019
+_npc1_ 男爵：
+    _npc2_ 伯爵會在隘口等你。
+ %G3 停戰協議既體面又公平。
+                  _npc3_
+
+Message:  1020
+_npc1_：
+    你的價錢公道。
+ 這封信就是我對貨物的付款憑據。
+ 交貨時出示給我的代理人即可。
+                  _npc2_
+
+Message:  1021
+尊敬的 _npc1_：
+    下次公會會議我已決定把票投給 _npc3_。
+ %G 多次展現對公會的 %g3 忠誠。
+                  _npc2_
+
+Message:  1022
+<ce> 你被逮到了，你自己也知道。
+<ce> 滾出我的視線，%ra。
+
+Message:  1030
+<ce> _qgiver_ 真是個黃鼠狼。
+
+Message:  1031
+<ce> _qgiver_ 看起來人還不錯，
+<ce> 但我不會跟 %g2 打牌。

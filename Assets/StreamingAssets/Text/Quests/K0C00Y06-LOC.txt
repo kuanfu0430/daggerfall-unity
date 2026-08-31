@@ -1,0 +1,567 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 6
+Messages: 101
+Quest: K0C00Y06
+DisplayName: 一場誤會
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>%oth，你長得像那個%ra，%pcn。
+<ce>是你嗎，%pcf？
+<--->
+<ce>你該不會就是%pcn吧？
+<--->
+<ce>等一下。你該不會是%pcn吧？
+
+RefuseQuest:  [1001]
+<ce>那好。只是好奇。
+<--->
+<ce>很好。無意冒犯。
+
+AcceptQuest:  [1002]
+<ce>「小偷！就是你偷了我的_gem_！_guard_！殺！」
+<ce>
+<ce>你一聽見這指控，就知道是冤枉。
+<ce>或許你偶爾順過寶石，但這樁絕不可能算到你頭上。
+<--->
+<ce>「你拿走我的_gem_還敢回來，膽子不小！
+<ce>我的同夥=guard_現在會處理你的事。」
+<ce>
+<ce>顯然出了差錯。這人沒理由對你發怒。
+
+QuestComplete:  [1004]
+<ce>「原來偷我_gem_的根本不是你。%oth，
+<ce>錯怪了你，我很慚愧。來，請收下這_reward_
+<ce>作為我的道歉。我會確保%cn的衛兵知道
+<ce>你是無辜的%ra。」
+<ce>
+<ce>你心裡明白，就算_qgiver_為你說話，
+<ce>你的名聲也再不會跟從前一樣。
+
+RumorsDuringQuest:  [1005]
+__inn_的_inn_總有最好的消息。
+<--->
+真要搞到上等情報，我只去__inn_的_inn_。
+<--->
+等他們找到那個%ra小偷，可有一場真正的絞刑派對。
+<--->
+可憐的_qgiver_，但那%ra會付上那_gem_兩倍的代價。
+
+RumorsPostfailure:  [1006]
+所有證據都明確指向%pcn就是___qgiver_的盜賊。
+<--->
+_qgiver_幾乎執念般繼續搜尋那個%ra。
+
+RumorsPostsuccess:  [1007]
+結果%pcn與___qgiver_的搶案無關。
+<--->
+那名%ra傭兵被證明與___qgiver_的搶案無關。
+
+QuestorPostsuccess:  [1008]
+錯怪了你，我仍覺得很糟，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce>小偷！小偷！滾出去，不然我叫衛兵！
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_、__qgiver_的一名=qgiver_
+ _qgiver_突然指控我入室盜竊，
+ 說我偷了%g3的_gem_。我當然是無辜的，
+ 但若想再在%reg抬頭做人，顯然得自己證明。
+
+Message:  1011
+可憐的_qgiver_丟了%g3的_gem_。有目擊者在__qgiver_看見一個像你這樣的%ra。
+<--->
+_qgiver_仍在設法追查偷走那顆寶石的%ra冒險者。
+
+Message:  1012
+_merchant_是個勤奮、基本上誠實的__merchanthome_商人。
+<--->
+那_merchant_不會對客人漫天要價。至少不會太過頭。
+<--->
+_merchant_啊？這時段你會在__merchanthome_的_merchanthome_找到%g2。
+<--->
+若聽_priest_的話，_merchant_就是整個%reg的禍害。
+<--->
+_merchant_跟大多數人都處得來，但%g不喜歡_thief_。
+
+Message:  1013
+_noble_出身__noblehome_的王室。%oth，%g3家族統治了不知多久。
+<--->
+_noble_是那一階層的典型——墮落、無情、傲慢。
+<--->
+_noble_這時段都待在__noblehome_的_noblehome_。
+<--->
+_thief_不太喜歡_noble_，但其他人大多喜歡。
+<--->
+_noble_對==priest_、尤其對_priest_本人，向來不屑。
+
+Message:  1014
+_priest_當然是==priest_的教士，而且相當狂熱。
+<--->
+_priest_已從早年在==priest_鬧出的醜聞中站了起來。
+<--->
+_priest_這會兒通常在__priesthome_的_priesthome_冥想。
+<--->
+__priesthome_幾乎所有人，除了_noble_，都非常尊敬_priest_。
+<--->
+_priest_明顯不喜歡的唯一人是那個=merchant_，_merchant_。
+
+Message:  1015
+_thief_啊，%g是退休的珠寶盜賊。或者據我所知，半退休。
+<--->
+從前_thief_在__thiefhome_可是相當了得的珠寶大盜。
+<--->
+有人告訴我_thief_每天這時候都在_thiefhome_附近晃。
+<--->
+_merchant_根本不信_thief_已經改過自新。
+<--->
+_thief_不喜歡_noble_，哪怕那=noble_有貴族血統。
+
+Message:  1016
+_witness_就是在__qgiver_看見竊案的那個=witness_的名字。
+<--->
+_witness_不過是個=witness_。你能在___witness_的__witness_找到%g2。
+
+Message:  1017
+<ce>一個衣衫襤褸的乞兒突然把信塞進你手裡，
+<ce>還沒等你開口問，人就沒了。
+
+Message:  1018
+我最親愛、親愛的%pcn：
+ 
+    抱歉用這種不雅卻權宜的方式通訊。我們的敵人
+ 把你那——該怎麼說——近乎雪白卻還不到雪白的人生
+ 搞得一團糟。儘管我們尊重並欽佩盜竊這門技藝，
+ 但既然這些「榮譽」並非你所為，我們認為最好
+ 讓真正的策劃者暴露在仰慕者的目光與絞索之下。
+     與你交談最有效的人是_witness_，
+ 一個=witness_，你或許會發現%g在_inn_閒晃。
+ 你大概不會覺得%g2特別友善。畢竟，%g就是那個
+ 說看見你在__qgiver_偷_gem_的目擊者。
+ 儘管如此，稍加努力，你或許能從這次會面得到一些資訊。
+     祝你好運，親愛的。被指控一樁你一反常態並未犯下的、
+ 放縱而惡魔般的貪婪之舉，確實再無聊不過。
+<ce>——死靈法師會
+
+Message:  1019
+親愛的%pcf：
+ 
+      我們深知被誣告的滋味，卻很少有機會反擊那些指控。
+ 就你這樁而言，我們至少知道你其中一名指控者的名字——
+ _witness_。我不知道%g是為你的敵人還是我們的敵人做事，
+ 或只是完全無辜的棋子，但據說%g是__qgiver_竊案的目擊者。
+       跟_witness_說話時要小心——%g可能有強大的朋友。
+ 你最好的辦法或許是在公開場合跟%g2談。我聽說%g常去
+ __inn_的_inn_。
+ 
+<ce>地底之王密探
+
+Message:  1020
+%pcf，
+ 
+      好，這會是張短箋，但盜賊公會的夥伴想幫你一把。
+ 我們不知道是誰從__qgiver_拿走了那_gem_，但知道不是你。
+ 說白了——若那_gem_是你拿的，你不會惹上這麼大的麻煩。
+ 你是個聰明孩子，聰明到能全身而退。可有人在栽贓你。
+       指認一個長得像你的%ra偷走_gem_的人，
+ 是個名叫_witness_的=witness_。說不準%g是不是說實話，
+ 是不是真看見長得像你的人，但我們覺得這些你可以自己去問。
+ 你能在__inn_一間叫_inn_的酒館找到這_witness_。
+ 自己小心。這可不是遊戲。
+ 
+<ce>盜賊公會
+
+Message:  1021
+親愛的朋友：
+ 
+      我知道不是你幹的。你沒有從__qgiver_偷走那_gem_，
+ 就像我也沒有。我懷疑誰？嗯，__priesthome_有個=priest_，
+ 偷寶石再栽贓別人，對%g來說，就像大熱天喝杯冰涼麥酒那麼樂意。
+      我沒有證據，但你或許該查查%g2。這教士名叫_priest_。
+ 祝你好運。
+ 
+<ce>一個朋友
+
+Message:  1022
+%pcn，
+ 
+     你不認識我，我不欠你人情，就算這之後你也不欠我什麼，
+ 聽懂了嗎？我從前替一個叫_merchant_的=merchant_做事。
+ 那%g可瘋了，真的。總想著發財。每次被抓到手伸進罐子裡，
+ 又總急著怪別人。我就這麼被關進去的。
+     換作是我，我會去看看我的老朋友跟__qgiver_的失竊
+ 有沒有關係。
+ 
+<ce>一個朋友
+
+Message:  1023
+親愛的%pcn：
+ 
+     請原諒這次打擾。我很確定你滿腦子都不是客套閒聊，
+ 所以我就直說。我不相信你該為__qgiver_的竊案負責，
+ 但除非你證明自己無辜，否則將永遠為此受迫害。
+     我認識一名=noble_，我相信此人對這件事知道的
+ 比大多數人多。甚至可能是%g安排了、甚至親自犯下這罪。
+ 我不能再說了，只告訴你%g3名叫_noble_，住在__noblehome_。
+     還有最後一件事：%g有非常強大的朋友。不要在處於劣勢時面對%g2。
+ 
+<ce>一個朋友
+
+Message:  1024
+親愛的%pcn：
+ 
+      或許你會有興趣知道，至少有一個人不認為是你幹的。
+ 或者該說__thiefhome_有兩個人不認為是你幹的。
+ 我和真正幹了這事的人——一個確實犯了竊案的=thief_。
+      說實話我沒有證據，但_thief_，就是那個=thief_，
+ 以前幹過這種搶珠寶的事。%oth，%g甚至為此坐過牢。
+      所以，或許_thief_沒幹。或許。但若%g沒幹，
+ 我可以告訴你——%g比你更清楚真正是誰幹的。
+ 所以若你想找出是誰幹的、是誰在栽贓你，
+ 就去找這_thief_，問%g2一些問題。
+<ce>一個朋友
+
+Message:  1025
+<ce>「是你！就是你搶了__qgiver_！衛兵！衛兵！」
+<ce>
+<ce>_witness_逃走時塞給你一張字條。
+<--->
+<ce>「是搶了__qgiver_的那個%ra！來人啊！」
+<ce>
+<ce>_witness_逃走時塞給你一張字條。
+
+Message:  1026
+%qdt:
+ 我收到死靈法師會的信，告訴我那個據說
+ 在__qgiver_看見我偷_gem_的=witness_。
+ 那人名叫_witness_，常去_inn_。
+
+Message:  1027
+%qdt:
+ 地底之王的密探寄來一封信，指認那個說
+ 看見像我這樣的%ra從__qgiver_偷走_gem_
+ 的=witness_。_witness_可能是無辜的棋子，
+ 也可能是我某個敵人的密探。要跟%g2在
+ __inn_這兒的_inn_談過，我才會知道。
+
+Message:  1028
+%qdt:
+ 盜賊公會寄來一封信，讓我知道他們明白
+ 我與竊案無關。他們也提到那個說看見我
+ 偷那_gem_的=witness_的名字。
+ _witness_常去一間叫_inn_的酒館。
+ 我該去致意一下。
+
+Message:  1029
+%qdt:
+ 我收到一封匿名朋友的信，指認一名叫
+ _priest_的=priest_，可能是我被栽贓的
+ 這樁_gem_竊案背後的黑手。
+
+Message:  1030
+%qdt:
+ 有人寄來一封信，說一個叫_merchant_的=merchant_
+ 正是那種會偷走那_gem_再讓我頂罪的人。
+
+Message:  1031
+%qdt:
+ 據一封匿名來信，__noblehome_有個叫_noble_
+ 的貴族，或許對__qgiver_真正發生的事知道不少。
+
+Message:  1032
+%qdt:
+ 我收到一封匿名來信，指認一個名叫_thief_的人
+ 是住在__thiefhome_的惡名昭彰珠寶大盜。
+ 就算%g實際上沒搶__qgiver_，談一談或許能揭出是誰幹的。
+
+Message:  1033
+%pcn，
+ 
+     到__withouse_這兒的_withouse_見我。
+ 
+<ce>_witness_
+
+Message:  1034
+%qdt:
+ _witness_顯然在我跟%g2說話、%g喊衛兵時
+ 塞給我一張字條。%g要我到一處叫_withouse_的地方見面。
+
+Message:  1035
+<ce>感謝%god你收到我的字條。
+<ce>抱歉喊了衛兵，但不能被人看見跟你說話。聽著，
+<ce>我不能談太久，但我現在知道不是你幹的。
+<ce>我說看見一個像你的%ra在__qgiver_偷_gem_，那是實話，
+<ce>可後來我又看見別的。有個叫_merchant_的=merchant_，
+<ce>我猜是發現你在城裡，就雇了個長得很像你的人去偷_gem_
+<ce>再藏起來。若你想洗清名聲，去___mondung_把寶石取出來——
+<ce>_merchant_藏在那兒——或者看看能不能在_thiefhouse_
+<ce>找到別的證據，那是_merchant_常待的地方。
+<ce>現在我得走了。祝你好運。
+
+Message:  1036
+<ce>聽著，你一定得相信我。我真的看見一個像你的%ra
+<ce>拿走了_gem_，當時還以為就是你。可那是在我於
+<ce>__noblehome_看見_noble_的表親之前。那孩子長得幾乎
+<ce>跟你一模一樣，而我碰巧知道_noble_最近把%g3的表親
+<ce>送到了___mondung_。那會是藏_gem_的好地方。
+<ce>另一個好選擇就是_thiefhouse_，_noble_晚上待在那兒。
+<ce>我一看見那表親，就知道你是無辜的。但證據得你自己去找。
+<ce>我現在得走了。祝你好運，朋友。
+
+Message:  1037
+<ce>我說看見長得像你的人從__qgiver_偷走那_gem_，並沒說謊。
+<ce>後來我又在_priesthome_看見那個%ra，在跟那兒的一名祭司
+<ce>_priest_說話。我聽見他們提到___mondung_，然後跟著那%ra
+<ce>到了_thiefhouse_。從那兒，那%ra又去了___mondung_。
+<ce>幾分鐘後，你走進了我的酒館。沒人會相信你我的話
+<ce>去對抗_priest_。你得找到證據，在___mondung_或
+<ce>_thiefhouse_，才能洗清名聲。現在我必須走了。祝你好運。
+
+Message:  1038
+<ce>看來你收到我的字條了。這一切發生我真的很抱歉，%pcf，
+<ce>但我確實看見一個長得跟你一模一樣的人從__qgiver_偷走_gem_。
+<ce>幹這事的人是偽裝大師——一名叫_thief_的盜賊大師。
+<ce>竊案後不久，我路過_thiefhouse_，聽見一個我認出是盜賊的聲音
+<ce>提到___mondung_的藏匿處。我一看說話的人，就認出是鼎鼎大名的
+<ce>_thief_。如今%g是體面的社區成員，要定罪得有證據。
+<ce>這點我幫不了你，但我想你需要的東西就在_thiefhouse_
+<ce>和___mondung_。祝你好運。
+
+Message:  1039
+<ce>你收到我的字條了，我看。聽著，%pcf，
+<ce>我知道你沒搶__qgiver_，但你得明白，
+<ce>若有人看見我們說話，我的命就不值一枚銀幣。
+<ce>我替_merchant_做事，這對你或許沒什麼意義，
+<ce>但相信我，%g幾乎把__merchanthome_捏在手裡。
+<ce>若你想洗清名聲並牽連我老闆，就得拿到鐵證。
+<ce>換作是我，要麼離開這地區，要麼去%g2在鎮上的房子
+<ce>_thiefhouse_，或%g3的秘密寶庫___mondung_找點東西。
+<ce>現在我得走了。你從沒見過我，%pcf。
+
+Message:  1040
+<ce>聽著，聽仔細了，%pcf。事情是這樣。
+<ce>我目睹了__qgiver_的竊案，但我知道若說實話
+<ce>真正是誰幹的，沒人會信我，我大概還會因叛國被絞死。
+<ce>所以我告訴所有人是個陌生人幹的。具體來說，就是你。
+<ce>真正的竊賊是個無可懷疑的人——%reg王室的_noble_。
+<ce>你需要證據來證明，而我不會再伸脖子了。我能再告訴你的
+<ce>只有：週末_noble_把%g3的時間花在___mondung_，
+<ce>晚上則在_thiefhouse_。希望你能在其中一處找到證據。
+<ce>祝你好運，對不起。
+
+Message:  1041
+<ce>嗨，%pcf。酒館裡人太多，我沒法跟你談。
+<ce>我確實是__qgiver_竊案的目擊者。事實上，是我幹的。
+<ce>但付錢讓我幹、還說該把罪推給陌生人的，是==priest_
+<ce>的祭司_priest_。顯然你光說出來沒人會信。你需要證據。
+<ce>我可以告訴你，我把_gem_藏在名叫___mondung_的地方，
+<ce>但光把寶石拿回來不足以說服任何人。去查_thiefhouse_——
+<ce>_priest_晚上常待在那兒。或許你能在那兒找到對%g2不利的東西。
+<ce>現在我得走了。我會否認這整段對話，但此刻，祝你好運。
+
+Message:  1042
+<ce>不，我知道不是你幹的，%pcf。
+<ce>是個叫_thief_的=thief_。__thiefhouse_大多數人都知道
+<ce>%g從前是盜賊，但都以為%g已退休去過公務生涯。
+<ce>我可以告訴你%g沒有。你看，%g會挑一個進城的陌生人
+<ce>來承擔%g3所有竊案，好讓自己無可指摘。我很想看%g2被抓，
+<ce>但你得有鐵證。大多數晚上%g待在一處叫_thiefhouse_的地方，
+<ce>所以我會去那兒或%g3的舊窩點___mondung_找。自己小心，
+<ce>%pcf，祝你好運。
+
+Message:  1043
+%qdt:
+ _witness_告訴我_merchant_才是竊案的真正責任人，
+ 但我需要鐵證才能說服任何人。我或許得同時去
+ _thiefhouse_和___mondung_才能找齊需要的東西。
+
+Message:  1044
+%qdt:
+ _witness_告訴我一名貴族_noble_實際上策劃了竊案，
+ 但由於%g遠超嫌疑，我需要找到證據。建議的兩處地方是
+ _thiefhouse_——_noble_晚上常去——以及___mondung_。
+
+QuestTimeLapse:  [1045]
+%qdt:
+ _witness_承認%g知道誰犯了竊案，而且不是我。
+ 另一方面，真正的策劃者_priest_會很難定罪。
+ _witness_說我可能找到證據的兩處地方是
+ _thiefhouse_和___mondung_。
+
+Message:  1046
+%qdt:
+ 據_witness_所說，一名惡名昭彰、據說已退休的珠寶大盜
+ _thief_，才是我被栽贓的這樁竊案的責任人。
+ 此外，%g說_thief_如今備受尊敬，我需要鐵證才能給%g2定罪。
+ 我或許能在_thiefhouse_或___mondung_、或兩處都找到這證據。
+
+Message:  1047
+<ce>你找到了從__qgiver_被偷走的_gem_。
+
+Message:  1048
+_merchant_
+ __merchanthome_
+ 
+ 親愛的_merchant_：
+ 
+      希望__merchanthome_一切安好，你與家人身體健康。
+ 聽說天氣溫和，我必須稱讚你為我的造訪安排了這天氣。
+      言歸正傳。你上次信中提到，因為那_gem_成色不佳，
+ 且你已為這罪找到方便的代罪羔羊，希望我的服務能打折。
+ 我同意你的條件，前提是你確保這名%ra傭兵真如你所說
+ 那麼好騙。若蟲兒翻身，你我都明白，那時就是各人顧各人。
+ 若那個=priest_ _priest_捲進來，%g能毀掉整樁事。
+      很快見，我的朋友。
+<ce>——%n
+
+Message:  1049
+_noble_
+ __noblehome_
+ 
+ 我親愛的_noble_：
+ 
+    你可真是又狡猾又邪惡。別以為我沒懷疑是你害了
+ 可憐的_qgiver_。你弄到我想要的_gem_，真貼心，
+ 但我總以為你會付錢買它。
+    別以為我不領情，我最親愛的寶貝，但若那_gem_
+ 從___mondung_被取走、又有人追查到我，你甚至數不清
+ 會有多少根手指指著你。我會特別提防那討厭的小_thief_。
+ 這正是%g愛幹的那種勒索。
+    儘管如此，那_gem_仍是很貼心的念頭，我謝謝你。
+<ce>愛你的，
+<ce>%n
+
+Message:  1050
+_priest_
+ __priesthome_
+ 
+ 親愛的_priest_：
+ 
+      別把我上一封信當一回事，那封信還稱讚你對==priest_
+ 的巨大貢獻。你說是捐獻的那_gem_，是從_qgiver_偷來的。
+ 若傳出寶石是為我們神殿而偷，我們在%reg的聲望會大受打擊。
+ _noble_已經恨我們，憑%g3對王室的影響力，==priest_
+ 將有許多事要交代。
+      下次會議我們會討論這局面該受何等懲處。
+ 別想挑戰神殿。
+ 
+<ce>遺憾的，
+<ce>%n
+<ce>==priest_
+
+Message:  1051
+_thief_
+ __thiefhome_
+ 
+ 我親愛的_thief_：
+ 
+    這麼說，你又開張了？聽說__qgiver_那檔事，
+ 我湧起一陣愉快的懷舊。我豈會徹底忘記我倆合夥的好日子？
+ 當然也不會忘記你用跟現在栽贓那%ra傭兵一模一樣的手法，
+ 把一樁珠寶案栽到我頭上。那是在_merchant_的生意裡，對吧？
+    別擔心，這不是勒索信。我一個字也不會告訴任何人……
+ 除非，當然，有人問起。自然，若你告訴我那_gem_
+ 藏在___mondung_哪裡，我的記憶或許會模糊。
+    請回信，也談談你自己的回憶。
+ 
+<ce>%n
+
+Message:  1052
+<ce>這看來確實是些入罪的證據。希望你能找到
+<ce>_qgiver_的某個朋友，讀過之後能說服%g2從躲藏中出來。
+
+Message:  1053
+<ce>_noble_是那樁竊案的幕後？好啊，好啊，好啊。
+<ce>你需要做的是這樣。我會去跟%g3的家族談——他們會急著
+<ce>把這局面盡可能乾淨地化解。你把_gem_交給__qgiver_
+<ce>的_qgiver_，讓%g高興。那_noble_可真是業餘竊賊。
+
+Message:  1054
+<ce>原來_thief_是幾乎毀掉我生意的那樁竊案的幕後？
+<ce>現在%g還想栽贓你。好，我會跟當局以及%g3這個朋友談。
+<ce>我只需要你把那_gem_帶到__qgiver_的_qgiver_那兒，
+<ce>那不僅能洗清你，還會改善你與%g2的名聲。
+
+Message:  1055
+<ce>蒙福的%god，這絕不是偽造！
+<ce>寫信的人說得對。_merchant_有理由怕我。
+<ce>==priest_會確保_merchant_被送交適當的當局，
+<ce>但我們必須讓人不會把你當成任何形式的同夥。
+<ce>若你取得_gem_並帶給_qgiver_，就能確保我們需要的
+<ce>%g3善意。快帶著那_gem_趕去__qgiver_，%pcf。
+
+Message:  1056
+<ce>你從_priest_在_thiefhouse_的房間拿到這個？%oth，
+<ce>這無價！快，%pcf，把那_gem_交給_qgiver_，
+<ce>我會四處傳開：__qgiver_真正的盜賊是==priest_的祭司！
+
+Message:  1057
+<ce>你就是_witness_跟所有人說的那個小偷！衛兵！
+<--->
+<ce>衛兵！是_witness_指認的那個%ra小偷！
+<--->
+<ce>我沒什麼好跟一個普通珠寶盜賊說的。
+<ce>_witness_全告訴我了。衛兵！衛兵！
+
+Message:  1058
+<ce>你這沒腦子的%ra！為什麼就不能甘心當代罪羔羊？
+<ce>_guard4_！
+<--->
+<ce>你為什麼不乾脆離開%reg，把一切都放下，%ra？
+<ce>%oth，你會後悔的！
+
+Message:  1059
+%qdt:
+ 真正的盜賊將被揭露並受罰，
+ 但首先我得把_gem_交還給__qgiver_的_qgiver_。
+
+Message:  1060
+<ce>過了這麼久，你已無法輕易挽回在___qgiver_
+<ce>的名聲。你最好暫時遠遠避開這地方。
+
+Message:  1061
+%qdt:
+ 我得知有個叫_witness_的人一直把_gem_
+ 失竊的罪怪到我頭上。我該去找這個人。
+
+Message:  1091
+%qdt:
+ 我見到了_witness_，%g告訴我偷走_gem_的幕後
+ 確實是_merchant_。%G晚上待在家裡，
+ ___thiefhouse_的_thiefhouse_，
+ 還在___mondung_有藏匿處。
+ 我或許還能從這爛攤子裡脫身。
+
+Message:  1092
+%qdt:
+ 我見到了_witness_，%g告訴我偷走_gem_的幕後
+ 確實是_noble_。%G晚上待在家裡，
+ ___thiefhouse_的_thiefhouse_，
+ 還在___mondung_有藏匿處。
+ 我或許還能從這爛攤子裡脫身。
+
+Message:  1093
+%qdt:
+ 我見到了_witness_，%g告訴我偷走_gem_的幕後
+ 確實是_priest_。%G晚上待在家裡，
+ ___thiefhouse_的_thiefhouse_，
+ 還在___mondung_有藏匿處。
+ 我或許還能從這爛攤子裡脫身。
+
+Message:  1094
+%qdt:
+ 我見到了_witness_，%g告訴我偷走_gem_的幕後
+ 確實是_thief_。%G晚上待在家裡，
+ ___thiefhouse_的_thiefhouse_，
+ 還在___mondung_有藏匿處。
+ 我或許還能從這爛攤子裡脫身。
+
+Message:  1100
+<ce>你注意到_qgiver_從門口溜了出去。

@@ -1,5 +1,5 @@
-Title: King Edward, Part XII
-Author: Anonymous
+Title: 愛德華王，其十二
+Author: 佚名
 IsNaughty: False
 Price: 300
 IsUnique: False
@@ -8,130 +8,130 @@ Content:
 
 [/font=2]
 
-[/center]King Edward, Part XII
+[/center]愛德華王，其十二
 
 [/font=4]
 
 [/center]
 
- The dragon had paused, so Edward interjected, "Mother and I have been discussing the nature of the gods recently, Akatosh, and she thinks that poetry would be a godly activity. What do you think about that notion?"
+ 龍停頓了，於是愛德華插話：「母親和我最近一直在討論諸神的本質，阿卡托什，她認為詩會是神性的活動。你對那想法怎麼看？」
 
- "I am not so certain that one can attribute anything to the gods, Edward. They are another example of an unbounded problem, of course, but also, their characteristics are just not very well known to us."
+ 「我不太確定人能把任何東西歸於諸神，愛德華。它們當然是無界問題的另一個例子，而且，它們的特徵對我們來說就是不太為人所知。」
 
- "But surely one can determine things about any being that is a god?"
+ 「可當然人能確定關於任何作為神的存在的事情？」
 
- Akatosh replied, "I do not think that we can, at present; they are not like the Daedra, who have a nature that is with them at their birth. That is, the Daedra capabilities are inherent in them, and not are the result of any changes that have occurred to them."
+ 阿卡托什回答：「我認為目前我們不能；它們不像迪德拉，迪德拉有與生俱來的本性。也就是說，迪德拉的能力是內在於它們的，而不是發生在它們身上任何改變的結果。」
 
- Willow interrupted: "Akatosh, we can determine that the gods have a few basic characteristics, can't we?"
+ 薇蘿打斷：「阿卡托什，我們能確定諸神有一些基本特徵，不是嗎？」
 
- Edward added "Of course, Akatosh - they are powerful beings who can perform acts that are incomprehensible to us. That in itself must signify their difference."
+ 愛德華補充：「當然，阿卡托什——它們是能做出我們無法理解的行為的強大存在。那本身必須表明它們的不同。」
 
- Akatosh nodded and replied "I understand your point of view, but to a farming community on Tamriel in our southern lands, that could also describe how they would perceive me. Perhaps this is attributable to the fact that they seldom see a dragon nowadays, but it also does not mean that I am a god ... neither does it mean that I am not a god."
+ 阿卡托什點頭回答：「我理解你的觀點，可對我們南方土地上泰姆瑞爾的農耕社區來說，那也可以描述他們會如何看待我。或許這可歸因於他們如今很少看見龍，可那也不意味著我是神……也不意味著我不是神。」
 
- Willow giggled, and said "Of course you're not a god, Akatosh" and Edward, smiling, nodded agreement.
+ 薇蘿咯咯笑，說：「你當然不是神，阿卡托什」愛德華微笑著點頭同意。
 
- Akatosh replied "How do you know, Willow? I can understand that you would guess that I am not a god, particularly since I am a dragon." He grinned, and then continued "But how can you know that I am not a god?"
+ 阿卡托什回答：「你怎麼知道，薇蘿？我能理解你會猜我不是神，特別因為我是龍。」他咧嘴笑，然後繼續「可你怎能知道我不是神？」
 
- Edward scoffingly replied "Well, I know that I'm not a god anyway. And I've certainly never seen you perform any godly acts, Akatosh - you also don't seem to have any worshippers about either."
+ 愛德華嘲弄地回答：「好吧，反正我知道我不是神。而且我當然從未見過你做出任何神性的行為，阿卡托什——你看起來也沒有任何崇拜者在附近。」
 
- The Companions were smiling and generally agreeing with this, but Akatosh responded "But that does not mean that I have no worshippers, nor does it mean that I cannot perform any godly acts - it just means that you have not seen either of these. I am not yet certain that gods and goddesses require worshippers to maintain their existence. And as I said, I can perform magic that would look like 'godly acts' to many Tamrielians."
+ 同伴們微笑著大體同意這話，可阿卡托什回應：「可那不意味著我沒有崇拜者，也不意味著我不能做出任何神性的行為——只意味著你沒見過這兩者中的任何一個。我還不確定神與女神需要崇拜者來維持存在。而且如我說的，我能施在許多泰姆瑞爾人看來像『神性行為』的魔法。」
 
- "But the gods must have worshippers, Akatosh" said Aliera, "That's how they get their ... sustenance, or whatever it is that allows them to continue ... to be godly. Husband, you must know more about this subject. After all, you made a god of your brother S'ephen."
+ 「可諸神必須有崇拜者，阿卡托什」艾莉菈說，「那是他們獲得……給養，或無論什麼讓他們繼續……成為神性的東西。丈夫，你對這題目一定知道更多。畢竟，你把你兄弟塞芬變成了神。」
 
- "I did no such thing!" Moraelyn responded, with a touch of indignation. "His godhood is between him and his worshippers, among whom I am numbered. I did establish a temple cult in his memory. Anyone with the worldly means could do as much for anyone, living or dead. That alone is not enough. Maybe it helps -- facilitate matters, but I think it's not really necessary. I know no more of it, but if you want my opinion--" he paused politely for confirmation that it was indeed still solicited, as elven etiquette demanded if one were giving opinion at length.
+ 「我沒做那種事！」莫瑞林回應，帶著一絲憤慨。「他的神性在他和他的崇拜者之間，我是其中之一。我確實為紀念他建立了神殿崇拜。任何有世俗手段的人都能為任何人做這麼多，無論活著或死去。單那不夠。或許有幫助——促成事情，但我想那並非真正必要。我對此並不多知，可若你想聽我的意見——」他禮貌地停頓，確認它確實仍被徵求，如精靈禮儀要求若人要長篇給出意見。
 
- He continued. "There must be something, well, godly, in the person's soul or essence or whatever part it is that does not die with the body. I know not whether that capacity is innate in the person, from birth or conception, or quickening ... whenever it is that soul and body are wedded for a life span, or whether great deeds and great generosity might breed it, enlarging the soul and transmuting it, so to speak. We all change and grow with each passing day, with every breath, some more than others. What else is life about?"
+ 他繼續。「人的靈魂或本質或無論身體死去時不隨之死去的那部分，必須有某種，這個，神性的東西。我不知道那能力是人與生俱來的，從出生或受孕，或胎動……無論靈魂與身體為一生結合是何時，還是偉大的事蹟和偉大的慷慨可能孕育它，擴大靈魂並轉化它，可以這麼說。我們每天都在改變成長，每一次呼吸，有些人比其他人更多。生命還關乎什麼？」
 
- He went on without pausing for an answer to his rhetorical question, probably for fear that he might get one. "In other cases, gods seem to arise from a locality, a mountain, or a spring, or wood, or a collection of localities, such as Tamriel itself. Places, like persons have souls, some greater than others. This place might produce a god or a daedra -- or maybe it already has one or more. As it changes, so do its gods and daedra, I think. Maybe they can choose to resist the change or aid it, if propitiated."
+ 他不停下來等修辭問題的答案，大概因為怕會得到一個。「在其他情況中，神似乎從一個地方興起，一座山，或一汪泉，或樹林，或一組地方，如泰姆瑞爾本身。地方像人一樣有靈魂，有些比其他更大。這地方可能產生一位神或一位迪德拉——或者或許它已經有一個或更多。當它改變，它的神和迪德拉也改變，我想。或許它們可以選擇抵抗改變或幫助它，若被撫慰。」
 
- He looked at Akatosh inquiringly. The dragon had stopped fighting the new gods, he said, but would he go so far as to worship them? "That speaks to the question of whence gods arise, but source is not nature: of that I know as little as the rest of you, maybe less, since the question does not truly interest me. The gods are; my worship of them benefits me and mine. It is sufficient."
+ 他詢問地看著阿卡托什。龍已停止與新神戰鬥，他說，可他會遠到崇拜它們嗎？「那談到諸神從何而來的問題，可來源不是本性：對此我跟你們其餘的人知道得一樣少，或許更少，因為這問題並不真正讓我感興趣。諸神存在；我對它們的崇拜使我和我的人受益。這就足夠了。」
 
- Akatosh did not respond immediately and Aliera refused to be distracted, "But suppose such a cult were established and worshippers provided for one of small and mean spirit. Would that spirit not become a god?"
+ 阿卡托什沒有立即回應，艾莉菈拒絕被分心，「可假設建立了這樣的崇拜並為一個渺小卑劣的靈魂提供了崇拜者。那靈魂不會成為神嗎？」
 
- "I suppose it might be done, if one were determined enough and had a sufficiency of means to pay worshippers to perform rituals without -- spirit -- behind them. Maybe that's where small, mean gods come from, wife. Or maybe daedra? Maybe I'll raise a cult to thee and see what happens."
+ 「我想或許可以做到，若人夠堅定並且有充足的手段付錢讓崇拜者表演儀式而沒有——精神——在後面。或許那就是渺小卑劣的神從何而來，妻子。或者或許迪德拉？或許我會為你建立崇拜看看會發生什麼。」
 
- "Are you calling my spirit small and mean?" Ali glared at him.
+ 「你是說我的靈魂渺小卑劣嗎？」艾莉瞪著他。
 
- "Only by comparison -- you don't fancy yourself a goddess, do you? You might make a daedra, though. The experiment might be a bit too chancy. Could I just mourn you for a century or two instead?"
+ 「只是相比而言——你不把自己想像成女神吧？你或許能成為迪德拉，不過。這實驗可能有點太冒險。我能不能改為哀悼你一兩百年？」
 
- "Mm. I'll think on it. What about you? You've deeds enough already to qualify for godhood, surely ... although if you plan on many more such you may not outlive me."
+ 「嗯。我會考慮。那你呢？你的事蹟已經足夠取得神格，當然……雖然若你計畫再來許多這樣的，你可能活不過我。」
 
- "I'm doomed to be R'Aathim, living and dead. It's godhood of a sort, but what a sort! Don't begrudge me my long life span. Think of me doomed to eternity in the gloomy Ebonheart council chamber listening to the eternal wrangles ... small wonder the dead R'Aathim pulled the place down on the live ones twenty years ago, thus causing my brother and my mother to join their number. The dead R'Aathim must have welcomed the century and a half of respite while the Nords held Ebonheart."
+ 「我注定是拉阿提姆，活著和死去。那是某種神性，可那是怎樣的一種！別吝惜我漫長的壽命。想想我注定永遠在陰鬱的烏木之心議事廳聽那永恆的爭吵……難怪二十年前死去的拉阿提姆把這地方拉倒砸在活著的人頭上，從而使我的兄弟和母親加入他們的數目。死去的拉阿提姆一定歡迎諾德人占領烏木之心那一個半世紀的喘息。」
 
- "But your brother S'ephen was killed too, as well as your brother King Cruethys, and S'ephen wasn't R'Aathim, being your mother's son and not your father's, if I have the story straight -- that's why he got his own temple," Edward said. "So why did they kill him, too? The story sounds very daedric to me."
+ 「可你兄弟塞芬也被殺了，還有你兄弟克魯埃西斯國王，而塞芬不是拉阿提姆，是你母親的兒子不是你父親的，若我沒把故事搞錯——這就是為什麼他有自己的神殿，」愛德華說。「那他們為什麼也殺他？這故事聽起來對我非常迪德拉。」
 
- "You'd have me justify the ways of the gods to you, would you? I think they act for ends we cannot see, and slay the just and the unjust together -- not that I'd label any of my Kin as either -- not altogether. We see only the means -- how can we judge? Gods too face choices; I do not think their power supreme. They can overrule nature on occasion, as can any Mage, yet they, like Mages, are in the end bound by it -- and their overrule must answer other rules still -- and in those rules, whatever they be, I think lies the answer to your questions. I think it's not something men and women may know while living."
+ 「你要我為諸神的方式向你辯護嗎？我想它們為我們看不見的目的而行動，正義與不義的一起殺戮——不是說我會把我任何親族標為兩者之一——不完全。我們只看見手段——我們怎能判斷？諸神也面臨選擇；我不認為它們的力量至高。它們偶爾能推翻自然，如任何法師能，可它們像法師一樣最終受其約束——而它們的推翻必須仍回答其他規則——而在那些規則中，無論它們是什麼，我想藏著你問題的答案。我想那不是活著的男人和女人可以知道的。」
 
- Akatosh smiled and replied "It is not so easy to describe the gods, is it? This is true even though, myself included, each of us thinks that we have a mental picture of what godliness means. On the other hand, the gods and goddesses certainly do exist - and I also believe that there is a connection of some sort between them and the Daedra, and another connection between these entities and the power associated with performing magic."
+ 阿卡托什微笑回答：「描述諸神不那麼容易，是嗎？這是真的，即使包括我自己，我們每個人都認為對神性意味著什麼有心理圖像。另一方面，神與女神當然確實存在——而且我也相信它們與迪德拉之間有某種聯繫，以及這些實體與施法相關力量之間的另一種聯繫。」
 
- "The priests of Julianos have been calling this power 'Magicka'" said a stranger who had joined the group.
+ 「朱利安諾斯的祭司一直稱這力量為『魔力』」一個加入群體的陌生人說。
 
- Akatosh replied "Greetings bard. Please allow me to introduce ... Geoffrey, a ... wandering poet who has been visiting our village for these last few days." The Companions greeted the wood elf newcomer, some rising to their feet to do so according to their individual customs, and then all resumed sitting (actually sprawling about) and conversing.
+ 阿卡托什回答：「問候，吟遊詩人。請允許我介紹……傑弗瑞，一位……流浪詩人，這幾天一直在造訪我們的村子。」同伴們問候這位木精靈新來者，有些按各自習俗起身，然後所有人重新坐下（實際上橫躺著）繼續交談。
 
- "A number of priests are theorizing that the gods and goddesses live on another plane, as do the Daedra - there is some debate amongst these priests as to whether they share the same plane of existence, or whether each has their own. And some of the Alessian priests are claiming that we can visit these alternate planes in our nightly dreams" added Beech.
+ 「一些祭司理論化神與女神住在另一個位面，迪德拉也是——這些祭司之間有些辯論它們是否共享同一存在位面，還是各有自己的。一些阿萊西亞祭司聲稱我們能在夜間的夢中造訪這些交替位面」畢奇補充。
 
- Edward asked "Why doesn't someone just ask a goddess or a Daedra about this?"
+ 愛德華問：「為什麼沒人直接問一位女神或一位迪德拉這件事？」
 
- Geoffrey chuckled and replied "Most of us are not able to be so thoughtful when confronted by one of these beings, Edward. Also, there is a common belief that the gods and Daedra are as reluctant to discuss their own natures as dragons are to reveal anyone's True Name."
+ 傑弗瑞輕笑回答：「我們多數人面對這些存在之一時沒有能力如此深思，愛德華。而且，有一種普遍信念：諸神和迪德拉像龍不願透露任何人的真名一樣不願討論自己的本性。」
 
- Edward looked quizzically at Akatosh, but Beech stated to Geoffrey "Well said, Bard" ... and that pair shared the slightest of smiles.
+ 愛德華詢問地看著阿卡托什，畢奇卻對傑弗瑞說「說得好，吟遊詩人」……那一對分享了最輕微的微笑。
 
- Beech then said, "Do you know what the Resolutions of Zenithar has been saying about the gods and magic? This magic power, or Magicka, is just the power generated by the existence of, well, existance [sic] itself. When it becomes focused by living beings through natural processes, then it becomes accessible to the gods and goddesses as worship power, which is the next level of Magicka. After receiving some from their worshippers, the gods can then concentrate it up to god-level power - the true Magicka. The gods themselves can't generate the mid-level Magicka, since they are dependent on it for their own existence, but they can 'convert it' to Magicka, which can then be used by mortals to cast spells. This Magicka is usually dispersed widely across the planes but there are areas of greater and lesser concentration due to interferences with the dispersion process."
+ 畢奇然後說：「你知道澤尼薩爾決議會對諸神和魔法說了什麼嗎？這魔法力量，或魔力，只是由存在本身的存在所產生的力量。當它通過自然過程被活著的存在聚焦，它就變得作為崇拜力量可供神與女神取用，那是下一層次的魔力。從崇拜者那兒收到一些之後，諸神能把它濃縮到神層次的力量——真正的魔力。諸神自己不能產生中層魔力，因為它們依賴它作為自己的存在，可它們能『轉換它』為魔力，然後凡人能用法術施放。這魔力通常廣泛散布在各位面，但由於散布過程的干擾有濃度較大和較小的區域。」
 
- "When a goddess loses worshippers, her inflow of mid-level Magicka is decreased, so she in turn produces less god-level Magicka. With less Magicka under her control (for providing to worshippers, or dispersion), her influence is decreased in the mortal planes - of course the converse is also true. In the extreme, she receives nothing, and is relegated to a state of Stasis, barely existing from the ordinary Magicka generated by her few remaining Consecrated lands, zones of influence, and so on."
+ 「當一位女神失去崇拜者，她中層魔力的流入減少，所以她反過來產生更少神層魔力。她控制下的魔力更少（用於提供給崇拜者，或散布），她在凡人命面的影響就減少——當然反之亦然。在極端情況下，她什麼都收不到，被貶入停滯狀態，僅靠她所剩無幾的祝聖土地、影響區域等產生的普通魔力勉強存在。」
 
- Beech continued, "On the other hand, Daedra receive very specific, or 'modified' mid-level Magicka from a few mortals with specific areas of interest, and these Daedra are normally tied to very specific circumstances. Because of their nature, they gain much more power from their small worship base, but the gods, with their much broader base, generally have greater overall power, even though the amount of concentrated worship that they receive from any one source is much less than a Daedra's. Most of the Magicka that the gods 'process' is dispersed into and throughout the universe, no longer under their control, thereby making it available for everyone. It's not really something they do consciously, but as a natural process that happens automatically - in other words ... just because they are divine."
+ 畢奇繼續：「另一方面，迪德拉從少數有特定興趣領域的凡人那兒收到非常特定或『修飾過』的中層魔力，這些迪德拉通常與非常特定的情境綁定。由於它們的本性，它們從狹小的崇拜基礎獲得多得多的力量，可諸神以廣得多的基礎，通常有更大的整體力量，即使它們從任何單一來源收到的濃縮崇拜比迪德拉少得多。諸神『處理』的大部分魔力被散布進宇宙並遍及宇宙，不再受它們控制，從而使它可供所有人使用。這不是它們有意識做的事，而是作為自動發生的自然過程——換句話說……只因為它們是神聖的。」
 
- Aliera said, "I would think that Magicka is simply available to sentient beings, although the gods and Daedra could facilitate its usage. I would think that the gods and Daedra have other influences on us as well, because not everyone has spellcasting ability! Maybe in those 'alternate planes' it's actually existance [sic], and not sentient entities, that radiates Magicka, just as the stars give off light in our dimension. I just assume that Magicka is 'out there' in the ether, or maybe sentient consciousnesses automatically tap into an alternate plane as they sleep. I think that everyone has some supply of Magicka, but most don't know how to use it very well, or else they adopt a way of life that inhibits or forbids its use. Maybe certain gods and Daedra serve as facilitators for the entire process; that is, both obtaining and using Magicka? But how do priests heal and cure and bless? Is Magicka involved at all or do they invoke their goddesses directly?"
+ 艾莉菈說：「我會認為魔力只是可供有知覺的存在取用，雖然諸神和迪德拉能促進它的使用。我會認為諸神和迪德拉對我們還有其他影響，因為不是每個人都有施法能力！或許在那些『交替位面』實際上是存在本身，而不是有知覺的實體，輻射魔力，正如我們維度的星星發光。我只是假定魔力『在那兒』以太中，或者或許有知覺的意識在睡眠時自動接入交替位面。我想每個人都有一些魔力供應，可多數人不知道如何很好地使用它，或者採取抑制或禁止其使用的生活方式。或許某些神和迪德拉作為整個過程的促進者；也就是說，既獲得也使用魔力？可祭司如何治療、治癒和祝福？魔力有沒有參與，還是他們直接祈求他們的女神？」
 
- Ssa'ass said, "I am not ssssure that Magicka isss usssed; perhapsss there isss yet another capability involved here. Thisss capability would be unknown at thisss time, and maybe even unsssensssed... but I feel fairly certain that sssomehow it is a godly 'force' that they are employing."
+ 薩阿斯說：「我不太確定魔力被使用；或許還有另一種能力參與其中。這種能力目前未知，或許甚至未被感知……可我相當確定它們以某種方式在運用一種神性的『力量』。」
 
- Then Geoffrey responded: "Ssa'ass, I believe that Magicka fills the universe of planes. All things are infused with Magicka to one extent or another. In this regard Magicka is attracted to some people and things over others, and some people with talent or training can control and even release Magicka in new forms. There may be other sources of Magicka available by tapping into alternate and otherworldly planes. There is also the possibility of alternate planes that are entirely void of Magicka. Regardless, certain beings of great power, such as the gods and Daedra, can not only control Magicka, but can see, absorb, and transfuse Magicka to and from objects and people. By employing this ability, worshippers of these beings are sometimes capable of greater acts of Magic than they could accomplish otherwise. Also in this way, some items sacred to powerful beings can be said to be holy, with additional amounts of directed Magicka provided by gods or goddesses."
+ 然後傑弗瑞回應：「薩阿斯，我相信魔力充滿各位面的宇宙。萬物都被魔力灌注到某種程度。在這方面魔力被某些人和物比其他的更吸引，一些有天賦或訓練的人能控制和甚至以新形式釋放魔力。可能有其他魔力來源可通過接入交替和其他世界的位面獲得。也有完全沒有魔力的交替位面的可能性。無論怎樣，某些強大的存在，如諸神和迪德拉，不僅能控制魔力，還能看見、吸收、並把魔力輸注到物體和人以及從物體和人抽出。通過運用這能力，這些存在的崇拜者有時能做出比他們否則能完成的更大的魔法行為。也以這種方式，一些對強大存在神聖的物品可以說是聖的，帶有神或女神提供的額外定向魔力。」
 
- "Magic items fall into two main categories by definition. Items that draw on the surrounding Magicka to create spell-like effects, and items that hold Magicka in reserve for their own internal effects. Normally magic items which absorb Magicka, giving increased abilities to their wielders, only affect themselves and are considered to use internal Magicka. In some areas where great amounts of Magicka have been used, the surroundings may be completely devoid of it. This of course negates the ability of beings to produce magic effects in these areas, although gods and Daedra carry their own supplies of Magicka, as do magic items that do not depend on the use of surrounding Magicka."
+ 「魔法物品按定義分為兩大類。從周圍魔力汲取以創造類法術效果的物品，以及把魔力保留供自身內部效果使用的物品。通常吸收魔力、給持用者增加能力的魔法物品，只影響自己並被認為使用內部魔力。在一些大量魔力被使用過的區域，周圍可能完全沒有它。這當然否定存在在這些區域產生魔法效果的能力，雖然諸神和迪德拉攜帶自己的魔力供應，不依賴使用周圍魔力的魔法物品也是如此。」
 
- Aliera said, "We've been investigating some rumors and stories concerning something that might be called anti-Magicka. I think the presence of a powerful Daedra with whom you weren't in 'tune' could cause interference with spellcasting - maybe even cancel out existing spells. Perhaps particular Daedra simply favor thief or warrior types. Or some goddesses, and their priests, might frown on 'competing' magic in certain areas, for example in locations dedicated to them. So then unauthorized spells could interfere with their rituals."
+ 艾莉菈說：「我們一直在調查一些關於可能稱為反魔力的東西的傳聞和故事。我想一位你與之『不合拍』的強大迪德拉的存在可能造成施法干擾——或許甚至取消現有法術。或許特定迪德拉只是偏愛盜賊或戰士類型。或者一些女神和她們的祭司，可能在某些區域對『競爭』魔法皺眉，例如奉獻給她們的地點。那麼未經授權的法術可能干擾她們的儀式。」
 
- Willow asked, "Can Daedra supply Magicka? And how about both a god and a Daedra being nearby? - wouldn't they sort of nullify each other's powers? This might be the cause of the anti-Magicka effect."
+ 薇蘿問：「迪德拉能供應魔力嗎？那神和迪德拉都在附近呢？——它們不會某種程度上互相抵消力量嗎？這可能是反魔力效果的原因。」
 
- "I've experienced an anti-Magicka zone myself" inserted Mith. "It felt a lot like the effect of casting a spell like Dispel Magicka. At the time, I thought that a truly powerful spellcaster could still effectively cast spells, but their resulting power would have been much reduced. I didn't get a chance to test this out though" added Mith with a smile.
+ 「我自己經歷過反魔力區域」密斯插入。「感覺很像施放驅散魔力那樣的法術的效果。當時，我想真正強大的施法者仍能有效施法，可他們產生的力量會大大減少。不過我沒機會驗證這個」密斯微笑著補充。
 
- "We can also assume that certain powerful spells, creatures and even magic items might actually drain the surrounding area of Magicka," replied Geoffrey. "This could be extended to places where great amounts of magic energy were once gathered and expended, for example in ancient temples where great spells were cast, or battlefields where powerful mages contested. Perhaps certain metals or stones could act as absorbers of Magicka, allowing for whole structures of anti-Magicka zones. If so, you might be able to wear a amulet made out of anti-Magicka material and gain a good advantage against spellcasters. Perhaps the purity of the material used would allow for better and better magic resistance".
+ 「我們也可以假定某些強大的法術、生物甚至魔法物品可能實際上抽乾周圍區域的魔力，」傑弗瑞回答。「這可以延伸到曾經聚集和消耗大量魔法能量的地方，例如施過大法術的古代神殿，或強大法師較量過的戰場。或許某些金屬或石頭能作為魔力吸收者，允許整個反魔力區域的結構。若如此，你或許能戴一枚由反魔力材料製成的護身符，獲得對抗施法者的良好優勢。或許所用材料的純度會允許愈來愈好的魔法抗性。」
 
- Akatosh spoke: "Dragons have long been interested in the anti-Magicka effect, naturally enough. We have found some amulets that appear to act as Magicka absorbers. They might contain something like Negative Magicka, in which case they would attract any 'stray' Magicka floating free in the local area. They are made of a stone, or mineral, resembling marble - it is very rare, but could be extracted, and shaped by skilled craftsmen. For example, I'm sure that the dwarves could have worked with this material. They might have made these amulets - or even that statue that I once saw ... it was taller than any of you humanoids. Regardless, in these mountains we have found deposits scattered throughout the halls and tunnels at random, sometimes deep within the walls. Consequently, one appears to go in and out of these anti-Magicka zones of varying intensities, with little or no warning. I have been imagining that this material works almost automatically; it seems to 'reflexively' absorb Magicka if given a chance to. However, we cannot rule out the possibility that they have been magically charged somehow - perhaps this happened long ago, but the charge has somehow remained."
+ 阿卡托什開口：「龍長久以來對反魔力效果感興趣，自然如此。我們發現一些護身符似乎作為魔力吸收者。它們可能含有類似負魔力的東西，在這種情況下它們會吸引當地任何『遊離』的魔力。它們由一種石頭或礦物製成，類似大理石——非常稀有，但可以開採，由熟練工匠塑造。例如，我確定矮人能加工這種材料。他們可能做了這些護身符——或者甚至我曾經見過的那座雕像……它比你們任何類人生物都高。無論如何，在這些山裡我們發現礦藏隨機散布在廳堂和隧道各處，有時深在牆內。因此，人似乎進進出出這些強度不等的反魔力區域，幾乎沒有或完全沒有警告。我一直想像這種材料幾乎自動運作；若有機會它似乎『反射性地』吸收魔力。然而，我們不能排除它們以某種方式被魔法充能的可能性——或許這發生在很久以前，可電荷不知怎的保留了。」
 
- Moraelyn asked, "Would the amulet affect its wearer, or would he be immune?"
+ 莫瑞林問：「護身符會影響佩戴者，還是他會免疫？」
 
- "Maybe a blocking spell could be developed, and then cast, to shield the wearer from the effects of the substance."
+ 「或許可以開發一種阻擋法術，然後施放，保護佩戴者不受這物質的效果。」
 
- Moraelyn then asked, "But Akatosh, getting back to our earlier discussions - what do you think of the speculations concerning the connections between the gods and goddesses, Daedra and Magicka?"
+ 莫瑞林然後問：「可阿卡托什，回到我們稍早的討論——你對關於神與女神、迪德拉和魔力之間聯繫的推測怎麼看？」
 
- Akatosh replied, "I think that there are many truths that we do not know, and perhaps there are some truths that we are not meant to know."
+ 阿卡托什回答：「我想有許多我們不知道的真相，或許有些真相我們不該知道。」
 
- Moraelyn asked with a smile, "All right then, I've always wanted to know this - considering the shape of your mouth and teeth, how do dragons manage to speak the humanoid languages so clearly?"
+ 莫瑞林微笑著問：「那好吧，我一直想知道這個——考慮你嘴和牙的形狀，龍怎麼能把類人生物的語言說得那麼清楚？」
 
- Akatosh paused, and then carefully responded, "Why, in much the same way that we can fly, even though our wings are not naturally strong enough to support such heavy torsos."
+ 阿卡托什停頓，然後小心回應：「怎麼，跟我們能飛的方式差不多，即使我們的翅膀天生不夠強壯支撐這麼重的軀幹。」
 
- "Speaking of dragon flight and sunsets..." Mith said, rising to his feet and squinting into the red-gold eastern sky, "We have a vistor [sic], Dragon Lord. That's not a bird."
+ 「說到龍飛和日落……」密斯站起來眯眼看紅金色的東方天空，「我們有訪客，龍領主。那不是鳥。」
 
- Akatosh's head came up and he too scanned the sky. Tension grew in him, and one by one the Companions rose, watching as the distant dot grew nearer and resolved itself into the largest dragon they'd seen yet.
+ 阿卡托什的頭抬起，他也掃視天空。緊張在他體內增長，同伴們一個接一個站起，看著遠處的點靠近並顯現為他們見過最大的龍。
 
- "Ma-Tylda!" Akatosh exclaimed, "She deigns to bestow her presence on us!" His wings lifted and unfurled, and the Companions broke and ran for cover as he took flight. The two dragons wheeled through the sky, spouting great gouts of flame against the purpling sky.
+ 「瑪提爾達！」阿卡托什驚呼，「她屈尊把她的存在賜予我們！」他的翅膀抬起展開，同伴們散開跑去尋找掩護，他起飛。兩條龍在天空盤旋，朝變成紫色的天空噴出大股火焰。
 
- "They're fighting," Edward cried, "what does it mean. Who is Ma-Tylda?"
+ 「他們在打架，」愛德華喊道，「這意味著什麼。瑪提爾達是誰？」
 
- "I don't know who she is, son," Moraelyn replied, "but they do not fight. You behold a dragon greeting ceremony." The pair alit beyond a rock outcropping out of sight.
+ 「我不知道她是誰，兒子，」莫瑞林回答，「可他們不是在打架。你看見的是龍的問候儀式。」那對在視線外的岩石露頭之外降落。
 
- "Should we go greet the stranger, too?" Edward asked.
+ 「我們也該去問候陌生人嗎？」愛德華問。
 
- "Nay," Mith said. "They'll let us know if our presence is wanted -- look, even the other dragons stay away." It was true. Dragon heads had poked from the caverns to witness the event, but none of them had taken wing, and now they were retreating to their hoards within.
+ 「不，」密斯說。「他們會讓我們知道是否需要我們的存在——看，連其他龍都避開。」這是真的。龍頭從洞穴探出見證這事件，可沒有一條起飛，現在它們正退回裡面的寶藏。
 
- The Companions ambled back into the meadow together and built a fire as a chill wind had sprung up. The elves sang an evening hymn to the stars, deftly weaving the dark elf version with the wood elf form. Aliera added her voice to theirs, but Mats and Edward and Silk and Ssa'ass sat listening silently. They couldn't manage elven music of this kind. Geoffrey had a particularly clear sweet voice, Edward thought.
+ 同伴們一起漫步回草地生起火，因為寒風已起。精靈們向星星唱晚間讚美詩，巧妙地把黑暗精靈版本與木精靈形式編織在一起。艾莉菈把聲音加入他們，可馬茨和愛德華和絲爾克和薩阿斯靜靜坐著聽。他們應付不了這種精靈音樂。傑弗瑞有特別清澈甜美的聲音，愛德華想。
 
- Akatosh returned presently, smiling in satisfaction. "Ma-Tylda's going to join us here, at least for awhile," he said. He was actually glowing in the dusk, each scale giving off a golden radiance.
+ 阿卡托什不久回來，滿意地微笑。「瑪提爾達會加入我們這兒，至少待一陣子，」他說。他實際上在暮色中發光，每一片鱗都發出金色光輝。
 
- "Is she your queen?" Edward asked, feeling very small and human.
+ 「她是你的女王嗎？」愛德華問，感到非常渺小而人類。
 
- "She -- just is. Maybe she'll want to meet you all some day. I hope so. Until then, well, I don't talk about other dragons, you know."
+ 「她——只是存在。或許有一天她會想見你們所有人。我希望如此。在那之前，這個，我不談論其他龍，你知道。」
 
- To which Edward blinked in surprise and then surmise, and the discussion dissolved into jokes and songs for the remainder of that clear and beautiful evening.
+ 對此愛德華眨眼吃驚然後猜測，討論溶解成笑話和歌曲，度過那清澈美麗夜晚的其餘時間。

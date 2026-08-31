@@ -1,5 +1,5 @@
-Title: The Light and The Dark
-Author: Irek Unterge
+Title: 光明與黑暗
+Author: 伊雷克·恩特格
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,52 +8,52 @@ Content:
 
 [/font=2]
 
-[/center]The Light
+[/center]光明
 
-[/center]And
+[/center]與
 
-[/center]The Dark
+[/center]黑暗
 
 [/font=4]
 
- "Yes, children, it is no accident that this land of Tamriel has been called 'The Arena'." The old man altered his position on the large rock that bore his weight, and straightened his long gray robe. Rheumy eyes lost their focus as they gazed out over the sun-warmed valley in the mountains of High Rock. For a moment he saw a vision of ancient horrors instead of the fresh greenery of spring. A chill washed over his aged bones.
+  「是的，孩子們，這片泰姆瑞爾的土地被稱為『競技場』，絕非偶然。」老人在承受他體重的大岩石上換了姿勢，拉直長長的灰袍。混濁的眼睛失去焦點，望向高岩山中被陽光溫暖的山谷。有一刻他看見遠古恐怖的異象，而不是春天新鮮的綠意。一陣寒意洗過他衰老的骨頭。
 
- "Is this a suitable topic for the young and innocent?" he asked himself. The young must be taught, but must they learn of such things now, when they should be playing in the sunlight? This is a tale for the dreary winter, with the wind howling outside a walled town and the doors and windows closed and bolted against the blast and cold and -- other things.
+  「這適合講給年幼無辜的人聽嗎？」他問自己。年輕人必須受教，可他們現在就必須學這些事嗎，當他們該在陽光下玩耍？這是陰鬱冬天的故事，風在有牆的城鎮外呼號，門窗關緊閂死，抵擋狂風與寒冷以及——其他東西。
 
- He glanced with affection at his two grandchildren: the little towheaded boy with a hint of mischief dancing in his eyes even on those rare occasions when sitting quietly, and his older sister. A serene lass, the old man thought. Her hair like a dark flame and her slightly pointed ears were the only obvious signs of elven blood. So like her grandmother, the old man thought. The past is past, and I'shira had brought him so much peace and happiness after a lifetime of battle. He forced his thoughts back to the present.
+  他慈愛地瞥向兩個孫兒：淺金頭髮的小男孩，即使在那些罕見安靜坐著的時候，眼裡也跳著一點淘氣；還有他的姐姐。一個寧靜的姑娘，老人想。她像暗焰的頭髮和微微尖的耳朵，是精靈血統唯一明顯的跡象。多像她祖母，老人想。過去已過去，伊莎拉在一生征戰之後帶給他那麼多平安與幸福。他強迫思緒回到現在。
 
- "Sorry, children. I was remembering things. Old people do that, you know."
+  「抱歉，孩子們。我在回想一些事。老人會這樣，你們知道。」
 
- "Are you going to tell us the story of Jagar Tharn and the Emperor and the Eternal Champion?" His grandson asked. "That's my favorite!"
+  「你要講賈加·薩恩、皇帝和永恆勇士的故事嗎？」孫子問。「那是我最喜歡的！」
 
- "Not exactly, son. They were a part of it, in a way. As are I'ric and Moraelyn and Edward and Reymon and many others. Even the gods play a part. This is a far older story, and even the priests won't tell it my way. They have their own interpretations, and their fears as well. I'm too old and have seen too much to have any fear left, except that our people will forget. And forgetting is dangerous. So I, and a few others, carry this tale and try to spread it among the younger generations. You aren't really old enough to understand it all, but I can feel that my end is not far off. I must ask you to remember anyway. In a few years, perhaps, if I still live, we can discuss it again. If not, well, you must seek out others who know, and compare notes."
+  「不完全是，孩子。他們以某種方式是其中一部分。伊里克、莫瑞林、愛德華和雷蒙以及其他許多人也是。連眾神也扮演角色。這是遠更古老的故事，連祭司也不會用我的方式講。他們有自己的解釋，也有自己的恐懼。我太老了，見過太多，已沒有恐懼剩下，只怕我們的人民會遺忘。而遺忘是危險的。所以我，以及少數其他人，攜帶這故事，設法在年輕一代中傳播。你們還不夠大，不能理解全部，可我能感覺到我的終點不遠了。我必須請你們無論如何記住。也許幾年後，若我還活著，我們可以再討論。若不是，好吧，你們必須去尋找其他知道的人，互相核對筆記。」
 
- "You talk as if you are going to die, Granther," his granddaughter spoke up. "That can't happen. You will live forever!"
+  「你說得好像你要死了一樣，爺爺。」孫女開口。「那不可能。你會永遠活著！」
 
- Chuckling, "I'm afraid not, dear. But I have a little while left, enough for the story".
+  輕笑，「恐怕不是，親愛的。可我還剩一點時間，夠講這故事。」
 
- The children settled back against the bole of a large oak, knowing that the old man could not be hurried. Leaning forward, he began:
+  孩子們靠回一棵大橡樹的樹幹，知道老人急不來。他向前傾身，開始：
 
- "Long, long ago, before there were any people at all; even before the gods, Tamriel was chosen as a battleground by two -- things. It is difficult to find words that fit them well. I call them the Light and the Dark. Others use different names. Good and Evil, Bird and Serpent, Order and Chaos. None of these names really apply. It suffices that they are opposites, and totally antithetical. Neither is really good or evil, as we know the words. They are immortal since they do not really live, but they do exist. Even the gods and their daedric enemies are pale reflections of the eternal conflict between them. It's as though their struggle creates energies that distort their surroundings, and those energies are so powerful that life can appear, like an eddy in a stream."
+  「很久很久以前，在有任何人之前；甚至在眾神之前，泰姆瑞爾被兩樣——東西選為戰場。很難找到適合它們的詞。我稱它們為光明與黑暗。別人用不同的名字。善與惡、鳥與蛇、秩序與混沌。這些名字沒有一個真正適用。它們是對立面，完全相反就夠了。兩者都不是我們所知的真正的善或惡。它們不朽，因為它們並不真正活著，可它們確實存在。連眾神與他們的迪德拉敵人，都只是它們之間永恆衝突的蒼白映象。彷彿它們的鬥爭創造出扭曲周圍的能量，那些能量如此強大，生命能夠出現，像溪流中的漩渦。」
 
- "Do demons and trolls come from the Dark, Grandpa?"
+  「惡魔和巨魔來自黑暗嗎，爺爺？」
 
- "Not exactly, son. The undead evils we know, and the demons that live on Oblivion tend to align with the Dark. Their natures are more akin to it. Humans and the other peoples of Tamriel, even the misunderstood Dark Elves, are more aligned with the Light. Our evils are not always of the Dark, but some are, and these are the truly dangerous ones. Jagar Tharn was almost wholly aligned with the Dark, and that is really why he was so monstrous. It was not because he was a black mage, as some would have it."
+  「不完全是，孩子。我們所知的亡靈邪惡，以及住在湮滅的惡魔，傾向與黑暗結盟。它們的本性與它更相近。人類和泰姆瑞爾的其他人民，即使被誤解的黑暗精靈，也更與光明結盟。我們的邪惡並不總屬於黑暗，但有些是，而那些才是真正危險的。賈加·薩恩幾乎完全與黑暗結盟，那才是他如此可怕的真正原因。並非如有些人所說，因為他是黑法師。」
 
- "Did his magic come from the Dark, Granther?" The girl's interest was piqued by mention of magic. Her heritage is beginning to show itself, thought the old man.
+  「他的魔法來自黑暗嗎，爺爺？」女孩的興趣被提到魔法勾了起來。她的傳承開始顯現，老人想。
 
- "No, magic power comes directly from the energies swirling about both entities. These energies are impersonal and all mixed up. Black magic is more a matter of intent than effect. The Mages' Guild holds that a fireball, say, directed against a creature intent on causing harm, is not black magic; but the same spell directed at one seeking peace is. In this, they are right. Destruction of a fire daedra strengthens the Light and weakens the Dark just a little. In the same manner, destruction of a unicorn strengthens the Dark."
+  「不，魔法力量直接來自環繞這兩個存在旋轉的能量。這些能量沒有人格，完全混在一起。黑魔法更多是意圖的問題，而非效果。法師公會主張，比如說，火球打向意圖造成傷害的生物，不是黑魔法；但同樣的法術打向尋求和平的人，就是。在這一點上，他們是對的。摧毀火焰迪德拉會增強光明、削弱黑暗，哪怕只是一點點。同樣，摧毀獨角獸會增強黑暗。」
 
- "What about the gods? Do they come from the Light?" The boy's eyes were animated, but tinged with apprehension. He adored stories of the gods and goddesses of Tamriel's pantheon, and the heroes who served them.
+  「那眾神呢？他們來自光明嗎？」男孩的眼睛生動，卻帶著一絲憂懼。他崇拜泰姆瑞爾萬神殿眾神眾女神的故事，以及為他們效勞的英雄。
 
- The old man chuckled. "The gods have an unusual origin, if some of the oldest tales are true. The oldest inhabitants of this world -- no one seems to be sure what race they were -- had a system of myths that they believed in for a thousand years. The people of et'Ada believed for so long and so well, that their beliefs may, just may, have drawn upon the energies surrounding Tamriel to bring the gods themselves into being. If that is so, the conflict between the Light and the Dark provided the energy, and the et'Adans the structure, that created the gods of Tamriel. No one really knows since it was so long ago and so little survives from that time. It no longer matters; the gods have their own existence now, and mostly align with the Light, except for a few who are, shall we say, a little ambiguous."
+  老人輕笑。「若一些最古老的傳說是真的，眾神有不尋常的起源。這世界最古老的住民——似乎沒人確定他們是什麼種族——有一套他們相信了一千年的神話體系。埃特·阿達的人民相信得那麼久、那麼深，他們的信仰也許，僅僅也許，借助了環繞泰姆瑞爾的能量，把眾神本身帶入存在。若是如此，光明與黑暗的衝突提供了能量，埃特·阿達人提供了結構，創造了泰姆瑞爾的眾神。沒人真正知道，因為那是太久以前的事，從那時留下來的太少。這已不再要緊；眾神現在有了自己的存在，多半與光明結盟，除了少數，該說，有點含糊的。」
 
- "Why do we have to remember, Granther? What is the danger you spoke of? If the Light and Dark are so big and powerful, can we influence them? Should we try? What should we fight for?"
+  「我們為什麼必須記住，爺爺？你說的危險是什麼？若光明與黑暗那麼大、那麼有力，我們能影響它們嗎？我們該試嗎？我們該為什麼而戰？」
 
- "I see that your critical faculties are developing, Solara. That is good. The answer is simple, but quite large enough for mere mortals like us. The Light and Dark are evenly matched, and perhaps will never resolve their conflict. Mortals and the beings of the Aetherius sometimes can perceive traces of them. Therein lies the danger; to most of us the Light is more congenial, even inspiring, and moves us to behavior that we would call good. To creatures like us, the Dark is -- horrible. Those who have visions of it are often driven mad, and the ones who are not would be better dead. The Dark is to us a monstrous emptiness, an emptiness that sucks the soul toward it -- to be twisted, maimed, and ultimately destroyed. What we can see of it seems utterly evil. Perhaps somewhere else this would not be so, but in our world, it is."
+  「我看見你的批判能力正在發展，索拉拉。那很好。答案簡單，對我們這樣的凡人卻夠大了。光明與黑暗勢均力敵，也許永遠不會解決衝突。凡人和以太瑞斯的存在有時能察覺它們的痕跡。危險就在於此；對我們多數人，光明更宜人，甚至鼓舞人心，促使我們做出會稱為善的行為。對我們這樣的生物，黑暗是——可怕的。看見它異象的人常常被逼瘋，沒被逼瘋的還不如死了。黑暗對我們是可怖的空虛，一種把靈魂吸向它的空虛——去被扭曲、殘害，最終毀滅。我們能看見的似乎徹底邪惡。也許在別處不是這樣，可在我們的世界，就是這樣。」
 
- The old man paused to gather his thoughts, gazing once more at the fresh new life of spring.
+  老人停下來整理思緒，再次凝視春天新鮮的新生命。
 
- "What we must do is never to forget that the Dark is always there, beckoning to the weak-souled among us. Should it gain ascendancy over Tamriel, through agents perverted by its awful attraction, terrible things could happen. All that we hold beautiful or desirable, even love itself, would be swept away. Peace and hope would be no more. For Tamriel, that would be the worst possible disaster. What I saw during Jagar's reign nearly killed me, almost destroyed my mind. When he was destroyed, I thought the worst was over, but it was not. The forces of the Dark are on the march again, and new heroes must rise to join the Eternal Champion in the fight against them."
+  「我們必須做的，是永遠不要忘記黑暗始終在那裡，向我們當中靈魂軟弱的人招手。若它透過被其可怕吸引力腐化的代理人，在泰姆瑞爾取得優勢，可怕的事就會發生。我們視為美麗或可欲的一切，甚至愛本身，都會被掃走。和平與希望將不復存在。對泰姆瑞爾，那將是最糟的災難。賈加統治期間我所見的幾乎殺了我，幾乎摧毀了我的心智。他被摧毀時，我以為最糟的已經過去，卻沒有。黑暗的力量再次進軍，新的英雄必須奮起，與永恆勇士一起對抗它們。」
 
- The old man and the two children sat in silence for several minutes. Finally, the children assisted their grandfather to his feet, and they walked slowly away. Toward home, and hearth, and lunch.
+  老人和兩個孩子靜坐了幾分鐘。終於，孩子們扶祖父站起來，他們慢慢走開。朝向家、爐火，和午餐。

@@ -1,0 +1,98 @@
+-- Quest: C:\QUESTS\WORKING\B0B10Y04.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 10
+-- QuestId: 4
+Messages: 18
+Quest: B0B10Y04
+DisplayName: 瘋狂傭兵
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                           歡迎，%pcn。我名叫
+<ce>                      _qgiver_。騎士團剛得知有一名
+<ce>                  發狂的獸人傭兵必須被阻止。
+<ce>                    你可願接下這項任務？
+
+RefuseQuest:  [1001]
+<ce>                    你的謙遜很得體，%pcf。
+<ce>                       等你膽子大一點，
+<ce>                   隨時歡迎再來。
+
+AcceptQuest:  [1002]
+<ce>               很好。不遠處有個黑暗的坑穴，
+<ce>                   那被詛咒之地名叫___mondung_，
+<ce>                      一名叫=soldier_的_soldier_
+<ce>              正與一群叛逃法師密謀——比死靈法師還糟——
+<ce>                  要毀滅%reg。也許他覺得自己被%t虧待，
+<ce>              也許只是獸人對人類常有的盲目仇恨。
+<ce>             重點是必須阻止他，免得他的狂怒與法師的魔法
+<ce>                 釀成真正的災難。用任何辦法阻止他，%pcf。
+<ce>               若你未能在=2mondung_天內帶著解決方案歸來，
+<ce>              若那時還來得及，我們騎士會親自出手。
+<ce>            祈禱別走到那一步。
+
+QuestFail:  [1003]
+<ce>                         你現在不該在
+<ce>                         ___mondung_嗎，%pcf？
+
+QuestComplete:  [1004]
+<ce>                 幹得好，%pcf。獸人正撤出___mondung_，
+<ce>                可見你的任務成功了。你不愧是我們騎士團
+<ce>                      的優秀成員。
+
+RumorsDuringQuest:  [1005]
+___mondung_是獸人集結的絕佳地點——太偏僻了。
+<--->
+獸人與叛逃法師正為%reg策劃某種可怕的事。
+
+RumorsPostfailure:  [1006]
+這片土地已被法師詛咒。也許是戰爭、瘟疫、饑荒，或三者皆有。
+<--->
+沒人能阻止獸人與法師那不潔的聯盟。
+
+RumorsPostsuccess:  [1007]
+獸人突然離開了___mondung_。他們的首領病了，甚至死了。
+<--->
+%reg因一名勇敢機智的%ra傭兵之犧牲而得救。
+
+QuestorPostsuccess:  [1008]
+問候，%pct。近況如何，獸人殺手？
+
+QuestorPostfailure:  [1009]
+那些獸人跟法師逃掉了，真可惜。唉，這種事難免。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_要我阻止一名決心毀滅
+ %reg的_soldier_。那獸人住在
+ 名叫___mondung_的洞穴裡，
+ 帶著他的部隊。我有=2mondung_天
+ 處理這威脅並返回__qgiver_。
+
+Message:  1013
+<ce>                   一個更髒的小男孩遞給你一張
+<ce>                 髒兮兮的紙條。他顯然不是專業信差，
+<ce>               但跑開的速度幾乎跟他移動一樣快。
+
+Message:  1014
+<ce>                     你已殺死那名_soldier_。
+
+Message:  1015
+<ce>              啊，那頭髮。原來她還活著……我必須告訴
+<ce>                 碎顱者，他的愛人尚未離開%reg。
+<ce>               謝謝你提醒我，%pcf。若我主人靠法師盟友
+<ce>                把死亡降臨%reg，他可能會誤殺一個
+<ce>               對他來說比向%t復仇更重要的女人。
+<ce>                    再次感謝你，朋友。
+
+Message:  1017
+<ce>                  聽說你是上天派來的，%pct。
+<ce>                     願%god保佑你、守護你。
+<ce>               真想給你點東西表達謝意。這是一位
+<ce>                可憐我的女士給的。精緻又漂亮，
+<ce>                我餓得發慌時都捨不得賣。
+<ce>                 請收下，當作我的謝禮。

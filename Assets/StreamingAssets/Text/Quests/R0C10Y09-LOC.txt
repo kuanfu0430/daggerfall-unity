@@ -1,0 +1,104 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y09.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 9
+Messages: 21
+Quest: R0C10Y09
+DisplayName: 掮客
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>              是的，我確實有件事給能幹的年輕%ra。
+<ce>               沒什麼特別——只是簡單差事，但能讓你
+<ce>            多拿 _reward_ 金幣。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>                   %oth，我猜你是想讓我白給你
+<ce>             _reward_ 金幣。或者你在指望更有趣的差事？
+<ce>                  那你得再等等，%pcf。
+
+AcceptQuest:  [1002]
+<ce>               很好。我雇了一個……掮客。
+<ce>                      一名長相獨特的 =spy_，
+<ce>                      名叫 _spy_。
+<ce>                     嗯，_spy_ 找到一件我感興趣的
+<ce>                       特別 _item_，
+<ce>                 但原主把%g2困在 __hidingplace_ 某處。
+<ce>               我不便公開出手，但你可以好心去
+<ce>                   __hidingplace_ 找到 _spy_，
+<ce>                       把我的 _item_ 帶回來。
+<ce>               當然，若你沒在 =1stparton_ 天內回來，
+<ce>            你的 _reward_ 金幣酬勞就得作廢。
+<ce>                我想你懂的。好了，你該上路了。再見。
+
+QuestFail:  [1003]
+<ce>                      %pcf，你回來了，這令人愉快，
+<ce>                    但沒有我的 _item_，這就不愉快了。
+<ce>                    這差事難到你聽不懂嗎？
+<ce>                        去把我的 _item_
+<ce>                             拿回來。
+
+QuestComplete:  [1004]
+<ce>                       啊，妙極了。我的 _item_
+<ce>                   迅速送回，幾乎沒出什麼事。很好。
+<ce>                         這是你的 _reward_ 金幣酬勞。
+
+RumorsDuringQuest:  [1005]
+他們正在翻遍 __hidingplace_，找一件被偷的稀有 _item_。
+<--->
+最近有件稀有 _item_ 從私人收藏被偷走了。
+
+RumorsPostfailure:  [1006]
+他們找回了那些珠寶，罪犯被就地處決。
+<--->
+他們在找的珠寶後來出現了。
+
+RumorsPostsuccess:  [1007]
+那些珠寶始終沒找到。衛兵已經放棄了。
+<--->
+<ce>            據說那批被偷珠寶裡藏著某種稀有寶石。
+
+QuestorPostsuccess:  [1008]
+啊，我年輕的鬥士。還在幹傭兵這行，我看。很好。
+<--->
+我能為你做什麼，%pcf？我沒忘你為我做的事。
+
+QuestorPostfailure:  [1009]
+我不明白為何該為讓我失敗的人做事，不過你說吧。
+<--->
+<ce>                    沒拿到我的東西還敢回來，
+<ce>                   膽子不小。我討厭膽子不小。
+
+QuestLogEntry:  [1010]
+<ce>            _questgiver_ 派你來的？%oth，我聽到你過來，
+<ce>             還以為他們終於找到我了。很高興是你先找到我，%pcf！
+<ce>                       這是 _item_。立刻帶回去給
+<ce>                          _questgiver_——
+<ce>                  %g再過幾天就需要它。小心——原主的
+<ce>               爪牙正在把 __hidingplace_ 翻個底朝天
+<ce>              找這件小寶貝。
+
+Message:  1011
+聽說那個 =spy_ 在這%di——_hidingplace_ 一帶。
+<--->
+一個緊張的 =spy_？我在 _hidingplace_ 附近見過%g2。
+
+Message:  1015
+%qdt:
+___questgiver_ 的 __questgiver_
+ 的 _questgiver_
+ 派我去向一個名叫 _spy_ 的人
+ 取一件特別的 _item_，%g正藏在
+ __hidingplace_ 某處。_item_ 的真正主人
+ 可能會阻止我，但我必須在
+ =1stparton_ 天內把 _item_ 交到
+ _questgiver_ 手上，否則拿不到
+ _reward_ 金幣酬勞。
+
+Message:  1020
+<ce>               謝謝你幫忙，%ra。我們就知道你會
+<ce>                把我們直接帶到 _item_ 那裡。現在給你
+<ce>                         酬勞——死吧！

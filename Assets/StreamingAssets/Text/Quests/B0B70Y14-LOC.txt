@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\B0B70Y14.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: knight
+-- Repute: 70
+-- QuestId: 14
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: B0B70Y14
+DisplayName: 湮滅入侵
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                           %pcf，我們有緊急情況。
+<ce>               法師公會發現湮滅與我們這個次元——凡世——
+<ce>                之間的壁障出現裂縫。我不敢假裝完全明白
+<ce>                那意味著什麼，但事態很糟。各式迪德拉存在
+<ce>                正湧入我們的世界。法師公會說能封住裂口，
+<ce>                  但已穿越過來的迪德拉得由我們斬殺。
+<ce>                  你可願接下這任務？不為金幣，只為榮耀？
+                                     <--->
+<ce>                         終結之日，%pct，也許終於到了。
+<ce>                 數百年來，先知們談過那一天：分隔我們次元
+<ce>                   凡世與迪德拉之地湮滅的以太壁障將崩裂。
+<ce>                 法師公會將嘗試修復裂口，但他們需要我們
+<ce>                  斬殺已經闖進來的地獄生物。
+<ce>                   此事能指望你嗎，%pct？
+
+RefuseQuest:  [1001]
+<ce>                        我們的世界懸於一線，
+<ce>                       你卻只想著自己。得知你是
+<ce>                       ==qgiver_的一員，我感到羞愧。
+
+AcceptQuest:  [1002]
+<ce>                    那就快去___dungeon_。
+<ce>                     我們無從得知有多少迪德拉
+<ce>                     在那些廳堂遊蕩。法師公會說，
+<ce>                      遇見的迪德拉存在一律斬殺。
+<ce>                     他們偵測到最後一名入侵者消失時，
+<ce>                     會用法術與你聯絡。快點，
+<ce>                      再過=2dung_天就太遲了。
+
+QuestComplete:  [1004]
+<ce>                所以你殺了那迪德拉，嗯？其實這事有點難堪。
+<ce>                 原來我們被一名叛逃法師騙了。她召喚了
+<ce>                  自己控制不了的迪德拉，想在公會發現前
+<ce>                  讓我們幫她殺掉。她以為編了這套故事，
+<ce>                我們就會免費動手，不必去付戰士公會的錢。
+<ce>                我們騎士團通常不付成員酬勞。這情況不尋常。
+<ce>               收下這_gold_金幣吧。
+
+RumorsDuringQuest:  [1005]
+若%reg的人知道法師公會所知的事，人人都會暴動。
+
+RumorsPostfailure:  [1006]
+不是多虧%kno，泰姆瑞爾的末日才勉強避免。
+
+RumorsPostsuccess:  [1007]
+聽說法師公會因為___dungeon_那場醜事欠%kno一份人情。
+
+QuestorPostsuccess:  [1008]
+那麼，%pcf，既然你算是救了世界，我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+整個泰姆瑞爾差點毀滅，%pcf。我對你有點惱火。
+<--->
+上次那場慘敗之後，我想你不能怪我不信任你。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的==qgiver_
+ 之_qgiver_說迪德拉正從次元裂縫湧出。
+ 我必須前往___dungeon_將它們全部殺死。
+ 殺完最後一個時，他們會用法術聯絡我。
+ 我有=2dung_天，否則就太遲了。
+
+Message:  1011
+<ce>                      一個來自彼方的聲音在你腦中回響，說……
+<ce>                                    
+<ce>                       「最後的迪德拉已死。
+<ce>                        牠一死，泰姆瑞爾再次安全。
+<ce>                        嘿，你在做什麼！放開我的
+<ce>                        手臂！我是公會法師！
+<ce>                        別吹熄那……」

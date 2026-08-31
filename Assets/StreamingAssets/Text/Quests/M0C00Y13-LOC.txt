@@ -1,0 +1,61 @@
+-- Quest: C:\QUESTS\WORKING\M0C00Y13.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 13
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: M0C00Y13
+DisplayName: 獵殺野蠻人
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我是 _qgiver_。
+<ce> 戰士公會不發慈善差事。若我現在
+<ce> 不是缺戰士，就得把你打發走，%pcn。
+<ce> 我確實需要一個戰士去趕走正在撒野的
+<ce> 野蠻人。替我幹了，我會確保人人知道
+<ce> 你是個可靠的 %ra。成交嗎？
+
+RefuseQuest:  [1001]
+<ce> 你剛犯了大錯，%pcn。這陣子
+<ce> 別來這找工作。
+
+AcceptQuest:  [1002]
+<ce> 把你那可憐的身子骨挪到
+<ce> _house_。明天這時候前
+<ce> 把野蠻人趕走，你就沒事。
+
+QuestComplete:  [1004]
+<ce> 你傷得重嗎？
+<ce> 再來幾份這種差事，你就能
+<ce> 自己寫入場券進戰士公會。
+
+RumorsDuringQuest:  [1005]
+<ce> 野蠻人又在襲擊農莊了。
+
+RumorsPostfailure:  [1006]
+<ce> 野蠻人洗劫了四座農莊，戰士公會
+<ce> 才介入。
+
+RumorsPostsuccess:  [1007]
+<ce> 你不就是趕走野蠻人的那個 %ra 嗎？
+
+QuestorPostsuccess:  [1008]
+<ce> 那個野蠻人你應付得不錯，%pcf。
+<ce> 一點也不差。
+
+QuestorPostfailure:  [1009]
+<ce> 我信任你去處理那野蠻人。你失敗了，
+<ce> 所以我只好另派人去幹。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的戰士公會讓我去處理
+ 正在 _house_ 劫掠的野蠻人。
+ 我有整整一天。
+
+Message:  1011
+<ce> _monster_ 死了。

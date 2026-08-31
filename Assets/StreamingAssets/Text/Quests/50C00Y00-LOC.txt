@@ -1,0 +1,93 @@
+-- Quest: C:\QUESTS\WORKING\50C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Peryite
+-- Repute: 0
+-- QuestId: 0
+Messages: 16
+Quest: 50C00Y00
+DisplayName: 佩瑞特的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 力量再多也不嫌多，對吧，%pcf？
+<ce> 你長得很像我從前認識的一個人——
+<ce> 不過那是你們的第一紀元，所以不可能是你，對吧？
+<ce> 那麼，若你願意，我可以給你一面叫破法者的小盾。
+<ce> 它肯定能給你想要的力量，但首先，我需要一點證明你是認真的。
+<ce> 你是認真的，對吧？
+
+RefuseQuest:  [1001]
+<ce> 改主意了，嗯？別難過。
+<ce> 有勇氣說不，是成熟的表現。
+<ce> 等你改變心意再叫我。我知道你會的。
+
+AcceptQuest:  [1002]
+<ce> 太好了。看到目標明確的 %ra 真是美妙。這年頭太少見了。
+<ce> 那麼，有個 _monster_，坦白說是吸血鬼，我知道你會討厭。
+<ce> 徹底愚蠢、其貌不揚、心腸惡毒那種。
+<ce> 他需要去一趟有去無回的你知我知之地。
+<ce> 處理完那樁不愉快的事後，去拜訪我的朋友 _qgfriend_，
+<ce> 一位迷人的 =qgfriend_，會在 ___qgfriend_ 的
+<ce> __qgfriend_ 與你會面。我不想催你，但不能請 %g2
+<ce> 等超過 =1stparton_ 天。光是趕到 ___mondung_
+<ce> 可能就要好一陣子，所以路上別磨蹭。
+<ce> _qgfriend_ 會很高興讓你見識破法者。
+<ce> 我嘮叨夠久了。與你談話很愉快。
+
+QuestFail:  [1003]
+<ce> 你一定是在找另一個 =qgfriend_。
+
+QuestComplete:  [1004]
+<ce> 你來了，%pct。
+<ce> 我是 _qgfriend_，
+<ce> 我想主人要你來找我？
+<ce> 主人對你處理那個可怕的 _monster_ 非常滿意，
+<ce> 容我這麼說。主人整體上似乎很喜歡你。
+<ce> 這是你想要的盾——破法者。
+<ce> 施法者將會懼怕你。
+<ce> 希望你會喜歡，%pct。
+
+RumorsDuringQuest:  [1005]
+據說 ___mondung_ 的 =monster_ 樹敵強大，也交到了朋友。
+<--->
+我在 __qgfriend_ 遇見一位非常好的 =qgfriend_。奇怪以前怎麼從沒見過 %g2？
+
+RumorsPostfailure:  [1006]
+老 =monster_ 搬到北邊去了。所以我們大概知道瘟疫會跟去哪。
+<--->
+聽說連迪德拉都懼怕 =monster_ 和牠的力量。
+
+RumorsPostsuccess:  [1007]
+據說 =monster_ 自以為比迪德拉本身更強大。
+<--->
+=monster_ 因吹噓掌控生死的力量而得到報應。
+
+Message:  1011
+聽說 _qgfriend_ 是一位非常愉快迷人的 =qgfriend_，同時也是迪德拉崇拜者。
+<--->
+傳聞 _qgfriend_ 是佩瑞特在 %reg 的奴隸。
+
+Message:  1012
+佩瑞特是疫病與瘟疫的迪德拉。
+<--->
+佩瑞特是迪德拉親王中最和藹、名聲卻最糟的一位。
+
+Message:  1013
+破法者是對抗法術的終極防禦。
+<--->
+破法者能驅散法術，甚至把法術反射回進攻的施法者。
+
+Message:  1014
+<ce> 你已殺死 =monster_。
+<ce> 佩瑞特的復仇完成了。
+
+Message:  1015
+%qdt:
+ 迪德拉親王佩瑞特要我
+ 前往 ___mondung_
+ 殺死一名叫 =monster_ 的吸血鬼。
+ 之後，我要在 ___qgfriend_
+ 一處叫 __qgfriend_ 的地方與 _qgfriend_ 會面，
+ 領取著名的破法者盾。全程時限為 =1stparton_ 天。

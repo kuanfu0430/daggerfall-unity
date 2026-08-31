@@ -1,0 +1,107 @@
+-- Quest: C:\QUESTS\WORKING\V0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Clavicus Vile
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: V0C00Y00
+DisplayName: 克拉維庫斯·維爾的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                我的需求相當……謙遜，但我的報償，我想你
+<ce>             會同意，是利他與慷慨的不可分割。作為_artifact_
+<ce>               這件強大神器的回報，我只請你除掉一點討厭的
+<ce>                        毛皮，它一直在捕食我住在
+<ce>            ___mondung_附近的一些朋友。狼類通常對我與我的
+<ce>            夥伴相當友善，但這一隻……嗯，孩子終究是孩子。
+<ce>                  我們彼此明白嗎？
+
+RefuseQuest:  [1001]
+<ce>              怎麼，你這令人作嘔的蟲子。你以愚鈍的無禮
+<ce>             毒化空氣。你竟敢召喚湮滅最偉大的親王，卻拒絕
+<ce>              我所能提出的最簡單請求？我以水換酒給你，你
+<ce>              卻把兩者都吐在我臉上。我不會忘記這件事，
+<ce>                     %pcn。
+
+AcceptQuest:  [1002]
+<ce>              啊，識得划算的買賣，是嗎？你會在一個叫
+<ce>              ___mondung_的地方某處找到那頭狼類禍害。不幸的是，
+<ce>                   時間在此事上不是我們的朋友。出於太過
+<ce>               乏味而不必討論的理由，我需要那蠢東西在
+<ce>              =1stparton_天內死去。你謀殺那生物後，到
+<ce>                ___contact_的__contact_見我的朋友。只要
+<ce>                    找一個=contact_。很高興與你做生意，
+<ce>                        %pcn。我確信我們還會再見面。
+
+QuestFail:  [1003]
+<ce>              聽著，小子。我不知道你以前跟克拉維庫斯·維爾
+<ce>               做過多少生意，但我告訴你——他不喜歡任何事
+<ce>              做到一半。我知道那頭狼人沒死，若你以為能騙過
+<ce>                維爾，你就是白痴。沒有死掉的狼人，就沒有
+<ce>  _artifact_。就這麼簡單。
+
+QuestComplete:  [1004]
+<ce>                   啊，%pcf，維爾叫我等你。嗯，我聽說
+<ce>             你履行了你那一端，所以這是_artifact_，正如維爾
+<ce>           所承諾。順便說，他對你印象不錯。有這樣的朋友不壞。
+<ce>                    聽我的準沒錯。
+
+RumorsDuringQuest:  [1005]
+聽說這附近有頭狼人在逃竄。
+<--->
+聽說狼人在一個叫___mondung_的地方找到了巢穴。
+<--->
+昨晚你聽到那嚎叫了嗎？狼嚎？
+
+RumorsPostfailure:  [1006]
+狼人真是遊牧的，我猜。聽說我們那頭狼往南去了。
+<--->
+我表親說我們那頭狼人在南邊不遠處被人看見。
+
+RumorsPostsuccess:  [1007]
+___mondung_附近開始有某種古怪的教團活動。
+<--->
+很多人知道那頭狼人死了，覺得安全多了。
+<--->
+你聽說某個%ra獵殺了那頭狼人嗎？
+
+Message:  1011
+克拉維庫斯·維爾是湮滅最圓熟的政客。
+<--->
+你找不到比克拉維庫斯·維爾更小心保持中立的迪德拉親王。
+
+Message:  1012
+那個油嘴滑舌的=contact_在此地%di的__contact_。
+<--->
+若你往此地%di去__contact_，只要找一個=contact_。
+
+Message:  1014
+據說那面具能增強穿戴者的魅力。
+
+Message:  1020
+%qdt:
+ 克拉維庫斯·維爾要我殺掉位於地城___mondung_的一頭狼人。
+ 一名叫_contact_的=contact_會在=1stparton_天內於
+ ___contact_的__contact_等我，把克拉維庫斯·維爾的面具給我。
+
+Message:  1030
+<ce>                     你已如克拉維庫斯·維爾所令，
+<ce>                      殺死了那頭狼人。
+
+
+-- Symbols used in the QRC file:
+--
+--               %di occurs 2 times.
+--              %pcf occurs 1 time.
+--              %pcn occurs 3 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--       =1stparton_ occurs 2 times.
+--         =contact_ occurs 7 times.
+--       ___mondung_ occurs 6 times.
+--        __contact_ occurs 4 times.
+--        _artifact_ occurs 11 times.
+--         _contact_ occurs 1 time.

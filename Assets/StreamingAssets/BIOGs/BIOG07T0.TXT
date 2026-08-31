@@ -1,139 +1,133 @@
-1.	At an early age, your family considered
-	it important that you learn how to ___.
-a.	Mend simple wounds
+1.	早年，家人認為你必須學會___。
+a.	處理簡單傷口
 	#4500
 	0 +6
-b.	Ingratiate yourself
+b.	討好他人
 	#4501
 	1 +6
-c.	Boss people around
+c.	對人發號施令
 	#4502
 	2 +6
-d.	Haggle with merchants
+d.	與商人討價還價
 	#4503
 	14 +6
-e.	Fight with a knife
+e.	用刀戰鬥
 	#4504
 	28 +6
 
-2.	You were an active child, ___ than anyone
-	else your age.
-a.	faster
+2.	你小時候很好動，比同齡人都___。
+a.	跑得更快
 	#4505
 	21 +6
-b.	sneakier
+b.	更會潛行
 	#4506
 	16 +6
-c.	a better climber
+c.	更會攀爬
 	#4507
 	18 +6
-d.	a better swimmer
+d.	更會游泳
 	#4508
 	17 +6
-e.	a better brawler
+e.	更會打架
 	#4509
 	30 +6
 
-3.	You can get most of the things you want by
-	stealing from ___.
-a.	Rich Nobles
+3.	你想要的東西，多半是從___偷來的。
+a.	富有貴族
 	#4510
 	!4511
 	?4512
 	IT 25 3 0
-b.	Mages and Sages
+b.	法師與賢者
 	#4513
 	!4514
 	?4515
 	IT 7 0 0
-c.	Established Temples
+c.	根基深厚的神殿
 	#4516
 	!4517
 	?4518
 	IT 10 4 0
-d.	Diversified Merchants
+d.	各行商人
 	#4519
 	!4520
 	?4521
 	IT 25 5 0
 
-4.	The one skill you could not work
-	without must be ___.
-a.	Lockpicking
+4.	你少了就幹不下去的技能，必是___。
+a.	開鎖
 	#4522
 	13 +6
-b.	Pickpocketing
+b.	扒竊
 	#4523
 	15 +6
-c.	Stealthy Movement
+c.	潛行移動
 	#4524
 	16 +6
-d.	Dodging
+d.	閃避
 	#4525
 	20 +6
-e.	Climbing
+e.	攀爬
 	#4526
 	18 +6
-f.	Backstabbing
+f.	背刺
 	#4527
 	19 +6
 
-5.	Though certainly not due to hard work,
-	you happen legitimately to own ___.
-a.	Over 200 gold pieces
+5.	雖然絕非靠勤勞得來，你合法擁有___。
+a.	兩百多枚金幣
 	#4528
 	GP +250
-b.	An ebony dagger
+b.	一把烏木匕首
 	#4529
 	IT 3 0 7
-c.	A book
+c.	一本書
 	#4530
 	IT 7 0 0
-d.	A ruby
+d.	一顆紅寶石
 	#4531
 	IT 14 0 0
-e.	A silver staff
+e.	一根銀法杖
 	#4532
 	IT 3 2 2 
-f.	Some holy water
+f.	一些聖水
 	#4533
 	IT 10 4 0
 
-6.	What thieving skill have you been
-	practicing the longest?
-a.	Dodging
+6.	你練習最久的盜賊技能是哪一項？
+a.	閃避
 	20 +6
-b.	Stealth
+b.	潛行
 	16 +6
-c.	Backstabbing
+c.	背刺
 	19 +6
-d.	Lockpicking
+d.	開鎖
 	13 +6
-e.	Pickpocketing
+e.	扒竊
 	15 +6
-f.	Climbing
+f.	攀爬
 	18 +6
-g.	Critical-Striking
+g.	致命一擊
 	34 +6
-h.	Running
+h.	奔跑
 	21 +6
-i.	Jumping
+i.	跳躍
 	3 +6
 
-7.	Where is your expertise in combat?
-a.	Short-bladed weapons
+7.	你的戰鬥專長是？
+a.	短刃武器
 	28 +6
 	IT 3 3 0
-b.	Hand-to-hand combat
+b.	徒手格鬥
 	30 +6
 	IT 2 1 0
-c.	Axe fighting
+c.	斧戰
 	31 +6
 	IT 3 14 0
-d.	Blunt weapons
+d.	鈍器
 	32 +6
 	IT 3 11 0
-e.	Archery
+e.	箭術
 	33 +6
 	IT 3 16 0
 	IT 3 18 0
@@ -143,82 +137,79 @@ e.	Archery
 	IT 3 18 0
 	IT 3 18 0
 
-8.	As a child, your nickname was ___.
-a.	Rabbit
+8.	小時候，別人給你的綽號是___。
+a.	兔子
 	3 +6
-b.	Guppy
+b.	小魚
 	17 +6
-c.	Quicksilver
+c.	水銀
 	21 +6
-d.	Scrapper
+d.	好鬥鬼
 	30 +6
-e.	Monkey
+e.	猴子
 	18 +6
 
-9.	What motivates you into a life of
-	burglary?
-a.	Riches
+9.	是什麼驅使你走上竊盜之路？
+a.	財富
 	GP +500
-b.	Fame
+b.	名聲
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	知識
 	IT 7 0 0
-d.	Fun
+d.	樂趣
 	1 +3
 	2 +3
-e.	Helping Others
+e.	助人
 	r0 +10
 
-10.	What god, if any, do you worship?
-a.	None
+10.	你崇拜哪位神祇（若有的話）？
+a.	無
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	阿凱，誕生與死亡之神
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	澤尼薩爾，商業之神
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	瑪拉，母親女神
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	迪貝拉，美之女神
 	rf98 +5
-f.	Julianos, God of Logic
+f.	朱利安諾斯，邏輯之神
 	rf94 +5
-g.	Akatosh, God of Time
+g.	阿卡托什，時間之神
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	斯丹達爾，慈悲之神
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	凱娜瑞斯，空氣女神
 	rf36 +5
 
-11.	Your frail health as a child has made
-	you ___.
-a.	Less resistant to poisons
+11.	童年體弱，使你___。
+a.	較不耐毒素
 	RP -5
-b.	Less resistant to disease
+b.	較不耐疾病
 	RD -5
-c.	Easily tired
+c.	容易疲勞
 	FT -5
-d.	Less resistant to magic
+d.	較不耐魔法
 	MR -5
 
-12.	You preferred criminal method is ___.
-a.	catburglary
+12.	你偏好的犯罪手法是___。
+a.	飛賊入室
 	#4534
 	AF F 7 12 +1
-b.	mugging
+b.	攔路搶劫
 	#4535
 	AF F 7 12 +1
-c.	pickpocketing
+c.	扒竊
 	#4536
 	AF F 7 12 +1
-d.	swindling
+d.	詐騙
 	#4537
 	AF F 7 12 +1
-e.	smuggling
+e.	走私
 	#4538
 	AF F 7 12 +1
-f.	bankrobbing
+f.	搶銀行
 	#4539
 	AF F 7 12 +1
-
 

@@ -1,5 +1,5 @@
-Title: Ius, Animal God
-Author: Buljursoma
+Title: 伊烏斯，動物之神
+Author: 布爾朱爾索瑪
 IsNaughty: False
 Price: 385
 IsUnique: False
@@ -8,26 +8,26 @@ Content:
 
 [/font=2]
 
-[/center]Ius,
+[/center]伊烏斯，
 
-[/center]Animal God
+[/center]動物之神
 
 [/font=4]
 
- The statues one sees throughout Valenwood and parts of Hammerfell and Elsweyr that seem to be of a misshapen humanoid carrying a rod are of Ius, tHe God of Animals.
+  人們在瓦倫林地各地、以及落錘省與艾斯維爾部分地區所見、看似畸形人形持杖的雕像，便是伊烏斯，動物之神。
 
- The rod He carries has its origin in the tale of The Ox and The Evil Farmer. It seems that one day an evil farmer decided to kill all of his animals and have a big party. As The story unfolds, animal after animal is killed and prepared for a big meal. Lastly the farmer comes to the ox and prepares to slit its throat. The ox, not wishing to be anybody's dinner, prayed very vocally to Ius. This came out as a loud Moo, of course.
+  祂所持的杖源自《公牛與邪惡農夫》的故事。據說有一天，一個邪惡農夫決定殺掉所有牲口，大辦一場宴會。故事展開時，動物一個接一個被殺，準備成大餐。最後農夫來到公牛面前，準備割開它的喉嚨。公牛不想成為任何人的晚餐，便大聲向伊烏斯祈禱。當然，那聽起來成了一聲響亮的哞。
 
- At that very instant Ius appeared carrying a rather large set of balance weights. Without explanation, Ius ate the farmer and vanished. Ever since that day Ius The Extremely Agitated, has always been protrayed as carrying a large set of scales with him. The local Ius worshippers have no idea why and do not seem to care. Although this story has been called fanciful at best, I personally know a racoon who had actually talked to The Ox. That is, before the Ox became filler for the local inn's larder.
+  就在那一瞬，伊烏斯出現了，拿著一套相當大的天平砝碼。伊烏斯沒做解釋，把農夫吃掉，然後消失。從那天起，極度激動的伊烏斯便總被描繪成隨身帶著一套大天平。當地的伊烏斯崇拜者完全不知道為什麼，似乎也不在乎。這故事再怎麼說也被稱為至多是幻想，可我本人認識一隻浣熊，牠真的跟那頭公牛談過話。也就是，在那頭公牛變成當地旅店食櫥填料之前。
 
- I do not have any information one way or the other about the validity of this second myth. It is, however, quite traditional.
+  關於第二則神話是否屬實，我沒有任何正反資訊。不過，它相當傳統。
 
- It seems that many, many years ago, before the reign of Uriel Septim VII, before the reign of Cephorus Septim II, yes, even before the age of Pelagius Septim III (long may his name be praised!), there lived a wombat who was the pet of Lady Greelina, daughter of the Lord Prufrock of Rockcreek. Lady Greelina loved her wombat so, and it loved her too with all the passionate intensity a marsupial can muster.
+  據說許許多多年前，在烏列爾·塞普汀七世統治之前，在塞弗魯斯·塞普汀二世統治之前，是的，甚至在佩拉吉烏斯·塞普汀三世的時代之前（願他的名永遠受讚頌！），住著一隻袋熊，是岩溪普魯弗洛克領主之女格琳娜小姐的寵物。格琳娜小姐深愛她的袋熊，袋熊也以有袋類能集結的全部熱烈愛她。
 
- Unfortunately, it was a time of great sorrow in Rockcreek. A pestilence had come through the town, destroying all their cash crops (which consisted of raspberries and a few scraggly odd weeds that caused Argonian women to look very attractive to those who partook); Then a plague had come, inflicting nearly every cobbler with chronic hiccoughs; finally a witch had cursed the townspeople so the only words any could utter were "Hmmm. Precisely." All the businesses, stores, and guilds fled from the town faster than an extremely fast thing.
+  不幸的是，那是岩溪極大悲哀的時期。一場疫病穿過小鎮，摧毀了所有經濟作物（包括覆盆子，以及幾株能使亞龍人女子在服用者眼中變得非常誘人的瘦弱怪草）；接著一場瘟疫降臨，使幾乎每個鞋匠都染上慢性打嗝；最後一名女巫詛咒鎮民，讓任何人能說出口的話只剩「嗯。正是如此。」所有商號、店鋪與公會逃離小鎮的速度，比一樣極其迅速的東西還快。
 
- Lady Greelina saw her father despairing the loss the town was suffering, so she brought her wombat in and told him, "Father, my wombat can save us all, for it is sacred to the god Ius, God of Animals. The only reason I didn't tell you earlier is because I am an early adolescent going through that period when I don't like to communicate. But please, ask a wish of my wombat, and Ius will fulfill it, for my wombat loves me."
+  格琳娜小姐見父親為小鎮所受的損失絕望，便把袋熊帶進來對他說：「父親，我的袋熊能救我們所有人，因為牠對伊烏斯——動物之神——是神聖的。我沒早告訴你，只因為我正處於青春期早期那個不喜歡溝通的階段。可是請您向我的袋熊許願，伊烏斯就會實現，因為我的袋熊愛我。」
 
- The king thought this was fairly flakey, but he had nothing to lose so he uttered a modest wish to the wombat, "All I want is for one business to come to Rockcreek that will never leave no matter the calamity."
+  國王覺得這相當古怪，可他沒什麼可失去的，便向袋熊說了一個謙遜的願望：「我只想要有一家商號來到岩溪，無論災難如何都永不離開。」
 
- I probably should have mentioned before that the king had always been cruel to the wombat (he used to lick it and try to make it stick to walls), so the wombat had Ius create an equipment store in front of the palace gate that would never go away. The royal family ended up going mad and eating one another (and ironically, the wombat was one of the first to go). But that is why there is to this day an equipment store blocking the palace gate in Rockcreek. If you don't believe me, go there and see.
+  我大概該早說：國王對袋熊一向殘忍（他常舔牠，設法讓牠黏在牆上），於是袋熊讓伊烏斯在宮殿大門前造了一家永遠不會消失的裝備店。王室最後發瘋，彼此相食（諷刺的是，袋熊是最先被吃掉的之一）。但這就是為什麼直到今天，岩溪宮殿大門仍被一家裝備店擋住。不信的話，去那兒親眼看看。

@@ -1,0 +1,119 @@
+-- Quest: C:\QUESTS\WORKING\N0B40Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 40
+-- QuestId: 7
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 61
+Quest: N0B40Y07
+DisplayName: 放逐迪德拉
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 我不知道你能不能幫上忙，
+<ce>                        %pcf。我在找
+<ce>                  一位強大到能幾乎不失敗地
+<ce>                  施放「放逐迪德拉」的法師。
+<ce>                     你做得到嗎？
+                                     <--->
+<ce>                   「放逐迪德拉」是最難施放的
+<ce>                  標準法術之一。很少有法術
+<ce>                  需要更多天生魔力與技巧。
+<ce>                  你該不會正好會施放
+<ce>                       「放逐迪德拉」吧？
+                                     <--->
+<ce>                  極為諷刺的是，召喚迪德拉
+<ce>                    相對簡單，放逐它們卻不然。
+<ce>                    你該不會正好有能力
+<ce>                 施放標準法術
+<ce>                    「放逐迪德拉」吧？
+
+RefuseQuest:  [1001]
+<ce>                     啊，好吧，繼續找人。
+
+AcceptQuest:  [1002]
+<ce>                   我真心希望你沒在說謊。
+<ce>                     我不想殺掉這隻迪德拉，
+<ce>                    以後可能還用得上它的服務，
+<ce>                   但此刻它實在礙事。
+<ce>                    也別在法術製作器裡
+<ce>                    自製什麼「放逐迪德拉」。
+<ce>                   必須是標準、基本的法術。
+<ce>                  因為是我召喚了這隻迪德拉，
+<ce>                    我能讓你的工作輕鬆些，
+<ce>                    但你必須嚴格照我的指示。
+<ce>               拿這卷軸，裡面有一道法術，
+<ce>                 能用它的真名暫時囚禁這隻迪德拉。
+<ce>                 不過使用前，你必須先讓目標
+<ce>                 見血，否則可能反噬，後果
+<ce>                 難以預料。  一旦迪德拉被囚禁，
+<ce>                 「放逐迪德拉」幾乎不會失敗。
+<ce>                  那隻迪德拉在 ___mondung_。
+<ce>                我期望你在 =queston_ 天內回來。
+<ce>                        祝你好運，%pct。
+
+QuestComplete:  [1004]
+<ce>                        幹得好，%pct。我
+<ce>                   沒有金幣能給你，
+<ce>                   不過這本書我特別喜歡。
+
+RumorsDuringQuest:  [1005]
+迪德拉似乎特別愛往 ___mondung_ 跑。那兒一定有什麼靈性的東西。
+<--->
+<ce>      老 _qgiver_ 老是把東西召喚出來，
+<ce>                           再把 %g2自己 搞進麻煩裡。
+
+RumorsPostfailure:  [1006]
+昨晚的迪德拉星特別明亮。
+
+RumorsPostsuccess:  [1007]
+_qgiver_ 的迪德拉暫時走了。但迪德拉總有回來的習慣。
+<--->
+___mondung_ 的迪德拉影響至少暫時被清除了。
+
+QuestorPostsuccess:  [1008]
+那本書看得開心嗎，%pcf？我自己覺得相當有啟發。
+
+QuestorPostfailure:  [1009]
+<ce>                     你若不會「放逐迪德拉」這道法術，
+<ce>                   就不該接下任務。現在離開我。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 法師公會的
+ _qgiver_ 派我去 ___mondung_，
+ 對一隻迪德拉施放「放逐迪德拉」。
+ _qgiver_ 給了我一卷軸，上面有法術
+ 能短暫囚禁迪德拉，方便放逐，
+ 但那法術只有在我先讓它見血後
+ 才會生效。我必須在 =queston_ 天內
+ 成功歸來。
+
+Message:  1030
+Zanoth na' =daedra_.
+ Zanoth na' ==dummydaedra_.
+ Senet seneth mor.
+
+Message:  1040
+<ce>                  你這魯莽的傻瓜，我明確指示你
+<ce>                要放逐 =daedra_，不是
+<ce>                  殺死它。  現在我又得費事
+<ce>                    去學另一隻迪德拉的真名。
+<ce>                  你待在這兒讓人窒息，%pcf。
+<ce>                         請立刻離開。
+
+Message:  1050
+<ce>                     你唸完最後一個字時，
+<ce>                   一團火焰吞噬了卷軸。
+
+Message:  1051
+<ce>                          我是 =firedaedra_。
+<ce>                           是誰從我在湮滅的
+<ce>                         家園把我喚來？
+
+Message:  1060
+<ce>                        迪德拉 =daedra_ 已被
+<ce>                      妥善放逐回
+<ce>                       湮滅位面。

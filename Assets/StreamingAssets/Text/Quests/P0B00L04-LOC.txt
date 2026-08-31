@@ -1,0 +1,205 @@
+-- Quest: C:\QUESTS\WORKING\P0B00L04.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 0
+-- QuestId: 4
+Messages: 17
+Quest: P0B00L04
+DisplayName: 舊敵
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called.
+
+QuestComplete:  [1004]
+<ce>                你眉宇間可是有一絲哀傷，
+<ce>                       %pcf？我完全理解。
+<ce>                我也不止一次不得不
+<ce>                親手殺死自己的後裔。你必須試著
+<ce>                超脫這種對繁衍的矯情凡人心態。
+<ce>                 你不得不做的事固然可嘆，但你必須
+<ce>                  讓自己的血冷卻下來，才能真正成為
+<ce>                %vam 的一員。
+<ce>                 你已朝那一步邁進，
+<ce>                   理當受到祝賀。
+
+RumorsDuringQuest:  [1005]
+=vampire_ 的墳墓一定被盜了。整座墳……都被撕開了。
+<--->
+___mondung_ 附近近來很熱鬧。都是在夜裡。
+
+RumorsPostfailure:  [1006]
+前幾天我起了個膿包……不過後來好了。
+<--->
+我剛跟人聊了三個小時天氣。
+<--->
+這種時節，天氣還算平常。
+<--->
+以這個時節來說，%cn 似乎有點偏涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我的姨婆要去灣對岸看專科醫師。
+<--->
+這附近天黑的時間總是讓人覺得奇怪。
+<--->
+我們這附近該立一座戰爭雕像。
+<--->
+現在的年輕人跟他們的魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一個很棒的笑話。%jok
+<--->
+%jok 其實，那是個笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg 的法律制度有優點也有缺點。
+
+RumorsPostsuccess:  [1007]
+前幾天我起了個膿包……不過後來好了。
+<--->
+我剛跟人聊了三個小時天氣。
+<--->
+這種時節，天氣還算平常。
+<--->
+以這個時節來說，%cn 似乎有點偏涼。
+<--->
+今天可比去年這個時候暖和多了。
+<--->
+我的姨婆要去灣對岸看專科醫師。
+<--->
+這附近天黑的時間總是讓人覺得奇怪。
+<--->
+我們這附近該立一座戰爭雕像。
+<--->
+現在的年輕人跟他們的魔法。%oth，我真不懂。
+<--->
+昨晚我做了個最古怪的夢。
+<--->
+我聽到一個很棒的笑話。%jok
+<--->
+%jok 其實，那是個笑話。
+<--->
+%jok 你能跟我解釋一下嗎？
+<--->
+%reg 的法律制度有優點也有缺點。
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called
+
+QuestLogEntry:  [1010]
+                      __vamp_
+                       ___vamp_
+ 
+ 
+ 親愛的 %pcn，
+ 
+       或許你還記得曾經遇過的
+ 一名戰士，=vampire_？結實、
+ 多汁、血液略為稀薄，
+ 但總的來說，是一頓難忘的餐食。如今，
+ %g 已從墳墓中歸來。
+ 
+       %vam 對你這名後裔的
+ 存在，心情相當複雜。來見我，
+ 我們再細談。
+ 
+ 
+                     死蔭敬上，
+ 
+                     _vamp_
+
+Message:  1011
+<ce>                    一個蒼白的少年把一封信
+<ce>                     塞進你手裡，隨即消失，
+<ce>                            敏捷得像隻老鼠。
+
+Message:  1012
+%qdt:
+  %vam 的 _vamp_ 寄來
+  一封信，要我立刻前往
+  ___vamp_ 一處叫
+  __vamp_ 的地方。
+
+Message:  1013
+<ce>              啊，晚安，我的血中之血。
+<ce>               你我之間有個問題。你從前
+<ce>               的一頓餐食已從墳墓中爬了出來。
+<ce>                  =vampire_？我不知道這個名字
+<ce>                 對你是否還有意義。無論如何，我們
+<ce>                 一直在觀察 %g2，正如我們觀察
+<ce>               過你，看 %g3 對永生的反應
+<ce>                      是否配得上 %g3 的血脈。
+<ce>               結果並不配。%g 每飲下一滴血，
+<ce>                %g3 渴意便增長十倍。
+<ce>               一名瘋狂的新生吸血鬼在這片地區遊蕩，
+<ce>                 對一切文明的吸血鬼事務
+<ce>                      都是威脅。前往 ___mondung_
+<ce>               殺死你這名惹麻煩的孩子。
+<ce>                  這是不愉快的差事，但這是
+<ce>                   你的責任。我期望在 =queston_
+<ce>                  夜內再見到你，並且事已辦妥。
+<ce>                   再會。
+
+Message:  1014
+%qdt:
+  _vamp_ 派我前往
+  ___mondung_，在那裡
+  殺死 =vampire_，一名
+  由我創造的吸血鬼。我有
+  =queston_ 夜完成這項職責，
+  並回報 ___vamp_。
+
+Message:  1015
+<ce>                     別捨不得那根棍子，我的
+<ce>                        親長。否則會把我寵壞的。
+                                      <--->
+<ce>                     我認得你。你是我最後見到的
+<ce>                      那張臉，上面還沾著
+<ce>                    我身上的血。來吧，親愛的
+<ce>                        創造者，讓我們擁抱。
+                                      <--->
+<ce>                      你的臉就是我夢魘中的臉，
+<ce>                          %pcn。詛咒我過上
+<ce>                      這條命的，就是你，
+<ce>                         對不對？
+
+Message:  1016
+<ce>                            =vampire_ 終於
+<ce>                         迎來真正的死亡。
+<ce>                        你必須回去告訴
+<ce>                            _vamp_，
+<ce>                             事已辦妥。
+
+
+-- Symbols used in the QRC file:
+--
+--               %cn occurs 2 times.
+--              %dat occurs 1 time.
+--                %g occurs 2 times.
+--               %g2 occurs 1 time.
+--               %g3 occurs 3 times.
+--              %jok occurs 6 times.
+--              %oth occurs 10 times.
+--              %pcf occurs 1 time.
+--              %pcn occurs 3 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 2 times.
+--              %vam occurs 3 times.
+--         =queston_ occurs 2 times.
+--         =vampire_ occurs 5 times.
+--       ___mondung_ occurs 3 times.
+--          ___vamp_ occurs 15 times.

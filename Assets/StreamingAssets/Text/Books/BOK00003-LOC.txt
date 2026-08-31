@@ -1,5 +1,5 @@
-Title: The Wild Elves
-Author: Kiergo Chorvak
+Title: 野精靈
+Author: 基爾戈·喬瓦克
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,11 +8,11 @@ Content:
 
 [/font=2]
 
-[/center]The Wild Elves
+[/center]野精靈
 
 [/font=4]
- In the wilds of most every province of Tamriel, descended philosophically if not directly from the original inhabitants of the land are the Ayleids, commonly called the Wild Elves. While three races of elven stock, Salache (or High), Boiche (or Wood), and Moriche (or Dark) have assimilated well to the new cultures of Tamriel, the Ayleids and their brethren have remained aloof of our civilization, preferring to practice the old ways far from the eyes of the world.
+ 在泰姆瑞爾幾乎每一個行省的荒野裡，都有艾雷德人——俗稱野精靈——他們在哲學上即使不是血緣上，也是這片土地原初居民的後裔。精靈血統的三個種族，薩拉切（或高精靈）、博伊切（或木精靈），以及莫里切（或黑暗精靈），已很好地融入泰姆瑞爾的新文化；艾雷德與其同族卻始終對我們的文明保持疏離，寧願遠離世人耳目，奉行古道。
 
- The Wild Elves speak a variation of Old Cyrodilic and not Tamrielic, separating themselves further even than their more urbanized Elven cousins. In temperament they are dark-spirited and taciturn, though they doubtless act differently with outsiders (or "Pellani" in their tongue) than within their own tribes. Indeed, one of the finest sages of the University of Gwilym was a civilized Ayleid elf, Tjurhane Fyrre (1E 2790 - 2E 227) whose published work on Wild Elves suggests a lively, vibrant culture. Fyrre is one of the very few Ayleids to speak freely on his people and religion, and even he said "the nature of the tribes of Ayleid are multi-hued, their personalities often wildly different from their neighbor tribes." (Fyrre, T. "Nature of Ayleidic Poesy" p. 8, Univ of Gwilym Press, 2E 12) Like any alien culture, Wild Elves are often feared by the simple people of Tamriel.
+ 野精靈說的是古賽瑞迪爾語的變體，而非泰姆瑞爾語，這使他們比更為城市化的精靈表親還要隔閡。性情上，他們陰鬱寡言，儘管他們對待外人（他們的語言裡稱為「佩拉尼」）的態度，無疑與在本族部落內不同。的確，格威林大學最出色的賢者之一，就是一位開化的艾雷德精靈：丘爾哈內·菲爾（第一紀元2790年－第二紀元227年），他已出版的關於野精靈的著作暗示著一種活潑、蓬勃的文化。菲爾是極少數願意自由談論本族人民與宗教的艾雷德人之一，即便他也說：「艾雷德諸部落的本質是多彩多姿的，他們的性情往往與鄰近部落截然不同。」（菲爾，T.，《艾雷德詩性論》第8頁，格威林大學出版社，第二紀元12年）一如任何異邦文化，野精靈常為泰姆瑞爾的樸實百姓所懼。
 
- The Ayleids continue to be one of the greatest enigmas of the continent of Tamriel. They seldom appear in the pages of written history in any role, and then only as a strange sight a chronicler stumbles upon before they vanish into the wood. When probable fiction is filtered from common legend, we are left with almost nothing. The mysterious ways of the Ayleids have remained shrouded since before the first era, and may well remain so for thousands of years to come.
+ 艾雷德人仍是泰姆瑞爾大陸最大的謎團之一。他們很少以任何角色出現在文字歷史的篇章裡，即便出現，也只是編年史家偶然撞見的奇異景象，隨即消失於林中。當可能的虛構從民間傳說中濾去之後，我們幾乎什麼也沒剩下。艾雷德人的神秘行徑自第一紀元之前便籠罩於霧中，或許在往後數千年仍將如此。

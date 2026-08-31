@@ -1,0 +1,121 @@
+-- Quest: C:\QUESTS\WORKING\R0C60Y24.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 60
+-- QuestId: 24
+Messages: 41
+Quest: R0C60Y24
+DisplayName: 與吸血鬼交易
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  %pcf，再見到你總是愉快，親愛的朋友，
+<ce>             尤其是我需要幫忙的時候。我需要把這件 _item_
+<ce>                    交給 ___contact_ 的接應人，但我接到消息，
+<ce>             有個吸血鬼部族不想讓我的信差通過。你是我能想到
+<ce>               唯一可能送達的人。你願意試試嗎？
+
+RefuseQuest:  [1001]
+<ce>              真的？或許太忙了。真可惜。
+
+AcceptQuest:  [1002]
+<ce>                   啊，妙極了。這是 _item_。
+<ce>                    現在，_contact_ 必須在
+<ce>                   =queston_ 天內於 __contact_ 收到它。
+<ce>                   找一名 =contact_。你不會認錯%g2。
+<ce>            過程中別把自己弄死。祝你好運，謝謝。
+
+QuestFail:  [1003]
+<ce>                 %pcf，你在浪費寶貴時間。
+<ce>                    立刻上路前往 ___contact_。
+
+QuestComplete:  [1004]
+<ce>                   啊，很高興見到你，%pcf。還有
+<ce>              _item_ 也到了。出色。那些夜行者想攔下這東西
+<ce>            不讓我到手，算他們聰明。這點金幣算是辛苦費。
+<ce>                        保重。
+
+RumorsDuringQuest:  [1005]
+聽說他們在 __contact_ 研究一些吸血鬼的事。
+<--->
+_contact_，最偉大的吸血鬼獵人之一，加入了 __contact_。
+
+RumorsPostfailure:  [1006]
+最近有人在這附近找到一件非常漂亮的 _item_。
+<--->
+聽說 _questgiver_ 對某個%ra冒險者氣得要命。
+
+RumorsPostsuccess:  [1007]
+我注意到在%reg走夜路似乎安全些了。
+<--->
+沒錯，吸血鬼襲擊變少了。但還不是得意的時候。
+
+QuestorPostsuccess:  [1008]
+我猜那些吸血鬼學到教訓了，是嗎，%pcf？我能為你做什麼？
+<--->
+聽說那趟運送成功了。當然，對我一點都不意外。
+
+QuestorPostfailure:  [1009]
+<ce>                  吸血鬼太難對付了，%pcf？
+<ce>              別難過——牠們確實勢力強大。現在不是談話的好時機。
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ 要我把一件特定的 _item_
+ 交給%g3在 ___contact_ 的接應人，
+ 一名在 __contact_ 名叫 _contact_ 的薩滿。
+ 當地吸血鬼顯然不想讓我完成運送，但我必須在
+ =queston_ 天內把 _item_ 送到 ___contact_，
+ 否則酬勞作廢。
+
+Message:  1011
+<ce>                   那麼，你一定就是堅毅的%pcn。
+<ce>                  歡迎來到我簡陋的居所。聽說 =vampleader_
+<ce>                  對你的襲擊失敗了，我就想你或許會來找我。
+<ce>                容我自我介紹——我是 ==vampire_ 的 _vampire_，
+<ce>                 最古老、最受敬重的吸血鬼血脈。現在，我明白
+<ce>                 你答應把某件 _item_ 交給那個惡名昭彰的劊子手
+<ce>                   _contact_。==vampire_ 非常希望你改交給我。
+<ce>             純粹是措辭之差，你同意嗎？尤其我們願付
+<ce>               _vampreward_ 金幣，外加一件魔法 _vampitem_
+<ce>                作為額外獎賞。你對這極為慷慨的提議怎麼說？
+
+Message:  1012
+<ce>              妙極了。嶄露頭角的%ra冒險者做了明智的改投。
+<ce>            _questgiver_ 不會高興，但%g最好學會享受失望。
+<ce>           與你交易是極大的愉快。或許你我還會在更……親密的場合
+<ce>              再見面。
+
+Message:  1013
+<ce>               你對 _questgiver_ 的忠誠令人感動，
+<ce>                 但對我們雙方都很不幸。你可以自己出去，%pcf。
+<ce>                喔，順便一提，夜間別睡得太沉。
+<ce>                 ==vampire_ 向來會把帳算清。
+
+Message:  1015
+_contact_ 一直領導把吸血鬼趕出%reg的聖戰。
+<--->
+<ce>有時我懷疑 _contact_ 燒死的那些人是否真的都是吸血鬼。
+<ce> 很難相信附近有這麼多。
+
+Message:  1030
+<ce>                  羊皮紙顯示了達克弗隆凱科斯女巫集會的位置，
+<ce>              不管那是什麼。你迅速在地圖上標了下來。
+
+Message:  1040
+=vampleader_，
+ 
+ 那個該死的 _questgiver_ 終於拿到了
+ %g一直在找的 _item_，正往 _contact_ 那裡送。
+ 你跟我一樣清楚，==vampire_
+ 不能讓它到達。_questgiver_
+ 料到我們會阻止%g2，所以%g在找一名
+ 叫%pcn的%ra當信差。別低估這個人——
+ %pcf名聲不小。立刻把 _item_ 帶給我——
+ 我會在 __vamphouse_ 的 _vamphouse_ 等你。
+ 
+                             死中致意，
+ 
+                             _vampire_

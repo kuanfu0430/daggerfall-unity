@@ -1,0 +1,123 @@
+-- Quest: C:\QUESTS\WORKING\F0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Dibella
+-- Repute: 0
+-- QuestId: 0
+Messages: 31
+Quest: F0B00Y00
+DisplayName: 渴求的藝術品
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>迪貝拉之家較為重要的職能之一，
+<ce>便是保存偉大的藝術品。我們在泰姆瑞爾
+<ce>各地都有探子，尋找稀有而美麗的作品。
+<ce>你可有空去取回一件這樣的傑作？
+<ce>距離不遠，我們也樂意付你
+<ce>_reward_金幣作為酬勞。
+<--->
+<ce>泰姆瑞爾高度文明四千餘年以來，
+<ce>迪貝拉之家不懈地從貪婪粗鄙的
+<ce>時光之手中搶救、保存古代與藝術之物，
+<ce>使其免於毀壞。我們已建立起一套
+<ce>精密的網絡，由考古學者、掮客與信使組成，
+<ce>他們為本家取得藝術品而獲得豐厚報酬。
+<ce>你願意協助這樣一樁差事嗎，%pcf？
+
+RefuseQuest:  [1001]
+<ce>唉，真叫人傷心，時光竟被視為
+<ce>過於珍貴，無法用來品嚐
+<ce>那最稀有的樂趣——真正的美。
+
+AcceptQuest:  [1002]
+<ce>太好了。這件作品的取得者
+<ce>是個挺滑稽的小=contact_，名叫
+<ce>_contact_。%g找到的東西
+<ce>顯然極為稀有奇妙，%g生怕強盜
+<ce>會在%g抵達本家之前搶走。
+<ce>我不知有多危險，但若你願意
+<ce>前往___contact_的__contact_，
+<ce>從%g2手中取走那件神器，
+<ce>我將感激不盡。時間緊迫，
+<ce>%g說若=1stparton_天內沒人去取，
+<ce>%g就會放棄那件神器。同時，
+<ce>我期望你在=1stparton_天內回到這裡。
+<ce>願你平安，願迪貝拉減輕你的負擔。
+
+QuestFail:  [1003]
+<ce>你好，%pcf。你沒忘記
+<ce>__contact_那件神器吧？
+
+QuestComplete:  [1004]
+<ce>太美了！看那對稱的線條、
+<ce>風格化的人物、精緻的褶皺與裝飾……
+<ce>哦，%pcf，你贈予我們的這尊聖像
+<ce>是何等禮物。_reward_金幣
+<ce>當然是我們最起碼的報答。
+<ce>願迪貝拉祝福你。
+
+RumorsDuringQuest:  [1005]
+那發抖的=contact_老講%g3陰謀論，真煩人。
+<--->
+不知道那=contact_到底有沒有值得偷的東西。
+
+RumorsPostfailure:  [1006]
+迪貝拉之家搞得好像丟了那尊聖像就是世界末日。
+<--->
+那家子太信任人了，難怪被那%ra傭兵佔了便宜。
+
+RumorsPostsuccess:  [1007]
+傳了那麼久，聽說那聖像其實是贗品。
+<--->
+不知道迪貝拉之家是要展出那聖像，還是只收藏起來。
+
+QuestorPostsuccess:  [1008]
+為我們帶來那尊美麗聖像的%ra，有什麼我能效勞的？
+
+QuestorPostfailure:  [1009]
+你辜負了藝術，就是辜負了本家，%pcf。滾吧！
+
+QuestLogEntry:  [1010]
+<ce>迪貝拉在上，我等你等到神經都快繃斷了。
+<ce>聖像在這兒——真高興能脫手。
+<ce>我能感覺到每個殺手的眼睛都盯著它。
+<ce>你最好趕緊回本家，免得他們以為
+<ce>你帶著它跑了。
+
+Message:  1011
+_contact_是個為迪貝拉之家效力的普通考古冒險者。
+<--->
+__contact_那邊那個=contact_？不過是某種小偷或傭兵。
+
+Message:  1013
+我敢說是假的。不過本家大概分不出來。
+<--->
+十有八九是贗品。不過仍然很漂亮。
+
+Message:  1030
+%qdt:
+ 迪貝拉之家雇我去會見一名
+ 為他們發掘出聖像的考古學者，
+ 付錢取走，再把聖像帶回本家。
+ 這名_contact_在___contact_
+ 的__contact_。我必須在=1stparton_天內
+ 把聖像交給___questgiver_的
+ _questgiver_。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 5 times.
+--               %g2 occurs 2 times.
+--               %g3 occurs 1 time.
+--              %pcf occurs 13 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 2 times.
+--       =1stparton_ occurs 5 times.
+--         =contact_ occurs 6 times.
+--    ___questgiver_ occurs 3 times.
+--        __contact_ occurs 8 times.
+--      _questgiver_ occurs 1 time.
+--          _reward_ occurs 3 times.

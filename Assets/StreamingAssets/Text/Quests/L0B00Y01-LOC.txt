@@ -1,0 +1,102 @@
+-- Quest: C:\QUESTS\WORKING\L0B00Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 0
+-- QuestId: 1
+Messages: 14
+Quest: L0B00Y01
+DisplayName: 無處可逃
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 如你所知，%pct，
+<ce> 黑暗兄弟會不容失敗。
+<ce> 讓我們失望的兄弟會被
+<ce> 列為了結對象。你要
+<ce> 找出並糾正這樣一名
+<ce> 誤入歧途的
+<ce> 前成員。
+                                      <--->
+<ce> 這是莊嚴的職責，而且
+<ce> 並非完全令人不快：
+<ce> 了結那些在任務中讓
+<ce> 兄弟會失望的
+<ce> 特工。我相信你有空
+<ce> 接下這份
+<ce> 差事？
+
+RefuseQuest:  [1001]
+<ce> 我沒聽錯吧？
+<ce> %pct，你對
+<ce> 兄弟們如此不肯配合，
+<ce> 令我痛心。
+
+AcceptQuest:  [1002]
+<ce> 很好，%pct。
+<ce> =target_ 在兄弟會
+<ce> 任職期間學了點本事，
+<ce> 明智地藏起了 %g2self，
+<ce> 但我們在 __snitch_ 有個
+<ce> 線人，一個可憐的 =snitch_，
+<ce> 名叫 _snitch_。去跟 %g2 談，
+<ce> 問出 =target_ 的下落。
+<ce> 我期望了結完成，並且你在
+<ce> =queston_ 天內回到這裡。
+
+QuestComplete:  [1004]
+<ce> 幹得好，%pct。
+<ce> 這對所有可能讓兄弟會
+<ce> 失望的人，都是
+<ce> 一記好教訓。
+
+RumorsDuringQuest:  [1005]
+=target_ 仍在 %reg 某處逍遙，我敢打賭 %g 正抖得像柳枝。
+<--->
+=target_ 曾是個還不錯的刺客。看來還不夠好。
+
+RumorsPostfailure:  [1006]
+看來你能勝過兄弟會。瞧瞧 =target_ 就是例子。
+<--->
+=target_ 簡直在對黑暗兄弟會嗤之以鼻。
+
+RumorsPostsuccess:  [1007]
+=target_，據說 %g 讓兄弟會失望過一次。而那就是 %g3 報應。
+<--->
+黑暗兄弟會不容失敗。看看可憐的 =target_ 的下場。
+
+QuestorPostsuccess:  [1008]
+你好，%pcn。殺死我們誤入歧途的兄弟之人，有何需要我幫忙？
+
+QuestorPostfailure:  [1009]
+<ce> 讓我搞清楚。我派你去了結
+<ce> 一名讓兄弟會失望的
+<ce> _target_……而你失敗了。現在
+<ce> 你還想閒聊。真是難以置信。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的黑暗兄弟會派我去對付
+ 一名任務失敗的兄弟。我要去
+ ___snitch_ 的 __snitch_，找一名
+ 叫 _snitch_ 的告密者，問出
+ =target_ 逃往何處。
+
+Message:  1011
+<ce> %pcn？我是 _snitch_。
+<ce> 你要找的那條魚已經脫鉤，
+<ce> 正在 ___mondung_ 過著
+<ce> 體面日子。
+<ce> 小心點，%ra。
+<ce> =target_ 會打架，
+<ce> 而且 %g 很害怕。
+
+Message:  1012
+%qdt:
+ _snitch_ 告訴我，=target_
+ 在 ___mondung_。
+
+Message:  1013
+<ce> 你已殺死 =target_。
+<ce> 兄弟會會感到滿意。

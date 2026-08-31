@@ -1,0 +1,116 @@
+-- Quest: C:\QUESTS\WORKING\S0000500.Qbn.
+-- Main story quest.
+-- QuestId: 500
+Messages: 71
+Quest: S0000500
+DisplayName: 卡瓦爾領主任務·第二部
+-- Message panels
+QRC:
+
+QuestComplete:  [1004]
+<ce>                   %pcf，當我大多數所謂的朋友拋棄我時，
+<ce>                 你救了我的命。我欠你一份人情。我的資源
+<ce>                  已不如從前，但請收下這_gold_金幣，
+<ce>               權當小小的謝禮。
+
+RumorsDuringQuest:  [1005]
+<ce>   _queen_的一位高階領主因叛國被捕。他的朋友正在求情，
+<ce>    但女王已排定了他的處決日期。
+
+RumorsPostsuccess:  [1007]
+<ce> 據說_traitor_從哨兵城城堡的地城逃了出來，就在_queen_衛兵的眼皮底下。
+<ce> 她一定氣壞了！
+
+Message:  1020
+%qdt:
+ 我收到一位名叫_contact1_的人的信，請我到
+ ____tavern_、__tavern_的_tavern_與%g2會面，
+ 事關哨兵城的_traitor_。
+
+Message:  1021
+%qdt:
+ 我與_contact1_會面，%g告訴我_traitor_正困在
+ 哨兵城的地城裡，處決定在=executiondelay_天後。
+ _contact1_求我在為時已晚之前救出_traitor_。
+
+Message:  1022
+%qdt:
+ 我已從哨兵城城堡地城救出_traitor_，正帶他前往
+ ____safehouse_、__safehouse_的_safehouse_，
+ 在那裡與一名叫_contact2_的盟友會面。
+
+Message:  1030
+親愛的%pcn：
+  
+ 若你是_traitor_的朋友，請盡快到
+ ____tavern_、__tavern_的_tavern_與我會面。
+ 這是生死攸關的事！請在=firsttimer_天內找到我！
+  
+<ce>                              _contact1_
+
+Message:  1040
+<ce>                     %pcn？你是我最後的希望！
+<ce>                    _traitor_的朋友與盟友在他被
+<ce>                    暴君_queen_以捏造的叛國罪名
+<ce>                     逮捕後，全都證明不忠。他如今
+<ce>                       被關在哨兵城城堡的地城，
+<ce>                     等待處決。求你，若你對這個人
+<ce>                    還有一絲敬意，就把他從必死的命運
+<ce>                  中救出來。他常談起你的本事與勇氣。
+<ce>                 我知道你會幫我們。他只剩=executiondelay_
+<ce>                  天可活！快！
+
+Message:  1041
+<ce>                    %oth，真高興見到你。我們必須在
+<ce>                    警報響起前離開這裡。你出現時我
+<ce>                 正計畫逃跑，但現在不必了，對吧？我強壯
+<ce>                 的右臂，我一直這麼叫你。我保證，當我成為
+<ce>                   哨兵城國王時，你會在我身邊，成為王國
+<ce>                  最富有的領主！聽來不錯，對吧？一旦擺脫
+<ce>                  追捕，帶我去____safehouse_的
+<ce>                    __safehouse_。我在那裡_safehouse_
+<ce>                       有個朋友，會幫我重新組織
+<ce>                征服哨兵城。帶路吧，好%pcn，我們走！
+<ce>                   我們只有=escapetime_天去接上線。
+
+Message:  1050
+<ce>                      拉警報！_traitor_在逃跑！
+<ce>                  =guards_，快來！
+
+Message:  1051
+<ce>                      _traitor_握住你的手，懇切地說：
+<ce>                                    
+<ce>                   「感謝你把我從那絕望的黑坑裡救出來，
+<ce>                    但我必須在此與你分手。」
+
+Message:  1060
+<ce>   聽說哨兵城的_traitor_因叛國被處決了？
+<ce>顯然相當壯觀——他們在_queen_城堡前的廣場把他吊死。
+                                      <--->
+<ce>   哨兵城的_traitor_因叛國被吊死。據說他死前相當可恥地求饒。
+
+Message:  1070
+<ce>                   一名信使喊你等一等。
+<ce>                       「%pcn，對吧？這封信
+<ce>                        是給你的。我得走了。」
+
+
+-- Symbols used in the QRC file:
+--
+--               %g2 occurs 3 times.
+--              %oth occurs 1 time.
+--              %pcf occurs 1 time.
+--              %pcn occurs 5 times.
+--              %qdt occurs 3 times.
+--  =executiondelay_ occurs 1 time.
+--          =guards_ occurs 2 times.
+--    ____safehouse_ occurs 2 times.
+--       ____tavern_ occurs 2 times.
+--      __safehouse_ occurs 2 times.
+--         __tavern_ occurs 2 times.
+--        _contact1_ occurs 4 times.
+--            _gold_ occurs 1 time.
+--           _queen_ occurs 7 times.
+--       _safehouse_ occurs 2 times.
+--          _tavern_ occurs 2 times.
+--         _traitor_ occurs 14 times.

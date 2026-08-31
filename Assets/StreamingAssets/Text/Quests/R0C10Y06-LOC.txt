@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\R0C10Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: royalty
+-- Repute: 10
+-- QuestId: 6
+Messages: 12
+Quest: R0C10Y06
+DisplayName: 傳家寶
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                我有一件對我極其珍貴的 _item_。
+<ce>              它在我家代代相傳。知道這一點後，
+<ce>                一小群獸人盜匪把它偷走，還拿來勒索贖金。
+<ce>                我無意為這種暴行給他們獎賞。
+<ce>                 另一方面，若你肯去他們的藏匿處
+<ce>              把 _item_ 偷回來，我願把全部贖金
+<ce>              ——_reward_ 金幣——付給你。
+<ce>                               你願意嗎？
+
+RefuseQuest:  [1001]
+<ce>                      %oth！你不肯為我做這件事？
+<ce>                  那我就只好付贖金了。你讓我失望，%pcf。
+
+AcceptQuest:  [1002]
+<ce>                  很好。據我所知，那些獸人的藏匿處
+<ce>                  在舊廢墟 ___itemdung_。我想
+<ce>                      我的 _item_ 也關在那裡。
+<ce>               若你沒在 =1stparton_ 天內回來，
+<ce>                  我就當你沒找到 _item_，
+<ce>                 把你的酬金當贖金付給獸人。
+<ce>                別讓我失望，%pcf。祝你好運。
+
+QuestFail:  [1003]
+<ce>                      我不想聊天，%pcf。
+<ce>                      我要我的 _item_。去拿回來。
+
+QuestComplete:  [1004]
+<ce>                 不知怎地我知道你會找到我的 _item_，
+<ce>                       %pcf。我很樂意把本來
+<ce>                   要當贖金的金幣給你。
+<ce>                  我再怎麼感謝都不夠。
+
+RumorsDuringQuest:  [1005]
+有群獸人在 ___itemdung_ 盤據。
+<--->
+___itemdung_ 那些獸人以為能從 _questgiver_ 身上發大財。
+
+RumorsPostfailure:  [1006]
+_questgiver_ 付了錢之後，___itemdung_ 的獸人就撤了。
+<--->
+_questgiver_ 顯然對某個%ra冒險者氣得發狂。
+
+RumorsPostsuccess:  [1007]
+<ce>                 有群獸人在抱怨 _questgiver_
+<ce>                 偷了他們的聖物。
+                                      <--->
+<ce>               ___itemdung_ 顯然不像想像中
+<ce>                   那麼安全的藏匿點。
+
+QuestorPostsuccess:  [1008]
+<ce>           又見面了，年輕的朋友。我沒忘那樁獸人事，
+<ce>                    你知道的。
+                                      <--->
+希望你還沒把我給的酬金全花光，我的朋友。
+
+QuestorPostfailure:  [1009]
+<ce>                         滾去湮滅吧，%pcf。
+<ce>                   我沒忘你搞砸了我那任務。
+
+QuestLogEntry:  [1010]
+%qdt:
+___questgiver_ 的 __questgiver_
+ 的 _questgiver_
+ 派我前往 ___itemdung_，
+ 找回一件被獸人盜匪偷走的
+ 家族傳家寶 _item_。若我沒在
+ =1stparton_ 天內把東西交還
+ _questgiver_ 手上，%g就會
+ 付贖金，我的酬金也就沒了。
+
+Message:  1011
+你找到了 _item_。

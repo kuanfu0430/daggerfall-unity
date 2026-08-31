@@ -1,0 +1,162 @@
+-- Quest: C:\QUESTS\WORKING\K0C0XY01.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0X
+-- QuestId: 1
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 100
+Quest: K0C0XY01
+DisplayName: 鷹身女妖巢穴
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>我手上有樁不算罕見的麻煩。一窩鷹身女妖
+<ce>搬進了我一處舊產業，我本人其實毫不在乎，
+<ce>可我們賢明仁慈的%rt下令：任何被鷹身女妖
+<ce>盤據的建築，業主須負責滅除。不遵從顯然還有罰款。
+<ce>坦白說，我沒這時間；但若你不介意讓劍沾點血，
+<ce>我用得上你的幫忙。上次雇的傭兵沒能回來，
+<ce>所以你若猶豫，我能理解。我樂意付你，
+<ce>比方說，_reward_金幣作為辛苦費。
+
+RefuseQuest:  [1001]
+<ce>%oth。也難怪。
+<ce>我自己也受不了鷹身女妖那股臭味。
+
+AcceptQuest:  [1002]
+<ce>你願意？太好了。關鍵是我必須在=2mondung_天內
+<ce>證明已認真清理___mondung_。顯然時間不多。
+<ce>我原指望先前從戰士公會雇來的傭兵_contact_
+<ce>更能幹些。還有，聽著，%pcf，你不必清掉
+<ce>整個___mondung_。只要殺掉四五隻那些畜生
+<ce>再回來就行。對了！族長戴著特別染色的獅鷲羽毛。
+<ce>帶一根回來，我就有需要的證據。只要務必在
+<ce>=2mondung_天內回來，%pcf。
+
+QuestFail:  [1003]
+<ce>%oth。這努力可真不夠看。
+
+QuestComplete:  [1004]
+<ce>幹得好，%pcf。現在我可以向%rt證明
+<ce>我盡了公民義務，至少嘗試過。
+<ce>你確實賺到了這_reward_金幣。謝謝。
+
+RumorsDuringQuest:  [1005]
+%rt要求一些傭兵拿出消滅鷹身女妖的實物證據。
+<--->
+_qgiver_真把___mondung_荒廢了。現在幾乎不算倉庫。
+<--->
+_qgiver_若不用___mondung_，就該把它拆掉。
+
+RumorsPostfailure:  [1006]
+%rt給_qgiver_開了那麼多罰單，不知道%g還能不能翻身。
+<--->
+依我看，_qgiver_雇來滅鷹身女妖的人運氣真差。
+
+RumorsPostsuccess:  [1007]
+%rt似乎滿意_qgiver_清理___mondung_的努力。
+<--->
+_qgiver_終於開始第一次動手清理那骯髒的___mondung_了。
+
+QuestorPostsuccess:  [1008]
+你幫我對付過那些鷹身女妖，%pcf。我能幫你什麼？
+
+QuestorPostfailure:  [1009]
+我沒什麼好跟連幾根羽毛都撿不回來的%ra說的。
+
+Message:  1030
+一根大白羽毛，染成令人作嘔的紅色。
+
+Message:  1031
+一根灰羽毛，染成病懨懨的綠色。
+
+Message:  1032
+一根大白羽毛，染成純黑。
+
+Message:  1033
+一根灰羽毛，染成暗藍色。
+
+Message:  1011
+<ce>謝謝你，%pcf。從這兒回家我認得路。
+
+Message:  1012
+__qgiver_，___qgiver_
+ 親愛的%pcn：
+ 
+      抱歉在你肯定正忙的時候打擾，但我收到戰士公會
+ 來人，談的是_contact_——我原先雇來清理
+ ___mondung_的那名傭兵。
+      不拿面談細節煩你了，只告訴你我答應
+ 公會會長會請你在___mondung_時幫忙找_contact_。
+ _contact_是個=contact_，所以在___mondung_
+ 應該很顯眼。
+      好了，我對公會會長的承諾算是履行了。
+ 就我個人而言，你把這信扔掉、讓_contact_
+ 在___mondung_爛掉，我也不在乎。
+ 
+      我熱切等候你歸來。
+ 
+<ce>敬上，
+<ce>_qgiver_
+
+Message:  1013
+<ce>你是_qgiver_派來的？
+<ce>感謝%god你到了，%pcf。
+<ce>希望你不介意我跟你一道。
+<ce>收下這_jewelry_，權當我的謝意。
+
+Message:  1014
+<ce>一名年輕信使出現在你身旁，把一封信交給你，
+<ce>一句話沒說便消失了。
+
+Message:  1020
+%qdt:
+ ___qgiver_的商人_qgiver_雇我
+ 去清理%g3那處荒廢產業___mondung_，
+ 那兒被鷹身女妖盤據。顯然那地方不必徹底清空，
+ 但必須做出某種努力，或至少看起來像努力過。
+ 我必須在=2mondung_天內帶回一根族長羽毛，
+ 報酬是_reward_金幣。
+
+Message:  1050
+1隻鷹身女妖已死
+
+Message:  1051
+2隻鷹身女妖已死
+
+Message:  1052
+3隻鷹身女妖已死
+
+Message:  1053
+4隻鷹身女妖已死
+
+--changed these msgs from 103X to 105X since those numbers were already taken above
+
+Message:  1040
+<ce>我需要一些證據才能付錢給你。
+
+Message:  1099
+<ce>你找到了一根族長羽毛。
+
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 2 times.
+--               %g3 occurs 2 times.
+--              %god occurs 1 time.
+--              %oth occurs 2 times.
+--              %pcf occurs 7 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--               %rt occurs 5 times.
+--        =2mondung_ occurs 5 times.
+--         =contact_ occurs 1 time.
+--       ___mondung_ occurs 12 times.
+--        ___qgiver_ occurs 3 times.
+--         _contact_ occurs 6 times.
+--         _jewelry_ occurs 1 time.
+--          _qgiver_ occurs 9 times.
+--          _reward_ occurs 15 times.

@@ -1,5 +1,5 @@
-Title: The Madness of Pelagius
-Author: Tsathenes
+Title: 佩拉吉烏斯的瘋狂
+Author: 薩特內斯
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -8,44 +8,44 @@ Content:
 
 [/font=2]
 
-[/center]The Madness of
+[/center]佩拉吉烏斯的
 
-[/center]Pelagius
+[/center]瘋狂
 
 [/font=4]
 
- The man who would be Emperor of all Tamriel was born Thoriz Pelagius Septim, a prince of the royal family of Wayrest in 3E 119 at the end of the glorious reign of his uncle, Antiochus I. Wayrest had been showered by much preference during the years before Pelagius' birth, for King Magnus was Antiochus' favorite brother.
+  日後將成為全泰姆瑞爾皇帝的那人，生於 3E 119 年，名為索里斯·佩拉吉烏斯·塞普汀，是途歇城王室的王子，時值其叔父安提奧克斯一世光榮統治的末年。佩拉吉烏斯出生前那些年，途歇城備受恩寵，因為國王馬格努斯是安提奧克斯最喜愛的兄弟。
 
- It is hard to say when Pelagius' madness first manifested itself, for, in truth, the first ten years of his life were marked by such insanity in the land itself. When Pelagius was just over a year old, Antiochus died and a daughter, Kintyra, assumed the throne to the acclaim of all. Kintyra II was Pelagius' cousin and an accomplished mystic and sorceress. If she had sufficient means to peer into the future, she would have surely fled the palace.
+  很難說佩拉吉烏斯的瘋狂何時首次顯現，因為說實話，他生命的頭十年，這片土地本身就充滿瘋狂。佩拉吉烏斯剛過一歲，安提奧克斯去世，一位女兒金泰拉在萬民讚頌中即位。金泰拉二世是佩拉吉烏斯的堂姐，也是成就卓著的秘術師與女術士。若她有足夠手段窺見未來，必定會逃離宮殿。
 
- The story of the War of the Red Diamond has been told in many other scholarly journals, but as most historians agree, Kintyra II's reign was usurped by her and Pelagius' cousin Uriel, by the power of his mother, Potema -- the so-called wolf queen of Solitude. The year after her coronation, Kintyra was trapped in Glenpoint and imprisoned in the Imperial dungeons there.
+  紅鑽戰爭的故事已在許多其他學術期刊中講述，但多數歷史學家同意，金泰拉二世的統治被她與佩拉吉烏斯的堂兄烏列爾篡奪，靠的是其母波提瑪——所謂獨孤城狼女王——的力量。加冕後一年，金泰拉在格倫角落入陷阱，被囚禁於當地的帝國地牢。
 
- All of Tamriel exploded into warfare as Prince Uriel took the throne as Uriel III, and High Rock, because of the imprisoned Empress' presence there, was the location of some of the bloodiest battles. Pelagius' father, King Magnus, allied himself with his brother Cephorus against the usurper Emperor, and brought the wrath of Uriel III and Queen Potema down on Wayrest. Pelagius, his brothers and sisters, and his mother Utheilla fled to the Isle of Balfiera. Utheilla was of the line of Direnni, and her family manse is still located on that ancient isle even to this day.
+  全泰姆瑞爾爆發戰火，烏列爾王子以烏列爾三世之名登上王座；高岩因被囚女皇在此，成為一些最血腥戰役的所在。佩拉吉烏斯的父親馬格努斯國王與兄弟塞弗魯斯結盟對抗篡位皇帝，把烏列爾三世與波提瑪女王的怒火引到途歇城。佩拉吉烏斯、他的兄弟姐妹，以及母親烏塞拉逃往巴爾費拉島。烏塞拉出自迪倫尼一脈，她的家族宅邸至今仍坐落在那座古老島嶼上。
 
- There is thankfully much written record of Pelagius' childhood in Balfiera recorded by nurses and visitors. All who met him described him as a handsome, personable boy, interested in sport, magic, and music. Even assuming diplomats' lack of candor, Pelagius seemed like, if anything a blessing to the future of the Septim Dynasty.
+  幸好佩拉吉烏斯在巴爾費拉的童年有大量書面紀錄，出自保姆與訪客之手。所有見過他的人都形容他是個英俊、討人喜歡的男孩，對運動、魔法與音樂都有興趣。即便考慮到外交官缺乏坦率，佩拉吉烏斯看起來——如果說有什麼的話——像是塞普汀王朝未來的祝福。
 
- When Pelagius was eight, Cephorus slew Uriel III at the Battle of Ichidag and proclaimed himself Emperor Cephorus I. For the next ten years of his reign, Cephorus battled Potema. Pelagius' first battle was the Siege of Solitude, which ended with Potema's death and the final end of the war. In gratitude, Cephorus placed Pelagius on the throne of Solitude.
+  佩拉吉烏斯八歲時，塞弗魯斯在伊奇達格之戰殺死烏列爾三世，自立為皇帝塞弗魯斯一世。此後十年統治中，塞弗魯斯與波提瑪交戰。佩拉吉烏斯的第一場戰役是獨孤城圍城戰，以波提瑪之死與戰爭最終結束告終。出於感激，塞弗魯斯把佩拉吉烏斯放上獨孤城的王座。
 
- As king of Solitude, Pelagius' eccentricities of behavior began to be noticeable. As a favorite nephew of the Emperor, few diplomats to Solitude made critical commentary about Pelagius. For the first two years of his reign, Pelagius was at the very least noted for his alarming shifts in weight. Four months after taking the throne, a diplomat from Ebonheart called Pelagius "a hale and hearty soul with a heart so big, it widens his waist"; five months after that, the visiting princess of Firsthold wrote to her brother that "the king's gripped my hand and it felt like I was being clutched by a skeleton. Pelagius is greatly emaciated, indeed."
+  作為獨孤城國王，佩拉吉烏斯行為的古怪開始顯而易見。身為皇帝寵愛的侄子，很少有到獨孤城的外交官對佩拉吉烏斯作批評。在位頭兩年，佩拉吉烏斯至少以體重驚人的劇烈起伏聞名。即位四個月後，烏木之心的一位外交官稱佩拉吉烏斯為「身心健壯之人，心胸寬大到連腰圍都跟著寬了」；五個月後，初庭來訪的公主寫信給兄長說：「國王握住我的手，感覺像被一具骷髏攥住。佩拉吉烏斯確實極度消瘦。」
 
- Cephorus never married and died childless three years after the Siege of Solitude. As the only surviving sibling, Pelagius' father Magnus left the throne of Wayrest and took residence at the Imperial City as the Emperor Magnus I. Magnus was elderly and Pelagius was his oldest living child, so the attention of Tamriel focused on Sentinel. By this time, Pelagius' bizarrities were becoming infamous. There are many legends about his acts as King of Sentinel, but few well documented cases exist. It is known that Pelagius locked the young princes and princesses of Silvenar in his room with him, only releasing them when an unsigned Declaration of War was slipped under the door. When he tore off his clothes during a speech he was giving at a local festival, his advisors apparently decided to watch him more carefully. On the orders of Magnus, Pelagius was married to the beautiful heiress of an ancient Dark Elf noble family, Katariah Ra'athim.
+  塞弗魯斯從未結婚，獨孤城圍城戰三年後無嗣而終。作為唯一尚存的兄弟，佩拉吉烏斯的父親馬格努斯離開途歇城王座，入駐帝都，成為皇帝馬格努斯一世。馬格努斯年事已高，佩拉吉烏斯是他尚在人世的長子，於是泰姆瑞爾的目光聚焦於哨兵城。到這時，佩拉吉烏斯的怪誕已變得惡名昭彰。關於他作為哨兵城國王的作為有許多傳說，但文獻充分的案例很少。已知佩拉吉烏斯曾把希爾維納的年輕王子公主鎖在自己房裡，直到一封未署名的宣戰書從門縫塞進來才放他們走。當他在當地節日發表演說時扯掉衣服，顧問們顯然決定要更仔細盯著他。依馬格努斯之命，佩拉吉烏斯娶了一個古老黑暗精靈貴族家族的美麗女繼承人，卡塔莉亞·拉阿辛。
 
- Nordic kings who marry Dark Elves seldom improve their popularity. There are two reasons most scholars give for the union. Magnus was trying to cement relations with Ebonheart, where the Ra'athim clan hailed. Ebonheart's neighbor, Mournhold, had been a historical ally of the Empire since the very beginning, and the royal consort of Queen Barenziah had won many battles in the War of the Red Diamond. Ebonheart had a poorly-kept secret of aiding Uriel III and Potena.
+  諾德國王娶黑暗精靈，很少能提升聲望。多數學者給出兩個聯姻理由。馬格努斯試圖鞏固與烏木之心的關係，拉阿辛氏族便出身該地。烏木之心的鄰邦哀傷之城，自帝國肇始便是歷史上的盟友，而巴蘭西亞女王的王夫在紅鑽戰爭中贏過許多戰役。烏木之心則有個藏得不好的秘密：曾援助烏列爾三世與波提瑪。
 
- The other reason for the marriage was more personal: Katariah was as shrewd a diplomat as she was beautiful. If any creature was capable of hiding Pelagius' madness, it was she.
+  婚姻的另一個理由更為私人：卡塔莉亞既美麗，又是精明的外交家。若有任何生靈能掩蓋佩拉吉烏斯的瘋狂，那就是她。
 
- On the 8th of Second Seed, 3E 145, Magnus I died quietly in his sleep. Jolethe, Pelagius' sister took over the throne of Solitude, and Pelagius and Katariah rode to the Imperial City to be crowned Emperor and Empress of Tamriel. It is said that Pelagius fainted when the crown was placed on his head, but Katariah held him up so only those closest to the thrones could see what had happened. Like so many Pelagius stories, this cannot be verified.
+  3E 145 年次種月 8 日，馬格努斯一世在睡夢中安然去世。佩拉吉烏斯的妹妹喬蕾絲接過獨孤城王座，佩拉吉烏斯與卡塔莉亞馳往帝都，加冕為泰姆瑞爾皇帝與女皇。據說皇冠戴上佩拉吉烏斯頭上時他昏了過去，但卡塔莉亞扶住他，只有最靠近王座的人看見發生了什麼。像許多佩拉吉烏斯的故事一樣，此事無法核實。
 
- Pelagius III never truly ruled Tamriel. Katariah and the Elder Council made all the decisions and only tried to keep Pelagius from embarassing all. Still, stories of Pelagius III's reign exist.
+  佩拉吉烏斯三世從未真正統治泰姆瑞爾。卡塔莉亞與長老議會做所有決定，只設法不讓佩拉吉烏斯讓所有人難堪。儘管如此，佩拉吉烏斯三世在位的故事仍然存在。
 
- It was said that when the Argonian ambassador from Blackrose came to court, Pelagius insisted on speaking in all grunts and squeaks, as that was the Argonian's natural language.
+  據說黑薔薇的亞龍人大使入朝時，佩拉吉烏斯堅持全程用咕噥與尖叫交談，因為那是亞龍人的天生語言。
 
- It is known that Pelagius was obsessed with cleanliness, and many guests reported waking to the noise of an early-morning scrubdown of the Imperial Palace. The legend of Pelagius while inspecting the servants' work, suddenly defecating on the floor to give them something to do, is probably apocryphal.
+  已知佩拉吉烏斯對潔淨著迷，許多賓客報告被帝國宮殿清晨擦洗的噪音吵醒。佩拉吉烏斯在檢查僕人工作時突然在地板上排便好給他們事情做的傳說，大概是杜撰。
 
- When Pelagius began actually biting and attacking visitors to the Imperial Palace, it was decided to send him to a private asylum. Katariah was proclaimed regent two years after Pelagius took the throne. For the next six years, the Emperor stayed in a series of institutions and asylums.
+  當佩拉吉烏斯開始真正咬人、攻擊帝國宮殿的訪客時，決定把他送到私人瘋人院。佩拉吉烏斯即位兩年後，卡塔莉亞被宣布為攝政。此後六年，皇帝待在一系列機構與瘋人院裡。
 
- Traitors to the Empire have many lies to spread about this period. Whispered stories of hideous experiments and tortures performed on Pelagius have almost become accepted as fact. The noble lady Katariah became pregnant shortly after the Emperor was sent away, and rumors of infidelity and, even more absurd, conspiracies to keep the sane Emperor locked away ran amok. As Katariah proved, her pregnancy came about after a visit to her husband's cell. With no other evidence, as loyal subjects, we are bound to accept the Emperess' word on the matter. Her second child, who would reign for many years as Uriel IV, was the child of her union with her consort Lariate, and publicly acknowledged as such.
+  帝國的叛徒對這段時期散布許多謊言。關於對佩拉吉烏斯進行可怕實驗與折磨的耳語，幾乎已被當成事實。高貴的淑女卡塔莉亞在皇帝被送走後不久懷孕，不忠的謠言，甚至更荒謬的——密謀把神智清醒的皇帝關起來——四處橫行。正如卡塔莉亞所證明，她的懷孕來自一次探視丈夫牢房。沒有其他證據，作為忠誠臣民，我們必須接受女皇在此事上的話。她的第二個孩子，日後以烏列爾四世之名統治多年，是她與王夫拉瑞亞特所生，並公開承認如此。
 
- On a warm night in Suns Dawn, in his 34th year, Pelagius III died after a brief fever in his cell at the Temple of Kynareth in the Isle of Betony. Katariah I reigned for another forty six years before passing the scepter onto the only child she had with Pelagius, Cassynder.
+  一個溫暖的日曉月夜晚，佩拉吉烏斯三十四歲那年，在貝托尼島凱娜瑞斯神殿的牢房裡，因短暫高燒去世。卡塔莉亞一世又統治了四十六年，才把權杖傳給她與佩拉吉烏斯唯一的孩子卡西恩德。
 
- Pelagius' wild behavior has made him perversely dear to the province of his birth and death. The 2nd of Suns Dawn, which may or may not be the anniversary of his death (records are not very clear) is celebrated at Mad Pelagius, the time when foolishness of all sorts is encouraged. And so, one of the least desirable Emperors in the history of the Septim Dynasty, has become one of the most famous ones.
+  佩拉吉烏斯狂野的行為，使他在出生與去世的行省反常地受到珍愛。日曉月 2 日——可能是、也可能不是他的忌日（紀錄不太清楚）——被慶祝為瘋狂佩拉吉烏斯日，鼓勵各種愚蠢。於是，塞普汀王朝歷史上最不受歡迎的皇帝之一，成了最出名的皇帝之一。

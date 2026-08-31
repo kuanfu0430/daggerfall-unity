@@ -1,0 +1,239 @@
+-- Quest: C:\QUESTS\WORKING\M0B11Y18.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 11
+-- QuestId: 18
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 74
+Quest: M0B11Y18
+DisplayName: 卡瓦爾領主任務（一）
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pcf，我有一項重要任務，需要
+<ce> 極度謹慎。除非你答應幫忙，否則我不能
+<ce> 多說。你怎麼說？
+
+RefuseQuest:  [1001]
+<ce> %oth，我原本對你期望更高。
+
+AcceptQuest:  [1002]
+<ce> 我一位老友正面臨嚴重危險，需要一名
+<ce> 刀法好、又能保密的護衛。我自然想到
+<ce> 你。_target_ 今晚十點會在
+<ce> _targethouse_ 與你會面。%G 到了會告訴你
+<ce> 更多。我本想跟去，但既然我被視為
+<ce> %g3 朋友，可能會把 %g3 敵人引到 %g2
+<ce> 身邊。這次要小心背後。
+
+QuestFail:  [1003]
+<ce> 我們沒什麼好談的了，%pcn。
+
+QuestComplete:  [1004]
+<ce> 你向我示警了一場對王國的嚴重威脅。
+<ce> 請接受我誠摯的感謝，以及這
+<ce> _reward_ 金幣。
+
+RumorsDuringQuest:  [1005]
+<ce> _enemy_ 一直在 ___stronghold_ 招募傭兵。
+<ce> 不知道是為了什麼？
+
+RumorsPostfailure:  [1006]
+<ce> 你聽說 __targethouse_ 那次伏擊了嗎？哨兵城女王的
+<ce> 一名密探被殺了。
+
+RumorsPostsuccess:  [1007]
+<ce> 好像哨兵城宮廷有一名貴族在密謀反叛，但女王發現了，
+<ce> 摧毀了他在 ___stronghold_ 的要塞。
+                                      <--->
+<ce> _ruler_ 的軍隊攻打了 ___stronghold_，但我聽說
+<ce> 整場攻擊的目標，一名 _traitor_，逃走了。
+
+QuestorPostsuccess:  [1008]
+<ce> 聽說你見到了 _ruler_，不過 _target_ 送了命。
+
+QuestorPostfailure:  [1009]
+<ce> 護送 _target_ 去見 _ruler_ 的任務怎麼了？
+
+Message:  1020
+%qdt:
+ ___questgiver_ 的 __questgiver_ 的
+ _questgiver_ 要我今晚十點在
+ _targethouse_ 與 _target_ 會面。
+ 我只知道 _target_ 正面臨強大敵人的危險。
+
+Message:  1021
+%qdt:
+ 我與 _target_ 會面了，我們正前往哨兵城。
+
+Message:  1022
+%qdt:
+ 我在離開 _targethouse_ 時遭到伏擊，
+ _target_ 被殺了。但 %g 死前把一封信
+ 塞給我，揭發 _ruler_ 在哨兵城宮廷的成員
+ _traitor_ 是叛徒。_target_ 臨終遺願是
+ 把信交給 _ruler_。她會希望在 =patsy_ 天
+ 過去前見到這封信。
+
+Message:  1023
+%qdt:
+ 我把叛國信給 _ruler_ 看了，但 _traitor_
+ 已逃往他的要塞 ___stronghold_。
+ 女王要我潛入要塞，活捉或殺死 _traitor_。
+ 她給我 =gettraitor_ 天完成任務並返回哨兵城。
+
+Message:  1030
+親愛的 %pcn：
+ 
+  計畫有變。_questgiver_ 必須趕緊離城，
+  要我在 _tavern_ 與你會面。請立刻前來。
+  事態極為緊急。
+  
+<ce> _enemy_
+
+Message:  1031
+親愛的 _enemy_：
+ 
+  很高興聽到你在 ___stronghold_ 訓練我軍的進展。
+  我會儘快籌到更多錢送來，因為若想擊敗 _ruler_，
+  你還需要雇更多部隊。你說得對，與她公開交戰
+  毫無勝算，但我相信，即便只是奇襲城堡本身，
+  我們仍需要更多人手。
+ 
+  幾週後我抵達 ___stronghold_ 時，可以當面再談。
+  若其間需要聯絡我，我住在 __palace_ 的王宮。
+  若一切順利，我們可能很快會有新盟友。這裡局勢
+  再次平穩後，我必須返回哨兵城向親愛的女王致敬
+  （或許是「最後的致敬」！）。她的密探最近一直
+  盯著我，所以我會用她最欣賞的那套諂媚臣服來
+  消除她的疑心。
+ 
+  隨時告知我進展。
+  
+<ce> 最誠摯的，
+<ce>                                    
+<ce> _traitor_，
+<ce> __palace_
+
+Message:  1032
+<ce> 一個分不清男女的小孩把一張字條
+<ce> 塞給你，然後在你來得及反應前
+<ce> 跑掉了。
+
+Message:  1040
+<ce> 是 %pcn，對吧？很高興
+<ce> 我聯絡到你了。_questgiver_
+<ce> 有沒有告訴你多少正在發生的事？
+<ce> 我想也沒有。總之，死靈法師
+<ce> 牽涉其中。確實是不好惹的人。
+<ce> 不過我有一件 _amulet_ 給你，附近若有
+<ce> 死靈法師的密探，它會警告你。應該派得上用場。
+<ce> 小心點，朋友。
+
+Message:  1041
+<ce> 你是 %pcn？_questgiver_
+<ce> 把你形容得很準。我是 _target_。
+<ce> 我們必須立刻前往哨兵城。我不能再多說，
+<ce> 只除了 _ruler_ 的敵人會不惜代價
+<ce> 阻止我們。
+
+Message:  1042
+<ce> _target_ 喘息著，你轉身看見
+<ce> 一根帶羽箭桿從 %g3 胸口突出。%g 跪倒時，
+<ce> 把一封信塞進你手裡，低語道：
+<ce>                                    
+<ce> 「_traitor_ 是哨兵城的叛徒。
+<ce> 你必須把這交給 _ruler_。」
+<ce>                                    
+<ce> _target_ 死了。
+
+Message:  1043
+<ce> 你突然被明亮的光包圍。低頭一看，
+<ce> 光來自 _enemy_ 給你的護符。地面
+<ce> 似乎在腳下裂開，黑暗吞沒了你。
+
+Message:  1050
+<ce> 你要把叛國信交給 _ruler_ 嗎？
+
+Message:  1051
+<ce> 「什麼？這封信是什麼？天哪 %god，
+<ce> _traitor_ 在密謀對付我？！衛兵！
+<ce> 搜遍城堡找 _traitor_，立刻把他帶來。」
+<ce>                                    
+<ce> 數名衛兵跑出房間。幾分鐘後一名回來。
+<ce> 他敬禮報告，到處找不到 _traitor_。
+<ce>                                    
+<ce> _ruler_ 轉向你：
+<ce>                                    
+<ce> 「他一定得到風聲，知道叛國即將敗露。
+<ce> 最可能已退到信中提到的 ___stronghold_。
+<ce> 在此情況下，我寧願避免正面進攻。你熟悉那一帶，
+<ce> 對吧？願不願再為我效勞一次，把這叛徒繩之以法？」
+
+Message:  1052
+<ce> %pcn，你對哨兵城王座證明了極大忠誠。
+<ce> 我會等 =gettraitor_ 天再攻打 _traitor_ 的要塞。
+<ce> 我在此宣布 _traitor_ 為法外之徒——能捉
+<ce> 就捉，必要時殺。
+
+Message:  1053
+<ce> 那好。我自己來對付他。
+
+Message:  1054
+<ce> _ruler_ 打開信讀了。她的臉色因憤怒而陰沉。
+<ce>                                    
+<ce> 「毫無疑問。
+<ce> 這是他的私印
+<ce> 與簽名。衛兵！
+<ce> 立刻去大廳逮捕
+<ce> _traitor_，
+<ce> 把他丟進地牢。」
+<ce>                                    
+<ce> 她轉向你。
+
+Message:  1055
+<ce> 那就這樣。_traitor_ 選擇了他的路，
+<ce> 也付出了代價，多虧了你。這是附魔的
+<ce> _queenreward_，酬謝你對哨兵城的效勞。
+
+Message:  1056
+<ce> %oth！_traitor_ 確實狡猾。也好，
+<ce> 我終會把他找出來，別擔心。哨兵城的
+<ce> 正義會追到他躲藏之處。他的同夥不是
+<ce> 被捕就是逃出王國，所以 _traitor_ 至少
+<ce> 不再構成威脅。%pcn，請接受這件附魔的
+<ce> _queenreward_，酬謝你對哨兵城的效勞。
+
+Message:  1060
+<ce> 你要把叛國信交給 _traitor_ 嗎？
+
+Message:  1061
+<ce> 看來我看走眼了，%pcn。或許我們終究能
+<ce> 做朋友。來，拿這 _traitorreward_ 補償你的麻煩。
+
+Message:  1062
+<ce> _traitor_ 緊盯著你。他臉色煞白，
+<ce> 明白你是誰，還沒人來得及阻止，他轉身
+<ce> 衝向門口。
+
+Message:  1070
+<ce> %ra 走狗，你干涉 _traitor_ 的事，
+<ce> 會付出代價。
+
+Message:  1071
+<ce> 投降，然後被拖過哨兵城街頭示眾？
+<ce> 絕不！
+
+Message:  1072
+<ce> _traitor_ 死了。
+
+Message:  1073
+<ce> _traitor_ 丟下武器。你以為他要投降，
+<ce> 暫停攻擊，他卻扭動手指上的戒指。
+<ce> _traitor_ 在光霧中消失時，你隱約聽見
+<ce> 他喊道：
+<ce>                                    
+<ce> 「告訴那賤人，她還沒
+<ce> 見到我的最後一面！」

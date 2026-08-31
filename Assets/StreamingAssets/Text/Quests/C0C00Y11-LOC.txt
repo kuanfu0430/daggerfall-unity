@@ -1,0 +1,68 @@
+-- Quest: C:\QUESTS\WORKING\C0C00Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 11
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: C0C00Y11
+DisplayName: 幽靈
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        你不是__qgiver_的成員，%pcn。
+<ce>                        不過，你看起來夠誠實。我跟你說。
+<ce>                        __house_那邊有一棟屋子被某種不死者盤據。
+<ce>                        我們需要有人去驅除那魂靈。做成這事，
+<ce>                         也許能改變我們對你的看法。
+
+RefuseQuest:  [1001]
+<ce>                       這在__qgiver_看來可不好。
+
+AcceptQuest:  [1002]
+<ce>                       若那鬼魂強得你應付不了，別做蠢事。
+<ce>                       去__house_的_house_。
+<ce>                    你有=traveltime_天，否則我們另派人去做這活。
+
+QuestComplete:  [1004]
+<ce>                    那麼你把那地方驅過魔了，嗯？
+<ce>                    我跟神殿高層談時，這對你有好處。
+
+RumorsDuringQuest:  [1005]
+據說_house_被許多強大、邪惡的魂靈盤據。
+
+RumorsPostfailure:  [1006]
+儘管==qgiver_嘗試過，_house_仍在鬧鬼。
+
+RumorsPostsuccess:  [1007]
+終於，_house_裡只剩善良的家靈了。
+
+QuestorPostsuccess:  [1008]
+哦，哈囉，我的朋友，驅魔人。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+我以前給過你機會，結果是浪費口氣。
+<--->
+你以為我已經忘了_house_嗎，%pct？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_給了我機會去清除
+ __house_的_house_中的不死盤據。
+ 我有=traveltime_天完成這差事。
+
+Message:  1011
+<ce>                      生前我建造了這屋子。
+<ce>                     生者有何權利打擾我死亡的夢？
+
+Message:  1012
+<ce>                    嗯，至少你試過了。我不會說你壞話，
+<ce>                     但我只能答應這些，%pcn。
+
+Message:  1080
+<ce>                      另外，這是通往___newdung_的地圖，
+<ce>                           那地方要說有多不潔就有多不潔。
+<ce>                    幫%reg一個忙，把盤據其中的害蟲滅絕。

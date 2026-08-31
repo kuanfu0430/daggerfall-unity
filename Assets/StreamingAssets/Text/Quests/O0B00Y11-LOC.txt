@@ -1,0 +1,124 @@
+-- Quest: C:\QUESTS\WORKING\O0B00Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 0
+-- QuestId: 11
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 64
+Quest: O0B00Y11
+DisplayName: 古董象牙
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     %pcf，簡單的一局。  一棟房子裡
+<ce>                     有件東西需要「請走」。
+<ce>                           你幹不幹？
+
+RefuseQuest:  [1001]
+<ce>                  就憑這態度，你在盜賊公會
+<ce>                  前途無量。  當然有。
+
+AcceptQuest:  [1002]
+<ce>                    這才對。  如我所說，
+<ce>                     這差事一點也不複雜。
+<ce>                     有個客戶想弄到一件
+<ce>                    古董象牙，目前放在
+<ce>                     __target_ 這兒的 _target_。
+<ce>                     你有兩天把它帶回來給我，
+<ce>                      尋獲酬金是
+<ce>                             _reward_ 金幣。
+
+QuestFail:  [1003]
+<ce>                      那件 _heist_？  在哪兒？
+
+QuestComplete:  [1004]
+<ce>                  出色，%pcf。  我就喜歡差事這樣走：
+<ce>                  不吵不鬧、乾淨俐落。  這是 _reward_ 金幣，
+<ce>                  恭喜你幹得漂亮。
+
+RumorsDuringQuest:  [1005]
+不知道為什麼，_dummy_ 在 _target_ 雇了一大堆額外守衛。
+
+RumorsPostfailure:  [1006]
+聽說 _target_ 那次闖空門搞砸了嗎？
+
+RumorsPostsuccess:  [1007]
+<ce>有人闖進 _target_，就在那堆守衛眼皮底下
+<ce>           把 _dummy_ 心愛的古董象牙偷走了！
+
+QuestorPostsuccess:  [1008]
+我能為你做什麼，我的飛賊朋友？
+
+QuestorPostfailure:  [1009]
+我老是忘不了你把那樁簡單竊案搞砸的樣子。
+
+Message:  1011
+<ce> _target_ 這些天雇來的守衛多得像蜂巢。  不知道為什麼。
+
+Message:  1020
+%qdt:
+ 我有兩天從 __target_ 這兒的
+ _target_ 偷走一件古董象牙。
+ 我要把它交給 __questgiver_ 的
+ _questgiver_，換 _reward_ 金幣。
+
+Message:  1021
+%qdt:
+ 我的竊案進行得不順利。
+ _questgiver_ 要我帶著象牙離開本鎮。
+ 我要把它交給會在
+ __safehouse_ 的 _safehouse_
+ 與我會面的 _contact_。
+
+Message:  1040
+<ce>                  看來這就是 _questgiver_
+<ce>                    派你去偷的那塊象牙。
+
+Message:  1050
+<ce>                    %pcf，你在這兒做什麼？
+<ce>                    我不懂這麼簡單的差事你都能搞砸，
+<ce>                     但你要是不帶著那該死的象牙
+<ce>                  滾出本鎮，咱們全都會進大牢，
+<ce>                  或者更糟。
+<ce>                  我才不管你的小命，
+<ce>                 但盜賊公會有名聲要顧，
+<ce>                 我們也答應了客戶那件東西。
+<ce>                 趕到 __safehouse_。
+<ce>                 _contact_ 會在那兒的 _safehouse_
+<ce>                     跟你碰面。  別再搞砸。
+
+Message:  1051
+<ce>                   這不是 %pcn，那個無能飛賊嗎？
+<ce>                   至少你把東西帶過來了。
+<ce>                  這說明你有蠻力，儘管沒腦子。
+<ce>                   你該不會還指望領錢吧？
+
+Message:  1052
+<ce>                  你比外表聰明。  現在快走，
+<ce>                   免得我們決定把你交給
+<ce>                    __target_ 的衛兵。
+
+Message:  1053
+<ce>                 那我們就只好從你的屍體上
+<ce>                         拿走它了。
+
+Message:  1060
+<ce>                  %oth，你還挺兇的，是吧？
+<ce>                  最好在我真把你打殘前
+<ce>                           滾出去。
+
+Message:  1061
+<ce>                     這個 %ra 渣滓殺了 =guard_！
+
+Message:  1062
+<ce>                   別動，否則我就把你砍倒在原地！
+<ce>                  把你從 _target_ 偷走的象牙交出來，
+<ce>                          我就放你走。
+
+Message:  1063
+<ce>                  我們知道怎麼對付你這種殺人渣滓。
+<ce>                     =posse_，小心別讓血濺到
+<ce>                    _dummy_ 的象牙上，割這個
+<ce>                           %ra 的喉嚨時。

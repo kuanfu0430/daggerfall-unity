@@ -1,0 +1,83 @@
+-- Quest: C:\QUESTS\WORKING\70C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Sanguine
+-- Repute: 0
+-- QuestId: 0
+Messages: 21
+Quest: 70C00Y00
+DisplayName: 桑吉恩的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 力量真是個美妙的詞，不是嗎？它像蜜一樣從舌尖滴落。
+<ce> 若力量是你的催情劑，我會欣喜若狂地送上 _artifact_。
+<ce> 你只要替我懲罰一名膽敢挑戰我的、糟糕透頂的祭司。
+<ce> 聽起來不錯吧？
+
+RefuseQuest:  [1001]
+<ce> 詛咒你，%pcn。你怎敢把我召喚出來卻拒絕我慷慨的提議？
+<ce> 祈求我原諒你吧，%pcf。桑吉恩可不是誰都該結下的敵人。
+
+AcceptQuest:  [1002]
+<ce> 你不會後悔的，%pcf，前提是你履行協議中屬於你的那一端。
+<ce> 這名自以為神聖的修士可不是無害的；%g 名叫 =monster_，
+<ce> %g 把我可愛的信徒燒成焦炭。去 %g 潛伏的廢棄神殿
+<ce> ___mondung_，把 %g3 心臟從 %g3 胸膛撕出來。
+<ce> 我的代理人 _contact_ 會在 ___contact_ 等你。
+<ce> _contact_ 不喜歡等待，所以在 =1stparton_ 天內完成謀殺。
+<ce> 我有種美妙的預感，我們會再見面，%pcf。我希望如此。
+
+QuestFail:  [1003]
+<ce> 那個虔誠的反動派還活著，你心知肚明，%pcf。
+<ce> 別跟桑吉恩玩遊戲，%pct。
+<ce> 你不會喜歡那些規則的。
+
+QuestComplete:  [1004]
+<ce> 見到你真榮幸，%pcn。
+<ce> 我是 _contact_。桑吉恩一定對你相當著迷。
+<ce> 他把 _artifact_ 留給他偏愛的門徒。如今它是你的了。
+<ce> 希望你能盡情享用。
+
+RumorsDuringQuest:  [1005]
+從前那些狂歡都被 =monster_ 鎮壓了。
+<--->
+自從 =monster_ 放火燒了那些狂歡，就沒什麼好玩的了。
+
+RumorsPostfailure:  [1006]
+=monster_ 已經離開——%g 正在北邊尋找墮落的巢穴。
+<--->
+有 =monster_ 這種人在，人人都不敢做任何好玩的事。
+
+RumorsPostsuccess:  [1007]
+很多人對 =monster_ 的死感到高興。%g3 那類人罪有應得。
+<--->
+=monster_ 一出局，狂歡又開始了。
+
+Message:  1011
+桑吉恩是情慾的迪德拉親王。凡事過量就是他的座右銘。
+<--->
+當然是變態與非自然性關係的迪德拉親王。
+
+Message:  1012
+就是這裡 %di 的 __contact_ 一個色瞇瞇的 =contact_。
+<--->
+_contact_ 是 __contact_ 一個淘氣的 =contact_ 的名字。
+
+Message:  1014
+<ce>桑吉恩玫瑰會召喚一名迪德拉為你而戰。再怎麼說都是冒險的提議。
+<--->
+<ce>據稱桑吉恩玫瑰的持有者有力量從湮滅位面召喚援助。
+
+Message:  1015
+<ce> =monster_ 死了。
+<ce> 希望桑吉恩會欣喜若狂。
+
+Message:  1020
+%qdt:
+ 桑吉恩要我謀殺一名叫 =monster_ 的修士，
+ 以換取 _artifact_。那名修士在 ___mondung_，
+ 必須在 =1stparton_ 天內死去，且我必須在
+ =1stparton_ 天內抵達 ___contact_，
+ 在叫 __contact_ 的地方與 _contact_ 會面。

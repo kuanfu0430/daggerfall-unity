@@ -1,0 +1,59 @@
+-- Quest: C:\QUESTS\WORKING\O0B2XY04.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: thief
+-- Repute: 2X
+-- QuestId: 4
+Messages: 11
+Quest: O0B2XY04
+DisplayName: 貴重書頁
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     我有份差事。普通公會工作。
+<ce>                   值 _gold_ 金幣。就是
+<ce>                    標準公會酬勞。有興趣嗎？
+
+RefuseQuest:  [1001]
+<ce>                        那是你的損失，%pcn。
+
+AcceptQuest:  [1002]
+<ce>                           去 __mansion_。
+<ce>                            找到 _mansion_。
+<ce>                    裡面有一本珍本書，書名是
+<ce>                         _book_。在 =traveltime_ 天內
+<ce>                    帶回來給我，我就付錢。
+<ce>                        夠簡單吧？
+
+QuestComplete:  [1004]
+<ce>                        啊。%oth。這是你的
+<ce>                      公會酬勞。或許有天我們
+<ce>                        能再合作。
+
+RumorsDuringQuest:  [1005]
+__mansion_ 有個收藏家剛買了一本稀有的 _book_。
+
+RumorsPostfailure:  [1006]
+_mansion_ 的保全不算嚴，所以他們把貴重物品搬走了。
+
+RumorsPostsuccess:  [1007]
+從 _mansion_ 被偷走的那本 _book_ 是無可取代的。
+
+QuestorPostsuccess:  [1008]
+喔，你好，%pcf。把那本書弄到手幹得不錯，若我之前沒提過的話。
+
+QuestorPostfailure:  [1009]
+<ce>                    別找藉口，%pcf。
+<ce>               我告訴你書在哪，也叫你快點，
+<ce>                 你卻沒做到。現在太遲了，
+<ce>                  我也累了。做個好 %ra，
+<ce>                    滾開，行嗎？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的一名盜賊公會成員
+ 給我一份差事，去 __mansion_ 的
+ _mansion_ 偷一本書，_book_。
+ 我有 =traveltime_ 天拿到它
+ 再回到 _qgiver_ 那兒。

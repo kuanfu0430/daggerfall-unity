@@ -1,0 +1,91 @@
+-- Quest: C:\QUESTS\WORKING\H0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Mara
+-- Repute: 0
+-- QuestId: 0
+Messages: 21
+Quest: H0B00Y00
+DisplayName: 強大的亡靈
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>瑪拉仁愛會的整套哲學
+<ce>禁止我們蓄意傷害任何活物。
+<ce>然而我們眼下面對的局面，
+<ce>不幸需要直接而致命的行動。
+<ce>若我們同意付你_reward_金幣，
+<ce>你可願意摧毀一隻正在侵擾
+<ce>我們聖壇的不潔魂魄？
+
+RefuseQuest:  [1001]
+<ce>這差事確實相當危險，
+<ce>但你連考慮都不願，
+<ce>還是叫我失望。
+
+AcceptQuest:  [1002]
+<ce>離此不遠有座廢棄神殿，
+<ce>名叫___mondung_。
+<ce>數世紀以來它對本仁愛會都是聖地。
+<ce>我們並不在那兒禮拜，但會設法
+<ce>使它免於邪惡的侵擾。
+<ce>可惜盤據其間的魂魄太過強大，
+<ce>我們無法驅退。若你未能在
+<ce>=1stparton_天內回來，我們就會認定你失敗，
+<ce>改派瑪拉騎士團。顯然那時
+<ce>你的報酬也將被沒收。
+<ce>帶著女神的祝福前去吧。
+
+QuestFail:  [1003]
+<ce>你為何還在徘徊，%pcf？
+<ce>那魂魄仍在褻瀆我們的神殿。
+
+QuestComplete:  [1004]
+<ce>你為瑪拉仁愛會立下大功，%pcf。
+<ce>這份恩情不會很快被遺忘。
+<ce>好好享用你的_reward_金幣吧——
+<ce>你當之無愧。
+
+RumorsDuringQuest:  [1005]
+那___mondung_一向陰森。現在聽說還鬧鬼了。
+<--->
+依我看，就讓那怨靈待著吧。反正也沒人靠近。
+
+RumorsPostfailure:  [1006]
+真希望他們別去惹___mondung_。現在那怨魂跑出來跟我們待一塊了。
+<--->
+典型做法。把鬼魂趕出來，好讓它們真能害人。
+
+RumorsPostsuccess:  [1007]
+你知道嗎，就算___mondung_沒鬼了，我也不去。
+<--->
+瑪拉仁愛會很高興他們的___mondung_又乾淨了。
+
+QuestorPostsuccess:  [1008]
+你為我們在___mondung_裡跋涉過，我至少該跟你打聲招呼。
+
+QuestorPostfailure:  [1009]
+___mondung_仍被魂魄詛咒著，該死的%pcf！
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___questgiver_的_questgiver_
+ 要我清除___mondung_裡
+ 某種作祟的魂魄——那是瑪拉仁愛會的聖地。
+ 我有=1stparton_天時間淨化
+ ___mondung_的怨靈。
+
+Message:  1020
+<ce>「我的魂魄如今將得安息。」
+<ce>___mondung_已被淨化。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 16 times.
+--              %qdt occurs 1 time.
+--       =1stparton_ occurs 2 times.
+--       ___mondung_ occurs 10 times.
+--    ___questgiver_ occurs 2 times.
+--          _reward_ occurs 4 times.

@@ -1,0 +1,85 @@
+-- Quest: C:\QUESTS\WORKING\C0B00Y04.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 0
+-- QuestId: 4
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 13
+Quest: C0B00Y04
+DisplayName: 瘋狂祭司
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                        __qgiver_時常探究宇宙尺度的奧祕，
+<ce>                 偶爾會誤判某位祭司面對永恆時心智的韌性。
+<ce>                  換句話說，我們有位祭司瘋了。
+<ce>                    你願幫我們把這瘋子帶回__qgiver_嗎？
+                                     <--->
+<ce>                         老=priest_又發狂了。
+<ce>                    也許%g又闖進了__qgiver_的酒窖。
+<ce>                   無論如何，你有空幫忙把這老瘋子帶回家嗎？
+
+RefuseQuest:  [1001]
+<ce>                        %oth，希望你失去心智時，
+<ce>                     也有人好心來救你，%pct。
+
+AcceptQuest:  [1002]
+<ce>                     你真好心，%pct。那麼，=priest_跑到
+<ce>                       一個叫___mondung_的地方去了。
+<ce>                 盡量別太傷害那可憐的瘋子。=priest_此刻
+<ce>                         不知道自己在做什麼。只要給%g2
+<ce>                  頭上輕輕一擊，再把%g2帶回來。我會等你
+<ce>                =queston_天。小心點。
+
+QuestComplete:  [1004]
+<ce>                     很高興再見到你，%pct。
+<ce>                      別擔心=priest_。我們會好好照顧%g2。
+
+RumorsDuringQuest:  [1005]
+那個瘋子=priest_盤據在___mondung_。只有白痴才會去那裡。
+<--->
+___mondung_對正常人來說都很危險。_priest_撐不了多久。
+
+RumorsPostfailure:  [1006]
+看來=priest_再也不會回家了。
+<--->
+=priest_仍神智不清，在___mondung_遊蕩。
+
+RumorsPostsuccess:  [1007]
+一名%ra救出了那個瘋狂的=priest_。至於%g3的神智有沒有救回來，是另一個問題。
+<--->
+=priest_要不是非常聖潔、非常醉，就是非常瘋。也可能三者皆是。
+
+QuestorPostsuccess:  [1008]
+我記得你好心救出了=priest_。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+我沒什麼好跟你說的。你看，我還記得=priest_。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_派我去尋找一名叫
+ =priest_的祭司，他發狂後逃到
+ 一個叫___mondung_的地方。
+ 我有=queston_天去那裡，找到這瘋子，
+ 再回到_qgiver_身邊。
+
+Message:  1011
+<ce>                       「%oth，那是我的頭！」
+<ce>                          =priest_倒下不省人事，
+<ce>                    你把%g2扛了起來。
+                                     <--->
+<ce>                        =priest_翻著%g3的眼睛，
+<ce>                      充滿痛苦與瘋狂。隨著一聲低吟，
+<ce>                        %g倒進你懷裡。
+
+Message:  1012
+<ce>                      你聽見一聲輕盈、瘋狂的咯咯笑，
+<ce>                          =priest_消失了，彷彿化入空氣。
+                                     <--->
+<ce>                     「我有王國要統治，沒時間整天撿
+<ce>                    該死的棉絮！」=priest_以驚人的敏捷
+<ce>                    掙脫你的掌握，逃走了。

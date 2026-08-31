@@ -1,0 +1,97 @@
+-- Quest: C:\QUESTS\WORKING\10C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Meridia
+-- Repute: 0
+-- QuestId: 0
+Messages: 41
+Quest: 10C00Y00
+DisplayName: 梅瑞迪亞的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 噢，是的親愛的，我想我能幫你實現野心。
+<ce> 若我給你一樣相當貴重的東西，
+<ce> 你願意先為我做一件事嗎？
+
+RefuseQuest:  [1001]
+<ce> 噢，真可惜。好心提醒你：
+<ce> 只願拿、不願給的貪婪 %ra 冒險者，
+<ce> 會碰上壞事。
+
+AcceptQuest:  [1002]
+<ce> 你願意？噢，真貼心。比我認識的某個叫 =monster_
+<ce> 的 _monster_ 貼心多了。那人曾與我達成某種安排，
+<ce> 後來卻決定毀約。若你願意到 ___mondung_
+<ce> 拜訪 =monster_，讓 %g2 知道如此無禮的行為是致命的。
+<ce> 然後去找我親愛的朋友 _qgfriend_，%g 會在
+<ce> ___qgfriend_ 的 __qgfriend_ 等你 =1stparton_ 天，
+<ce> 抵達時把我的 _artifact_ 交給你。那正是你需要的東西。
+<ce> 現在你最好動身。小心點。
+
+QuestFail:  [1003]
+<ce> 你該不會打算用謊報已殺死 =monster_
+<ce> 來報答梅瑞迪亞的好意吧？
+<ce> 我們都知道你還沒動手。
+<ce> 我當然希望不是。
+
+QuestComplete:  [1004]
+<ce> %pcn？我是 _qgfriend_。我想你在找我。
+<ce> 我這兒有 _artifact_，正如梅瑞迪亞所承諾的。
+<ce> 順便說一句，梅瑞迪亞對你履行契約印象深刻。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 的術士是出了名的奇物收藏家。
+<--->
+聽說 =monster_ 會與靈體簽約，為 %g3 收藏添購新貨。
+
+RumorsPostfailure:  [1006]
+那個收藏狂術士終於離開 ___mondung_ 了。大概是去蒐集更多東西。
+<--->
+那個 =qgfriend_ _qgfriend_ 離開 __qgfriend_ 時，嘴裡唸著某個不誠實的 %ra。
+
+RumorsPostsuccess:  [1007]
+據說 =monster_ 收藏裡的某個生物起來把 %g2 殺了。
+<--->
+=monster_ 顯然被某個對 %g3 龐大收藏感興趣的人殺死了。
+
+Message:  1011
+_qgfriend_ 就是 __qgfriend_ 那個 =qgfriend_ 的名字，就在這裡的 %di。
+<--->
+_qgfriend_ 是我在 __qgfriend_ 遇見的一個安靜的 =qgfriend_。在 %di 方向。
+
+Message:  1012
+_qgfriend_ 是梅瑞迪亞在 %reg 的收藏者之一。迷人，%g 也必須如此。
+<--->
+_qgfriend_ 是貪婪迪德拉女士梅瑞迪亞的僕從。
+
+Message:  1013
+梅瑞迪亞是一位迪德拉攝政，也是人類標本的收藏者。
+<--->
+梅瑞迪亞某種程度上代理迪德拉親王，對獲取之物極為無情。
+
+Message:  1014
+<ce> 這枚戒指是遠古的力量之物。據說能讓配戴者
+<ce> 如風一般隱形、無聲而迅捷。
+
+Message:  1020
+%qdt:
+ 我有 =1stparton_ 天去找到並殺死
+ 名叫 =monster_ 的 _monster_，
+ 再到 ___qgfriend_ 與名叫 _qgfriend_
+ 的 =qgfriend_ 會面，領取梅瑞迪亞承諾的神器
+ _artifact_。
+ 我知道 =monster_ 在 ___mondung_，
+ _qgfriend_ 在 ___qgfriend_。
+
+
+Message:  1030
+<ce> =monster_ 倒在你腳下。
+<ce> 梅瑞迪亞女士如今欠你一份人情。
+
+Message:  1040
+<ce> 這麼說，梅瑞迪亞派爪牙來對付我。
+<ce> 但我自己也不是沒有盟友。
+<ce> 來吧，湮滅的孩子們！在 %g3 危難之時
+<ce> 為你們的主人 =monster_ 效力！

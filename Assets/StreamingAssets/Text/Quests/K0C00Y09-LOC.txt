@@ -1,0 +1,135 @@
+-- Quest: C:\QUESTS\WORKING\K0C00Y09.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: merchant
+-- Repute: 0
+-- QuestId: 9
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 15
+Quest: K0C00Y09
+DisplayName: 討回公道
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>我從前在__qgiver_的合夥人，一個_enemy_，
+<ce>拿走超過%g3該得的利潤，從___qgiver_跑了。
+<ce>我不是愛報復的人，但若你能把那_enemy_
+<ce>帶回來，好讓我問個清楚這離奇的行為，
+<ce>我會很感激。活著帶來給你_gold_金幣，
+<ce>若你失手殺了%g2，則給_lessgold_金幣。
+<--->
+<ce>那該死的_enemy_讓我信任%g2，
+<ce>把我哄得團團轉，然後一句話不說就走了，
+<ce>還帶走我一大筆積蓄。錢確實讓我不爽，
+<ce>但不如背叛來得重。我要你把%g2找出來，
+<ce>帶到我面前，我願付_gold_金幣。
+<ce>你願意也辦得到嗎？
+<--->
+<ce>我在找獵手，更精確地說，是_enemy_獵手。
+<ce>你看，%g沒付欠我的金幣就出城了。這是原則問題。
+<ce>我不介意付你_gold_金幣去抓%g2，
+<ce>但若我讓欠債的人就這麼離開___qgiver_，
+<ce>還欠著我的錢，我的名聲就毀了。
+<ce>你願意幫我逮這個賴帳的嗎？
+
+RefuseQuest:  [1001]
+<ce>不？那我就去戰士公會另雇別人。
+<--->
+<ce>真可惜。你若改變心意，告訴我一聲。
+
+AcceptQuest:  [1002]
+<ce>很好。那_enemy_名叫=enemy_，
+<ce>傳聞%g最多在___mondung_躲=queston_天。
+<ce>那就是我期望聽到你回音的期限。
+<ce>記住——=enemy_是個難纏的_enemy_，
+<ce>所以做好打架的準備，但盡量別殺%g2。
+<ce>我要%g2活的，不是死的。祝你好運，%pcf。
+<--->
+<ce>那就好。我的線報說那_enemy_
+<ce>躲進了___mondung_，大概會在那兒待
+<ce>=queston_天左右。我完全預料=enemy_——
+<ce>那是那_enemy_的名字——會反抗，但盡量別殺%g2。
+<ce>我期望你在=queston_天內回來。祝你好運。
+<--->
+<ce>你真是太好了，%pcf。我打聽過了，
+<ce>我們那位_enemy_朋友就在___mondung_附近徘徊，
+<ce>沒人護衛，孤身一人，除了那兒常駐的那些暴徒。
+<ce>%g3的名字是=enemy_，我期望%g2在=queston_天內
+<ce>出現在我面前，最好是活的。別讓我失望。
+
+QuestComplete:  [1004]
+<ce>啊，日安，=enemy_。
+<ce>看來我們有生意要談，對吧？%pcf，謝謝你
+<ce>讓這_enemy_的旅途盡可能舒適。
+<ce>這是我答應的_gold_金幣。
+
+RumorsDuringQuest:  [1005]
+_qgiver_跟=enemy_這種人做生意，真是傻瓜。
+<--->
+_qgiver_根本不該信任=enemy_——%g是出了名的盜賊。
+
+RumorsPostfailure:  [1006]
+=enemy_顯然得逞了。而_qgiver_氣得像要去湮滅。
+
+RumorsPostsuccess:  [1007]
+_qgiver_正在=enemy_身上練習古老的%ra拷問手法。
+<--->
+這會兒我可不想當那_enemy_——落在_qgiver_手上。
+
+QuestorPostsuccess:  [1008]
+哦你好，%pcf。=enemy_也會問好的……要是%g還有舌頭的話。
+
+QuestorPostfailure:  [1009]
+<ce>你不會真以為我還有什麼好跟你說的吧，%pcf？
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_、__qgiver_的
+ _qgiver_派我去___mondung_
+ 找到一名出走的_enemy_，名叫=enemy_，
+ 把%g2帶回__qgiver_。
+ 我有=queston_天時間完成此事，
+ 且_qgiver_強調%g要=enemy_活著。
+
+Message:  1011
+<ce>_qgiver_要的是活著的=enemy_，
+<ce>可你把%g2殺了。
+
+Message:  1012
+<ce>哎唷！%oth，我投降！
+<--->
+<ce>我認輸！
+<ce>我認輸！
+<--->
+<ce>別殺我！
+<ce>我投降！
+
+Message:  1013
+<ce>你沒注意時，=enemy_溜走了。
+<ce>也好。反正領賞金也太遲了。
+
+Message:  1014
+<ce>嗯，我本想要活著的=enemy_，
+<ce>不過我想我自己遲早也會殺了%g2。
+<ce>這是_lessgold_金幣。不是全額，但我仍心懷感激。
+
+--removed erroneous blank msg inside 1014 
+
+-- Symbols used in the QRC file:
+--
+--                %g occurs 6 times.
+--               %g2 occurs 23 times.
+--               %g3 occurs 3 times.
+--              %oth occurs 1 time.
+--              %pcf occurs 45 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--           =enemy_ occurs 17 times.
+--         =queston_ occurs 5 times.
+--       ___mondung_ occurs 4 times.
+--        ___qgiver_ occurs 6 times.
+--           _enemy_ occurs 12 times.
+--            _gold_ occurs 4 times.
+--        _lessgold_ occurs 2 times.
+--          _qgiver_ occurs 8 times.

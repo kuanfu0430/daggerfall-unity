@@ -1,0 +1,67 @@
+-- Quest: C:\QUESTS\WORKING\C0B20Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: temple
+-- Repute: 20
+-- QuestId: 8
+Messages: 12
+Quest: C0B20Y08
+DisplayName: 贖罪儀式
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                他們告訴我你對神殿相當忠誠。我需要你為我們執行一項要務。
+<ce>                   %god對我們發怒了。你不必過問原因。我們唯一的希望
+<ce>                 是舉行贖罪儀式。儀式需要_ingredient_。
+<ce>                  我的線報說___dungeon_裡可以找到一些。
+<ce>                        你願為我們取來嗎？
+
+RefuseQuest:  [1001]
+<ce>                      你對神殿的忠誠不如我所想，%pcn。
+
+AcceptQuest:  [1002]
+<ce>                       儀式必須在=traveltime_天內舉行。
+<ce>                     神殿會為此酬你_gold_金幣。
+<ce>                      只有未受玷污的_ingredient_才行。
+<ce>                        %god的祝福加於你身，
+<ce>                         好讓你找到時能辨認出來。
+
+QuestComplete:  [1004]
+<ce>                      你拿到了？_ingredient_！
+<ce>                         %god將被平息。
+<ce>                      你做得很好。這是你的報酬。
+
+RumorsDuringQuest:  [1005]
+__qgiver_近來氣氛相當……緊張。
+<--->
+據說__qgiver_裡有場未經准許的狂歡。
+<--->
+有人在__qgiver_的儀式上把%god的名字倒著念。
+
+RumorsPostfailure:  [1006]
+__qgiver_仍未得其神的恩寵。
+
+RumorsPostsuccess:  [1007]
+__qgiver_重新得其神的恩寵。
+
+QuestorPostsuccess:  [1008]
+你平息了%god，%pct。當然，我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+只要%god憎惡__qgiver_，我也憎惡你，%pct。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的__qgiver_
+ 之_qgiver_告訴我，%g3的神發怒了。
+ %G需要來自___dungeon_、未受玷污的
+ _ingredient_，用於贖罪儀式。
+ 必須在=traveltime_天內交到
+ __qgiver_的_qgiver_手中。
+
+Message:  1011
+<ce>                      就是這個！我能感覺到
+<ce>                      這_ingredient_的純淨。
+<ce>                         現在得把它帶回
+<ce>                               _qgiver_那裡。

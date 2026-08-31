@@ -1,0 +1,77 @@
+-- Quest: C:\QUESTS\WORKING\B0C00Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: knight
+-- Repute: 0
+-- QuestId: 5
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: B0C00Y05
+DisplayName: 叛徒
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                  你還不是我們騎士團受信任的成員，%pcn。
+<ce>                   不過，我想我知道一個讓你贏得信任的辦法。
+<ce>                  ___qgiver_裡有一名騎士團的叛徒，
+<ce>                     一個把我們出賣給敵人的卑劣_monster_。
+<ce>                   死刑是對叛國的公正懲罰，你不覺得嗎，%pcn？
+<ce>                       你願為騎士團做這件事嗎？
+
+RefuseQuest:  [1001]
+<ce>                     別指望這騎士團短期內會給你什麼好處。
+
+AcceptQuest:  [1002]
+<ce>                      叛徒是一名叫=monster_的_monster_，
+<ce>                     像個怯懦的膽小鬼一樣藏在
+<ce>                              ___mondun_。
+<ce>                        若你未能在=queston_天內歸來，
+<ce>                    我們的信任便作廢，另有人接替你。
+
+QuestFail:  [1003]
+<ce>                 那_monster_還沒死。別想說服我
+<ce>                       事情不是這樣。
+
+QuestComplete:  [1004]
+<ce>                       也許你沒他們說的那麼糟。
+<ce>                         %pcn，你憑此為這騎士團
+<ce>                      贏得了一點敬意。
+
+RumorsDuringQuest:  [1005]
+那_monster_逃往___mondun_，簡直像地獄獵犬在後面追。
+<--->
+_qgiver_不能就這麼放過=monster_，看%g對騎士團做了什麼。
+
+RumorsPostfailure:  [1006]
+看來=monster_比_qgiver_想像的更難對付。好一次逃脫。
+<--->
+聽說=monster_往北去了，但%g3的陰影仍困擾著騎士團。
+
+RumorsPostsuccess:  [1007]
+=monster_的下場正好證明一件事：別跟==qgiver_開玩笑。
+<--->
+我一直以為騎士團對=monster_這種蠢才會更仁慈些。
+
+QuestorPostsuccess:  [1008]
+我很樂意盡我所能幫你，殺手。
+
+QuestorPostfailure:  [1009]
+你心腸太軟了，%pcf。別浪費我的時間。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_的_qgiver_
+ 派我去尋找並擊殺一名叫=monster_的
+ _monster_，正潛伏在___mondun_。
+ 我有=queston_天完成此事。
+
+Message:  1011
+<ce>               你已殺死=monster_，那名_monster_。
+<ce>                   騎士團會感到驕傲。
+
+Message:  1080
+<ce>                    作為我們的謝禮，請收下這張通往
+<ce>                 ___newdung_的地圖，據說那是個污穢、
+<ce>                  蟲鼠叢生的洞穴。正是新晉騎士該去
+<ce>                     好好清掃的地方。

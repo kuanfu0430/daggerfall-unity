@@ -1,0 +1,92 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 6
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B00Y06
+DisplayName: 野生動物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我是 _qgiver_。
+<ce> 我們接到當地居民的請求。
+<ce> 好像有隻野生動物闖進了他家。
+<ce> 我們需要有人去把那東西殺了。
+<ce> 公會會付 _gold_ 金幣。
+<ce> 要接嗎，%pcn？
+
+RefuseQuest:  [1001]
+<ce> 我相信會有別人願意
+<ce> 處理這隻討厭的熊。
+
+AcceptQuest:  [1002]
+<ce> 「好，%pcf。到鎮上的
+<ce> _house_ 去。一天內辦完。
+<ce> 沒人希望動物在自家裡亂竄。
+<ce> 野獸死了再回來，你的酬勞
+<ce> 會在這等你。」
+<ce>                                    
+<ce> _qgiver_ 喊道：「喂，_house_
+<ce> 裡到底是什麼動物？」
+
+QuestComplete:  [1004]
+<ce> 幹得好，%pcf。
+<ce> 這是你的 _gold_ 金幣。
+
+RumorsDuringQuest:  [1005]
+你聽說了嗎？有隻動物闖進鎮上的建築。希望他們快點殺了它。
+
+RumorsPostfailure:  [1006]
+那畜生在被趕出城前還抓傷了某個女人。真可憐。
+
+RumorsPostsuccess:  [1007]
+戰士公會殺了闖進 _house_ 的那隻熊。幸好有他們在。
+
+QuestorPostsuccess:  [1008]
+幹掉那野獸幹得漂亮。我能為你做什麼？
+
+QuestorPostfailure:  [1009]
+聽說有隻小畜生把那房子的主人吃了。讓我們名聲變差。下次盡力做好點。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 的戰士公會要我殺死
+ 闖進 _house_ 的野生野獸。必須
+ 在一天內完成。
+
+Message:  1011
+<ce> 熊死了。
+
+Message:  1012
+<ce> 鷹身女妖死了。
+
+Message:  1013
+<ce> 蜘蛛死了。
+
+Message:  1014
+<ce> 劍齒虎死了。
+
+Message:  1021
+<ce> 你聽見樓上有人喊：
+<ce> 「是隻熊。」
+
+Message:  1022
+<ce> 你聽見樓上有人喊：
+<ce> 「是隻鷹身女妖。」
+
+Message:  1023
+<ce> 你聽見樓上有人喊：
+<ce> 「是隻蜘蛛。」
+
+Message:  1024
+<ce> 你聽見樓上有人喊：
+<ce> 「是隻劍齒虎。」
+
+Message:  1080
+<ce> 對了，看你跟那野獸玩得
+<ce> 挺開心，這是一張通往
+<ce> ___newdung_ 的地圖。盡情去吧。

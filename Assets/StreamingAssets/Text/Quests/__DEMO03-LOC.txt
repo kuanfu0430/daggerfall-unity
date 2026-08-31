@@ -1,0 +1,71 @@
+- This is for testing log action + journal ui
+
+Quest: __DEMO02
+
+QRC:
+
+QuestLogEntry: [1010]
+%qdt:
+ 位於 __qgiver_、___qgiver_ 的黑暗兄弟會
+ _qgiver_ 派我去探望 =assassin_，
+ 一名正在 ___mondung_ 執行合約的敵對刺客。
+ 若能找到任何關於 =assassin_ 雇主的線索，
+ 也要把那人一併了結。
+ 無論如何，這樁血腥差事必須在
+ =queston_ 天內完成。
+
+Message:	1012
+%qdt:
+ ___qgiver_ 的戰士公會
+ 要我除掉闖進入 _house_ 的野獸。
+ 必須在一天內完成。
+
+Message:	1013
+%qdt:
+ 位於 ___qgiver_ 的 _qgiver_
+ 派我去殺掉闖進入 _house_、
+ 也就是 __house_ 的老虎或熊。
+ 若能在 =2dung_ 天內回去覆命，
+ 可得 _gold_ 金幣。
+
+Message:	1014
+On %qdt,
+ 我在 ___agent_ 見到 _agent_。
+ %g 說有位神秘委託人正在尋找迪德拉的 _ingredient_。
+ 若能找到，就能得到 _artifact_。
+ 那份迪德拉的 _ingredient_ 藏在
+ ___dungeon_ 某處。找到後，
+ 要在 __meetingplace_ 的
+ _meetingplace_ 與一名 _qgiver_ 會面。
+
+Message:	1015
+%qdt:
+ 我在 ___qgiver_ 與 _qgiver_
+ 密會，對方給了我一封偽造信件。
+ 我必須潛入 __inn_ 的 _inn_，
+ 把真信換掉。完成時限為 =traveltime_ 天。
+ 若被逮到，只能自求多福。
+
+Message:	1016
+%qdt
+ ___giver_ 的 _giver_ 出 _gold_
+ 金幣，要我找回 %g3 的書 _book_。
+
+Message:	1017
+%qdt:
+ 位於 ==qgiver_、___qgiver_
+ 的 _qgiver_
+ 說迪德拉正從次元裂縫湧出。
+ 我必須前往 ___dungeon_
+ 把牠們全部殺掉。殺完最後一隻時，
+ 他們會用法術聯絡我。
+ 時限為 =2dung_ 天，逾期就太遲了。
+
+Message:	1018
+%qdt:
+ 位於 __qgiver_、___qgiver_
+ 的 _qgiver_ 告訴我，%g3 神祇動怒了。
+ %g 需要來自 ___dungeon_、未被玷污的
+ _ingredient_ 來舉行贖罪儀式。
+ 必須在 =traveltime_ 天內把東西交到
+ __qgiver_ 的 _qgiver_ 手上。

@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\S0000010.Qbn.
+-- Main story quest.
+-- QuestId: 10
+Messages: 23
+Quest: S0000010
+DisplayName: 劍刃據點
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      日安，%pcf。我名叫
+<ce>                     _agentuk_。我得承認看見你
+<ce>              令我意外。你是否能協助地底之王對抗
+<ce>               死靈法師？我們會為此慷慨酬謝，並提供
+<ce>               你大概在別處找不到的消息。
+
+RefuseQuest:  [1001]
+<ce>                         不。我明白了。很好。
+
+AcceptQuest:  [1002]
+<ce>              你願意。嗯。了不起。死靈法師拿走了我們
+<ce>                一件物品，一件有些價值的_reward_。
+<ce>               價值是次要的。真正的問題是他們詛咒了
+<ce>              這件物品，並把它交給了劍刃。若你不知道，
+<ce>              劍刃曾是泰伯·塞普丁的榮譽衛隊。如今他們
+<ce>             忠於帝國與泰伯的準則，卻未必忠於現任皇帝。
+<ce>             地底之王有理由不希望劍刃受害。我們要你潛入
+<ce>               伊卡隆的盧格威奇城堡，取走_reward_。
+<ce>             若想得到消息與報酬，請在=itemindung_天內
+<ce>                 完成此事。
+
+QuestFail:  [1003]
+<ce>                       沒有_reward_，正如他們所說，
+<ce>                         就沒有消息，%pcf。
+
+QuestComplete:  [1004]
+<ce>                     幹得好，%pcf。讓我對這件
+<ce>                     _reward_施放這個法術
+<ce>                    ……好了。_reward_現在安全了，
+<ce>                        歸你所有。
+<ce>                                    
+<ce>               即使死亡也無法對地底之王隱藏泰伯·塞普丁
+<ce>               真正的後裔。萊桑達斯國王並非死於克林蓋恩
+<ce>              之戰。他在戰前便遭背叛殺害。高岩那座紀念他
+<ce>              的建築是空墳。他的遺骸被秘密送到梅內維亞
+<ce>                一座古墓，我現在就為你揭示。我不知道
+<ce>               是誰背叛了萊桑達斯，也不知道為何他的亡靈
+<ce>               縈繞匕首雨城，而非克林蓋恩戰場。我已履行
+<ce>               約定，你也贏得了地底之王的感激。
+
+RumorsDuringQuest:  [1005]
+據說蠕蟲之王與地底之王其實是同一人。
+<--->
+據說地底之王已死，但他的密探仍在執行他的目標。
+
+RumorsPostfailure:  [1006]
+從地底之王那裡偷東西是瘋子的行當。去問問那個%ra傭兵。
+<--->
+聽說有個%ra試圖從地底之王那裡偷東西？可憐的白痴。
+
+RumorsPostsuccess:  [1007]
+昨夜星象有奇異預兆。半神憤怒的激情。
+<--->
+據說死靈法師正在鄉間搜尋一件_reward_。
+
+QuestorPostsuccess:  [1008]
+%qdt:
+ 地底之王的密探派我前往伊卡隆的盧格威奇城堡，
+ 尋找死靈法師從地底之王那裡偷走的某件_reward_。
+ 我有=itemindung_天找到並交還_reward_。
+
+QuestLogEntry:  [1010]
+<ce>               你妨礙了蠕蟲之王的計畫。
+<ce>                 為你的凡命恐懼吧！
+                                      <--->
+<ce>                蠕蟲之王要求復仇。你偷走了
+<ce>                本屬於他的東西。如今你必須
+<ce>                  加入死者之國。
+                                      <--->
+<ce>                 愚蠢的血肉之軀。不要違抗
+<ce>                死者之主。蠕蟲之王將復仇。
+                                      <--->
+<ce>                  你不該碰那件_reward_。
+<ce>                     它是通往死者之地的門戶。
+<ce>                如今你必須加入我們。準備受死！
+
+Message:  1021
+親愛的%pcn：
+  
+    哨兵城的阿科里希女王盛讚你是勇敢、能幹、
+ 且沒有偏見的%ra。她原話是「英雄」。我們已尋找
+ 這樣的人有一段時間了。
+    我不會對我們的忠誠撒謊。我們侍奉地底之王。
+ 若你相信童話，認為地底之王是終極邪惡，我們為
+ 看走眼向你道歉。否則，我們需要你的幫助。你可以
+ 在哨兵城__agentplace_的_agentplace_找到我。我會等一個月。
+  
+  
+<ce>                             —— _agentuk_
+
+Message:  1022
+<ce>                   一名年輕信使冷淡地遞給你一封信，
+<ce>                  然後一言不發地走開。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 4 times.
+--              %pcn occurs 2 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 4 times.
+--      =itemindung_ occurs 2 times.
+--     __agentplace_ occurs 4 times.
+--         _agentuk_ occurs 3 times.
+--          _reward_ occurs 55 times.

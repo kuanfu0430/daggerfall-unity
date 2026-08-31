@@ -1,0 +1,89 @@
+-- Quest: C:\QUESTS\WORKING\30C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Namira
+-- Repute: 0
+-- QuestId: 0
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 31
+Quest: 30C00Y00
+DisplayName: 納米拉的任務
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 對力量的渴望啃噬著肚腸，不是嗎，%pcf？
+<ce> 我看得出確實如此。原諒我這般隨便，
+<ce> 但我覺得我認識你，我認出你的飢渴，彷彿那是我自己的。
+<ce> 你想要掌控，這念頭讓你像餓狼一樣流涎。
+<ce> 我能填飽你的肚子，但首先我得知道：
+<ce> 你願意為填補這空虛而去殺人嗎？
+
+RefuseQuest:  [1001]
+<ce> 不？！現在你是在嘲弄我，%pcf。你把我從黑暗宮殿誘出來，
+<ce> 然後又嫌棄我的陪伴。若我以為你只是殘忍，我還能尊敬。
+<ce> 但我懷疑你其實是愚蠢，這我無法容忍。
+<ce> 因此，我帶著極度厭惡向你告別。
+
+AcceptQuest:  [1002]
+<ce> 太好了。你該看看自己眼中的神情，%pcf。
+<ce> 你會變得強大，我從那雙眼睛裡看見了。
+<ce> 如今，你通往力量的踏腳石是一名惹我不悅的遠古吸血鬼
+<ce> =monster_。要知道 %g 是強敵，且 %g3 庇護所
+<ce> ___mondung_ 防守嚴密。但你能夠、也將會殺死 %g2。
+<ce> 得手後，去找我親愛的朋友，___qgfriend_、
+<ce> __qgfriend_ 的 _qgfriend_。_qgfriend_ 很忙，
+<ce> 別讓 %g2 等超過 =1stparton_ 天。_qgfriend_
+<ce> 會有一份我認為會讓你非常開心的禮物。
+<ce> 再見，%pcf。我們會再見面的，我知道。
+
+QuestFail:  [1003]
+<ce> 只要那名遠古吸血鬼還活著，我們就沒什麼好談的，%pcf。
+
+QuestComplete:  [1004]
+<ce> 你好，%pcn。我是 _qgfriend_。
+<ce> 你看起來……飽足了。那場謀殺對你很對味，我想。
+<ce> 希望這個也能讓你高興。納米拉要我把她的戒指給你。
+<ce> 戴上它，你就會明白飢餓與滿足的意義。
+<ce> 一旦明白這一點，你就明白力量。日安，%pcf。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 有個吸血鬼老到不再吸血了。
+<--->
+據說 ___mondung_ 的吸血鬼已學會控制嗜血。
+
+RumorsPostfailure:  [1006]
+___mondung_ 的吸血鬼顯然決定該搬家了。
+<--->
+我猜那吸血鬼終究還是需要血。不知為何離開了。
+
+RumorsPostsuccess:  [1007]
+我不在乎那吸血鬼是不是征服了嗜血；我很高興牠死了。
+<--->
+昨晚納米拉的星辰燃燒得很亮。永遠飢餓，永不滿足。
+
+Message:  1011
+_qgfriend_ 就是 __qgfriend_ 那個 =qgfriend_，我想。對，在這裡的 %di。
+<--->
+_qgfriend_ 是 __qgfriend_ 那個 =qgfriend_ 的名字。朝 %di 找。
+
+Message:  1012
+_qgfriend_ 是飢餓迪德拉親王納米拉麾下的一名美食家。
+<--->
+_qgfriend_ 是為納米拉效力的美食家之一的名字。
+
+Message:  1013
+加諸戒指配戴者的痛苦會反射回攻擊者身上。
+
+Message:  1020
+%qdt:
+ 迪德拉親王納米拉答應給我 _artifact_，
+ 條件是我在 =1stparton_ 天內為她殺死吸血鬼
+ =monster_。她的聯絡人 _qgfriend_
+ 不會在 ___qgfriend_ 的 __qgfriend_
+ 等我更久，所以我不能遲到。
+ 據說那吸血鬼住在 ___mondung_。
+
+Message:  1030
+<ce> =monster_ 死了。納米拉的飢餓已得滿足——
+<ce> 現在去向 _qgfriend_ 覆命，滿足你自己的欲望。

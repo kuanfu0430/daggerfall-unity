@@ -1,5 +1,5 @@
-Title: Fools' Ebony, Part the Twoth
-Author: Frincheps
+Title: 愚人烏木，其二
+Author: 弗林切普斯
 IsNaughty: True
 Price: 317
 IsUnique: False
@@ -8,176 +8,176 @@ Content:
 
 [/font=2]
 
-[/center]Fools' Ebony
+[/center]愚人烏木
 
-[/center]Part the
+[/center]其
 
-[/center]Twoth
+[/center]二
 
 [/font=4]
 
 [/center]
 
- Dramatis Personae
+  登場人物
 
- Prologue; The Adventurer, A Dark Elf Rascal; Komon, A Priest of Akatosh; Lheban, Another Priest of Akatosh; Epilogue; Stete, A Priest of Julianos; Raic, Another Priest of Julianos; Shub, A Mage; Shub, A Different Mage of the Same Name; Nephron, A Somewhat Sleazy Merchant; 5 Armorers; Ortho; Crunn, Husband of Millie; A Lusty Contessa; Millie, Innkeep and Philosopher; Gurnsey, Bovine Wench; Assorted Wenches and Cads of the Taverns; Soldiers; Dwarves; Giants.
+  開場白；冒險者，一名黑暗精靈無賴；科蒙，阿卡托什的祭司；勒班，另一名阿卡托什的祭司；收場白；斯特特，朱利安諾斯的祭司；雷克，另一名朱利安諾斯的祭司；舒布，一名法師；舒布，另一名同名的法師；奈夫隆，一名有點下流的商人；五名鑄甲師；奧索；克朗，明妮之夫；一位好色的女伯爵；明妮，旅店老闆兼哲學家；格恩西，牛一般的女侍；酒館裡各色女侍與無賴；士兵；矮人；巨人。
 
- Part The Twoth - Bearing Mostly on Fools' Ebony and Temples
+  其二——多半關乎愚人烏木與神殿
 
- Same place, same Inn, A bottle or two later. Enter Prologue, the Adventurer, and Lheben
+  同一地點，同一旅店，一兩瓶過後。開場白、冒險者與勒班上
 
- Prologue: Little has occured [sic] so far in our comedic drama. The Adventurer, our Dark Elf rascal, has bought drinks for two priests of Akatosh. All have drunk considerably. One of the priests has rushed off in pursuit of his lamp girl. And, unless I've forgotten something or something happened when I was paying attention to something else, that's a complete synopsis of Part the Oneth. Ah, here come two more priests. Humble Prologue must depart.
+  開場白：我們這齣喜劇到目前為止幾乎沒發生什麼。冒險者，我們的黑暗精靈無賴，請了兩名阿卡托什祭司喝酒。大家都喝了不少。其中一名祭司衝出去追他的燈柱女孩。而且，除非我忘了什麼，或我在注意別的事時發生了什麼，這就是其一的完整提要。啊，又來了兩名祭司。謙卑的開場白必須告退。
 
- (Enter Raic and Stete)
+  （雷克與斯特特上）
 
- Raic: Evening Lheban! Evening stranger. My fellow priest here is Stete, I am Raic. We are honored to serve Julianos.
+  雷克：晚上好，勒班！晚上好，陌生人。我這位祭司同伴叫斯特特，我叫雷克。我們榮幸侍奉朱利安諾斯。
 
- Adventurer: What is this, anyway - Priests night out? And ... I thought that your Temples - Akatosh, Julianos, the rest ... I thought them all cut-throat competitors. In theology and gold, if you will forgive my bluntness. Yet you all seem the best of friends ..? Come to think of it, didn't I have words with Stete earlier, you said you were of the Temple of Stendarr?
+  冒險者：這到底是怎麼回事——祭司之夜？而且……我以為你們的神殿——阿卡托什、朱利安諾斯，其餘那些……我以為彼此都是割喉競爭。在神學上，也在金幣上，若你原諒我直言。可你們看起來卻是最好的朋友……？細想起來，我稍早不是跟斯特特說過話嗎，你說你屬於斯丹達爾神殿？
 
- Raic: A common misconception, friend ...
+  雷克：常見的誤解，朋友……
 
- Lheban: ... but one that we ... encourage ...
+  勒班：……卻是我們……鼓勵的……
 
- Raic: Really, we all work together closely, move between the Temples as needs dictate ...
+  雷克：其實，我們緊密合作，按需要在神殿之間調動……
 
- Lheban: ... exchange information ...
+  勒班：……交換情報……
 
- Raic: ... share funds ...
+  雷克：……共用資金……
 
- Stete: ... swap our sisters ...
+  斯特特：……交換我們的姐妹……
 
- (Lheben kicks Stete)
+  （勒班踢斯特特）
 
- (Enter Prologue)
+  （開場白上）
 
- Prologue: Sorry to interrupt the merry slapstick, but I neglected to mention earlier that the Fools' Gold [sic] saga -- if that is the word -- contains gratuitous reference to priestly misdeeds and sexual excess. I hope those of you in the audience of peevish, prudish, sullen, frumpy, or grumpy demeanors are not offended. Now then, on with the entertainment.
+  開場白：抱歉打斷這場快活的鬧劇，可我稍早忘了提：這愚人黃金傳奇——若能這麼叫——含有對祭司劣跡與色慾無度的無端影射。希望觀眾裡那些易怒、拘謹、陰鬱、古板或愛抱怨的諸位不要見怪。好了，娛樂繼續。
 
- (Exit Prologue)
+  （開場白下）
 
- Lheban: ... and all that ...
+  勒班：……以及諸如此類……
 
- Raic: But it helps in our ... holy work, if we are perceived as separate and, uh, competitive...
+  雷克：可這有助於我們的……神聖工作，若被看成彼此分立，而且，呃，互相競爭……
 
- Lheban: Mind you, there are one or two, er ... religious organizations ... well, sort of ... that we do not have anything to do with ...
+  勒班：不過你要知道，有那麼一兩個，呃……宗教組織……這個，算是吧……我們完全不來往……
 
- Raic: Nothing at all, nothing at all ... animals, just animals ...
+  雷克：完全沒有，完全沒有……畜生，純粹是畜生……
 
- Adventurer: Such as ..?
+  冒險者：比如說……？
 
- Lheban: Weeell -- the Dark Brotherhood for one ... nasty bunch of thugs ... and then there's the Afterdark Society ... (aside to Raic) This fellow, seems a decent sort of chap ... seems to know something about Mages and Fools' Ebony ...
+  勒班：這個嘛——黑暗兄弟會就是一個……討厭的一幫打手……然後還有暮後會社……（旁白，對雷克）這位朋友，看起來是個像樣的傢伙……似乎對法師和愚人烏木知道一點……
 
- Raic: (aside to Lheban) Really now ... how interesting... (to all) Hey fellow, have another bottle -- this will bless you throat. My, my, yes indeed it will...
+  雷克：（旁白，對勒班）真的嗎……有意思……（對眾人）嘿，朋友，再來一瓶——這會祝福你的喉嚨。哎呀呀，確實會……
 
- Adventurer: Thanks Raic, don't mind a bit ...
+  冒險者：謝謝，雷克，我不客氣……
 
- Lheban: But let me continue -- I was explaining about this Fools' Ebony to you ...
+  勒班：讓我繼續——我正跟你解釋這愚人烏木……
 
- Raic: Yes, Fools' Ebony ...
+  雷克：對，愚人烏木……
 
- Lheban: Well. Fools' Ebony now. Well, you know about ordinary Ebony, how it's rare, only some dwarven clans dig it and sell it. And not too many, these days and times ...
+  勒班：好。愚人烏木。這個，你知道尋常烏木，多稀有，只有一些矮人氏族開挖出售。而今時今日，也不太多……
 
- Stete: How's that popular song go ..? (singing) Where have all the Old Dwarves gone, Long time ago ...
+  斯特特：那首流行歌唱的是……？（唱）往日矮人今何在，很久很久以前……
 
- (Lheben throws Innkeep at Stete)
+  （勒班把掌櫃扔向斯特特）
 
- (Raic breaks chair on Innkeep and Stete)
+  （雷克用椅子砸向掌櫃和斯特特）
 
- (Innkeep loses consciousness)
+  （掌櫃失去知覺）
 
- Lheban: There's a pile of real ebony up in the Wrothgarians somewhere north, I hear tell. You know how that dullish black ebony gets worked over by Mages, by some skilled armorers, made into all kinds of potent weapons, amulets, belts, what have you. All fetch a huge price, when you can find any. And how the best was made long ago, by those old dwarves ...
+  勒班：聽說沃斯加里安北邊某處有一大堆真烏木。你知道那種暗沉的黑烏木怎麼被法師、被一些熟練鑄甲師加工，做成各種強大武器、護符、腰帶，諸如此類。只要找得到，都能賣天價。而最好的那些，是很久以前那些老矮人做的……
 
- (Stete rises to his feet)
+  （斯特特站起）
 
- (Lheban kicks Stete back down)
+  （勒班把斯特特踢回去）
 
- (The Adventurer loosens his tunic)
+  （冒險者鬆開上衣）
 
- Lheban: Oh my! Oh, my apologies, friend, Sir! I see you have -- what's that? An ebony torc? Oh my, and an ebony katana! Oh My! Oh My, My! So, of course, you know all that, sir.
+  勒班：噢我的天！噢，抱歉，朋友，先生！我看見你有——那是什麼？烏木頸環？噢我的天，還有烏木武士刀！噢我的天！噢我的天，我的天！所以，當然，這些你都知道，先生。
 
- Adventurer: Oh, that's all right, you didn't know. Here, have another bottle ...
+  冒險者：噢，沒關係，你先前不知道。來，再來一瓶……
 
- Lheban: Many thanks, kind Sir. Well, then you know how every adventurer, even snotty kids, all the dungeon-delvers, are always looking for ebony artifacts, weapons, whatnot. But what you may not know, some of the more experienced delvers hunt for raw ebony lodes, piles, dwarven leavings. That stuff, the raw ebony, is far more valuable.
+  勒班：多謝，好心的先生。好，那你就知道每個冒險者，連流鼻涕的孩子，所有鑽地城的，都在找烏木神器、武器，諸如此類。可你也許不知道，一些較有經驗的鑽探者專找生烏木礦脈、礦堆、矮人棄物。那種東西，生烏木，值錢得多。
 
- Adventurer: The raw unshaped material that provides work ... and power ... for so few? Apparently just loaded with negative magicka?
+  冒險者：那種未成形的原料，給極少數人提供工作……與力量……？顯然滿載負面魔力？
 
- Raic: Right, right!
+  雷克：對，對！
 
- Lheban: Yes, right so! Quite so! Well, Fools' Ebony now. Looks just about like the real raw stuff. Runs in veins in the deep rocks. Feels the same, smells almost the same. But the big difference: it's not real ebony. No power at all. If you pick some up, it gets you hands a bit dirty. Softer too, by all accounts. But sort of shiny too. But who can tell all that, deep in some old mine, maybe a ghoul breathing down your neck! So it's just grab and run, I guess, down in those nasty holes. So the fools, the kids, the crazy delvers, are always hauling up a bag, a sack, of Fools' Ebony. And getting laughed at by the merchants, dealers, mages, us ... hence the Fools' part. Stuff just gets thrown into the Bay ...
+  勒班：對，正是如此！正是如此！好，愚人烏木。看起來幾乎跟真正的生貨一樣。在深岩裡成脈。手感一樣，氣味幾乎一樣。可最大的分別：它不是真烏木。一點力量也沒有。你撿起來，手會弄髒一點。據說也更軟。可也有點發亮。可誰能在某個舊礦坑深處分辨這些，也許還有食屍鬼在你脖子後面喘氣！所以大概就是抓了就跑，在那些討厭的洞裡。於是那些傻瓜、孩子、瘋鑽探者，總是拖上一袋、一麻袋的愚人烏木。然後被商人、掮客、法師、我們……嘲笑——所以才叫「愚人」。東西就直接扔進灣裡……
 
- Adventurer: Yeah, that's sort of what I ... er ... heard from some Mages. But I heard something else, too ...
+  冒險者：對，這跟我……呃……從幾個法師那兒聽到的差不多。可我還聽到別的……
 
- Lheban: And just what was that, friend ... if you want to tell us, of course ... Sir.
+  勒班：那是什麼，朋友……若你願意告訴我們的話……先生。
 
- Adventurer: Oh, of course! I think that we can come to ... er ... an arrangement?
+  冒險者：噢，當然！我想我們可以達成……呃……一項安排？
 
- Lheban and Raic (Together):: Certainly, Oh Yes!
+  勒班與雷克（齊聲）：當然，噢對！
 
- Adventurer: So, yeah, so these mages -- Shub and Shub, they are always called Shub, aren't they? -- anyway, these old guys were saying how this Fools' Ebony can burn. Not magically, but like an ordinary piece of wood. But the flame lasts far longer, gives off lots more heat, makes no smoke to speak of, no noise ... very interesting ... Mages were saying as how the alchemists want it, to heat the retorts and flasks ... How the Mages Guild wants it, to make and sell ... er ... fake amulets and the like ... rotten trick that! And especially the Armorers, they want it bad, for their forges, I guess. And the Alchemists, for their alembics ...
+  冒險者：所以，對，這些法師——舒布和舒布，他們不總是叫舒布嗎？——總之，這些老頭說這愚人烏木能燒。不是魔法地燒，而是像普通木塊。可火燒得久得多，熱量多得多，幾乎不冒煙，沒聲音……非常有意思……法師們說煉金術士要它，給蒸餾器和燒瓶加熱……法師公會要它，拿來製作出售……呃……假護符之類……真缺德！尤其鑄甲師，他們急著要，給熔爐用，我猜。還有煉金術士，給蒸餾器……
 
- Lheban: Precisely my information! Now... gets cold up here in the winter, doesn't it? And everyone is cutting down all those trees, making siege engines, boats, all that evil war machinery! All those rich royals and merchants got to heat their great big piles of homes. So their Contessas can run around in next to nothing, instead of furs...
+  勒班：正是我所聞！現在……這兒冬天很冷，對吧？而人人都在砍樹，造攻城器械、船，所有那些邪惡的戰爭機械！那些有錢的王室和商人得給他們那一大堆宅子取暖。好讓他們的女伯爵穿得幾乎什麼也沒有跑來跑去，而不是裹毛皮……
 
- Stete: ... just like my sister ...
+  斯特特：……就像我姐姐……
 
- (Lheben bites Stete's arm)
+  （勒班咬斯特特的胳膊）
 
- (Stete shreiks and falls unconscious)
+  （斯特特尖叫，昏倒）
 
- Adventurer: All those armorers got to keep their hearths and furnaces running...
+  冒險者：那些鑄甲師得讓爐膛和熔爐一直燒……
 
- Lheban: ... All the Mages got to keep their familiars warm ...
+  勒班：……法師得讓他們的使魔暖和……
 
- Raic: ... All those royals got to keep the contessas running ...
+  雷克：……王室得讓女伯爵跑來跑去……
 
- Lheban: ... All those peasants got to keep their animals warm ...
+  勒班：……農民得讓牲口暖和……
 
- Adventurer: And To Sheogorath with the wife and kids, right? Ha! And, I guess, its sort of hard for you Priests to give blessings and cures, when your fingers are all cold and stiff ..? Makes getting corks out a tad hard, to say nothing of opening those little twists of parchment ..?
+  冒險者：至於老婆孩子，管他謝古拉特，對吧？哈！而且，我猜，你們祭司手指又冷又僵時，祝福和治療也有點難……？拔瓶塞都費勁，更別提打開那些小羊皮紙捲……？
 
- Raic: You speak truly, indeed!
+  雷克：你說得真對！
 
- Lheban: A man of wisdom, indeed! Yes!
+  勒班：真是智者！對！
 
- Adventurer: So, where do we find this Fools' Ebony -- in quantity?
+  冒險者：所以，我們上哪兒找這愚人烏木——大量的？
 
- Lheban: You put your finger (you have six, I note -- oh, excuse me, Sir) on the crux of the matter. I have heard rumors, just rumors, mind you, that there are huge enormous veins of this stuff, at one place on the surface, far up in the Wrothgarians. Bad, bad place to go. But, if you can get there and back, cartloads of the stuff!
+  勒班：你正好點到（我注意到你有六根手指——噢，失禮，先生）事情的關鍵。我聽過謠言，只是謠言，注意，說有巨大無比的礦脈，在地表一處，遠在沃斯加里安。壞、很壞的地方。可若你能去了再回來，就是整車整車的貨！
 
- Adventurer: Thats just what I overheard from those Mages -- far up there in the Wrothgarians -- orcs, dragonlings, daedra, Sheogorath only knows what ... Those Mages seemed to know the spot, though. Mages wanted someone to ...
+  冒險者：這正是我從那些法師那兒偷聽到的——遠在沃斯加里安——獸人、幼龍、迪德拉，謝古拉特才知道還有什麼……不過那些法師好像知道地點。法師們想找人……
 
- Raic: You didn't ... talk ... to the Mages. I mean, you haven't ...
+  雷克：你沒有……跟法師……談過。我是說，你還沒……
 
- Adventurer: Oh no. They didn't even know I was there ... (aside) Not yet, anyway...
+  冒險者：噢沒有。他們甚至不知道我在那兒……（旁白）至少現在還沒……
 
- Lheban: Good, good - can't trust those Mages, you know ... old fossils would turn their own mothers into sludge-toads, just for a bit of gold! Gold-mad, power-mad, Mad-mad, the whole rotten lot of them! But then they don't have mothers!
+  勒班：好，好——不能信那些法師，你知道……那些老化石為了一點金幣，會把自己親娘變成淤泥蟾蜍！金幣瘋、權力瘋、瘋瘋的，整窩爛貨！不過他們也沒親娘！
 
- Raic: Excellent. Seems to me, friend -- or, can we call you partner? Yes? Excellent. Seems to me, partner, that my brother priests and you should do some digging and poking around -- see if we can get to those veins, those deposits, eh!
+  雷克：好極了。在我看來，朋友——或者，我們能叫你合夥人嗎？能？好極了。在我看來，合夥人，我的祭司弟兄和你該去挖一挖、探一探——看能不能摸到那些礦脈、那些礦藏，嗯！
 
- Adventurer: Yes indeed, partners! But it would cost a fair pile of gold to get up there -- weapons, spells, women, clothing, carts and horses, women, food, potions ... Best go well-prepared, up there.
+  冒險者：正是，合夥人！可要上去得花一大堆金幣——武器、法術、女人、衣服、車馬、女人、食物、藥劑……最好準備齊全再上去。
 
- Lheban: No problem, partner. Our Temples have ... certain resources, such that if we were guaranteed ... sole access, sole knowledge of the location, then we could finance someone ... someone with the requisite skills, such as yourself? Just by happenstance, I am Keeper of the Books ... you see the opportunity?
+  勒班：沒問題，合夥人。我們神殿有……某些資源，若能保證……獨家通道、獨家知道地點，我們就能資助某人……某個有所需技能的人，比如你自己？碰巧，我是帳簿保管人……你看出機會了吧？
 
- Adventurer: Oh yes! Oh yes! Well -- lets split a last bottle, and shake on an agreement?
+  冒險者：噢對！噢對！好——讓我們再分最後一瓶，握手成交？
 
- Lheban: Indeed, let us! We first need information -- who knows about the site up there, where it is, how to reach it ... Why don't we meet back here in, say, a week, to the hour. And see what we can learn, meanwhile?
+  勒班：正是，讓我們！我們首先需要情報——誰知道上頭那地點、在哪兒、怎麼到……何不約莫一週後、同一時辰，再在這兒碰頭。同時各自探探？
 
- Raic: We need to find a merchant, too. Someone who can handle it for us ... warehouses, distribution ...
+  雷克：我們還得找個商人。能替我們經手……倉庫、分銷……
 
- Lheban: And keep a shut mouth!
+  勒班：而且嘴巴嚴！
 
- Adventurer: I'll make some inquiries about merchants ... got a contact or two ... Trouble is -- well, you know how these things go -- few golds here, few there, before you know it you've bribed half the town, or so it seems. Now, as luck would have it, I don't have much -- got swindled by a wretched Mage, some town south of here, and lost most of my belongings in a shipwreck ...
+  冒險者：我去打聽商人……有一兩個門路……麻煩是——這個，你知道這種事怎麼走——這兒幾金幣，那兒幾金幣，不知不覺就好像賄賂了半個城。碰巧，我現在不太有——被一個卑鄙法師騙了，南邊某個鎮子，又在船難裡丟了大部分家當……
 
- Lheban: Ah Yes! You need some ... seed money as it were.
+  勒班：啊對！你需要一些……可以說是種子資金。
 
- Raic: (To Lheban) Let me lift old Stete's purse, he made a lot renting out his sister last week ...
+  雷克：（對勒班）讓我把老斯特特的錢袋摸來，他上週把姐姐租出去賺了不少……
 
- Lheban: Thank you, Raic. Here, about 100 gold -- enough ?
+  勒班：謝謝，雷克。來，大約 100 金幣——夠嗎？
 
- Adventurer: Oh yes, more than enough for a start, Gentlemen. Good, good, good ... so we have a deal?
+  冒險者：噢對，開頭綽綽有餘，兩位。好，好，好……那我們成交了？
 
- Adventurer: Yes! It's agreed. One week!
+  冒險者：對！說定了。一週！
 
- (Exit Lheban, Raic dragging Stete)
+  （勒班下，雷克拖著斯特特）
 
- (Exit the Adventurer)
+  （冒險者下）
 
- (Enter Epilogue)
+  （收場白上）
 
- Epilogue: Ah, things are happening now, I doubt it not. Patrons, I request that you recall that this is a work of fiction created by one of the finest writers of the asylum, Frincheps, Archprince of All Sumurset. There is no such thing as Fools' Ebony. Furthermore, Ebony is not mined as the priests have described the process. Grasp that please. If you can still enjoy the play as a rude work of fiction, stay with us for Part the Threeth. If you can't, farewell. And don't forget to tip the wenches. And so endeth Part the Twoth
+  收場白：啊，事情開始發生了，我毫不懷疑。各位看客，請記住這是虛構之作，出自瘋人院最出色的一位作家，弗林切普斯，全夏暮島大親王。沒有愚人烏木這種東西。再者，烏木也不是按祭司描述的方式開採的。請務必抓住這一點。若你仍能把這齣戲當一部粗俗的虛構來享受，請留下看其三。若不能，再會。別忘了給女侍小費。其二至此終

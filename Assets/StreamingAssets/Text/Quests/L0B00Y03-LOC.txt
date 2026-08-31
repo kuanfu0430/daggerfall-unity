@@ -1,0 +1,77 @@
+-- Quest: C:\QUESTS\WORKING\L0B00Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: Brotherhood
+-- Repute: 0
+-- QuestId: 3
+Messages: 12
+Quest: L0B00Y03
+DisplayName: 叛逃法師
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 法師公會找上門來，要我們
+<ce> 處理一件他們覺得太骯髒、
+<ce> 太噁心、不願自己動手的
+<ce> 爛事。有名叛逃法師得
+<ce> 趕快了結。有興趣嗎？
+                                      <--->
+<ce> 法師公會又成了我們的客戶。
+<ce> 看來他們有個傢伙聞蝙蝠內臟
+<ce> 聞太多，發狂鬧事了。
+<ce> 聽起來有意思吧，%pct？
+
+RefuseQuest:  [1001]
+<ce> 真令人失望。
+
+AcceptQuest:  [1002]
+<ce> 很好。這名法師——名叫
+<ce> =mage_——
+<ce> 捲走了好些魔法玩意兒，但法師公會
+<ce> 不介意你拿走 %g 偷走的東西。
+<ce> 他們只要 %g2 死。你只有
+<ce> =queston_ 天把這筆帳了結。
+<ce> 你會發現 %g2 正縮在一處
+<ce> 名叫 ___mondung_ 的
+<ce> 噁心地方。在 =queston_ 天內回到這裡，
+<ce> 讓世上少一個叛逃法師。願梅法拉
+<ce> 穩住你的手臂，%pct。
+
+QuestComplete:  [1004]
+<ce> 那麼，你把那個火花術士的火
+<ce> 熄了，%pcf？啊，
+<ce> 梅法拉對你滿意，她的孩子們
+<ce> 也是。
+
+RumorsDuringQuest:  [1005]
+法師公會否認 =mage_ 已不受他們控制。
+<--->
+明燈騎士團太過官方，不便對付 =mage_。
+
+RumorsPostfailure:  [1006]
+=mage_ 已逃過海灣。誰說得準 %g3 打算做什麼？
+
+RumorsPostsuccess:  [1007]
+百姓說 =mage_ 是被明燈騎士團幹掉的。
+<--->
+誰說得準，要是讓那個 _mage_ 活下去會發生什麼事。
+
+QuestorPostsuccess:  [1008]
+問候與致意。弒殺法師之人，=qgiver_ 能為你效勞什麼？
+
+QuestorPostfailure:  [1009]
+<ce> 你毀了與我們的契約，於是我們
+<ce> 也毀了與法師公會的契約。此刻
+<ce> 我對你幾乎只有輕蔑，%pcf。
+
+QuestLogEntry:  [1010]
+%qdt:
+ __qgiver_、___qgiver_ 的黑暗兄弟會
+ 成員 _qgiver_ 派我前往 ___mondung_，
+ 對付一名來自法師公會的叛逃法師。
+ 我有 =queston_ 天把事情了結。
+
+Message:  1011
+<ce> =mage_ 的光熄了。
+<ce> 兄弟會與法師公會都會感到滿意。

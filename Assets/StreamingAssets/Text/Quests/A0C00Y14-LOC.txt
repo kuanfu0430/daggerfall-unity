@@ -1,0 +1,95 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y14.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 14
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 21
+Quest: A0C00Y14
+DisplayName: 跑腿的
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce> 我叫 _questgiver_。我有件簡單的差事。
+<ce> 若你能幫我把一件物品送到一位朋友那兒，
+<ce> 我會以 _gold_ 金幣表達感激。你怎麼說，%pcf？
+                                     <--->
+<ce> 嗨，我是 _questgiver_。我需要有人幫我送一件東西。
+<ce> 不過是穿過鎮上一小段路，可我現在太忙。報酬是 _gold_ 金幣。
+
+RefuseQuest:  [1001]
+<ce> 真可惜。
+                                     <--->
+<ce> 你不必擺出那副高姿態！
+                                     <--->
+<ce> 我得另找願意靠勞動過活的人。
+
+AcceptQuest:  [1002]
+<ce> 太好了！這是包裹。送到鎮上的 _pickuplocal_。
+<ce> %G 會付錢給你。明天這個時候前必須送到。
+                                     <--->
+<ce> 總算有人願意靠勞動過活。把這個拿到鎮上的 _pickuplocal_。
+<ce> %G 會給你 _gold_ 金幣。明天這個時候前交給 %g2。
+
+QuestComplete:  [1004]
+<ce> 我一直希望 _questgiver_ 能及時把這個送到。
+<ce> %G 最近太忙了。這是 %g 答應你的 _gold_。
+
+RumorsDuringQuest:  [1005]
+<ce> 每年這個時節天氣通常都很糟。
+
+RumorsPostfailure:  [1006]
+<ce> 聽說王后有外遇！
+
+RumorsPostsuccess:  [1007]
+<ce> %ra 人都這麼愛管閒事嗎？
+
+QuestorPostsuccess:  [1008]
+<ce> 謝謝你替我送那個包裹，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce> 小偷！你拿走我的包裹，_pickuplocal_ 卻從沒收到。
+<ce> 我絕不會幫你。
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___questgiver_ 的 _questgiver_
+ 派我把包裹送到同樣在 ___pickuplocal_
+ 的 _pickuplocal_。
+ 必須在明天這個時候前送到。
+
+Message:  1011
+<ce> 這本書有些紀念價值。_pickuplocal_ 已經好幾年沒見過 _book_ 了。
+
+Message:  1012
+<ce> _pickuplocal_ 需要這份 _ingredient_ 來調製 %g 正在做的特殊釀造。
+
+Message:  1013
+<ce> 這件 _jewelry_ 是給 _pickuplocal_ 的禮物，將敲定我與 %g2 的安排。
+
+Message:  1014
+<ce> 這是我母親為慶典替 _pickuplocal_ 做的特別 _mensclothing_。
+
+Message:  1015
+<ce> _pickuplocal_ 委託了這幅 _painting_。明天 %g3 聚會需要它。
+
+Message:  1016
+<ce> _pickuplocal_ 盡快需要這瓶 _potion_。
+
+Message:  1017
+<ce> _pickuplocal_ 受到威脅。這把 _weapon_ 該能讓 %g3 安心。
+
+Message:  1018
+<ce> 我為 _pickuplocal_ 的婚禮買了這件精美的 _womensclothing_。
+<ce> 若趕不到會非常難堪。
+
+Message:  1019
+<ce> 你想怎樣？_questgiver_？
+<ce> 對，%g 答應今天某個時候送包裹過來。
+<ce> 你去找 %g2，%g 甚至可能付錢讓你帶來給我。
+
+Message:  1020
+<ce> 我聽見 _questgiver_ 說 %g 會付錢讓你送包裹。
+<ce> 交給我就好，我不會傷害你。

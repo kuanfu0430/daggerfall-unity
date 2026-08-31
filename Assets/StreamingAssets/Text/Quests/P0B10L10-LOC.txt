@@ -1,0 +1,134 @@
+-- Quest: C:\QUESTS\WORKING\P0B10L10.Qbn.
+-- StartsBy: letter
+-- Questee: member
+-- Questor: vampire
+-- Repute: 10
+-- QuestId: 10
+Messages: 18
+Quest: P0B10L10
+DisplayName: 護行者
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+<ce>                  我們這種人出行本就不容易。
+<ce>                   再加上還得照應 _vamp_，
+<ce>                  我只能想像你吃了多少苦。
+<ce>                 再算上那個惡毒的 =mage_
+<ce>                         帶來的恐懼，我便明白
+<ce>                        為何 %vam 對你評價
+<ce>                           如此之高，好 %pcf。
+
+RumorsDuringQuest:  [1005]
+有人說，=mage_ 是 %reg 僅存還像樣的吸血鬼獵人。
+<--->
+=mage_ 能跟大多數吸血鬼好好打一場。
+
+RumorsPostfailure:  [1006]
+__vamp2_ 某個 =vamp2_ 在找一個叫 %pcn 的 %ra。
+
+RumorsPostsuccess:  [1007]
+=mage_ 顯然不是 %g 自稱的那種吸血鬼獵人。
+<--->
+=mage_ 本該是偉大的吸血鬼獵人。看來 %g 也沒那麼了不起。
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+                     __vamp_
+                      ___vamp_
+ 
+ 親愛的 %pcn，
+ 
+       %vam 需要你。
+ 立刻前來。
+ 
+ 
+                     死蔭敬上，
+ 
+                     _vamp_
+
+Message:  1011
+%qdt:
+ 我收到 %vam 的吸血鬼
+ _vamp_ 來信，緊急要求我
+ 前往 ___vamp_ 一處叫
+ __vamp_ 的地方。
+
+Message:  1012
+<ce>                謝謝你來得這麼快。%reg 這裡
+<ce>               有一名我們部族的危險敵人，
+<ce>                      一名叫 =mage_ 的法師。
+<ce>                我自己就曾與 %g2 有過一次不幸的會面。
+<ce>                   我必須就此事與 ___vamp2_
+<ce>                          的 _vamp2_ 商談，
+<ce>                       但我知道 =mage_
+<ce>               正在找我。我太虛弱，無法獨自成行。
+<ce>                 你必須護送我到 ___vamp2_ 的
+<ce>                         __vamp2_，
+<ce>                我們得趕在那惡魔法師召來更多盟友
+<ce>                之前動身。=queston_ 夜，
+<ce>                          %pcf。時間不長，
+<ce>                            但我們必須一試。
+
+Message:  1013
+<ce>                     還有點刺的吸血鬼。
+<ce>                    這下事情有趣多了！
+
+Message:  1014
+%qdt:
+ 我正在護送 _vamp_
+ 前往 ___vamp2_ 的 _vamp2_。
+ 我必須在跟蹤我們的法師
+ 有機會召來援軍之前，趕到
+ __vamp2_。
+
+Message:  1015
+<ce>                         「%pcf！」_vamp_ 說，
+<ce>                        「你殺了 =mage_，
+<ce>                         %vam 的禍害！」
+
+Message:  1016
+<ce>                          「你太慢了，」
+<ce>                          _vamp_ 說著，
+<ce>                       踉蹌著自行離去。
+
+Message:  1017
+<ce>                        一個蒼白、目光凌厲的男孩
+<ce>                      把一封信交給你，隨即
+<ce>                      消失在陰影中。
+
+
+-- Symbols used in the QRC file:
+--
+--              %dat occurs 1 time.
+--                %g occurs 65 times.
+--               %g2 occurs 1 time.
+--               %g3 occurs 2 times.
+--              %pcf occurs 3 times.
+--              %pcn occurs 3 times.
+--              %qdt occurs 1 time.
+--               %ra occurs 1 time.
+--              %reg occurs 3 times.
+--              %vam occurs 5 times.
+--            =mage_ occurs 8 times.
+--         =queston_ occurs 4 times.
+--           =vamp2_ occurs 4 times.
+--          ___vamp_ occurs 5 times.
+--          __vamp2_ occurs 3 times.
+--           __vamp_ occurs 3 times.
+--           _vamp2_ occurs 2 times.
+--            _vamp_ occurs 9 times.

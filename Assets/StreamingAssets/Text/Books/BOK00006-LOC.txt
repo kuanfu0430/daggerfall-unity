@@ -1,5 +1,5 @@
-Title: The Faerie
-Author: Szun Triop
+Title: 妖精
+Author: 孫·特里奧普
 IsNaughty: False
 Price: 580
 IsUnique: False
@@ -7,15 +7,15 @@ WhenVarSet:
 Content:
 
 [/font=2]
-[/center]The Faerie
+[/center]妖精
 
 [/font=4]
- Faerie have been on Tamriel, in all probability, long before recorded history, perhaps since or before the days of the Elder Ones. The tales of their mischief are found in every culture, in most every village, town, and city-states in the Empire. Alternately they are called Faerie, Fey, Illyadi, Sprites, Pixies, and Sylphim, and their natures seem to flit from one story to the next with the same variation. It could almost be said that Faeries are anything unpredictable in nature.
+ 妖精極可能在有文字記載的歷史之前便已存在於泰姆瑞爾，或許自上古者的時代起，甚至更早。關於他們惡作劇的故事，可見於帝國每一種文化、幾乎每一座村落、城鎮與城邦。他們交替被稱為妖精、費伊、伊利亞迪、小精靈、小仙子與風靈，其本性似乎也隨著故事一篇篇變幻，同樣多樣。幾乎可以說，凡自然界中難以預料之事，都是妖精。
 
- The noted scholar Ahrtabazus studying at the time in the Crystal Tower of Sumurset Isle developed an interesting if controversial theory about Faerie. He organized the Fey variants on a chain, beginning with the glimmering sparks called Pixies or Whilloki by the Redguards at one end and the godlike beings such as Gheateus, Chonus, and Sygria at the other. In the middle are human and semi-human beings generating up to intelligent trees, brooks, rocks, even mountains. All of this was a new and completely original theory and would have prompted enthusiastic, if somewhat skeptical response had Ahrtabazus not added this footnote: "It may be that elves as a whole are part of this chain, above whilloki and below nephrine. They certainly have similar features and propensities for magicka as the other Faerie." (Ahrtabazus, "The Faerie Chain" Firsthold, 2E 456)
+ 著名學者阿爾塔巴祖斯當時在夏暮島的水晶塔研習，提出了一套關於妖精的有趣、卻也備受爭議的理論。他把費伊的變體排成一條鏈，一端是閃爍的火星，紅守衛稱之為小仙子或威利基；另一端則是如蓋亞特烏斯、科努斯與西格莉亞這類近乎神明的存在。中間是人類與半人類的存在，再往上生成有智的樹木、溪流、岩石，甚至山脈。凡此皆是全新而完全原創的理論，本會引發熱烈、即使略帶懷疑的回應——若阿爾塔巴祖斯沒有加上這條腳註：「或許精靈作為整體也是這條鏈的一部分，在威利基之上、奈弗林之下。他們與其他妖精確實有相似的特徵，以及對魔力的相近傾向。」（阿爾塔巴祖斯，《妖精之鏈》，第一堡，第二紀元456年）
 
- No elf liked to be put in a hierarchy slightly above whimsical pranksters like the whilloki, and Ahrtabazus was challenged on his assumptions based on very slight coincidences. Nevertheless, with modification, his Fairie Chain theory has gained wider and wider acceptance since its publication.
+ 沒有精靈喜歡被放進僅僅略高於威利基這類隨興惡作劇者的層級，阿爾塔巴祖斯也因僅憑極輕微的巧合而作的假設遭到質疑。儘管如此，經過修正，他的妖精鏈理論自發表以來已獲得越來越廣泛的接受。
 
- The hierarchial chain is not, in the strictest sense, an order of command. While Gheateus and Sygria are said to be surrounded by a host of minor Sylphim, faerie on the whole are not followers nor leaders. Their plans and schemes are not governed by a higher purpose, simply by their own whim.
+ 這條層級鏈，嚴格說來，並非指揮秩序。雖說蓋亞特烏斯與西格莉亞據說身邊環繞著一大群次等風靈，妖精整體上既非追隨者，也非領導者。他們的計畫與計謀不受更高目的支配，僅僅出於他們自己的興致。
 
- To this most faerie scholars agree. Because it is based on coincidental evidence and supported by auxiliary theories, it may very well be wrong.
+ 對此，多數妖精學者表示同意。因為它建立在巧合的證據上，並由輔助理論支撐，它很可能是錯的。

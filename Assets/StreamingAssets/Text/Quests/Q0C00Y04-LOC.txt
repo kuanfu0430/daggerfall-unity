@@ -1,0 +1,133 @@
+-- Quest: C:\QUESTS\WORKING\Q0C00Y04.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 0
+-- QuestId: 4
+Messages: 18
+Quest: Q0C00Y04
+DisplayName: 特製混合物
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                     ==qgiver_ 已接到法師公會
+<ce>                  的聯絡，詢問一種特殊藥劑——
+<ce>                 一種 %reg 極為渴求的神聖配方。
+<ce>                  他們願為此支付 _gold_
+<ce>                   金幣，那些金幣歸你。我們只要
+<ce>                  法師公會的敬意。這趟路程
+<ce>                      不會輕鬆。你可有興趣？
+
+RefuseQuest:  [1001]
+<ce>                           我明白。我失望，
+<ce>                          但我明白。
+
+AcceptQuest:  [1002]
+<ce>                     很好，%pcf。藥劑在此。
+<ce>                 白天你應當安全，因為那些想要它的
+<ce>                傢伙嚴格只在夜間行動。他們期望
+<ce>                    藥劑在 =queston_ 天內送到
+<ce>                        ___mguild_ 的法師公會，
+<ce>                      所以別耽擱。去找一名叫
+<ce>                               _mage_ 的法師。
+
+QuestComplete:  [1004]
+<ce>                     啊，極為稀有而奇妙的配方。
+<ce>                   這是你的 _gold_ 金幣。
+<ce>                      對這瓶藥劑來說，
+<ce>                              這價錢很划算。
+
+RumorsDuringQuest:  [1005]
+法師公會與 ==qgiver_ 之間的和平令人意外。
+<--->
+法師與女巫之間的這份和平不會長久。
+
+RumorsPostfailure:  [1006]
+==qgiver_ 對與法師公會的協議出爾反爾。
+<--->
+法師公會正在切斷與 ==qgiver_ 的往來。
+
+RumorsPostsuccess:  [1007]
+==qgiver_ 給法師公會的藥劑能治癒吸血鬼之身！
+<--->
+==qgiver_ 給法師公會的藥劑能治癒獸化症！
+
+QuestorPostsuccess:  [1008]
+法師公會告訴我們交易已完成。謝謝你，%pcf。
+
+QuestorPostfailure:  [1009]
+<ce>                  我們一直在努力加強與法師公會
+<ce>                  的關係，但汝未能送達那瓶藥劑，
+<ce>                   把一切都毀了，%pcf。
+<ce>                    從我眼前消失。我無法忍受
+<ce>                         再看汝一眼。
+
+QuestLogEntry:  [1010]
+%qdt:
+  ==qgiver_ 派我帶著一瓶
+  神秘藥劑前往 ___mguild_
+  的法師公會。夜間我得提防
+  那些可能想要藥劑的傢伙。
+  會付我 _gold_ 金幣買下藥劑的
+  法師名叫 _mage_。我有
+  =queston_ 天完成這次遞送。
+
+Message:  1012
+<ce>                     一個帶著墳土沙啞的聲音
+<ce>                    嘶聲說：「你！那瓶藥劑
+<ce>                         是我們的！」
+                                      <--->
+<ce>                    「把藥劑給我，」有人
+<ce>                     咆哮。「那不是你的！」
+                                      <--->
+<ce>                       你聽見有人發出
+<ce>                    不自然、狂野的渴望嚎叫。
+<ce>                       「藥劑！藥劑！」
+
+Message:  1013
+<ce>                              狼嚎響起。
+                                      <--->
+<ce>                          你聽見什麼東西
+<ce>                          發出可憐的渴望
+<ce>                              低吼。
+                                      <--->
+<ce>                       一聲狼嚎刺破夜空。
+<ce>                      那不是飢餓的嚎叫，
+<ce>                      而是渴望的嚎叫。
+
+Message:  1014
+<ce>                           一聲尖銳的
+<ce>                            野豬尖叫
+<ce>                           刺破夜空。
+                                      <--->
+<ce>                         你聽見野豬低沉的
+<ce>                      咆哮，音色因絕望而
+<ce>                        顫抖。
+                                      <--->
+<ce>                       寂靜的夜晚突然被
+<ce>                      一頭憤怒野豬尖銳的
+<ce>                        咆哮打破。
+
+Message:  1015
+<ce>                           你感到怪異。
+
+Message:  1016
+Error: Questtext 1016 Called.
+
+Message:  1017
+<ce>                     這是什麼？配方已被玷污！
+<ce>                   你連這件簡單的事都做不好，
+<ce>                   令我失望。
+
+
+-- Symbols used in the QRC file:
+--
+--              %pcf occurs 66 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 1 time.
+--         ==qgiver_ occurs 7 times.
+--         =queston_ occurs 2 times.
+--        ___mguild_ occurs 2 times.
+--            _gold_ occurs 3 times.
+--            _mage_ occurs 3 times.

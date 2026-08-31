@@ -1,0 +1,113 @@
+-- Quest: C:\QUESTS\WORKING\Q0C4XY04.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 4X
+-- QuestId: 4
+Messages: 41
+Quest: Q0C4XY04
+DisplayName: 迪德拉之心
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                 ==questgiver_ 必須再次仰賴
+<ce>                 汝的善意與力量。我們的法術需要
+<ce>                 一顆迪德拉的心，而且必須是汝
+<ce>                    新近摘下的。汝可願為親愛的
+<ce>                    姨媽們找到並殺死一名
+<ce>                           迪德拉？
+
+RefuseQuest:  [1001]
+<ce>                       不？噢，哀傷之夜。
+
+AcceptQuest:  [1002]
+<ce>                    女神對我們微笑，%pcn，
+<ce>                 附近有一座地城正遭迪德拉侵擾。
+<ce>                   任何迪德拉的心都可以，唯獨
+<ce>                   領主的不行，牠們的心已腐臭生蟲。
+<ce>                        汝前往 ___mondung_，
+<ce>                           %pcn，為我們殺死
+<ce>                   一名迪德拉，在太陽落下
+<ce>                      =1stparton_ 天之前帶回。
+
+QuestFail:  [1003]
+<ce>                           那顆心，%pcn，
+<ce>                           在 ___mondung_
+<ce>                       一名迪德拉的胸膛裡。
+<ce>                         別在這裡找。
+
+QuestComplete:  [1004]
+<ce>                   看，它仍在 %pcn 血淋淋的手中
+<ce>                            冒著熱氣、跳動！
+<ce>                  趁它尚未失溫，投入那鍋混濁的湯裡。
+<ce>                  啊，%pcn，收下這件 _reward_，
+<ce>                       酬勞汝的辛苦。
+<ce>                   汝待我們可憐的女巫真好。
+
+RumorsDuringQuest:  [1005]
+___mondung_ 的迪德拉一定在搞什麼。好大的聚會！
+<--->
+%god 詛咒了我們。不然迪德拉怎會落到 ___mondung_？
+
+RumorsPostfailure:  [1006]
+讚美 %god，迪德拉離開了 ___mondung_。我好幾夜沒睡好！
+<--->
+迪德拉離開 ___mondung_ 跟牠們來時一樣神秘。我說，走了正好。
+
+RumorsPostsuccess:  [1007]
+星辰像昨晚那樣暗淡，是為了標記一名迪德拉的死亡。
+<--->
+昨晚你聽見林中的音樂了嗎？女巫們一定在慶祝。
+
+QuestorPostsuccess:  [1008]
+==questgiver_ 的朋友，汝與汝的 _reward_ 可好？
+
+QuestorPostfailure:  [1009]
+<ce>                   我們本希望為燉鍋取得一顆心，
+<ce>                       %pcf。若汝太忙，早該告訴
+<ce>                  我們。已定的計畫不得不作廢。
+<ce>                    汝仍是我們的朋友，但……
+<ce>                       我們仍感哀傷。
+
+Message:  1011
+_questgiver_ 是一名 =questgiver_，也是 ==questgiver_ 的一員。
+<--->
+她是住在 %reg 的女巫之一。
+
+Message:  1012
+聽說 ___mondung_ 是吸血鬼巢穴。
+<--->
+夜之民住在 ___mondung_。他們白天從不出來。
+<--->
+___mondung_？那不是獸人據點嗎？
+<--->
+亡靈在 ___mondung_ 的廳堂遊蕩。我不會靠近它。
+
+Message:  1015
+%qdt:
+  ==questgiver_ 的
+  _questgiver_ 派我前往
+  ___mondung_，從任何我遇見的
+  誘惑者、迪德拉獸、火焰或寒霜迪德拉
+  身上取下一顆心。那顆心必須在
+  =1stparton_ 天內帶回
+  ___questgiver_。
+
+Message:  1040
+<ce>                  你從仍在抽搐的屍體上
+<ce>                        摘下一顆完好的心。
+
+
+-- Symbols used in the QRC file:
+--
+--              %god occurs 2 times.
+--              %pcf occurs 1 time.
+--              %pcn occurs 5 times.
+--              %qdt occurs 1 time.
+--              %reg occurs 3 times.
+--       =1stparton_ occurs 4 times.
+--     ==questgiver_ occurs 6 times.
+--       ___mondung_ occurs 16 times.
+--    ___questgiver_ occurs 3 times.
+--          _reward_ occurs 14 times.

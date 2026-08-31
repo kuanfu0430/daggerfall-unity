@@ -1,0 +1,115 @@
+-- Quest: C:\QUESTS\WORKING\Q0C00Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: witch
+-- Repute: 0
+-- QuestId: 1
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 14
+Quest: Q0C00Y01
+DisplayName: 誹謗文書
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>                      吾等欲遣汝尋回一份
+<ce>                  由敵人傳布的奸詐文書，意圖
+<ce>                  壓制吾等巫會。我知這包印刷謊言
+<ce>                  藏於何處，但需要像汝這樣的人
+<ce>                   去擊敗它的守護者，將它帶來。
+<ce>                 汝可願如此協助 ==qgiver_？
+
+RefuseQuest:  [1001]
+<ce>                         汝不願？%oth，
+<ce>                      那就別再求 ==qgiver_
+<ce>                               的恩惠。
+
+AcceptQuest:  [1002]
+<ce>                   汝願意？那吾等將對汝懷有
+<ce>                最無可辯駁的感激。那份文書
+<ce>                    藏在 %reg 此地一座神殿裡，
+<ce>                      位於名為 __temple_ 的城鎮。
+<ce>                      _temple_ 將它收在某處，
+<ce>                或許在上鎖的門後，由一名力量
+<ce>                  不容置疑的 _guardian_ 看守。
+<ce>                若汝將文書帶回此處交給我，
+<ce>                   我將贈汝一件巫會所製的
+<ce>                _mitem_。務必在 =queston_
+<ce>                       天內歸來。
+
+QuestComplete:  [1004]
+<ce>                  啊，那份該死的文書。汝為
+<ce>                 吾等姊妹會效勞，當受嘉許，
+<ce>                     %pct。這是我答應汝的
+<ce>                        _mitem_。
+<ce>                    ==qgiver_ 的感激
+<ce>                      不必有形，也能被感知。
+
+RumorsDuringQuest:  [1005]
+你讀過下一卷《==qgiver_ 史》了嗎？駭人聽聞！
+
+RumorsPostfailure:  [1006]
+《==qgiver_ 史》正在帝都被複製。
+
+RumorsPostsuccess:  [1007]
+有人讀過《==qgiver_ 史》，但唯一的副本消失了。
+
+QuestorPostsuccess:  [1008]
+汝可滿意汝的 _mitem_，%pcf？汝確實配得上它。
+
+QuestorPostfailure:  [1009]
+<ce>                      那份該死的文書已送往
+<ce>                    帝都，為無知的大眾
+<ce>                      複製，%pcf。汝
+<ce>                         令 ==qgiver_ 失望了。
+<ce>                          離開此地。
+
+QuestLogEntry:  [1010]
+%qdt:
+ 我已答應從 __temple_ 的
+ _temple_ 取得一份關於
+ ==qgiver_ 的文書，並在
+ =queston_ 天內帶回。那份文書
+ 很可能由一名 _guardian_ 看守。
+
+Message:  1011
+<ce>                    這顯然就是 ==qgiver_
+<ce>                         想要的那份文書。
+
+Message:  1012
+==qgiver_ 較為凶殘的儀式之一，
+ 是她們為榮耀 ==daedra_
+ 而舉行的典禮。
+ 將新生嬰兒的血肉置於燃燒硫磺的
+ 火焰上煮三天半，直至變得堅硬如革。
+ 所得纖維縫覆於一隻黑貓頭上，
+ 將貓關在籠中，直到它咬破這層胞衣，
+ 或窒息而死。若貓死去，女巫便知
+ ==daedra_ 不會回應她們的懇求；
+ 若貓活著，==qgiver_ 便可向
+ ==daedra_ 求取任何事物——
+ 王侯的死亡或殘毀、經濟災難、
+ 饑荒、瘟疫、戰爭……
+
+Message:  1013
+<ce>                     惡魔的棋子！==qgiver_
+<ce>                           的奴隸！
+<ce>                         %god 正義之手
+<ce>                            將擊打於汝！
+
+
+-- Symbols used in the QRC file:
+--
+--              %god occurs 4 times.
+--              %oth occurs 1 time.
+--              %pcf occurs 13 times.
+--              %pct occurs 1 time.
+--              %qdt occurs 1 time.
+--              %reg occurs 1 time.
+--         ==daedra_ occurs 3 times.
+--         ==qgiver_ occurs 14 times.
+--         =queston_ occurs 3 times.
+--         __temple_ occurs 2 times.
+--        _guardian_ occurs 3 times.
+--           _mitem_ occurs 3 times.
+--          _temple_ occurs 2 times.

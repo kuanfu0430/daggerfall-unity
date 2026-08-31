@@ -1,5 +1,5 @@
-Title: Vampires of the Iliac Bay, Part I
-Author: Anonymous
+Title: 伊利亞克灣的吸血鬼，第一部
+Author: 佚名
 IsNaughty: False
 Price: 429
 IsUnique: False
@@ -8,32 +8,30 @@ Content:
 
 [/font=2]
 
-[/center]Vampires
+[/center]伊利亞克灣的
 
-[/center]of the
+[/center]吸血鬼，
 
-[/center]Iliac Bay,
-
-[/center]Part I
+[/center]第一部
 
 [/font=4]
 
- There are over one hundred distinct kinds of vampire in Tamriel. The Iliac Bay region alone has nine variations with unique powers and abilities. I have this information not only because I have been researching this blight of the world for the last ten years of my life, but because for the seven years before that, I was one of the creatures.
+  泰姆瑞爾有超過一百種截然不同的吸血鬼。單是伊利亞克灣地區就有九種變體，各有獨特力量與能力。我有這些資訊，不僅因為我用生命中過去十年研究這世界的禍害，也因為在那之前的七年，我自己就是那些生物之一。
 
- Vampirism is a disease, like brain rot or cholera, but far, far more insidious. One can become a vampire through certain magical items or by the curse of a powerful wizard, but the most common cause is the bite or scratch of a vampire. There are no symptoms of vampirism except this -- if the victim sleeps after the attack but before he becomes a vampire, his sleep will be plagued with nightmares.
+  吸血鬼症是一種疾病，像腦腐或霍亂，卻遠、遠更陰險。人可以透過某些魔法物品或強大巫師的詛咒成為吸血鬼，但最常見的原因是吸血鬼的咬或抓。吸血鬼症沒有其他症狀，只有這個——若受害者在遭受攻擊之後、成為吸血鬼之前睡著，睡眠會被噩夢侵擾。
 
- During this two to four day period, when the disease has been spread but the victim is still mortal, most any temple healer can remove the curse of vampirism. There will be no further warning.
+  在這兩到四天期間，疾病已傳播而受害者仍是凡人，幾乎任何神殿治療師都能除去吸血鬼症的詛咒。不會再有進一步警告。
 
- I do not remember dying. I had been a scout for an order of knights which shall go nameless for this. A daughter of a local nobleman had been kidnapped by a mysterious character, and my captain had located his hideout. Deep in the dank underground chambers, I searched until I found the girl. Or what remained of her, a corpse the color of snow, drained of every drop of blood. I knew what the mystery man was right then, but he found me before I found the exit out. He took a good sized hunk out of my fighting arm before I managed to outrun him. I figured I was lucky to be alive. Some luck.
+  我不記得自己死了。我曾是某騎士團的斥候，為了這篇文章就不具名了。當地貴族的女兒被一個神秘人物綁架，我的隊長找到了他的藏身處。在潮濕的地下房間深處，我搜尋，直到找到那女孩。或者說找到剩下的她，一具雪色的屍體，每一滴血都被吸乾。我立刻明白那神秘人是什麼，可他在我找到出口之前找到了我。我設法跑過他之前，他從我持武器的胳膊上撕下相當大一塊。我以為自己還活著就算幸運。好一個幸運。
 
- My trip back to the knightly order was a five day journey. I decided to get some rest early to get my arm in better shape in case I found any more trouble. I can't remember the dreams I had that night -- only that I was doing something horrible and I couldn't stop myself. I woke up screaming. The next night, at an inn a little closer to my destination, my sleep was deep and dreamless. On the third night, I died.
+  回騎士團是五天的路程。我決定早點休息，讓胳膊好一點，以防再遇上麻煩。我不記得那天夜裡做的夢——只記得我在做可怕的事，卻無法停下自己。我尖叫著醒來。第二天夜裡，在離目的地稍近的一家旅店，我睡得很沉，沒有夢。第三天夜裡，我死了。
 
- Of course, I didn't know that I died. I had gone to sleep in a nice warm feathered bed and I woke on a cold wet stone mortuary slab. Dazed, I opened the door to the masoleum I was in, which I think must have been locked. I was in a cemetary not far from a town I knew, so I wandered in. It was late at night, so there were precious few souls in the streets. I paused to read a public notice and noticed the date. The date was two weeks later than I thought it must have been.
+  當然，我不知道自己死了。我在舒適溫暖的羽絨床上睡著，卻在冰冷潮濕的石停屍板上醒來。茫然中，我打開所在陵墓的門，我想那門本來一定是鎖著的。我在離我認識的一個鎮子不遠的墓地，於是走了進去。已是深夜，街上幾乎沒有人影。我停下來讀一張告示，注意到日期。日期比我以為的晚了兩週。
 
- As I puzzled over that, I saw a girl, a wench at my favorite tavern in that town, wandering toward me. I hailed her. She ignored me. I called her by her name, and she turned to me, smiling, but with an expression that told me she did not know who I was. I had visited her tavern on my way over to the mystery man's hideout, but she didn't know me!
+  我正為此困惑，看見一個女孩，那鎮上我最愛的酒館裡的女侍，朝我走來。我招呼她。她不理我。我叫她的名字，她轉向我，微笑，可那表情告訴我她不認識我是誰。我去神秘人藏身處的路上曾去過她的酒館，她卻不認識我！
 
- I told her my name. She angrily told me that it was a very poor joke, that I looked nothing like the brave knight who used to visit the town, and that if I didn't know he was dead.
+  我告訴她我的名字。她生氣地說這玩笑很差勁，我長得一點也不像常來鎮上的那位勇敢騎士，而且難道我不知道他已經死了。
 
- My emotions were a tangled skein. I could tell she was not joking, that I looked nothing like myself. I was touched by her sorrow at my death, and horrified by the idea dawning on me of what I had become. Suddenly, an overriding instinct overcame all my thoughts -- hunger. Without even thinking about what I was doing, I reached out and tore her throat open. I drained her until she looked like the corpse in the mystery man's dungeon.
+  我的情緒像一團糾結的線。我能看出她不是在開玩笑，我看起來一點也不像自己。她為我的死悲傷讓我感動，而我漸漸明白自己變成了什麼，這讓我恐懼。突然，一種壓倒一切的本能蓋過所有念頭——飢餓。甚至不想自己在做什麼，我伸手撕開她的喉嚨。我把她吸到看起來像神秘人地城裡的那具屍體。
 
- The rest of my story is told in Vampires of the Bay, Chapter II.
+  我故事的其餘部分見《海灣的吸血鬼》第二章。

@@ -1,5 +1,5 @@
-Title: Notes For Redguard History
-Author: Destri Melarg
+Title: 紅守衛史筆記
+Author: 德斯特里·梅拉格
 IsNaughty: False
 Price: 597
 IsUnique: False
@@ -8,62 +8,62 @@ Content:
 
 [/font=2]
 
-[/center]Notes For
+[/center]紅守衛史
 
-[/center]Redguard History
+[/center]筆記
 
 [/font=4]
 
 [/center]
 
- Biographical Note: Destri Melarg was a well-known historian and translator of old Redguard verse, born as simply Destri in the city-state of Rihad in the 20th year of the 3rd Era. At the age of nineteen, he went to the Imperial City to study. There were few Redguards who had been to the Imperial Province at the time, and it may be that he took the last name Melarg in order to assimiliate with the Breton, Nordic, and Dark Elf cultures he encountered there.
+ 生平註記：德斯特里·梅拉格是著名的歷史學家與古紅守衛詩譯者，原名只叫德斯特里，第三紀20年出生於里哈德城邦。十九歲時，他前往帝都求學。當時去過帝國行省的紅守衛很少，或許他取了梅拉格這個姓，是為了融入他在那兒遇見的布萊頓、諾德與黑暗精靈文化。
 
- When he died ninety-four years later, he left numerous unfinished histories and untranslated verse. Very few of this fragmented work has found its way out of collections. What follows is an unmailed letter to Melarg's publishers in the Imperial City. The insights into the man who put the oral traditions of the Redguards to paper impressed me enough to seek its publication.
+ 九十四年後他去世時，留下大量未完成的史稿與未譯的詩。這些殘篇極少流出收藏。以下是一封未寄出的信，寫給梅拉格在帝都的出版商。這位把紅守衛口述傳統寫成文字的人，其見識令我印象深刻，足以促使我尋求將它出版。
 
- Melius, it should be noted, was Melius Kane, Melarg's publisher in the Imperial City.
+ 梅利烏斯，應予註明，即梅利烏斯·凱恩，梅拉格在帝都的出版商。
 
-[/center]--- Vune,
+[/center]——武恩，
 
-[/center]Redguardic First Scholar
+[/center]紅守衛學首席學者
 
-[/center]Imperial University
+[/center]帝國大學
 
 [/center]* * *
 
- Melius,
+ 梅利烏斯：
 
- This is the outline of my final chapter for the series on Hammerfell heroes. I condensed Dendle's storytelling. I have my notes, but the story gets long with all the quotes. She puts a lot of dialog in her storytelling. I am amazed that the old stories about the 5 swords keeps cropping up. It's been a thousand years since Hellion's time, yet people continue to believe in the stories.
+ 這是我落錘省英雄系列最後一章的大綱。我濃縮了登朵的講述。我有筆記，但故事加上所有引語會變得很長。她講故事時加進大量對話。我驚訝於關於五劍的舊故事仍不斷出現。距哈林的時代已過千年，人們卻仍相信這些故事。
 
- The wagon master sat with me after listening to her story and smoked a pipe with me. In discussing the story, he said that his storyteller used to say that one of the five swords survived the closing of the Goblin gate, and is yet hidden here in Hammerfell. It was the least of the five, but the story has it that it exceeds and modern blade magical or ebony by several orders of magnitude.
+ 車隊首領聽完她的故事後與我同坐，一起抽了斗菸。討論這故事時，他說他的說書人曾講過：五劍之一在哥布林之門關閉後倖存，至今仍藏在落錘省。那是五劍中最弱的一把，但故事說它比任何現代刀刃——無論附魔或烏木——都強出數個數量級。
 
- Of course I take this with a grain of salt, since a ebony weapon is unparalleled in its keen cutting ability and personally I can't imagine a weapon doing more damage than a Claymore of Firestorm or a Saber of Life Steal. Dendle even believes that out in the countryside outside of Skaven in one of the Halls of the Virtues of War, there are still people who follow the old ways and can from a Shehai or spirit sword.
+ 當然我對此半信半疑，因為烏木武器的鋒利切削無可匹敵，而我個人也無法想像有什麼武器能比火焰風暴巨劍或生命偷取軍刀造成更多傷害。登朵甚至相信，在斯卡文郊外鄉間的某一座武德殿裡，仍有人遵循古道，能凝聚謝海，也就是靈劍。
 
- In collecting these stories, I once thought I was seeing a Shehai being formed, by an old Hall master, but the thing, if it was a spirit sword was so faint that even the sword shape was questionable. I didn't want to insult the old man so I claimed I saw it too. But if that was a Shehai, I can't imagine it possibly used as a real weapon.
+ 蒐集這些故事時，我曾以為自己看見一位年邁殿主正在凝聚謝海，可那東西——若它真是靈劍——淡到連劍的形狀都成問題。我不想得罪那老人，便聲稱自己也看見了。可若那就是謝海，我無法想像它能當真正的武器使用。
 
- Here's my outline of the new story:
+ 以下是新故事的大綱：
 
- At the time of this story, Hammerfell is fully occupied by Redguards. All the old cities of the Dwarves (but one - the Ghost City of Dwarfhome) are now the cities of today's modern Hammerfell. A second invasion of the giant goblins comes. Hammerfell is unprepared, except for a few faithful followers, all youths in the rural Halls of Virtue.
+ 故事發生之時，落錘省已完全由紅守衛占據。所有矮人舊城（只除一座——矮人故鄉鬼城）如今都是今日現代落錘省的城市。巨型哥布林第二次入侵到來。落錘省毫無準備，除了少數忠實追隨者，全是鄉間武德殿裡的青年。
 
- Hallin, being the only Ansei, rallies the armies of Hammerfell. After a defeat, he brings back the old ways by telling each warrior to read the Book of Circles. The army fights the Goblins to a standstill, but things look bleak, just as in Divad's song. Somehow the goblins keep being resupplied both with arms and troops. Eventually the Army of Hammerfell will lose.
+ 哈林作為唯一的安塞，集結落錘省的軍隊。一次敗北之後，他讓每位戰士閱讀《圓環之書》，從而帶回古道。軍隊與哥布林打成平手，但情勢看來黯淡，正如迪瓦德之歌中所唱。不知怎的，哥布林不斷獲得武器與兵力補給。最終落錘省的軍隊將會輸掉。
 
- The old master of Hallin's Hall of the Virtues of War has an ancient copy of Divad's will and testament, and reads it to Hallin. It tells him that the 5 swords aren't lost, just hidden and well guarded in 5 caves. Each cave is home to a master guardian, one of the old blind Ansei -- and also a maze.
+ 哈林所屬武德殿的老殿主有一份迪瓦德遺囑的古抄本，讀給哈林聽。遺囑告訴他五劍並未遺失，只是藏起，由五座洞穴妥善看守。每座洞穴住著一位守護大師，是舊日失明的安塞——也是一座迷宮。
 
- According to the will, Derik must, along with a virtuous companion of pure heart enter the cave, defeat each Ansei Master and retrieve their sword.
+ 據遺囑所載，德里克必須與一位心地純潔的貞潔同伴進入洞穴，擊敗每位安塞大師並取回他們的劍。
 
- Dendle went into great detail here. It seems that each Master had an outstanding trait -- one Katrice, possessed feline grace, and had become very catlike; another, who had icy calm was something much like an Ice Golem.
+ 登朵在這裡講得極詳。似乎每位大師都有一項突出特質——一位叫卡特麗絲的，擁有貓一般的優雅，變得非常像貓；另一位有冰一般的冷靜，簡直像冰魔像。
 
- On each blade is inscribed part of an intricate message on how to use the power of the swords combined. Derik scours the rural Halls for Brothers of the Blade and Maidens of the Spirit Sword to accompany him in the quests. He finally one by one finds his companions, and wins each sword.
+ 每把劍上都銘刻著如何使用五劍合力的複雜訊息的一部分。德里克搜遍鄉間武德殿，尋找刃之兄弟與靈劍少女陪伴他完成任務。他終於一個一個找到同伴，並贏得每把劍。
 
- They learn from the blades and together wield the force of the 5 swords to seal the rent in space time that the Goblins have made and from which springs their invasion. Hallin's companions avoided blinding by the magic swords by hurling the swords together into the void, and sealing forever the giant Goblins in the void between their world and ours.
+ 他們從劍上學到知識，一起揮動五劍之力，封閉哥布林撕開的時空裂口，哥布林的入侵正從那裡湧出。哈林的同伴把劍一起擲入虛空，從而免於被魔法劍致盲，並永遠把巨型哥布林封在他們的世界與我們之間的虛空裡。
 
- The land is saved and Hallin and his companions (3 women and 2 men) become Ansei and restore the teachings of Frandar Hunding to Hammerfell.
+ 國土得救，哈林與他的同伴（三女二男）成為安塞，將弗蘭達爾·亨丁的教導恢復到落錘省。
 
- That's the story in brief. I welcome any comments from you or one of the other editors.
+ 這就是故事的簡要。歡迎你或其他編輯提出任何意見。
 
- One other concern of mine. I understand that you are considering using a better known writer, Uthilla Abuhk or Casmyr Kreestrom, to write the stories I've researched. I can understand that a better known writer may mean that a few more copies of the books will be sold, but that should not be your only concern. Abuhk and Kreestrom, while fine writers and poets, will need to be lectured on the true history of the Redguards. Even if you are willing to pay me to do that, you will have to acknowledge that the books will take longer to write than if you just allowed me to do it. Just something to consider when you make the decision.
+ 我還有另一個顧慮。我聽說你考慮請更有名的作家，烏希拉·阿布克或卡斯米爾·克里斯特羅姆，來寫我研究過的這些故事。我能理解更有名的作家可能意味著書能多賣幾本，但那不該是你唯一的考量。阿布克與克里斯特羅姆雖是出色的作家與詩人，卻需要有人給他們講授紅守衛的真實歷史。即使你願意付錢讓我去做這件事，你也必須承認，這樣寫書會比直接讓我來寫花更長時間。只是你做決定時該考慮的一點。
 
- I hope this letter finds you, your consort, and children to good health and humor.
+ 希望此信寄達時，你、你的配偶與孩子們都健康愉快。
 
-[/center]Yours faithfully,
+[/center]你忠實的，
 
-[/center]Destri Melarg
+[/center]德斯特里·梅拉格
