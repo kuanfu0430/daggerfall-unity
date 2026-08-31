@@ -16,3 +16,22 @@
 - `Assets/StreamingAssets/Text/Internal_Settings.csv`
 
 術語表：`l10n/zh-TW/glossary.md`
+
+## 怎麼測（Windows，不用編譯）
+
+譯文是執行期覆蓋 `StreamingAssets`，**不必從源碼編譯**。之後再翻只要再點一次啟動器。
+
+倉庫根目錄雙擊：
+
+- `測試翻譯.bat`（或 `PlayTest.bat`）
+
+它會：
+
+1. 若還沒準備好，自動下載官方 DFU 1.1.1 Windows 包與 wiki 提供的 DOS 遊戲檔
+2. 把目前分支的繁中 txt/csv 同步進測試包
+3. 安裝 Noto Sans CJK TC 字型
+4. 啟動遊戲
+
+本機測試包在 `play/`（已 gitignore，勿提交）。第一次需要網路；之後改譯文再點同一支 bat 即可，不必重編。
+
+進遊戲後會先看到啟動器（解析度／開始遊戲／模組）。這正好用來驗 `MainMenu.txt`。設定頁驗 `GameSettings.txt`。沒放 `arena2` 時啟動器仍可開，但無法開始遊戲；這份測試包已把官方遊戲檔放進 `StreamingAssets/GameFiles`。
