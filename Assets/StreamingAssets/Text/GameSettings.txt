@@ -4,239 +4,239 @@ schema: *key,text
 
 - Tabs and section titles
 
-gamePlay,                                           GamePlay
-interface,                                          Interface
-enhancements,                                       Enhancements
-video,                                              Video
-accessibility,                                      Accessibility
+gamePlay,                                           遊玩
+interface,                                          介面
+enhancements,                                       增強
+video,                                              畫面
+accessibility,                                      無障礙
 
-game,                                               Game
-controls,                                           Controls
-audio,                                              Audio
-spells,                                             Spells
-meleeAttacks,                                       Melee Attacks
-tooltips,                                           Tooltips
+game,                                               遊戲
+controls,                                           操作
+audio,                                              音訊
+spells,                                             法術
+meleeAttacks,                                       近戰攻擊
+tooltips,                                           工具提示
 hud,                                                HUD
 gui,                                                GUI
-light,                                              Lighting
-basic,                                              Basic
-advanced,                                           Advanced
-automap,                                            Automap
-dungeonmicromap,                                 	Dungeon Micro-Map
+light,                                              光照
+basic,                                              基本
+advanced,                                           進階
+automap,                                            自動地圖
+dungeonmicromap,                                    地城微地圖
 
 - Settings and tooltip descriptions
 
-startInDungeon,                                     Start In Dungeon
-startInDungeonInfo,                                 Start new game inside the first dungeon
-smallerDungeons,                                    Smaller Dungeons
-smallerDungeonsInfo,                                Random dungeons will have only one interior block and four border blocks
-randomDungeonTextures,                              Dungeon Textures
-randomDungeonTexturesInfo,                          Generates dungeon texture table from random seed
-cameraRecoilStrength,                               Camera Recoil Strength
-cameraRecoilStrengthInfo,                           Strength of screen recoil when player takes damage. Scales with damage.
-mouseSensitivity,                                   Mouse Sensitivity
-mouseSensitivityInfo,                               Mouse look sensitivity.
-weaponSensitivity,                                  Weapon Sensitivity
-weaponSensitivityInfo,                              Sensitivity of weapon swings to mouse movements
-movementAcceleration,                               Movement Acceleration
-movementAccelerationInfo,                           Adds a small amount of acceleration/deceleration during movement
-weaponAttackThreshold,                              WeaponAttackThreshold
-weaponAttackThresholdInfo,                          Minimum mouse gesture travel distance for an attack
-soundFont,                                          SoundFont
-soundFontInfo,                                      Active soundfont
-alternateMusic,                                     Alternate Music
-alternateMusicInfo,                                 Use the OPL3-optimized version of the soundtrack.
-soundVolume,                                        Sound volume
-soundVolumeInfo,                                    Volume of sound.
-musicVolume,                                        Music volume
-musicVolumeInfo,                                    Volume of music.
-spellLighting,                                      Spell lighting
-spellLightingInfo,                                  Enable spell lighting
-spellShadows,                                       Spell shadows
-spellShadowsInfo,                                   Enable spell shadows
-instantRepairs,                                     Instant repair services
-instantRepairsInfo,                                 Disables waiting for repairs and makes them instantaneous
-bowDrawback,                                        Bows - draw and release
-bowDrawbackInfo,                                    Enables bow drawback while holding RH mouse; release to fire
-toggleSneak,                                        Toggle Sneak
-toggleSneakInfo,                                    Allows the Sneak action to be toggled rather than held
-meleeAttackDetection,                               Hit Detection
-meleeAttackDetectionInfo,                           Complexity of melee attack targeting
-meleeAttackFriendlyProtection,                      Protect Friendlies and Neutrals
-meleeAttackFriendlyProtectionInfo,                  Prevents non-hostile entities from being unintentionally attacked
+startInDungeon,                                     從地城開始
+startInDungeonInfo,                                 新遊戲從第一個地城裡面開始
+smallerDungeons,                                    縮小地城
+smallerDungeonsInfo,                                隨機地城將只有一個內部區塊與四個邊界區塊
+randomDungeonTextures,                              地城貼圖
+randomDungeonTexturesInfo,                          以隨機種子產生地城貼圖表
+cameraRecoilStrength,                               鏡頭後座力強度
+cameraRecoilStrengthInfo,                           玩家受傷時螢幕後座的強度。會隨傷害縮放。
+mouseSensitivity,                                   滑鼠靈敏度
+mouseSensitivityInfo,                               滑鼠視角靈敏度。
+weaponSensitivity,                                  武器靈敏度
+weaponSensitivityInfo,                              武器揮擊對滑鼠移動的靈敏度
+movementAcceleration,                               移動加速
+movementAccelerationInfo,                           移動時加入少量加速／減速
+weaponAttackThreshold,                              武器攻擊閾值
+weaponAttackThresholdInfo,                          發動攻擊所需的最小滑鼠手勢移動距離
+soundFont,                                          音色庫
+soundFontInfo,                                      使用中的音色庫
+alternateMusic,                                     替代音樂
+alternateMusicInfo,                                 使用經 OPL3 最佳化的原聲帶版本。
+soundVolume,                                        音效音量
+soundVolumeInfo,                                    音效音量。
+musicVolume,                                        音樂音量
+musicVolumeInfo,                                    音樂音量。
+spellLighting,                                      法術光照
+spellLightingInfo,                                  啟用法術光照
+spellShadows,                                       法術陰影
+spellShadowsInfo,                                   啟用法術陰影
+instantRepairs,                                     即時修理服務
+instantRepairsInfo,                                 停用修理等待時間，改為立即完成
+bowDrawback,                                        弓——拉弓與放箭
+bowDrawbackInfo,                                    按住滑鼠右鍵拉弓，放開即射擊
+toggleSneak,                                        切換潛行
+toggleSneakInfo,                                    讓潛行動作改為切換，不必按住
+meleeAttackDetection,                               命中判定
+meleeAttackDetectionInfo,                           近戰攻擊鎖定目標的複雜度
+meleeAttackFriendlyProtection,                      保護友方與中立
+meleeAttackFriendlyProtectionInfo,                  防止非敵對單位被誤擊
 
-toolTips,                                           Tool Tips
-toolTipsInfo,                                       Shows information about GUI items
-toolTipDelayInSeconds,                              Delay
-toolTipDelayInSecondsInfo,                          Tooltip delay in seconds
-toolTipTextColor,                                   Text Color
-toolTipTextColorInfo,                               Font color for tooltips' text
-toolTipBackgroundColor,                             Background Color
-toolTipBackgroundColorInfo,                         Background color for tooltips
-crosshair,                                          Crosshair
-crosshairInfo,                                      Enable Crosshair on HUD
-vitalsIndicators,                                   Vitals Indicators
-vitalsIndicatorsInfo,                               Show indicators on vitals bars that display changes in vitals
-interactionModeIcon,                                Interaction Mode Icon
-interactionModeIconInfo,                            Style of context icon for interaction mode
-arrowCounter,                                       Arrow counter
-arrowCounterInfo,                                   Enable an arrow counter on the HUD when using bows
-showQuestJournalClocksAsCountdown,                  Countdown quest journal clocks
-showQuestJournalClocksAsCountdownInfo,              Show the remaining time instead of the time from start
-inventoryInfoPanel,                                 Inventory Info Panel
-inventoryInfoPanelInfo,                             Inventory Info Panel
-enhancedItemLists,                                  Enhanced Item Lists
-enhancedItemListsInfo,                              Inventory 16x item grid
-enableModernConversationStyleInTalkWindow,          TalkWindow Modern Style
-enableModernConversationStyleInTalkWindowInfo,      Modern Conversation Style In TalkWindow
-iconsPositioningScheme,                             Buff Icons Layout
-iconsPositioningSchemeInfo,                         Size and position of onscreen (de)buff icons
-helmAndShieldMaterialDisplay,                       Helm and Shield Material Display
-helmAndShieldMaterialDisplayInfo,                   Show material for helms and shields in info popups and tooltips
-geographicBackgrounds,                              Geographic backgrounds
-geographicBackgroundsInfo,                          Contextual character backgrounds based on geographic location
-dungeonExitWagonPrompt,                             Dungeon wagon access prompt
-dungeonExitWagonPromptInfo,                         Prompt for wagon access on dungeon exit. (Wagon is always accessible within 5m of exit)
-travelMapLocationsOutline,                          Outline regional map locations
-travelMapLocationsOutlineInfo,                      Draw an outline around locations on regional maps to improve visibility
-guildQuestListBox,                                  Guild quest player selection
-guildQuestListBoxInfo,                              Presents eligible guild quests in a list box
-bowLeftHandWithSwitching,                           Equip bows in left hand only
-bowLeftHandWithSwitchingInfo,                       Equip bows in left hand and allow 1H weapon switching - switching has a short delay
-loiterLimitInHours,                                 Maximum loiter time in hours
-loiterLimitInHoursInfo,                             Change default loiter time limit in hours
-automapTempleColor,                                 Guildhall color
-automapTempleColorInfo,                             The color of temples and guildhalls on the exterior automap
-automapShopColor,                                   Shop color
-automapShopColorInfo,                               The color of shops on the exterior automap
-automapTavernColor,                                 Tavern color
-automapTavernColorInfo,                             The color of taverns on the exterior automap
-automapHouseColor,                                  Residence color
-automapHouseColorInfo,                              The color of residences and others on the exterior automap
-dungeonMicMapQoL,									Micro-Map QoL Toggle
-dungeonMicMapQoLInfo,								False = Uses vanilla micro-map colors | True = Use micro-map QoL colors
-dunMicMapInnerColor,                                Inner Block color
-dunMicMapInnerColorInfo,                            The color that Inner dungeon blocks will be on micromap while QoL option is true
-dunMicMapBorderColor,                               Border Block color
-dunMicMapBorderColorInfo,                           The color that Border dungeon blocks will be on micromap while QoL option is true
+toolTips,                                           工具提示
+toolTipsInfo,                                       顯示 GUI 項目的資訊
+toolTipDelayInSeconds,                              延遲
+toolTipDelayInSecondsInfo,                          工具提示延遲秒數
+toolTipTextColor,                                   文字顏色
+toolTipTextColorInfo,                               工具提示文字的字型顏色
+toolTipBackgroundColor,                             背景顏色
+toolTipBackgroundColorInfo,                         工具提示的背景顏色
+crosshair,                                          準星
+crosshairInfo,                                      在 HUD 上啟用準星
+vitalsIndicators,                                   生命徵象指示
+vitalsIndicatorsInfo,                               在生命徵象條上顯示數值變化指示
+interactionModeIcon,                                互動模式圖示
+interactionModeIconInfo,                            互動模式情境圖示樣式
+arrowCounter,                                       箭矢計數
+arrowCounterInfo,                                   使用弓時在 HUD 上啟用箭矢計數
+showQuestJournalClocksAsCountdown,                  任務日誌倒數計時
+showQuestJournalClocksAsCountdownInfo,              顯示剩餘時間而非開始後經過的時間
+inventoryInfoPanel,                                 物品欄資訊面板
+inventoryInfoPanelInfo,                             物品欄資訊面板
+enhancedItemLists,                                  增強物品清單
+enhancedItemListsInfo,                              物品欄 16 格物品網格
+enableModernConversationStyleInTalkWindow,          對話視窗現代風格
+enableModernConversationStyleInTalkWindowInfo,      對話視窗使用現代對話風格
+iconsPositioningScheme,                             增益圖示配置
+iconsPositioningSchemeInfo,                         畫面上增益／減益圖示的大小與位置
+helmAndShieldMaterialDisplay,                       頭盔與盾牌材質顯示
+helmAndShieldMaterialDisplayInfo,                   在資訊彈窗與工具提示中顯示頭盔與盾牌材質
+geographicBackgrounds,                              地理背景
+geographicBackgroundsInfo,                          依地理位置顯示對應的角色背景
+dungeonExitWagonPrompt,                             地城馬車存取提示
+dungeonExitWagonPromptInfo,                         離開地城時提示是否存取馬車。（出口 5 公尺內隨時可使用馬車）
+travelMapLocationsOutline,                          描繪地區地圖地點輪廓
+travelMapLocationsOutlineInfo,                      在地區地圖的地點周圍描繪輪廓以提升可見度
+guildQuestListBox,                                  公會任務玩家選擇
+guildQuestListBoxInfo,                              以清單顯示可接的公會任務
+bowLeftHandWithSwitching,                           弓僅裝備於左手
+bowLeftHandWithSwitchingInfo,                       將弓裝備於左手並允許切換單手武器——切換有短暫延遲
+loiterLimitInHours,                                 最大閒晃時數
+loiterLimitInHoursInfo,                             變更預設閒晃時數上限
+automapTempleColor,                                 公會廳顏色
+automapTempleColorInfo,                             室外自動地圖上神殿與公會廳的顏色
+automapShopColor,                                   商店顏色
+automapShopColorInfo,                               室外自動地圖上商店的顏色
+automapTavernColor,                                 酒館顏色
+automapTavernColorInfo,                             室外自動地圖上酒館的顏色
+automapHouseColor,                                  住宅顏色
+automapHouseColorInfo,                              室外自動地圖上住宅及其他建築的顏色
+dungeonMicMapQoL,                                   微地圖便利開關
+dungeonMicMapQoLInfo,                               否＝使用原版微地圖顏色｜是＝使用微地圖便利顏色
+dunMicMapInnerColor,                                內部區塊顏色
+dunMicMapInnerColorInfo,                            便利選項為是時，地城內部區塊在微地圖上的顏色
+dunMicMapBorderColor,                               邊界區塊顏色
+dunMicMapBorderColorInfo,                           便利選項為是時，地城邊界區塊在微地圖上的顏色
 
-modSystem,                                          Mod System
-modSystemInfo,                                      Enable support for mods.
-assetInjection,                                     Asset Injection
-assetInjectionInfo,                                 Import asset overrides from enabled mods and loose files.
-compressModdedTextures,                             Compress Modded Textures
-compressModdedTexturesInfo,                         Import textures with a compressed format which uses less graphics memory.
-gameConsole,                                        Game Console
-gameConsoleInfo,                                    Enable input for console commands
-nearDeathWarning,                                   Near Death Warning
-nearDeathWarningInfo,                               Show blinking/pulsating screen effects to warn when near death.
-alternateRandomEnemySelection,                      Alternate Random Enemy Selection
-alternateRandomEnemySelectionInfo,                  Create random enemies in dungeons with more variability.
-advancedClimbing,                                   Advanced Climbing System
-advancedClimbingInfo,                               Climb walls in all directions & jump off them and grab them.
-dungeonAmbientLightScale,                           Dungeon ambient light
-dungeonAmbientLightScaleInfo,                       Scale of the ambient light inside dungeons
-nightAmbientLightScale,                             Night ambient light
-nightAmbientLightScaleInfo,                         Scale of the ambient light at night in interiors and exteriors
-playerTorchLightScale,                              Player torch light 
-playerTorchLightScaleInfo,                          Scale of player personal light
-playerTorchFromItems,                               Item based player torch
-playerTorchFromItemsInfo,                           Player torch light is enabled by in-game light sources
-combatVoices,                                       Combat vocalizations
-combatVoicesInfo,                                   Player and NPCs will vocalize when attacking or being hit
-enemyInfighting,                                    Enemy infighting
-enemyInfightingInfo,                                AI characters will fight others that they aren't allied with
-enhancedCombatAI,                                   Enhanced combat AI
-enhancedCombatAIInfo,                               Enable various enhancements to combat AI not in original Daggerfall
-allowMagicRepairs,                                  Allow magic item repairs
-allowMagicRepairsInfo,                              Allow magic items to be repaired like mundane items
+modSystem,                                          模組系統
+modSystemInfo,                                      啟用模組支援。
+assetInjection,                                     資源注入
+assetInjectionInfo,                                 從已啟用模組與散裝檔案匯入資源覆寫。
+compressModdedTextures,                             壓縮模組貼圖
+compressModdedTexturesInfo,                         以壓縮格式匯入貼圖，減少顯示記憶體用量。
+gameConsole,                                        遊戲控制台
+gameConsoleInfo,                                    啟用控制台指令輸入
+nearDeathWarning,                                   瀕死警告
+nearDeathWarningInfo,                               瀕死時顯示閃爍／脈動螢幕效果作為警告。
+alternateRandomEnemySelection,                      替代隨機敵人選擇
+alternateRandomEnemySelectionInfo,                  在地城中以更高變化度產生隨機敵人。
+advancedClimbing,                                   進階攀爬系統
+advancedClimbingInfo,                               可朝各方向攀牆，也可跳離並再次抓住。
+dungeonAmbientLightScale,                           地城環境光
+dungeonAmbientLightScaleInfo,                       地城裡面環境光的強度
+nightAmbientLightScale,                             夜間環境光
+nightAmbientLightScaleInfo,                         夜間室內外環境光的強度
+playerTorchLightScale,                              玩家火把光
+playerTorchLightScaleInfo,                          玩家自身光源強度
+playerTorchFromItems,                               依物品的玩家火把
+playerTorchFromItemsInfo,                           玩家火把光由遊戲內光源啟用
+combatVoices,                                       戰鬥語音
+combatVoicesInfo,                                   玩家與 NPC 攻擊或被擊中時會發聲
+enemyInfighting,                                    敵人間互鬥
+enemyInfightingInfo,                                AI 角色會與非同盟者戰鬥
+enhancedCombatAI,                                   增強戰鬥 AI
+enhancedCombatAIInfo,                               啟用原版匕首雨沒有的多項戰鬥 AI 增強
+allowMagicRepairs,                                  允許魔法物品修理
+allowMagicRepairsInfo,                              允許魔法物品像普通物品一樣修理
 
-resolution,                                         Resolution
-resolutionInfo,                                     Screen resolution
-fullscreen,                                         Fullscreen
-fullscreenInfo,                                     Enable fullscreen
-exclusiveFullscreen,                                Exclusive Fullscreen
-exclusiveFullscreenInfo,                            Enable exclusive fullscreen
-runInBackground,                                    Run in background
-runInBackgroundInfo,                                Should the game keep running when it loses focus
-qualityLevel,                                       Quality Level
-qualityLevelInfo,                                   General graphic quality
-mainFilterMode,                                     Main Filter
-mainFilterModeInfo,                                 Filter for game textures
-guiFilterMode,                                      GUI Filter
-guiFilterModeInfo,                                  Filter for HUD images
-videoFilterMode,                                    Video Filter
-videoFilterModeInfo,                                Filter for movies
-antiAliasingMethod,                                 Anti-aliasing Method
-antiAliasingMethodInfo,                             Select anti-aliasing method
-ambientOcclusionIntensity,                          Ambient Occlusion intensity
-ambientOcclusionIntensityInfo,                      Set intensity of AO postprocess effect
-fovSlider,                                          Field Of View   
-fovSliderInfo,                                      The observable world that is seen at any given moment
-terrainDistance,                                    Terrain Distance
-terrainDistanceInfo,                                Maximum distance of active terrains from player position
-shadowResolutionMode,                               Shadow Resolution
-shadowResolutionModeInfo,                           Quality of shadows
-dungeonLightShadows,                                Dungeon Light Shadows
-dungeonLightShadowsInfo,                            Dungeon lights cast shadows
-interiorLightShadows,                               Interior Light Shadows
-interiorLightShadowsInfo,                           Interior lights cast shadows
-exteriorLightShadows,                               Exterior Light Shadows
-exteriorLightShadowsInfo,                           Exterior sunlight casts shadows
-ambientLitInteriors,                                Simplify Interior Lighting
-ambientLitInteriorsInfo,                            Use less complex lighting for higher performance interiors
+resolution,                                         解析度
+resolutionInfo,                                     螢幕解析度
+fullscreen,                                         全螢幕
+fullscreenInfo,                                     啟用全螢幕
+exclusiveFullscreen,                                獨占全螢幕
+exclusiveFullscreenInfo,                            啟用獨占全螢幕
+runInBackground,                                    背景執行
+runInBackgroundInfo,                                遊戲失去焦點時是否繼續執行
+qualityLevel,                                       品質等級
+qualityLevelInfo,                                   整體畫面品質
+mainFilterMode,                                     主濾鏡
+mainFilterModeInfo,                                 遊戲貼圖濾鏡
+guiFilterMode,                                      GUI 濾鏡
+guiFilterModeInfo,                                  HUD 圖像濾鏡
+videoFilterMode,                                    影片濾鏡
+videoFilterModeInfo,                                動畫影片濾鏡
+antiAliasingMethod,                                 反鋸齒方法
+antiAliasingMethodInfo,                             選擇反鋸齒方法
+ambientOcclusionIntensity,                          環境光遮蔽強度
+ambientOcclusionIntensityInfo,                      設定 AO 後製效果強度
+fovSlider,                                          視野
+fovSliderInfo,                                      當下可見的世界範圍
+terrainDistance,                                    地形距離
+terrainDistanceInfo,                                作用中地形與玩家位置的最大距離
+shadowResolutionMode,                               陰影解析度
+shadowResolutionModeInfo,                           陰影品質
+dungeonLightShadows,                                地城燈光陰影
+dungeonLightShadowsInfo,                            地城燈光會投射陰影
+interiorLightShadows,                               室內燈光陰影
+interiorLightShadowsInfo,                           室內燈光會投射陰影
+exteriorLightShadows,                               室外燈光陰影
+exteriorLightShadowsInfo,                           室外陽光會投射陰影
+ambientLitInteriors,                                簡化室內光照
+ambientLitInteriorsInfo,                            使用較簡單的光照以提升室內效能
 
 - Configure Joystick Controls UI
 
-rightClickString,                                   Right-Click
-middleClickString,                                  Middle-Click
-leftClickString,                                    Left-Click
-backString,                                         Back
-configureJoystickControls,                          Configure Joystick Controls
-continue,                                           CONTINUE
-enableController,                                   Enable Controller
-invert,                                             Invert
-lookSensitivity,                                    Look Sensitivity
-uiMouseSensitivity,                                 UI Mouse Sensitivity
-maximumMovementThreshold,                           Maximum Movement Threshold
-deadzone,                                           Deadzone
-movementH,                                          Movement H.
-movementV,                                          Movement V.
-cameraH,                                            Camera H.
-cameraV,                                            Camera V.
-primary,                                            Primary
-secondary,                                          Secondary
+rightClickString,                                   右鍵點擊
+middleClickString,                                  中鍵點擊
+leftClickString,                                    左鍵點擊
+backString,                                         返回
+configureJoystickControls,                          設定搖桿操作
+continue,                                           繼續
+enableController,                                   啟用控制器
+invert,                                             反轉
+lookSensitivity,                                    視角靈敏度
+uiMouseSensitivity,                                 UI 滑鼠靈敏度
+maximumMovementThreshold,                           最大移動閾值
+deadzone,                                           死區
+movementH,                                          移動水平
+movementV,                                          移動垂直
+cameraH,                                            攝影機水平
+cameraV,                                            攝影機垂直
+primary,                                            主要
+secondary,                                          次要
 
 
 - Options shared among sliders. Missing keys use default text.
 
-Off,                                                Off
-On,                                                 On
+Off,                                                關
+On,                                                 開
 HQ,                                                 HQ
 
-Low,                                                Low
-Medium,                                             Medium
-High,                                               High
-Very High,                                          Very High   
+Low,                                                低
+Medium,                                             中
+High,                                               高
+Very High,                                          非常高
 
-Low (25%),                                          Low (25%)
-Medium (50%),                                       Medium (50%)
-High (75%),                                         High (75%)
-V. High(100%),                                      V. High(100%)
+Low (25%),                                          低 (25%)
+Medium (50%),                                       中 (50%)
+High (75%),                                         高 (75%)
+V. High(100%),                                      非常高(100%)
 
-Point,                                              Point
-Bilinear,                                           Bilinear
-Trilinear,                                          Trilinear   
+Point,                                              點取樣
+Bilinear,                                           雙線性
+Trilinear,                                          三線性
 
-none,                                               none
-classic,                                            classic
-climate,                                            climate
-climateOnly,                                        climateOnly
-random,                                             random
-randomOnly,                                         randomOnly
-minimal,                                            minimal
-large,                                              large
-colour,                                             colour
-monochrome,                                         monochrome
+none,                                               無
+classic,                                            經典
+climate,                                            氣候
+climateOnly,                                        僅氣候
+random,                                             隨機
+randomOnly,                                         僅隨機
+minimal,                                            最小
+large,                                              大型
+colour,                                             彩色
+monochrome,                                         單色
 
-reset,                                              Reset
+reset,                                              重設

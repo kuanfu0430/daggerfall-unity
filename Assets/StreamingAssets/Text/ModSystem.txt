@@ -2,74 +2,74 @@
 
 schema: *key,text
 
-modLoadPriority,            Load Priority
-modTitle,                   Selected
-modDescription,             Mod Description
-modVersion,                 Version
-modAuthor,                  Author
-modAuthorContact,           Contact
-modDFTFUVersion,            DFUnity Version
+modLoadPriority,            載入優先順序
+modTitle,                   已選取
+modDescription,             模組說明
+modVersion,                 版本
+modAuthor,                  作者
+modAuthorContact,           聯絡方式
+modDFTFUVersion,            DFUnity 版本
 
-emptyTitle,                 <title>
-missingTitle,               <Unknown>
-emptyDescription,           <description>
-missingDescription,         <Missing description>
-title,                      Title
-description,                Description
-author,                     Author
-ok,                         OK
-versionMismatch,            Version mismatch!
+emptyTitle,                 <標題>
+missingTitle,               <未知>
+emptyDescription,           <說明>
+missingDescription,         <缺少說明>
+title,                      標題
+description,                說明
+author,                     作者
+ok,                         確定
+versionMismatch,            版本不符！
 
-increase,                   Increase
-lower,                      Lower
-enableAll,                  ALL ON
-enableAllInfo,              Enable All Mods
-disableAll,                 ALL OFF
-disableAllInfo,             Disable All Mods
-copyToClipboard,            ->Clipboard
-copyToClipboardInfo,        Copy the list of mods to the host clipboard
-modsCopiedToClipboard,      List of mods copied to clipboard
-enabled,                    Enabled
-enabledInfo,                Toggle Mod
-refresh,                    Refresh
-refreshInfo,                Check for changes in mod directory
-saveClose,                  Save and Close
-saveCloseInfo,              Save changes and return to options menu
-extractText,                Extract Text
-extractTextInfo,            Extract Text Assets
-extractTextConfirmation,    All text assets from this mod have been extracted to {0}.
-new,                        New
-load,                       Load
-save,                       Save
-delete,                     Delete
-cancel,                     Cancel
-export,                     Export
-exportMessage,              {0} will be exported to {1}.
-reset,                      Reset
-resetConfirmation,          Revert all settings to default values?
-cleanConfigurationDir,      Found configuration files for unknown or uninstalled mods. Do you want to remove them?
+increase,                   提高
+lower,                      降低
+enableAll,                  全部開啟
+enableAllInfo,              啟用所有模組
+disableAll,                 全部關閉
+disableAllInfo,             停用所有模組
+copyToClipboard,            →剪貼簿
+copyToClipboardInfo,        將模組清單複製到主機剪貼簿
+modsCopiedToClipboard,      已將模組清單複製到剪貼簿
+enabled,                    已啟用
+enabledInfo,                切換模組
+refresh,                    重新整理
+refreshInfo,                檢查模組目錄是否有變更
+saveClose,                  儲存並關閉
+saveCloseInfo,              儲存變更並返回選項選單
+extractText,                擷取文本
+extractTextInfo,            擷取文本資源
+extractTextConfirmation,    此模組的所有文本資源已擷取至 {0}。
+new,                        新增
+load,                       載入
+save,                       儲存
+delete,                     刪除
+cancel,                     取消
+export,                     匯出
+exportMessage,              {0} 將匯出至 {1}。
+reset,                      重設
+resetConfirmation,          要將所有設定還原為預設值嗎？
+cleanConfigurationDir,      發現未知或未安裝模組的設定檔。要移除它們嗎？
 
-backToOptions,              Options
-backToOptionsInfo,          Back to options without saving changes
-modsFound,                  Mods Found
-modsSearch,                 Search
-modsNoMatching,             No matching mod found
-settings,                   Settings
-settingsInfo,               Change mod settings
-presets,                    Presets
+backToOptions,              選項
+backToOptionsInfo,          不儲存變更並返回選項
+modsFound,                  找到的模組
+modsSearch,                 搜尋
+modsNoMatching,             找不到符合的模組
+settings,                   設定
+settingsInfo,               變更模組設定
+presets,                    預設組合
 
-presetCreator,              Preset Creator
-presetNewInfo,              Create a new preset from current settings.
-presetLoadInfo,             Load and apply preset to current settings.
-presetSaveInfo,             Save current settings to selected preset.
-presetDeleteInfo,           Delete selected presets.
-presetExportInfo,           Export selected preset to a file that can be shared.
-titleOrDescriptionMissing,  Title and Description are mandatory fields.
+presetCreator,              預設組合建立器
+presetNewInfo,              以目前設定建立新的預設組合。
+presetLoadInfo,             載入預設組合並套用至目前設定。
+presetSaveInfo,             將目前設定儲存至所選預設組合。
+presetDeleteInfo,           刪除所選預設組合。
+presetExportInfo,           將所選預設組合匯出為可分享的檔案。
+titleOrDescriptionMissing,  標題與說明為必填欄位。
 
-dependencyErrorMessage,                 One or more mods might not work correctly:
-dependencyIsMissing,                    Failed to retrieve mod {0}
-dependencyNotEnabled,                   Mod dependency {0} is not enabled
-dependencyWithIncorrectPosition,        {0} must be positioned above in the load order
-dependencyWithIncompatibleVersion,      {0} has version {1} but {2} or higher is requested
-sortModsQuestion,                       Do you want to sort mods automatically?
-gameVersionUnsatisfied,                 Requires Daggerfall Unity v.{0} or higher
+dependencyErrorMessage,                 有一個或多個模組可能無法正常運作：
+dependencyIsMissing,                    無法取得模組 {0}
+dependencyNotEnabled,                   模組相依項目 {0} 尚未啟用
+dependencyWithIncorrectPosition,        {0} 必須排在載入順序較上方
+dependencyWithIncompatibleVersion,      {0} 的版本為 {1}，但需要 {2} 或更高版本
+sortModsQuestion,                       要自動排序模組嗎？
+gameVersionUnsatisfied,                 需要 Daggerfall Unity v.{0} 或更高版本

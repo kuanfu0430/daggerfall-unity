@@ -2,54 +2,54 @@
 
 schema: *key,text
 
-resolution,                 Resolution
-fullscreen,                 Fullscreen
-quality,                    Quality
-play,                       Play
-mods,                       Mods
-advanced,                   Advanced
-restart,                    Restart
-restartInfo,                Restart setup from beginning
-exit,                       Exit
-modNote,                    Note: Enabling mods can increase performance requirements
-settingsFolder,             Settings Folder
-settingsFolderInfo,         Double-click to open folder
+resolution,                 解析度
+fullscreen,                 全螢幕
+quality,                    品質
+play,                       開始遊戲
+mods,                       模組
+advanced,                   進階
+restart,                    重新開始
+restartInfo,                從頭重新進行設定
+exit,                       離開
+modNote,                    注意：啟用模組可能會提高效能需求
+settingsFolder,             設定資料夾
+settingsFolderInfo,         連按兩下以開啟資料夾
 
-alwayShowOptions,           Always show this window
-alwayShowOptionsInfo,       Always show this window on startup\rOtherwise use settings.ini to configure
-vsync,                      Vertical Sync
-vsyncInfo,                  Sync FPS with monitor refresh
-swapHealthAndFatigue,       Swap Health & Fatigue
-swapHealthAndFatigueInfo,   Swap health & fatigue bar colors
-invertMouseVertical,        Invert Mouse
-invertMouseVerticalInfo,    Invert mouse-look vertical
-mouseSmoothing,             Mouse Look Smoothing
-mouseSmoothingInfo,         Degree of first person camera smoothing
-leftHandWeapons,            Left Hand Weapons
-leftHandWeaponsInfo,        Draw weapons on left side of screen
-playerNudity,               Player Nudity
-playerNudityInfo,           Allow nudity on paper doll
-weaponSwingMode,            Weapon swing mode
-weaponSwingModeInfo,        Enable a click or hold to trigger attacks
-sdfFontRendering,           SDF Font Rendering
-sdfFontRenderingInfo,       Enable for smooth fonts at high resolutions
-enableController,           Enable Controller
-enableControllerInfo,       Allow joysticks or other controllers to be detected and used in-game
+alwayShowOptions,           一律顯示此視窗
+alwayShowOptionsInfo,       啟動時一律顯示此視窗\r否則請使用 settings.ini 進行設定
+vsync,                      垂直同步
+vsyncInfo,                  將 FPS 與顯示器重新整理率同步
+swapHealthAndFatigue,       對調生命與疲勞
+swapHealthAndFatigueInfo,   對調生命與疲勞條顏色
+invertMouseVertical,        反轉滑鼠
+invertMouseVerticalInfo,    反轉滑鼠視角的垂直方向
+mouseSmoothing,             滑鼠視角平滑
+mouseSmoothingInfo,         第一人稱攝影機平滑程度
+leftHandWeapons,            左手武器
+leftHandWeaponsInfo,        將武器顯示在螢幕左側
+playerNudity,               玩家裸身
+playerNudityInfo,           允許紙娃娃顯示裸身
+weaponSwingMode,            武器揮擊模式
+weaponSwingModeInfo,        啟用點擊或按住以發動攻擊
+sdfFontRendering,           SDF 字型繪製
+sdfFontRenderingInfo,       啟用以在高解析度下顯示平滑字型
+enableController,           啟用控制器
+enableControllerInfo,       允許偵測並在遊戲中使用搖桿或其他控制器
 
-findArena2Tip,              Tip: Daggerfall contains a folder called 'arena2'
-foundArena2But,             Found 'arena2' but
-missingTextures,            it's missing one or more TEXTURE files
-missingModels,              it's missing ARCH3D.BSA
-missingBlocks,              it's missing BLOCKS.BSA
-missingMaps,                it's missing MAPS.BSA
-missingSounds,              it's missing DAGGER.SND
-missingWoods,               it's missing WOODS.WLD
-missingVideos,              it's missing one or more .VID files
-justNotValid,               it does not appear to be valid
-pathValidated,              Great! This looks like a valid Daggerfall folder :)
-hiddenFolders,              Show Hidden Folders
-testText,                   Test
-okText,                     OK
-keepSetting,                Keep this setting? Changes will revert in 8 seconds.
-incompatibleMods,           One or more mods are incompatible with current version of the game. Please check mods window for details. Do you wish to continue anyway?
-showOptionsAgain,           Hold the Shift key when starting Daggerfall Unity to show the launcher again
+findArena2Tip,              提示：匕首雨包含一個名為「arena2」的資料夾
+foundArena2But,             已找到「arena2」，但
+missingTextures,            缺少一個或多個 TEXTURE 檔案
+missingModels,              缺少 ARCH3D.BSA
+missingBlocks,              缺少 BLOCKS.BSA
+missingMaps,                缺少 MAPS.BSA
+missingSounds,              缺少 DAGGER.SND
+missingWoods,               缺少 WOODS.WLD
+missingVideos,              缺少一個或多個 .VID 檔案
+justNotValid,               看起來不是有效的資料夾
+pathValidated,              太好了！這看起來是有效的匕首雨資料夾 :)
+hiddenFolders,              顯示隱藏資料夾
+testText,                   測試
+okText,                     確定
+keepSetting,                要保留此設定嗎？變更將在 8 秒後還原。
+incompatibleMods,           有一個或多個模組與目前遊戲版本不相容。請至模組視窗查看詳情。仍要繼續嗎？
+showOptionsAgain,           啟動 Daggerfall Unity 時按住 Shift 鍵可再次顯示啟動器

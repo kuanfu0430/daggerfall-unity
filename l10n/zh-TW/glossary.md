@@ -30,3 +30,10 @@
 | Fullscreen | 全螢幕 |  |
 | Resolution | 解析度 |  |
 | Vertical Sync | 垂直同步 |  |
+| Play | 開始遊戲 | 啟動器主按鈕 |
+| GamePlay | 遊玩 | 設定分頁，避免與 Game／遊戲 撞名 |
+| Video | 畫面 | 設定分頁指圖形，不是影片 |
+| Daedra | 迪德拉 |  |
+| Magicka / Spell Points | 魔力／法術點數 |  |
+| Knights of the Wheel | 車輪騎士團 |  |
+| Zen | 澤尼薩爾 | Daggerfall 神名縮寫 |

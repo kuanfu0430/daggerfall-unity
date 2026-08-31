@@ -1,509 +1,509 @@
-﻿Key,Value
-about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.
-pleaseSelectYourHomeProvince,Please select your home province...
-saveGame,Save Game
-loadGame,Load Game
-thingJustDied,%s just died.
-gameSaved,Game saved.
-gameLoaded,Game loaded.
-thisHouseHasNothingOfValue,This house has nothing of value.
-findLocationPrompt,Enter name of place : 
-rightHandEquipped,Right hand equipped.
-leftHandEquipped,Left hand equipped.
-usingRightHand,Using weapon in right hand.
-usingLeftHand,Using weapon in left hand.
-itemHasBroken,%s has broken.
-itemHasBrokenPlural,%s have broken.
-cannotCarryGold,You cannot carry that much gold.
-cannotFloat,You are carrying too much to stay afloat.
-youHaveNoArrows,You have no arrows.
-oldSaveNoTrade,"Old indoor save loaded, trade window will not work please exit and re-enter building."
-theBodyHasNoTreasure,The body has no treasure.
-youAreTooFarAway,You are too far away...
-youSeeAn,You see an %s.
-youSeeA,You see a %s.
-youSeeADeadPerson,You see a dead person.
-youSeeADead,You see a dead %s.
-youCollectArrows,You pluck your arrows out of the corpse.
-loiterHowManyHours,Loiter how many hours : 
-restHowManyHours,Rest how many hours : 
-potionRecipeFor,Recipe for Potion of %po
-potionRecipeWeight,Weight: %kg kilograms
-potionOf,Potion of %po
-letterPrefix,Letter: 
-multipleAssignments,You have multiple assignments...
-youAreEntering,You are entering %s
-storeClosed,Store is closed. Open from %d1:00 to %d2:00.
-guildClosed,Guild is closed. Open from %d1:00 to %d2:00.
-any,Any %s
-arkayDesc,God of Birth and Death
-zenDesc,God of Work and Commerce
-maraDesc,Goddess of Love
-akatoshDesc,God of Time
-julianosDesc,God of Logic
-dibellaDesc,Goddess of Beauty
-stendarDesc,God of Mercy
-kynarethDesc,Goddess of Air
-interactionIsNowInMode,Interaction is now in %s mode.
-steal,steal
-grab,grab
-info,info
-dialogue,dialogue
-residence,Residence
-youSee,You see %s.
-theNamedResidence,The %s Residence
-playerResidence,%s's house
-materialIneffective,The material of the weapon you are using is ineffective.
-successfulBackstab,Successful backstab!
-languagePacified,Pacified %e using %s skill.
-lockpickingSuccess,The lock clicks open.
-lockpickingFailure,It does not unlock.
-magicLock,This is a magically held lock...
-lockpickChance1,This lock has nothing to fear from you...
-lockpickChance2,It'd be a miracle if you picked this lock...
-lockpickChance3,This lock looks to be beyond your skills...
-buildingNames,"Temple of Akatosh
-Temple of Arkay
-Temple of Dibella
-Temple of Julianos
-Temple of Kynareth
-Temple of Mara
-Temple of Stendarr
-Temple of Zen
-Order of the Raven
-Knights of the Dragon
-Knights of the Owl
-Order of the Candle
-Knights of the Flame
-Host of the Horn
-Knights of the Rose
-Knights of the Wheel
-Order of the Scarab
-Knights of the Hawk
-Mages Guild
-Fighters Guild
-Tavern
-Library
-Weapon Smith
-Armorer
-Alchemist
-Bank
-Bookstore
-Clothing store
-Gem store
-Pawn shop"
-lockpickChance,"You doubt your ability to open this lock...
-This lock looks difficult...
-You would be challenged by this lock...
-This lock would prove a good challenge...
-You think you should be able to pick this lock...
-This lock seems relatively easy...
-You are amused by this lock...
-You laugh at the amateur quality of this lock...
-You see a pathetic excuse for a lock...
-This lock is an insult to your abilities..."
-youPinchedGoldPiece,You pinched 1 gold piece.
-youPinchedGoldPieces,You pinched %d gold pieces.
-youAreNotSuccessful,You are not successful...
-daysUntilFreedom,%d days until freedom.
-skillImprove,Your %s skill has improved.
-mustDistributeBonusPoints,You must distribute all bonus points.
-enterNewName,Enter new name : 
-affiliation,Affiliation
-rank,Rank
-serviceQuests,Get Quest
-serviceSell,Sell
-serviceBanking,Banking
-serviceIdentify,Identify
-serviceBuySpells,Buy Spells
-serviceTraining,Training
-serviceTeleport,Teleportation
-serviceMakeSpells,Make Spells
-serviceBuyMagicItems,Buy Magic Items
-serviceSellMagicItems,Sell Magic Items
-serviceDaedraSummon,Daedra Summoning
-serviceMakeMagicItems,Make Magic Items
-serviceRepairs,Repairs
-serviceDonate,Make Donation
-serviceCure,Cure Disease
-serviceSpymaster,Spymaster
-serviceMakePotions,Make Potions
-serviceBuyPotions,Buy Potions
-serviceBuySoulgems,Buy Soulgems
-serviceReceiveArmor,Receive Armor
-serviceReceiveHouse,Receive House
-serviceReceiveHouseAlready,You have already received your house.
-accessMembersOnly,You need to be a member of sufficient rank to access this.
-serviceCured,You are cured.
-serviceSummonCost1,"%pcn, the cost for me to attempt a"
-serviceSummonCost2,summoning of %dae is 
-serviceSummonCost3, gold.
-roomFreeForKnightSuchAsYou,The room is free for a knight such as you.
-roomFreeDueToHeartsDay,Room is free due to Heart's Day.
-youAreNotHungry,You are not hungry.
-exhaustedInWater,Fatigue overcomes you and sends you to a watery grave....
-youFeelSomewhatBad,You feel somewhat bad.
-avoidDeath,"By the mercy of Stendarr, you survive certain death!"
-pronounHe,he
-pronounShe,she
-pronounHim,him
-pronounHer,her
-pronounHer2,her
-pronounHis,his
-pronounHis2,his
-pronounHers,hers
-pronounHimself,himself
-pronounHerself,herself
-city,city
-village,village
-hamlet,hamlet
-farm,farm
-shack,shack
-manor,manor
-community,community
-shrine,shrine
-King,King
-Queen,Queen
-Duke,Duke
-Duchess,Duchess
-Marquis,Marquis
-Marquise,Marquise
-Count,Count
-Countess,Countess
-Baron,Baron
-Baroness,Baroness
-Lord,Lord
-Lady,Lady
-revered,revered
-esteemed,esteemed
-honored,honored
-admired,admired
-respected,respected
-dependable,dependable
-aCommonCitizen,a common citizen
-hated,hated
-pondScum,pond scum
-aVillain,a villain
-aCriminal,a criminal
-aScoundrel,a scoundrel
-undependable,undependable
-unknown,unknown
-Broken,Broken
-Useless,Useless
-Battered,Battered
-Worn,Worn
-Used,Used
-SlightlyUsed,Slightly Used
-AlmostNew,Almost New
-New,New
-Nothing,Nothing
-local,local
-tavern,tavern
-Attempted_Breaking_And_Entering,Attempted Breaking and Entering
-Trespassing,Trespassing
-Breaking_And_Entering,Breaking and Entering
-Assault,Assault
-Murder,Murder
-Tax_Evasion,Tax Evasion
-Criminal_Conspiracy,Criminal Conspiracy
-Vagrancy,Vagrancy
-Smuggling,Smuggling
-Piracy,Piracy
-High_Treason,High Treason
-Pickpocketing,Pickpocketing
-Theft,Theft
-Treason,Treason
-Loan_Default,Loan Default
-Regular_Punishment_String,%gtp gold pieces in fines and %dip days in prison
-Banishment,Banishment
-Execution,Execution
-cannotChangeTransportationIndoors,You cannot change transportation indoors.
-cannotTravelWithEnemiesNearby,You cannot travel with enemies nearby.
-cannotTravelIndoors,You cannot travel while indoors.
-powersUnknown,Powers unknown.
-itemPowers,"Cast when used:
-Cast when held:
-Cast when strikes:
-Extra spell pts
-Potent vs
-Regens health
-Vampiric effect
-Increased weight allowance
-Repairs objects
-Absorbs spells
-Enhances skill
-Feather weight
-Strengthens armor
-Improves talents
-Good rep with
-Soul bound
-Item deteriorates
-User takes damage
-Vision problems
-Walking problems
-Low damage vs
-Health leech
-Bad reactions from
-Extra weight
-Weakens armor
-Bad rep with"
-enemyNames,"Rat
-Imp
-Spriggan
-Giant Bat
-Grizzly Bear
-Sabretooth Tiger
-Spider
-Orc
-Centaur
-Werewolf
-Nymph
-Slaughterfish
-Orc Sergeant
-Harpy
-Wereboar
-Skeletal Warrior
-Giant
-Zombie
-Ghost
-Mummy
-Giant Scorpion
-Orc Shaman
-Gargoyle
-Wraith
-Orc Warlord
-Frost Daedra
-Fire Daedra
-Daedroth
-Vampire
-Daedra Seducer
-Ancient Vampire
-Daedra Lord
-Lich
-Ancient Lich
-Dragonling
-Fire Atronach
-Iron Atronach
-Flesh Atronach
-Ice Atronach
-Horse
-Dragonling
-Dreugh
-Lamia
-Mage
-Spellsword
-Battlemage
-Sorcerer
-Healer
-Nightblade
-Bard
-Burglar
-Rogue
-Acrobat
-Thief
-Assassin
-Monk
-Archer
-Ranger
-Barbarian
-Warrior
-Knight
-City Watch"
-extraSpellPtsTimes,"during Winter
-during Spring
-during Summer
-during Fall
-during Full Moon
-during Half Moon
-during New Moon
-near undead
-near daedra
-near humanoids
-near animals"
-regensHealthTimes,"all the time
-in sunlight
-in darkness"
-vampiricEffectRanges,"at range
-when strikes"
-increasedWeightAllowances,"25% additional
-50% additional"
-improvedTalents,"hearing
-athleticism
-adrenaline rush"
-itemDeteriorateLocations,"all the time
-in sunlight
-in holy places"
-userTakesDamageLocations,"in sunlight
-in holy places"
-enemyGroupNames,"undead
-Daedra
-humanoids
-animals"
-healthLeechStopConditions,"whenever used
-unless used daily
-unless used weekly"
-badReactionFromEnemyGroups,"humanoids
-animals
-Daedra"
-repWithGroups,"Commoners
-Merchants
-Scholars
-Nobility
-Underworld
-All"
-youReceiveGoldPieces,You receive %s gold pieces.
-bankPurchasePrice,Price : %s gold
-youHaveRentedRoom,You have a room at %s for %d hours.
-haveNotRentedRoom,You have not rented a room here.
-expiredRentedRoom,Your time for this room has expired.
-tavernAle,Ale (1 gold)
-tavernBeer,Beer (1 gold)
-tavernMead,Mead (2 gold)
-tavernWine,Wine (3 gold)
-tavernBread,Bread (1 gold)
-tavernBroth,Broth (1 gold)
-tavernCheese,Cheese (2 gold)
-tavernFowl,Fowl (3 gold)
-tavernGruel,Gruel (2 gold)
-tavernPie,Pie (2 gold)
-tavernStew,Stew (3 gold)
-pressButtonToFireSpell,Press button to fire spell.
-climbingMode,Climbing mode.
-rappelMode,Rappel mode.
-hangingMode,Hanging Mode
-acuteHearing,Acute Hearing
-adrenalineRush,Adrenaline Rush
-athleticism,Athleticism
-bonusToHit,Bonus to hit
-expertiseIn,Expertise in
-immunity,Immunity
-increasedMagery,Increased Magery
-rapidHealing,Rapid Healing
-regenerateHealth,Regenerate Health
-resistance,Resistance
-spellAbsorption,Spell Absorption
-animals,Animals
-daedra,Daedra
-humanoid,Humanoid
-undead,Undead
-axe,Axe
-bluntWeapon,Blunt Weapon
-handToHand,Hand-to-Hand
-longBlade,Long Blade
-missileWeapon,Missile Weapon
-shortBlade,Short Blade
-toDisease,To Disease
-toFire,To Fire
-toFrost,To Frost
-toMagic,To Magic
-toParalysis,To Paralysis
-toPoison,To Poison
-toShock,To Shock
-intInSpellPoints15,1.5X INT In Spell Points
-intInSpellPoints175,1.75X INT In Spell Points
-intInSpellPoints2,2X INT In Spell Points
-intInSpellPoints3,3X INT In Spell Points
-intInSpellPoints,INT In Spell Points
-general,General
-inDarkness,In Darkness
-inLight,In Light
-whileImmersed,While Immersed In Water
-criticalWeakness,Critical Weakness
-damage,Damage
-darknessPoweredMagery,Darkness-Powered Magery
-forbiddenArmorType,Forbidden Armor Type
-forbiddenMaterial,Forbidden Material
-forbiddenShieldTypes,Forbidden Shield Types
-forbiddenWeaponry,Forbidden Weaponry
-inabilityToRegen,Inability To Regen Spell Points
-lightPoweredMagery,Light-Powered Magery
-lowTolerance,Low Tolerance
-phobia,Phobia
-fromHolyPlaces,From Holy Places
-fromSunlight,From Sunlight
-lowerMagicAbilityDaylight,Lower Magic Ability In Daylight
-unableToUseMagicInDaylight,Unable To Use Magic In Daylight
-chain,Chain
-leather,Leather
-plate,Plate
-adamantium,Adamantium
-daedric,Daedric
-dwarven,Dwarven
-ebony,Ebony
-elven,Elven
-iron,Iron
-mithril,Mithril
-orcish,Orcish
-silver,Silver
-steel,Steel
-buckler,Buckler
-kiteShield,Kite Shield
-roundShield,Round Shield
-towerShield,Tower Shield
-lowerMagicAbilityDarkness,Lower Magic Ability In Darkness
-unableToUseMagicInDarkness,Unable To Use Magic In Darkness
-helpAttributes,Attributes
-helpClassName,Class Name
-helpGeneral,General
-helpReputations,Reputations
-helpSkillAdvancement,Skill Advancement
-helpSkills,Skills
-helpSpecialAdvantages,Special Advantages
-helpSpecialDisadvantages,Special Disadvantages
-lower,Lower
-higher,Higher
-unchanged,Unchanged
-elsweyr,Elsweyr
-blackMarsh,Black Marsh
-hammerfell,Hammerfell
-highRock,High Rock
-morrowind,Morrowind
-skyrim,Skyrim
-sumurset,Sumurset
-valenwood,Valenwood
-rollingHills,rolling hills
-desertLand,desertland
-mountains,mountains
-swamps,swamps
-forests,forests
-shores,shores
-medical,Medical
-etiquette,Etiquette
-streetwise,Streetwise
-jumping,Jumping
-harpy,Harpy
-giantish,Giantish
-dragonish,Dragonish
-nymph,Nymph
-aedric,Daedric
-spriggan,Spriggan
-centaurian,Centaurian
-impish,Impish
-lockpicking,Lockpicking
-mercantile,Mercantile
-pickpocket,Pickpocketing
-stealth,Stealth
-swimming,Swimming
-climbing,Climbing
-backstabbing,Backstabbing
-dodging,Dodging
-running,Running
-destruction,Destruction
-restoration,Restoration
-illusion,Illusion
-alteration,Alteration
-thaumaturgy,Thaumaturgy
-mysticism,Mysticism
-archery,Archery
-criticalStrike,Critical Strike
-strength,Strength
-intelligence,Intelligence
-willpower,Willpower
-agility,Agility
-endurance,Endurance
-personality,Personality
-speed,Speed
-luck,Luck
+Key,Value
+about_internal_strings,此字串表收藏原本寫死在 FALL.EXE 的文本，以及 Daggerfall Unity 獨有的文本。
+pleaseSelectYourHomeProvince,請選擇你的故鄉省份...
+saveGame,儲存遊戲
+loadGame,讀取遊戲
+thingJustDied,%s剛剛死了。
+gameSaved,遊戲已儲存。
+gameLoaded,遊戲已讀取。
+thisHouseHasNothingOfValue,這間房子沒有任何值錢的東西。
+findLocationPrompt,輸入地點名稱： 
+rightHandEquipped,已裝備右手。
+leftHandEquipped,已裝備左手。
+usingRightHand,使用右手武器。
+usingLeftHand,使用左手武器。
+itemHasBroken,%s已經損壞。
+itemHasBrokenPlural,%s已經損壞。
+cannotCarryGold,你帶不了那麼多金幣。
+cannotFloat,你帶的東西太多，無法浮在水面。
+youHaveNoArrows,你沒有箭矢。
+oldSaveNoTrade,已讀取舊版室內存檔，交易視窗將無法使用，請離開並重新進入建築物。
+theBodyHasNoTreasure,這具屍體沒有財寶。
+youAreTooFarAway,你離得太遠了...
+youSeeAn,你看到一個%s。
+youSeeA,你看到一個%s。
+youSeeADeadPerson,你看到一具屍體。
+youSeeADead,你看到一具死去的%s。
+youCollectArrows,你從屍體上拔回自己的箭矢。
+loiterHowManyHours,要閒晃幾小時： 
+restHowManyHours,要休息幾小時： 
+potionRecipeFor,%po藥劑配方
+potionRecipeWeight,重量：%kg 公斤
+potionOf,%po藥劑
+letterPrefix,信件： 
+multipleAssignments,你有多項任務...
+youAreEntering,你正在進入%s
+storeClosed,商店已打烊。營業時間為 %d1:00 至 %d2:00。
+guildClosed,公會已打烊。營業時間為 %d1:00 至 %d2:00。
+any,任何%s
+arkayDesc,誕生與死亡之神
+zenDesc,工作與商業之神
+maraDesc,愛之女神
+akatoshDesc,時間之神
+julianosDesc,邏輯之神
+dibellaDesc,美之女神
+stendarDesc,慈悲之神
+kynarethDesc,空氣之女神
+interactionIsNowInMode,互動已切換為%s模式。
+steal,偷竊
+grab,拿取
+info,資訊
+dialogue,對話
+residence,住宅
+youSee,你看到%s。
+theNamedResidence,%s宅邸
+playerResidence,%s的房子
+materialIneffective,你使用的武器材質無效。
+successfulBackstab,背刺成功！
+languagePacified,以%s技能安撫了%e。
+lockpickingSuccess,鎖喀一聲打開了。
+lockpickingFailure,打不開。
+magicLock,這是被魔法封住的鎖...
+lockpickChance1,這把鎖對你毫無壓力...
+lockpickChance2,你能撬開這把鎖簡直是奇蹟...
+lockpickChance3,這把鎖看來已超出你的能力...
+buildingNames,"阿卡托什神殿
+阿凱神殿
+迪貝拉神殿
+朱利安諾斯神殿
+凱娜瑞斯神殿
+瑪拉神殿
+斯丹達爾神殿
+澤尼薩爾神殿
+渡鴉騎士團
+巨龍騎士團
+貓頭鷹騎士團
+燭火騎士團
+火焰騎士團
+號角騎士團
+玫瑰騎士團
+車輪騎士團
+聖甲蟲騎士團
+鷹騎士團
+法師公會
+戰士公會
+酒館
+圖書館
+武器店
+盔甲店
+煉金術士
+銀行
+書店
+服裝店
+寶石店
+當鋪"
+lockpickChance,"你懷疑自己打不開這把鎖...
+這把鎖看起來很難...
+這把鎖會讓你吃足苦頭...
+這把鎖會是一場好挑戰...
+你覺得應該撬得開這把鎖...
+這把鎖看來相對容易...
+你覺得這把鎖挺有趣...
+你嘲笑這把鎖的業餘水準...
+你看到一把慘不忍睹的鎖...
+這把鎖簡直是在侮辱你的能力..."
+youPinchedGoldPiece,你偷到了 1 枚金幣。
+youPinchedGoldPieces,你偷到了 %d 枚金幣。
+youAreNotSuccessful,你沒有成功...
+daysUntilFreedom,距離自由還有 %d 天。
+skillImprove,你的%s技能提升了。
+mustDistributeBonusPoints,你必須分配完所有加分點數。
+enterNewName,輸入新名稱： 
+affiliation,所屬
+rank,階級
+serviceQuests,接任務
+serviceSell,出售
+serviceBanking,銀行
+serviceIdentify,鑑定
+serviceBuySpells,購買法術
+serviceTraining,訓練
+serviceTeleport,傳送
+serviceMakeSpells,製作法術
+serviceBuyMagicItems,購買魔法物品
+serviceSellMagicItems,出售魔法物品
+serviceDaedraSummon,召喚迪德拉
+serviceMakeMagicItems,製作魔法物品
+serviceRepairs,修理
+serviceDonate,捐獻
+serviceCure,治療疾病
+serviceSpymaster,間諜頭目
+serviceMakePotions,製作藥劑
+serviceBuyPotions,購買藥劑
+serviceBuySoulgems,購買靈魂石
+serviceReceiveArmor,領取盔甲
+serviceReceiveHouse,領取房屋
+serviceReceiveHouseAlready,你已經領過房屋了。
+accessMembersOnly,你需要成為足夠階級的成員才能使用此服務。
+serviceCured,你已痊癒。
+serviceSummonCost1,%pcn，我嘗試進行
+serviceSummonCost2,召喚%dae的費用為 
+serviceSummonCost3, 金幣。
+roomFreeForKnightSuchAsYou,像你這樣的騎士可以免費住宿。
+roomFreeDueToHeartsDay,因心之日，房間免費。
+youAreNotHungry,你並不餓。
+exhaustedInWater,疲勞征服了你，把你送進水墳....
+youFeelSomewhatBad,你覺得有點不舒服。
+avoidDeath,承蒙斯丹達爾慈悲，你從必死之境活了下來！
+pronounHe,他
+pronounShe,她
+pronounHim,他
+pronounHer,她
+pronounHer2,她的
+pronounHis,他的
+pronounHis2,他的
+pronounHers,她的
+pronounHimself,他自己
+pronounHerself,她自己
+city,城市
+village,村莊
+hamlet,小村
+farm,農場
+shack,小屋
+manor,莊園
+community,聚落
+shrine,神龕
+King,國王
+Queen,女王
+Duke,公爵
+Duchess,公爵夫人
+Marquis,侯爵
+Marquise,侯爵夫人
+Count,伯爵
+Countess,伯爵夫人
+Baron,男爵
+Baroness,男爵夫人
+Lord,領主
+Lady,夫人
+revered,受崇敬的
+esteemed,受敬重的
+honored,受尊榮的
+admired,受欽佩的
+respected,受尊敬的
+dependable,可靠的
+aCommonCitizen,一介平民
+hated,被憎恨的
+pondScum,池塘汙泥
+aVillain,一個惡棍
+aCriminal,一個罪犯
+aScoundrel,一個無賴
+undependable,不可靠的
+unknown,未知的
+Broken,損壞
+Useless,無用
+Battered,破損
+Worn,磨損
+Used,用過
+SlightlyUsed,輕微用過
+AlmostNew,近乎全新
+New,全新
+Nothing,無
+local,當地
+tavern,酒館
+Attempted_Breaking_And_Entering,企圖非法侵入
+Trespassing,侵入
+Breaking_And_Entering,非法侵入
+Assault,傷害
+Murder,謀殺
+Tax_Evasion,逃稅
+Criminal_Conspiracy,犯罪共謀
+Vagrancy,遊民
+Smuggling,走私
+Piracy,海盜
+High_Treason,叛國重罪
+Pickpocketing,扒竊
+Theft,竊盜
+Treason,叛國
+Loan_Default,貸款違約
+Regular_Punishment_String,%gtp 枚金幣罰金與 %dip 天監禁
+Banishment,放逐
+Execution,處死
+cannotChangeTransportationIndoors,你無法在室內變更交通方式。
+cannotTravelWithEnemiesNearby,附近有敵人，無法旅行。
+cannotTravelIndoors,你無法在室內旅行。
+powersUnknown,未知能力。
+itemPowers,"使用時施放：
+持有時施放：
+擊中時施放：
+額外法術點數
+克制
+生命再生
+吸血效果
+增加負重上限
+修理物品
+吸收法術
+強化技能
+輕如鴻毛
+強化護甲
+提升天賦
+聲望良好：
+靈魂綁定
+物品劣化
+使用者受傷
+視覺障礙
+行走障礙
+低傷害：
+生命吸取
+不良反應來自
+額外重量
+弱化護甲
+聲望惡劣："
+enemyNames,"老鼠
+小惡魔
+樹精
+巨型蝙蝠
+灰熊
+劍齒虎
+蜘蛛
+獸人
+半人馬
+狼人
+寧芙
+屠戮魚
+獸人士官
+鷹身女妖
+豬人
+骷髏戰士
+巨人
+殭屍
+鬼魂
+木乃伊
+巨型蠍子
+獸人薩滿
+石像鬼
+怨靈
+獸人戰王
+冰霜迪德拉
+火焰迪德拉
+迪德羅斯
+吸血鬼
+迪德拉誘惑者
+遠古吸血鬼
+迪德拉領主
+巫妖
+遠古巫妖
+幼龍
+火焰侍靈
+鋼鐵侍靈
+血肉侍靈
+寒冰侍靈
+馬
+幼龍
+德魯格
+拉米亞
+法師
+法劍士
+戰鬥法師
+術士
+治療師
+夜刃
+吟遊詩人
+竊賊
+流氓
+雜技者
+盜賊
+刺客
+僧侶
+弓箭手
+遊俠
+野蠻人
+戰士
+騎士
+城市守衛"
+extraSpellPtsTimes,"於冬季
+於春季
+於夏季
+於秋季
+於滿月
+於半月
+於新月
+靠近不死生物時
+靠近迪德拉時
+靠近類人生物時
+靠近動物時"
+regensHealthTimes,"隨時
+在陽光下
+在黑暗中"
+vampiricEffectRanges,"遠距
+擊中時"
+increasedWeightAllowances,"額外 25%
+額外 50%"
+improvedTalents,"聽覺
+體能
+腎上腺素激增"
+itemDeteriorateLocations,"隨時
+在陽光下
+在聖地"
+userTakesDamageLocations,"在陽光下
+在聖地"
+enemyGroupNames,"不死生物
+迪德拉
+類人生物
+動物"
+healthLeechStopConditions,"每次使用
+除非每日使用
+除非每週使用"
+badReactionFromEnemyGroups,"類人生物
+動物
+迪德拉"
+repWithGroups,"平民
+商人
+學者
+貴族
+地下世界
+全體"
+youReceiveGoldPieces,你獲得 %s 枚金幣。
+bankPurchasePrice,價格：%s 金幣
+youHaveRentedRoom,你在%s租到房間，為期 %d 小時。
+haveNotRentedRoom,你尚未在此租房。
+expiredRentedRoom,你的房間時間已到期。
+tavernAle,麥酒（1 金幣）
+tavernBeer,啤酒（1 金幣）
+tavernMead,蜂蜜酒（2 金幣）
+tavernWine,葡萄酒（3 金幣）
+tavernBread,麵包（1 金幣）
+tavernBroth,湯（1 金幣）
+tavernCheese,起司（2 金幣）
+tavernFowl,禽肉（3 金幣）
+tavernGruel,稀粥（2 金幣）
+tavernPie,派（2 金幣）
+tavernStew,燉菜（3 金幣）
+pressButtonToFireSpell,按下按鍵以施放法術。
+climbingMode,攀爬模式。
+rappelMode,垂降模式。
+hangingMode,懸掛模式
+acuteHearing,敏銳聽覺
+adrenalineRush,腎上腺素激增
+athleticism,體能
+bonusToHit,命中加成
+expertiseIn,專精
+immunity,免疫
+increasedMagery,魔力增幅
+rapidHealing,快速治療
+regenerateHealth,生命再生
+resistance,抗性
+spellAbsorption,法術吸收
+animals,動物
+daedra,迪德拉
+humanoid,類人生物
+undead,不死生物
+axe,斧
+bluntWeapon,鈍器
+handToHand,徒手
+longBlade,長刃
+missileWeapon,遠程武器
+shortBlade,短刃
+toDisease,對疾病
+toFire,對火焰
+toFrost,對冰霜
+toMagic,對魔法
+toParalysis,對麻痺
+toPoison,對毒素
+toShock,對電擊
+intInSpellPoints15,法術點數為 1.5 倍 INT
+intInSpellPoints175,法術點數為 1.75 倍 INT
+intInSpellPoints2,法術點數為 2 倍 INT
+intInSpellPoints3,法術點數為 3 倍 INT
+intInSpellPoints,法術點數等於 INT
+general,一般
+inDarkness,在黑暗中
+inLight,在光明中
+whileImmersed,浸於水中時
+criticalWeakness,致命弱點
+damage,傷害
+darknessPoweredMagery,黑暗驅動魔力
+forbiddenArmorType,禁忌護甲類型
+forbiddenMaterial,禁忌材質
+forbiddenShieldTypes,禁忌盾牌類型
+forbiddenWeaponry,禁忌武器
+inabilityToRegen,無法再生法術點數
+lightPoweredMagery,光明驅動魔力
+lowTolerance,低耐性
+phobia,恐懼症
+fromHolyPlaces,來自聖地
+fromSunlight,來自陽光
+lowerMagicAbilityDaylight,白晝魔法能力降低
+unableToUseMagicInDaylight,白晝無法使用魔法
+chain,鎖子甲
+leather,皮革
+plate,板甲
+adamantium,精金
+daedric,迪德拉
+dwarven,矮人
+ebony,烏木
+elven,精靈
+iron,鐵
+mithril,秘銀
+orcish,獸人
+silver,銀
+steel,鋼
+buckler,小圓盾
+kiteShield,鳶盾
+roundShield,圓盾
+towerShield,塔盾
+lowerMagicAbilityDarkness,黑暗中魔法能力降低
+unableToUseMagicInDarkness,黑暗中無法使用魔法
+helpAttributes,屬性
+helpClassName,職業名稱
+helpGeneral,一般
+helpReputations,聲望
+helpSkillAdvancement,技能成長
+helpSkills,技能
+helpSpecialAdvantages,特殊優勢
+helpSpecialDisadvantages,特殊劣勢
+lower,較低
+higher,較高
+unchanged,不變
+elsweyr,艾斯維爾
+blackMarsh,黑沼澤
+hammerfell,落錘省
+highRock,高岩
+morrowind,晨風
+skyrim,天際
+sumurset,夏暮島
+valenwood,瓦倫林地
+rollingHills,起伏丘陵
+desertLand,沙漠地
+mountains,山脈
+swamps,沼澤
+forests,森林
+shores,海岸
+medical,醫術
+etiquette,禮儀
+streetwise,街頭智慧
+jumping,跳躍
+harpy,鷹身女妖語
+giantish,巨人語
+dragonish,龍語
+nymph,寧芙語
+aedric,迪德拉語
+spriggan,樹精語
+centaurian,半人馬語
+impish,小惡魔語
+lockpicking,開鎖
+mercantile,商業
+pickpocket,扒竊
+stealth,潛行
+swimming,游泳
+climbing,攀爬
+backstabbing,背刺
+dodging,閃避
+running,奔跑
+destruction,毀滅
+restoration,恢復
+illusion,幻術
+alteration,變化
+thaumaturgy,奇術
+mysticism,神秘
+archery,箭術
+criticalStrike,致命一擊
+strength,力量
+intelligence,智力
+willpower,意志
+agility,敏捷
+endurance,耐力
+personality,魅力
+speed,速度
+luck,幸運
 STR,STR
 INT,INT
 WIL,WIL
@@ -512,1070 +512,1070 @@ END,END
 PER,PER
 SPD,SPD
 LUC,LUC
-breton,Breton
-redguard,Redguard
-darkElf,Dark Elf
-highElf,High Elf
-woodElf,Wood Elf
-khajiit,Khajiit
-argonian,Argonian
-vampire,Vampire
-werewolf,Werewolf
-wereboar,Wereboar
-vraseth,Vraseth
-haarvenu,Haarvenu
-thrafey,Thrafey
-lyrezi,Lyrezi
-montalion,Montalion
-khulari,Khulari
-garlythi,Garlythi
-anthotis,Anthotis
-selenu,Selenu
-lockedExteriorDoor,Locked.
-canOnlyCastOncePerDay,Can only be cast once per day...
-youNeedToHuntTheInnocent,You feel the need to hunt the innocent...
-youDreamOfTheMoon,"You dream, once again, of the moon..."
-inventoryWhileShapechanged,You cannot access the inventory while shapechanged...
-youGetNoResponse,You get no response.
-copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.
-east,east
-northeast,northeast
-north,north
-northwest,northwest
-west,west
-southwest,southwest
-south,south
-southeast,southeast
-thisPlace,this place
-AnyNews,Any news?
-WhereAmI,Where am I?
-AnswerTextWhereAmI,You are in {0} in {1}.
-YouAreInSameBuilding,You have found {0}. You are in it.
-NpcInSameBuilding,{0} is around here in {1}.
-PreviousList,Previous List
-General,General
-Regional,Regional
-Alchemists,Alchemists
-Armorers,Armorers
-Banks,Banks
-Bookstores,Bookstores
-Clothingstores,Clothing stores
-Gemstores,Gem stores
-Generalstores,General stores
-Guilds,Guilds
-Libraries,Libraries
-Pawnshops,Pawn shops
-Taverns,Taverns
-Weaponsmiths,Weapon smiths
-Localtemples,Local temples
-Sir,Sir
-Ma'am,Ma'am
-oldLeaderFate0,died of heart failure
-oldLeaderFate1,fell and struck his head
-oldLeaderFate2,died of the plague
-oldLeaderFate3,stepped down under pressure
-oldLeaderFate4,was overthrown
-oldLeaderFate5,was found murdered in his bed
-toBeReplacedStringRegional,Any
-replacementStringRegional,any
+breton,布雷頓
+redguard,紅衛
+darkElf,黑暗精靈
+highElf,高等精靈
+woodElf,木精靈
+khajiit,卡吉特
+argonian,亞龍人
+vampire,吸血鬼
+werewolf,狼人
+wereboar,豬人
+vraseth,弗拉塞斯
+haarvenu,哈爾維努
+thrafey,斯拉菲
+lyrezi,萊雷齊
+montalion,蒙塔利昂
+khulari,庫拉里
+garlythi,加爾利西
+anthotis,安托提斯
+selenu,塞萊努
+lockedExteriorDoor,已上鎖。
+canOnlyCastOncePerDay,每天只能施放一次...
+youNeedToHuntTheInnocent,你感到必須獵殺無辜者...
+youDreamOfTheMoon,你再度夢見月亮...
+inventoryWhileShapechanged,變形時無法開啟物品欄...
+youGetNoResponse,沒有回應。
+copyLogbookInfo,滑鼠左鍵：切換複製所選文本。滑鼠右鍵：複製目前整段對話。
+east,東
+northeast,東北
+north,北
+northwest,西北
+west,西
+southwest,西南
+south,南
+southeast,東南
+thisPlace,此地
+AnyNews,有什麼新聞嗎？
+WhereAmI,我在哪裡？
+AnswerTextWhereAmI,你在{1}的{0}。
+YouAreInSameBuilding,你已找到{0}。你就在裡面。
+NpcInSameBuilding,{0}就在這附近的{1}。
+PreviousList,上一份清單
+General,一般
+Regional,地區
+Alchemists,煉金術士
+Armorers,盔甲店
+Banks,銀行
+Bookstores,書店
+Clothingstores,服裝店
+Gemstores,寶石店
+Generalstores,雜貨店
+Guilds,公會
+Libraries,圖書館
+Pawnshops,當鋪
+Taverns,酒館
+Weaponsmiths,武器店
+Localtemples,當地神殿
+Sir,先生
+Ma'am,女士
+oldLeaderFate0,死於心臟衰竭
+oldLeaderFate1,跌倒撞到頭部身亡
+oldLeaderFate2,死於瘟疫
+oldLeaderFate3,在壓力下退位
+oldLeaderFate4,被推翻
+oldLeaderFate5,被發現死在床上，遭人謀殺
+toBeReplacedStringRegional,任何
+replacementStringRegional,任何
 comma,",  "
-resolvingError,...never mind...
-chameleon,Chameleon
-charm,Charm
-comprehendLanguages,Comprehend Languages
-continuousDamage,Continuous Damage
-createItem,Create Item
-cure,Cure
-detect,Detect
-disintegrate,Disintegrate
-dispel,Dispel
-drain,Drain
-elementalResistance,Elemental Resistance
-fortifyAttribute,Fortify Attribute
-freeAction,Free Action
-heal,Heal
-identify,Identify
-invisibility,Invisibility
-levitate,Levitate
-light,Light
-lock,Lock
-morphSelf,Morph Self
-open,Open
-pacify,Pacify
-paralyze,Paralyze
-regenerate,Regenerate
-shadow,Shadow
-shield,Shield
-silence,Silence
-slowfall,Slowfall
-soulTrap,Soul Trap
-spellReflection,Spell Reflection
-spellResistance,Spell Resistance
-teleport,Teleport
-transfer,Transfer
-waterBreathing,Water Breathing
-waterWalking,Water Walking
-fire,Fire
-frost,Frost
-magicka,Magicka
-poison,Poison
-shock,Shock
-enemy,Enemy
-magic,Magic
-treasure,Treasure
-fatigue,Fatigue
-health,Health
-spellPoints,Spell Points
-disease,Disease
-paralyzation,Paralyzation
-animal,Animal
-normal,Normal
+resolvingError,...算了...
+chameleon,變色龍
+charm,魅惑
+comprehendLanguages,通曉語言
+continuousDamage,持續傷害
+createItem,創造物品
+cure,治癒
+detect,偵測
+disintegrate,瓦解
+dispel,驅散
+drain,吸取
+elementalResistance,元素抗性
+fortifyAttribute,強化屬性
+freeAction,自由行動
+heal,治療
+identify,鑑定
+invisibility,隱形
+levitate,漂浮
+light,光明
+lock,上鎖
+morphSelf,變形自身
+open,開鎖
+pacify,安撫
+paralyze,麻痺
+regenerate,再生
+shadow,暗影
+shield,護盾
+silence,沉默
+slowfall,緩落
+soulTrap,靈魂陷阱
+spellReflection,法術反射
+spellResistance,法術抗性
+teleport,傳送
+transfer,轉移
+waterBreathing,水中呼吸
+waterWalking,水上行走
+fire,火焰
+frost,冰霜
+magicka,魔力
+poison,毒素
+shock,電擊
+enemy,敵人
+magic,魔法
+treasure,財寶
+fatigue,疲勞
+health,生命
+spellPoints,法術點數
+disease,疾病
+paralyzation,麻痺
+animal,動物
+normal,一般
 TRUE,TRUE
-noName,<no-name>
-youDontHaveTheSpellPoints,You don't have the spell points.
-youAreSilenced,You are silenced.
-youAreParalyzed,You are paralyzed.
-youFeelDrained,You feel drained.
-youAreFortified,You are fortified.
-youAreInvisible,You are invisible.
-youAreLevitating,You are levitating.
-youAreRegenerating,You are regenerating.
-youAreBlending,You are blending.
-youAreAShade,You are a shade.
-slowFallActive,Slow fall active.
-saveVersusSpellMade,Save versus spell made.
-spellEffectFailed,Spell effect failed.
-spellAbsorbed,Spell was absorbed.
-spellReflected,Spell was reflected.
-spellResisted,Spell was resisted.
-readyToLock,Ready to lock.
-readyToOpen,Ready to open.
-doorLocked,Door is now locked.
-doorAlreadyLocked,Door already locked.
-openFailed,Lock is too powerful.
-noSpellbook,You have no spellbook!
-sunlightDamageFastTravelDay,You cannot initiate fast travel during the day.
-trapActive,Trap active.
-trapHumanoid,Trap will not work on humanoids.
-trapSuccess,Trapped soul.
-trapFail,Trap failed.
-trapNoneEmpty,You have no empty soul traps!
-stamina,Stamina
-orcStrength,Orc Strength
-healing,Healing
-restorePower,Restore Power
-resistFire,Resist Fire
-resistFrost,Resist Frost
-resistShock,Resist Shock
-cureDisease,Cure Disease
-slowFalling,Slow Falling
-healTrue,Heal True
-levitation,Levitation
-resistPoison,Resist Poison
-curePoison,Cure Poison
-chameleonForm,Chameleon Form
-shadowForm,Shadow Form
-purification,Purification
-LeatherCuirass,Leather Cuirass
-LeatherGauntlets,Leather Gauntlets
-LeatherGreaves,Leather Greaves
-LeatherLeftPauldron,Leather Left Pauldron
-LeatherRightPauldron,Leather Right Pauldron
-LeatherHelm,Leather Helm
-LeatherBoots,Leather Boots
-ChainCuirass,Chain Cuirass
-ChainGauntlets,Chain Gauntlets
-ChainGreaves,Chain Greaves
-ChainLeftPauldron,Chain Left Pauldron
-ChainRightPauldron,Chain Right Pauldron
-ChainHelm,Chain Helm
-ChainBoots,Chain Boots
-SteelCuirass,Steel Cuirass
-SteelGauntlets,Steel Gauntlets
-SteelGreaves,Steel Greaves
-SteelLeftPauldron,Steel Left Pauldron
-SteelRightPauldron,Steel Right Pauldron
-SteelHelm,Steel Helm
-SteelBoots,Steel Boots
-SteelBuckler,Steel Buckler
-SteelDagger,Steel Dagger
-SteelLongsword,Steel Longsword
-SteelStaff,Steel Staff
-ShortBow,Short Bow
-Arrows,Arrows
-SteelBattleAxe,Steel Battle Axe
-Robes,Robes
-CastWhenUsed,Cast when used:
-CastWhenHeld,Cast when held:
-CastWhenStrikes,Cast when strikes:
-ExtraSpellPts,Extra spell pts
-PotentVs,Potent vs
-RegensHealth,Regens health
-VampiricEffect,Vampiric effect
-IncreasedWeightAllowance,Increased Weight Allowance
-RepairsObjects,Repairs objects
-AbsorbsSpells,Absorbs spells
-EnhancesSkill,Enhances skill
-FeatherWeight,Feather Weight
-StrengthensArmor,Strengthens armor
-ImprovesTalents,Improves talents
-GoodRepWith,Good rep with
-SoulBound,Soul bound
-ItemDeteriorates,Item deteriorates
-UserTakesDamage,User takes damage
-VisionProblems,Vision problems
-WalkingProblems,Walking problems
-LowDamageVs,Low damage vs
-HealthLeech,Health leech
-BadReactionsFrom,Bad reactions from
-ExtraWeight,Extra weight
-WeakensArmor,Weakens armor
-BadRepWith,Bad rep with
-inHolyPlaces,in holy places
-wheneverUsed,whenever used
-unlessUsedDaily,unless used daily
-unlessUsedWeekly,unless used weekly
-fromHumanoids,from humanoids
-fromAnimals,from animals
-fromDaedra,from Daedra
-duringWinter,during Winter
-duringSpring,during Spring
-duringSummer,during Summer
-duringFall,during Fall
-duringFullMoon,during Full Moon
-duringHalfMoon,during Half Moon
-duringNewMoon,during New Moon
-nearUndead,near undead
-nearDaedra,near Daedra
-nearHumanoids,near humanoids
-nearAnimals,near animals
-undeadLower,undead
-humanoidLower,humanoid
-animalsLower,animals
-animalsUpper,Animals
-allTheTime,all the time
-inSunlight,in sunlight
-inDarknessLower,in darkness
-atRange,at range
-whenStrikes,when strikes
-add25Percent,25% additional
-add50Percent,50% additional
-hearing,hearing
-athleticismLower,athleticism
-adrenalineRushLower,adrenaline rush
-commoners,Commoners
-merchants,Merchants
-scholars,Scholars
-nobility,Nobility
-underworld,Underworld
-all,All
-noRoomInItem,No room in item...
-noEnchantments,You have not prepared enchantments for this item.
-noMonstersNearby,There are no monsters nearby.
-Fire,Fire
-Frost,Frost
-Poison,Poison
-Shock,Shock
-Magicka,Magicka
-Animal,Animal
-Undead,Undead
-Humanoid,Humanoid
-Daedra,Daedra
-dialogButtonInfo,Switch between: Active Quests; Finished Quests; Notebook; Messages
-activeQuests,Active Quests
-activeQuestsInfo,Click on an active quest that has a target location to initiate travel.
-finishedQuests,Finished Quests
-finishedQuestsInfo,Click on an entry to move it. Right click to delete.
-notebook,Notebook
-notebookInfo,Click a note to move. Right click to delete. Click in-between to add a new note.
-messages,Messages
-messagesInfo,History of messages recently shown on screen
-confirmMoveHead,Move entry
-confirmMove,Do you want to change the position of this entry?
-confirmMove2,(It will be moved to before the next entry clicked)
-confirmRemoveHead,Delete entry
-confirmRemove,Are you sure you want to remove this entry?
-confirmRemove2,(It will be deleted permanently and cannot be restored)
-confirmFindHead,Travel to location
-confirmFind,Do you want to open the world map to travel to:
-confirmFind2,(Note: you can cancel travel from the world map)
-enterNote,Enter your note:
-completedQuest,completed
-endedQuest,ended
-finishQuestHeader,{0} {1} at {2}:
-quest,Quest
-noteHeader,{0} in {1}:
-houseDeed,You obtained the deed and now own a house in %town of %region.
-levelProgress,Progress made to the next level: {0}%
-readMap,Discovered the location of %map after studying a map.
-readMapTG,The Thieves Guild have revealed the closely-guarded whereabouts of a treasure trove called %map.
-readMapDB,The Dark Brotherhood revealed the secret of some treasure-laden crypts located somewhere called %map.
-readMapFail,You have already discovered the location shown by this map.
-howManyItems,Pick how many items (max {0})?
-wagonFullGold,Your wagon could only hold {0} gold pieces.
-itemsIdentified,Items identified.
-repairDone,DONE
-repairDays,%d days
-interruptRepair,Take back that item before it's repaired?
-repairNote,Left my {0} for repair at {1}.
-doesntNeedIdentify,This does not need to be identified.
-goldAmount,{0} gold pieces
-goldWeight,Weight: {0} kg
-letterOfCredit,You are paid with a letter of credit.
-stealSuccess,You are successful.
-stealFailure,You are not successful...
-cannotRemoveItem,You cannot remove this item.
-cannotCarryAnymore,You cannot carry any more stuff.
-cannotHoldAnymore,Your wagon cannot hold any more stuff.
-cannotUseThis,You cannot use this.
-equippingWeapon,Equipping %s
-lightDouse,You douse the %it.
-lightLight,You light the %it.
-lightDies,Your %it flickers and dies.
-lightEmpty,Your %it has no fuel left.
-lightRefuel,You refuel your %it with a bottle of oil.
-lightFull,Your %it is full.
-kgSrc,kilograms
+noName,<無名>
+youDontHaveTheSpellPoints,你沒有足夠的法術點數。
+youAreSilenced,你被沉默了。
+youAreParalyzed,你被麻痺了。
+youFeelDrained,你感到被吸取。
+youAreFortified,你已被強化。
+youAreInvisible,你隱形了。
+youAreLevitating,你正在漂浮。
+youAreRegenerating,你正在再生。
+youAreBlending,你正在融入環境。
+youAreAShade,你化為暗影。
+slowFallActive,緩落已生效。
+saveVersusSpellMade,成功對抗法術。
+spellEffectFailed,法術效果失敗。
+spellAbsorbed,法術被吸收了。
+spellReflected,法術被反射了。
+spellResisted,法術被抵抗了。
+readyToLock,準備上鎖。
+readyToOpen,準備開鎖。
+doorLocked,門已上鎖。
+doorAlreadyLocked,門早已上鎖。
+openFailed,這把鎖太強了。
+noSpellbook,你沒有法術書！
+sunlightDamageFastTravelDay,你無法在白天展開快速旅行。
+trapActive,陷阱已啟動。
+trapHumanoid,陷阱對類人生物無效。
+trapSuccess,已困住靈魂。
+trapFail,陷阱失敗。
+trapNoneEmpty,你沒有空的靈魂陷阱！
+stamina,耐力
+orcStrength,獸人之力
+healing,治療
+restorePower,恢復力量
+resistFire,火焰抗性
+resistFrost,冰霜抗性
+resistShock,電擊抗性
+cureDisease,治療疾病
+slowFalling,緩落
+healTrue,完全治療
+levitation,漂浮
+resistPoison,毒素抗性
+curePoison,解除毒素
+chameleonForm,變色龍型態
+shadowForm,暗影型態
+purification,淨化
+LeatherCuirass,皮革胸甲
+LeatherGauntlets,皮革護手
+LeatherGreaves,皮革護腿
+LeatherLeftPauldron,皮革左肩甲
+LeatherRightPauldron,皮革右肩甲
+LeatherHelm,皮革頭盔
+LeatherBoots,皮革靴子
+ChainCuirass,鎖子甲胸甲
+ChainGauntlets,鎖子甲護手
+ChainGreaves,鎖子甲護腿
+ChainLeftPauldron,鎖子甲左肩甲
+ChainRightPauldron,鎖子甲右肩甲
+ChainHelm,鎖子甲頭盔
+ChainBoots,鎖子甲靴子
+SteelCuirass,鋼製胸甲
+SteelGauntlets,鋼製護手
+SteelGreaves,鋼製護腿
+SteelLeftPauldron,鋼製左肩甲
+SteelRightPauldron,鋼製右肩甲
+SteelHelm,鋼製頭盔
+SteelBoots,鋼製靴子
+SteelBuckler,鋼製小圓盾
+SteelDagger,鋼製匕首
+SteelLongsword,鋼製長劍
+SteelStaff,鋼製法杖
+ShortBow,短弓
+Arrows,箭矢
+SteelBattleAxe,鋼製戰斧
+Robes,長袍
+CastWhenUsed,使用時施放：
+CastWhenHeld,持有時施放：
+CastWhenStrikes,擊中時施放：
+ExtraSpellPts,額外法術點數
+PotentVs,克制
+RegensHealth,生命再生
+VampiricEffect,吸血效果
+IncreasedWeightAllowance,增加負重上限
+RepairsObjects,修理物品
+AbsorbsSpells,吸收法術
+EnhancesSkill,強化技能
+FeatherWeight,輕如鴻毛
+StrengthensArmor,強化護甲
+ImprovesTalents,提升天賦
+GoodRepWith,聲望良好：
+SoulBound,靈魂綁定
+ItemDeteriorates,物品劣化
+UserTakesDamage,使用者受傷
+VisionProblems,視覺障礙
+WalkingProblems,行走障礙
+LowDamageVs,低傷害：
+HealthLeech,生命吸取
+BadReactionsFrom,不良反應來自
+ExtraWeight,額外重量
+WeakensArmor,弱化護甲
+BadRepWith,聲望惡劣：
+inHolyPlaces,在聖地
+wheneverUsed,每次使用
+unlessUsedDaily,除非每日使用
+unlessUsedWeekly,除非每週使用
+fromHumanoids,來自類人生物
+fromAnimals,來自動物
+fromDaedra,來自迪德拉
+duringWinter,於冬季
+duringSpring,於春季
+duringSummer,於夏季
+duringFall,於秋季
+duringFullMoon,於滿月
+duringHalfMoon,於半月
+duringNewMoon,於新月
+nearUndead,靠近不死生物時
+nearDaedra,靠近迪德拉時
+nearHumanoids,靠近類人生物時
+nearAnimals,靠近動物時
+undeadLower,不死生物
+humanoidLower,類人生物
+animalsLower,動物
+animalsUpper,動物
+allTheTime,隨時
+inSunlight,在陽光下
+inDarknessLower,在黑暗中
+atRange,遠距
+whenStrikes,擊中時
+add25Percent,額外 25%
+add50Percent,額外 50%
+hearing,聽覺
+athleticismLower,體能
+adrenalineRushLower,腎上腺素激增
+commoners,平民
+merchants,商人
+scholars,學者
+nobility,貴族
+underworld,地下世界
+all,全體
+noRoomInItem,物品沒有空間...
+noEnchantments,你尚未為此物品準備附魔。
+noMonstersNearby,附近沒有怪物。
+Fire,火焰
+Frost,冰霜
+Poison,毒素
+Shock,電擊
+Magicka,魔力
+Animal,動物
+Undead,不死生物
+Humanoid,類人生物
+Daedra,迪德拉
+dialogButtonInfo,在以下項目間切換：進行中任務；已完成任務；筆記本；訊息
+activeQuests,進行中任務
+activeQuestsInfo,點擊有目標地點的進行中任務以展開旅行。
+finishedQuests,已完成任務
+finishedQuestsInfo,點擊條目以移動。右鍵點擊以刪除。
+notebook,筆記本
+notebookInfo,點擊筆記以移動。右鍵點擊以刪除。點擊中間空白處以新增筆記。
+messages,訊息
+messagesInfo,近期畫面上顯示過的訊息紀錄
+confirmMoveHead,移動條目
+confirmMove,要變更此條目的位置嗎？
+confirmMove2,（將移到下一個點擊條目之前）
+confirmRemoveHead,刪除條目
+confirmRemove,確定要移除此條目嗎？
+confirmRemove2,（將永久刪除且無法還原）
+confirmFindHead,旅行至地點
+confirmFind,要開啟世界地圖前往：
+confirmFind2,（注意：你可以在世界地圖取消旅行）
+enterNote,輸入你的筆記：
+completedQuest,已完成
+endedQuest,已結束
+finishQuestHeader,{0} {1} 於 {2}：
+quest,任務
+noteHeader,{0} 於 {1}：
+houseDeed,你取得了地契，現在擁有%region的%town一間房屋。
+levelProgress,距離下一級的進度：{0}%
+readMap,研讀地圖後發現了%map的位置。
+readMapTG,盜賊公會向你透露一處嚴加看守的寶庫，名叫%map。
+readMapDB,黑暗兄弟會向你透露某處藏寶墓穴的秘密，地點名叫%map。
+readMapFail,你早已發現這張地圖標示的地點。
+howManyItems,要拿幾個物品（最多 {0}）？
+wagonFullGold,你的馬車只能再裝 {0} 枚金幣。
+itemsIdentified,物品已鑑定。
+repairDone,完成
+repairDays,%d 天
+interruptRepair,要在修理完成前取回那件物品嗎？
+repairNote,我把{0}留在{1}修理。
+doesntNeedIdentify,這不需要鑑定。
+goldAmount,{0} 枚金幣
+goldWeight,重量：{0} kg
+letterOfCredit,你收到一張信用狀作為付款。
+stealSuccess,你成功了。
+stealFailure,你沒有成功...
+cannotRemoveItem,你無法移除此物品。
+cannotCarryAnymore,你帶不了更多東西。
+cannotHoldAnymore,你的馬車裝不下更多東西。
+cannotUseThis,你無法使用這個。
+equippingWeapon,正在裝備%s
+lightDouse,你熄滅了%it。
+lightLight,你點燃了%it。
+lightDies,你的%it閃爍後熄滅了。
+lightEmpty,你的%it沒有燃料了。
+lightRefuel,你用一瓶油為%it補充燃料。
+lightFull,你的%it已加滿。
+kgSrc,公斤
 kgRep,kg
-damSrc,points of damage
-damRep,damage
-arSrc,armor rating
-arRep,armor
-northern,(northern)
-southern,(southern)
-noWagon,You don't own a wagon.
-exitTooFar,The exit is too far away for you to access your wagon.
-bookUnavailable,The book is ruined and is now unreadable.
-unknownAuthor,unknown author
-cannotDeleteVamp,Cannot delete special vampire spells.
-cannotDeleteWere,Cannot delete special lycanthropy spell.
-noRecipes,You have no recipes.
-potionMixed,Your potion has been mixed.
-potionFailed,Those ingredients did not concoct an effective potion.
-reqIngredients,You do not have the ingredients required.
-region,Region
-account,Account
-loan,Loan
-dueDate,Loan Due Date
-noAccount,None
-loanReminder,You have a loan of {0} gold pieces due in
-loanReminder2,less than {0} months in {1}
-classicIcons,Classic
-suggestedIcons,Suggested
-serviceMembersOnly,My services are reserved for members only.
-serviceDonateHowMuch,Donate how much money : 
-curedDisease,You are cured.
-freeHolidayCuring,You are cured free from cost due to today's holiday.
-gettingQuests1,"Hmm, let me see what tasks we have available."
-gettingQuests2,"Please have patience and wait here a moment, %pcf."
-illegalRestWarning,It is illegal to camp in or near a city. Continue?
-cannotLoiterMoreThanXHours1,You cannot loiter more
-cannotLoiterMoreThanXHours2,than {0} hours at a time.
-automapToolTipTextGridButton,left click: switch between 2D top view and 3D view (hotkey: {0})\rright click: reset rot. axis to player pos (hotkey: {1})\rmouse wheel up while over btn: inc. perspective (only 3D mode)\rmouse wheel down while over btn: dec. perspective (only 3D mode)
-automapToolTipForwardButton,left click: move viewpoint forward (hotkey: {0})\rright click: move rotation axis forward (hotkey: {1})
-automapToolTipBackwardButton,left click: move viewpoint backwards (hotkey: {0})\rright click: move rotation axis backwards (hotkey: {1})
-automapToolTipLeftButton,left click: move viewpoint to the left (hotkey: {0})\rright click: move rotation axis to the left (hotkey: {1})
-automapToolTipRightButton,left click: move viewpoint to the right (hotkey: {0})\rright click: move rotation axis to the right (hotkey: {1})
-automapToolTipRotateLeftButton,left click: rotate dungeon to the left (hotkey: {0})\rright click: rotate camera to the left (hotkey: {1})
-automapToolTipRotateRightButton,left click: rotate dungeon to the right (hotkey: {0})\rright click: rotate camera to the right (hotkey: {1})
-automapToolTipUpstairsButton,left click: increase viewpoint (hotkey: {0})\rright click: increase slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r
-automapToolTipDownstairsButton,left click: decrease viewpoint (hotkey: {0})\rright click: decrease slice level (hotkey: {1})\rslice level can also be adjusted by holding down middle mouse btn\r\rhint: different render modes may show hidden geometry:\rhotkey {2}: cutout mode\rhotkey {3}: wireframe mode\rhotkey {4}: transparent mode\rswitch between modes with return key\r
-automapToolTipPanelCompass,"left click: toggle focus (hotkey: {0})\rbeacons: red ... player, green ... entrance, blue ... rotation axis\r\rright click: reset view (hotkey: {1})\r\rdouble-click left mouse btn in window to create+edit marker note\rdouble-click left mouse btn (+Ctrl key) in window to create marker\rdouble-click left mouse btn on a marker to add/edit a note\rdouble-click right mouse btn on a marker to delete it\rdouble-click right mouse btn in window to position rotation axis\rdouble-click middle mouse btn in window to center view\rdouble-click left mouse btn on discovered portal marker to jump\rto connected teleporter portal"
-automapPlayerPositionBeacon,player position beacon
-automapRotationPivotAxis,rotation pivot axis
-automapEntranceExitPositionBeacon,entrance/exit position beacon
-automapEntranceExit,entrance/exit
-automapPlayerMarker,player marker
-automapTeleporterEntrance,teleporter (entrance)
-automapTeleporterExit,teleporter (exit)
-exteriorAutomapBuildingTypeAlchemist,Alchemist
-exteriorAutomapBuildingTypeArmorer,Armorer
-exteriorAutomapBuildingTypeBank,Bank
-exteriorAutomapBuildingTypeBookseller,Bookseller
-exteriorAutomapBuildingTypeClothingStore,Clothing Store
-exteriorAutomapBuildingTypeFurnitureStore,Furniture Store
-exteriorAutomapBuildingTypeGemStore,Gem Store
-exteriorAutomapBuildingTypeGeneralStore,General Store
-exteriorAutomapBuildingTypeGuildHall,Guild Hall
-exteriorAutomapBuildingTypeHouseForSale,HouseForSale
-exteriorAutomapBuildingTypeLibrary,Library
-exteriorAutomapBuildingTypePalace,Palace
-exteriorAutomapBuildingTypePawnShop,Pawn Shop
-exteriorAutomapBuildingTypeTavern,Tavern
-exteriorAutomapBuildingTypeTemple,Temple
-exteriorAutomapBuildingTypeWeaponSmith,Weapon Smith
-exteriorAutomapBuildingTypeUnknown,Unknown
-exteriorAutomapToolTipTextGridButton,"left click: switch to next view mode (hotkey: {0})\ravailable view modes are:\r- original (hotkey {1})\r- extra: includes extra buildings (hotkey {2})\r- all: includes extra buildings, ground flats (hotkey {3})\rswitch background texture with {4}, {5}, {6}, {7}"
-exteriorAutomapToolTipForwardButton,left click: move up (hotkey: {0})\rright click: move to north location border (hotkey: {1})
-exteriorAutomapToolTipBackwardButton,left click: move down (hotkey: {0})\rright click: move to south location border (hotkey: {1})
-exteriorAutomapToolTipLeftButton,left click: move to the left (hotkey: {0})\rright click: move to west location border (hotkey: {1})
-exteriorAutomapToolTipRightButton,left click: move to the right (hotkey: {0})\rright click: move to east location border (hotkey: {1})
-exteriorAutomapToolTipRotateLeftButton,left click: rotate map to the left (hotkey: {0})\rright click: rotate map around the player position\rto the left  (hotkey: {1})
-exteriorAutomapToolTipRotateRightButton,left click: rotate map to the right (hotkey: {0})\rright click: rotate map around the player position\rto the right (hotkey: {1})
-exteriorAutomapToolTipUpstairsButton,left click: zoom in (hotkey: {0})\rright click: apply maximum zoom)
-exteriorAutomapToolTipDownstairsButton,left click: zoom out (hotkey: {0}\rright click: apply minimum zoom)
-exteriorAutomapToolTipPanelCompass,left click: focus player position (hotkey: {0})\rright click: reset view (hotkey: {1})
-loading,Please wait...
-classicSave,Classic
-cancel,Cancel
-renameSave,Rename
-deleteSave,Delete
-switchChar,Switch Char
-savePrompt,Save Game
-loadPrompt,Load Game
-saveButton,Save
-loadButton,Load
-enterSaveName,Enter save name
-selectSaveName,Select a save
-confirmDeleteSave,Are you sure you want to delete save?
-confirmOverwriteSave,Overwrite this save?
-youMustEnterASaveName,You must enter a save name.
-youMustSelectASaveName,You must select a save name.
-noSavesFound,No saves found. Load a Classic save?
-cannotSaveNow,You cannot save now.
-addEffect,Add effect
-buySpell,Buy spell
-newSpell,New spell
-exit,Exit
-casterOnly,Caster only
-byTouch,By touch
-singleTargetAtRange,Single target at range
-areaAroundCaster,Area around caster
-areaAtRange,Area at range
-fireBased,Fire based
-coldBased,Cold based
-poisonBased,Poison based
-shockBased,Shock based
-magicBased,Magic based
-selectIcon,Select icon
-nextIcon,Next icon
-previousIcon,Previous icon
-nameSpell,Name spell
-enterSpellName,Enter spell name :
-noEffectsError,You must add at least one effect to this spell.
-deleteSpell,Do you want to delete this spell?
-sortSpells,Do you want to sort spells?
-effectNotFoundError,<effect not found>
-noItemToActivate,You have no usable magic item
-Akatosh,Akatosh
-Arkay,Arkay
-Dibella,Dibella
-Julianos,Julianos
-Kynareth,Kynareth
-Mara,Mara
-Stendarr,Stendarr
-Zenithar,Zenithar
-removeKeybind,Are you sure you want to remove the keybind for {0} ('{1}')?
-nord,Nord
-settingsNotApplied,Note: Some changes may not be applied until you restart the game.
-doneButton,Done
-temple,temple
-unknownPowers,Unknown Powers
-cannotBeRepaired,This cannot be repaired.
-youNeverAwaken,You never awaken.
-modSettings,Mod Settings
-gameEffectsSettings,Effect Settings
-antialiasing,Antialiasing
-ambientOcclusion,Ambient Occlusion
-bloom,Bloom
-motionBlur,Motion Blur
-vignette,Vignette
-depthOfField,Depth of Field
-antialiasingTip,Give a smoother appearance
-enable,Enable
+damSrc,點傷害
+damRep,傷害
+arSrc,護甲等級
+arRep,護甲
+northern,（北方）
+southern,（南方）
+noWagon,你沒有馬車。
+exitTooFar,出口太遠，你無法使用馬車。
+bookUnavailable,這本書已毀損，無法再閱讀。
+unknownAuthor,未知作者
+cannotDeleteVamp,無法刪除特殊吸血鬼法術。
+cannotDeleteWere,無法刪除特殊獸化病法術。
+noRecipes,你沒有配方。
+potionMixed,你的藥劑已經調配完成。
+potionFailed,那些材料未能調成有效藥劑。
+reqIngredients,你沒有所需的材料。
+region,地區
+account,帳戶
+loan,貸款
+dueDate,貸款到期日
+noAccount,無
+loanReminder,你有一筆 {0} 枚金幣的貸款，將於
+loanReminder2,不到 {0} 個月後在{1}到期
+classicIcons,經典
+suggestedIcons,建議
+serviceMembersOnly,我的服務僅供成員使用。
+serviceDonateHowMuch,要捐獻多少錢： 
+curedDisease,你已痊癒。
+freeHolidayCuring,因今日節日，你獲得免費治療。
+gettingQuests1,嗯，讓我看看我們有哪些任務。
+gettingQuests2,請在此稍候片刻，%pcf。
+illegalRestWarning,在城市裡面或附近紮營是違法的。仍要繼續嗎？
+cannotLoiterMoreThanXHours1,你一次不能閒晃超過
+cannotLoiterMoreThanXHours2,{0} 小時。
+automapToolTipTextGridButton,滑鼠左鍵：在 2D 俯視與 3D 視圖間切換（熱鍵：{0}）\r滑鼠右鍵：將旋轉軸重設到玩家位置（熱鍵：{1}）\r游標在按鈕上滾動滑鼠滾輪向上：增加透視（僅 3D 模式）\r游標在按鈕上滾動滑鼠滾輪向下：減少透視（僅 3D 模式）
+automapToolTipForwardButton,滑鼠左鍵：將視點向前移動（熱鍵：{0}）\r滑鼠右鍵：將旋轉軸向前移動（熱鍵：{1}）
+automapToolTipBackwardButton,滑鼠左鍵：將視點向後移動（熱鍵：{0}）\r滑鼠右鍵：將旋轉軸向後移動（熱鍵：{1}）
+automapToolTipLeftButton,滑鼠左鍵：將視點向左移動（熱鍵：{0}）\r滑鼠右鍵：將旋轉軸向左移動（熱鍵：{1}）
+automapToolTipRightButton,滑鼠左鍵：將視點向右移動（熱鍵：{0}）\r滑鼠右鍵：將旋轉軸向右移動（熱鍵：{1}）
+automapToolTipRotateLeftButton,滑鼠左鍵：將地城向左旋轉（熱鍵：{0}）\r滑鼠右鍵：將攝影機向左旋轉（熱鍵：{1}）
+automapToolTipRotateRightButton,滑鼠左鍵：將地城向右旋轉（熱鍵：{0}）\r滑鼠右鍵：將攝影機向右旋轉（熱鍵：{1}）
+automapToolTipUpstairsButton,滑鼠左鍵：提高視點（熱鍵：{0}）\r滑鼠右鍵：提高切片層級（熱鍵：{1}）\r也可按住滑鼠中鍵調整切片層級\r\r提示：不同繪製模式可能顯示隱藏幾何：\r熱鍵 {2}：剖切模式\r熱鍵 {3}：線框模式\r熱鍵 {4}：透明模式\r用 Return 鍵切換模式\r
+automapToolTipDownstairsButton,滑鼠左鍵：降低視點（熱鍵：{0}）\r滑鼠右鍵：降低切片層級（熱鍵：{1}）\r也可按住滑鼠中鍵調整切片層級\r\r提示：不同繪製模式可能顯示隱藏幾何：\r熱鍵 {2}：剖切模式\r熱鍵 {3}：線框模式\r熱鍵 {4}：透明模式\r用 Return 鍵切換模式\r
+automapToolTipPanelCompass,"滑鼠左鍵：切換焦點（熱鍵：{0}）\r信標：紅……玩家，綠……入口，藍……旋轉軸\r\r滑鼠右鍵：重設視圖（熱鍵：{1}）\r\r在視窗中連按兩下左鍵以建立並編輯標記筆記\r在視窗中連按兩下左鍵（+Ctrl）以建立標記\r在標記上連按兩下左鍵以新增／編輯筆記\r在標記上連按兩下右鍵以刪除\r在視窗中連按兩下右鍵以設定旋轉軸位置\r在視窗中連按兩下中鍵以置中視圖\r在已發現的傳送門標記上連按兩下左鍵可跳至\r相連的傳送入口"
+automapPlayerPositionBeacon,玩家位置信標
+automapRotationPivotAxis,旋轉樞軸
+automapEntranceExitPositionBeacon,入口／出口位置信標
+automapEntranceExit,入口／出口
+automapPlayerMarker,玩家標記
+automapTeleporterEntrance,傳送門（入口）
+automapTeleporterExit,傳送門（出口）
+exteriorAutomapBuildingTypeAlchemist,煉金術士
+exteriorAutomapBuildingTypeArmorer,盔甲店
+exteriorAutomapBuildingTypeBank,銀行
+exteriorAutomapBuildingTypeBookseller,書商
+exteriorAutomapBuildingTypeClothingStore,服裝店
+exteriorAutomapBuildingTypeFurnitureStore,家具店
+exteriorAutomapBuildingTypeGemStore,寶石店
+exteriorAutomapBuildingTypeGeneralStore,雜貨店
+exteriorAutomapBuildingTypeGuildHall,公會廳
+exteriorAutomapBuildingTypeHouseForSale,待售房屋
+exteriorAutomapBuildingTypeLibrary,圖書館
+exteriorAutomapBuildingTypePalace,宮殿
+exteriorAutomapBuildingTypePawnShop,當鋪
+exteriorAutomapBuildingTypeTavern,酒館
+exteriorAutomapBuildingTypeTemple,神殿
+exteriorAutomapBuildingTypeWeaponSmith,武器店
+exteriorAutomapBuildingTypeUnknown,未知
+exteriorAutomapToolTipTextGridButton,"滑鼠左鍵：切換至下一視圖模式（熱鍵：{0}）\r可用視圖模式：\r- 原版（熱鍵 {1}）\r- 額外：包含額外建築（熱鍵 {2}）\r- 全部：包含額外建築、地面平面（熱鍵 {3}）\r用 {4}、{5}、{6}、{7} 切換背景貼圖"
+exteriorAutomapToolTipForwardButton,滑鼠左鍵：向上移動（熱鍵：{0}）\r滑鼠右鍵：移至地點北界（熱鍵：{1}）
+exteriorAutomapToolTipBackwardButton,滑鼠左鍵：向下移動（熱鍵：{0}）\r滑鼠右鍵：移至地點南界（熱鍵：{1}）
+exteriorAutomapToolTipLeftButton,滑鼠左鍵：向左移動（熱鍵：{0}）\r滑鼠右鍵：移至地點西界（熱鍵：{1}）
+exteriorAutomapToolTipRightButton,滑鼠左鍵：向右移動（熱鍵：{0}）\r滑鼠右鍵：移至地點東界（熱鍵：{1}）
+exteriorAutomapToolTipRotateLeftButton,滑鼠左鍵：將地圖向左旋轉（熱鍵：{0}）\r滑鼠右鍵：以玩家位置為軸將地圖\r向左旋轉（熱鍵：{1}）
+exteriorAutomapToolTipRotateRightButton,滑鼠左鍵：將地圖向右旋轉（熱鍵：{0}）\r滑鼠右鍵：以玩家位置為軸將地圖\r向右旋轉（熱鍵：{1}）
+exteriorAutomapToolTipUpstairsButton,滑鼠左鍵：放大（熱鍵：{0}）\r滑鼠右鍵：套用最大縮放）
+exteriorAutomapToolTipDownstairsButton,滑鼠左鍵：縮小（熱鍵：{0}\r滑鼠右鍵：套用最小縮放）
+exteriorAutomapToolTipPanelCompass,滑鼠左鍵：聚焦玩家位置（熱鍵：{0}）\r滑鼠右鍵：重設視圖（熱鍵：{1}）
+loading,請稍候...
+classicSave,經典
+cancel,取消
+renameSave,重新命名
+deleteSave,刪除
+switchChar,切換角色
+savePrompt,儲存遊戲
+loadPrompt,讀取遊戲
+saveButton,儲存
+loadButton,讀取
+enterSaveName,輸入存檔名稱
+selectSaveName,選擇存檔
+confirmDeleteSave,確定要刪除存檔嗎？
+confirmOverwriteSave,要覆寫此存檔嗎？
+youMustEnterASaveName,你必須輸入存檔名稱。
+youMustSelectASaveName,你必須選擇存檔名稱。
+noSavesFound,找不到存檔。要讀取經典版存檔嗎？
+cannotSaveNow,你現在無法儲存。
+addEffect,加入效果
+buySpell,購買法術
+newSpell,新法術
+exit,離開
+casterOnly,僅施法者
+byTouch,接觸
+singleTargetAtRange,遠距單一目標
+areaAroundCaster,施法者周圍範圍
+areaAtRange,遠距範圍
+fireBased,火焰屬性
+coldBased,寒冷屬性
+poisonBased,毒素屬性
+shockBased,電擊屬性
+magicBased,魔法屬性
+selectIcon,選擇圖示
+nextIcon,下一個圖示
+previousIcon,上一個圖示
+nameSpell,為法術命名
+enterSpellName,輸入法術名稱：
+noEffectsError,你必須為此法術加入至少一個效果。
+deleteSpell,要刪除此法術嗎？
+sortSpells,要排序法術嗎？
+effectNotFoundError,<找不到效果>
+noItemToActivate,你沒有可使用的魔法物品
+Akatosh,阿卡托什
+Arkay,阿凱
+Dibella,迪貝拉
+Julianos,朱利安諾斯
+Kynareth,凱娜瑞斯
+Mara,瑪拉
+Stendarr,斯丹達爾
+Zenithar,澤尼薩爾
+removeKeybind,確定要移除 {0}（「{1}」）的按鍵綁定嗎？
+nord,諾德
+settingsNotApplied,注意：部分變更可能要重新啟動遊戲後才會套用。
+doneButton,完成
+temple,神殿
+unknownPowers,未知能力
+cannotBeRepaired,這無法修理。
+youNeverAwaken,你再也沒有醒來。
+modSettings,模組設定
+gameEffectsSettings,效果設定
+antialiasing,反鋸齒
+ambientOcclusion,環境光遮蔽
+bloom,光暈
+motionBlur,動態模糊
+vignette,暗角
+depthOfField,景深
+antialiasingTip,讓畫面看起來更平滑
+enable,啟用
 fxaa,FXAA
 smaa,SMAA
 taa,TAA
-none,None
-method,Method
-fxaaFastMode,FXAA Fast Mode
-low,Low
-medium,Medium
-high,High
-smaaQuality,SMAA Quality
-taaSharpness,TAA Sharpness
-disabled,Disabled
-setPageDefaults,Set Page Defaults
-ambientOcclusionTip,Darkens creases and holes
-scalableAmbientObscurance,Scalable Ambient Obscurance
-multiScaleVolumetricObscurance,Multi Scale Volumetric Obscurance
-scalableAmbient,Scalable Ambient
-multiScaleVolumetric,MultiScale Volumetric
-intensity,Intensity
-lowest,Lowest
-ultra,Ultra
-radius,Radius
-quality,Quality
-thickness,Thickness
-bloomTip,Make bright areas glow
-threshold,Threshold
-diffusion,Diffusion
-bloomFastMode,Bloom fast mode
-motionBlurTip,Simulates objects moving faster than camera exposure
-shutterAngle,Shutter Angle
-sampleCount,Sample Count
-vignetteTip,Darken towards the edges of screen
-smoothness,Smoothness
-roundness,Roundness
-rounded,Rounded
-depthOfFieldTip,Simulates focus of camera lens
-focusDistance,Focus Distance
-aperture,Aperture
-focalLength,Focal Length
-maxBlurSize,Max Blur Size
-small,Small
-large,Large
-veryLarge,Very Large
-ditherTip,Apply noise to reduce large-scale patterns like color banding
-dither,Dither
-colorBoost,ColorBoost
-colorBoostTip,Brightens colors near camera
-dungeonScale,Dungeon Scale
-interiorScale,Interior Scale
-exteriorScale,Exterior Scale
-dungeonFalloff,Dungeon Falloff
-retroMode,Retro Mode
-retroModeTip,Renders world at lower resolutions
-mode,Mode
-retroModeOff,Off
+none,無
+method,方法
+fxaaFastMode,FXAA 快速模式
+low,低
+medium,中
+high,高
+smaaQuality,SMAA 品質
+taaSharpness,TAA 銳利度
+disabled,已停用
+setPageDefaults,還原本頁預設
+ambientOcclusionTip,讓縫隙與孔洞變暗
+scalableAmbientObscurance,可縮放環境遮蔽
+multiScaleVolumetricObscurance,多尺度體積遮蔽
+scalableAmbient,可縮放環境
+multiScaleVolumetric,多尺度體積
+intensity,強度
+lowest,最低
+ultra,極致
+radius,半徑
+quality,品質
+thickness,厚度
+bloomTip,讓明亮區域發光
+threshold,閾值
+diffusion,擴散
+bloomFastMode,光暈快速模式
+motionBlurTip,模擬物體移動快過攝影機曝光
+shutterAngle,快門角度
+sampleCount,取樣數
+vignetteTip,讓螢幕邊緣變暗
+smoothness,平滑度
+roundness,圓度
+rounded,圓角
+depthOfFieldTip,模擬鏡頭對焦
+focusDistance,對焦距離
+aperture,光圈
+focalLength,焦距
+maxBlurSize,最大模糊大小
+small,小
+large,大
+veryLarge,非常大
+ditherTip,加入雜訊以減少色帶等大範圍圖案
+dither,抖動
+colorBoost,色彩增強
+colorBoostTip,讓靠近攝影機的色彩更明亮
+dungeonScale,地城縮放
+interiorScale,室內縮放
+exteriorScale,室外縮放
+dungeonFalloff,地城衰減
+retroMode,復古模式
+retroModeTip,以較低解析度繪製世界
+mode,模式
+retroModeOff,關
 retroMode320x200,320x200
 retroMode640x400,640x400
-off,Off
-posterizationFull,Posterization (full)
-posterizationMinusSky,Posterization (-sky)
-palettizationFull,Palettization (full)
-palettizationMinusSky,Palettization (-sky)
-postProcess,Postprocess
-retroModeAspectCorrection,Aspect Ratio Correction
+off,關
+posterizationFull,色調分離（完整）
+posterizationMinusSky,色調分離（不含天空）
+palettizationFull,調色盤化（完整）
+palettizationMinusSky,調色盤化（不含天空）
+postProcess,後製
+retroModeAspectCorrection,長寬比校正
 FourThree,4:03
 SixteenTen,16:10
-notEnoughSpellpointsLeft,You do not have enough spell points left.
-totalIdentified,{0} out of {1} identified.
-dispelMagicSuccess,Dispel magic was a success...
-dispelMagicFailed,Dispel magic failed...
-smallerDungeonsChanged,Smaller dungeons changed while inside dungeon. Moving player to dungeon exit.
-youNote,You note: 
-customName,Custom name: 
-StoresA,"%ef's
-%cn's Best
-The Essential
-Lord %ef's
-The Adventurer's
-The Odd
-%ef's Finest
-Bargain
-Vintage
-The Emperor's
+notEnoughSpellpointsLeft,你剩下的法術點數不足。
+totalIdentified,{0}／{1} 已鑑定。
+dispelMagicSuccess,驅散魔法成功...
+dispelMagicFailed,驅散魔法失敗...
+smallerDungeonsChanged,在地城裡面時變更了縮小地城。正在將玩家移至地城出口。
+youNote,你記下： 
+customName,自訂名稱： 
+StoresA,"%ef的
+%cn最佳
+必備
+%ef領主的
+冒險者的
+古怪
+%ef的極品
+特價
+古董
+皇帝的
 %cn
-%ef's General
-The Superior
-%ef's Quality
-First Class
-The %rt's
-The Champion
-Doctor %ef's
-Lady %ef's"
-GeneralStoresB,"Supplies
-Supply Store
-Gear
-Gear Store
-Equipment
-Equipment Store
-Sundries
-Provisions
-Merchandise
-General Store
-Retail Store
-Trading Post
-Market
-Wares
-Warehouse"
-WeaponStoresB,"Weapons
-Weaponry
-Arms
-Armaments
-Arsenal
-Armsmaker
-Blades
-Blacksmith
-Metalsmith
-Weaponsmith"
-ArmorStoresB,"Armory
-Mail
-Shielding
-Armor
-Shields
-Aegis
-Metalworks
-Blacksmith
-Metalsmith
-Armorer
-Smith
-Smithy"
-BookStoresB,"Books
-Bookstore
-Bookshop
-Book Dealer
-Book Center
-Bookseller
-Bookstall
-Incunabula"
-LibraryStoresB,"Library
-Bookroom
-Athenaeum
-Public Library
-Historians
-Bookroom
-Seminary
-Lyceum"
-ClothingStoresB,"Clothing
-Clothes
-Garments
-Apparel
-Costumes
-Vestments
-Attire
-Fashion
-Tailoring
-Outfits
-Finery"
-AlchemyStoresB,"Herbs
-Potherbs
-Spices
-Remedies
-Antidotes
-Physics
-Medicines
-Potions
-Tinctures
-Medicaments
-Elixirs
-Pharmacy
-Apothecary
-Unguents
-Medicinal Agents
-Herb Garden
-Pharmaceuticals
-Chemistry
-Chemicals
-Experimental Products
-Alchemistry
-Alchemical Solutions
-Metallurgy"
-GemStoresB,"Gems
-Gemstones
-Jewelry
-Jewels
-Precious Stones
-Bijoutry
-Jewelers
-Jewel Box
-Jewelry Shop
-Gemcutter"
-PawnStoresB,"Pawnshop
-Pawnbrokers
-Used Supplies
-Used Gear
-Used Equipment
-Used Merchandise
-Hockshop
-Antiquities"
-FurnitureStoresB,"Furniture
-Furnishings
-Interior Design
-Furniture Shop
-Decor
-Carpentry
-Woodworking
-Crafts
-Woodwork"
-LivestockStoresB,"Livestock
-Breeders
-Farm Animals
-Beasts
-Creatures
-Game
-Animalia
-Fauna
-Menagerie"
-TavernsA,"The Queen's
-The King's
-The Dirty
-The Black
-The Mole and
-The Green
-The Red
-The Gold
-The White
-The Silver
-The Crimson
-The Flying
-The Dancing
-The Laughing
-The Restless
-The Thirsty
-The Unfortunate
-The Lucky
-The Devil's
-The Rusty
-The Howling
-The Screaming
-The Bat and
-The Lion and
-The Lynx and
-The Dwarf and
-The Beaver and
-The Fox and
-The Mouse and
-The Pig and
-The Feather and
-The Toad and
-The Rat and
-The Savage
-The Knave and
-The Dead"
-TavernsB,"Chasm
-Mug
-Pit
-Cat
-Dog
-Goblin
-Griffin
-Dragon
-Ogre
-Giant
-Djinn
-Wolf
-Huntsman
-Dagger
-Skull
-Sword
-Guard
-Dungeon
-Helm
-Castle
-Jug
-Bird
-Gnome
-Hedgehog
-Muskrat
-Woodchuck
-Scorpion
-Badger
-Goat
-Porcupine
-Priest
-Fawn
-Stag
-Barbarian
-Rascal
-Fairy"
-houseForSale,House for sale
-theBankOf,The Bank of
-daggerfall,Daggerfall
-wayrest,Wayrest
-sentinel,Sentinel
-palace,Palace
-regionNames,"Alik'r Desert
-Dragontail Mountains
-Glenpoint Foothills
-Daggerfall Bluffs
-Yeorth Burrowland
-Dwynnen
-Ravennian Forest
-Devilrock
-Malekna Forest
-Isle of Balfiera
-Bantha
-Dak'fron
-Islands in the Western Iliac Bay
-Tamarilyn Point
-Lainlyn Cliffs
-Bjoulsae River
-Wrothgarian Mountains
-Daggerfall
-Glenpoint
-Betony
-Sentinel
-Anticlere
-Lainlyn
-Wayrest
-Gen Tem High Rock village
-Gen Rai Hammerfell village
-Orsinium Area
-Skeffington Wood
-Hammerfell bay coast
-Hammerfell sea coast
-High Rock bay coast
-High Rock sea coast
-Northmoor
-Menevia
-Alcaire
-Koegria
-Bhoriane
-Kambria
-Phrygias
-Urvaius
-Ykalon
-Daenia
-Shalgora
-Abibon-Gora
-Kairou
-Pothago
-Myrkwasa
-Ayasofya
-Tigonus
-Kozanset
-Satakalaam
-Totambu
-Mournoth
-Ephesus
-Santaki
-Antiphyllos
-Bergama
-Gavaudon
-Tulune
-Glenumbra Moors
-Ilessan Hills
-Cybiades"
-ocean,Ocean
-unknownUpper,Unknown
-switchToRegion,Switch To: {0} Region
-locationInRegionProvince,{0} in {1} province
-dayNames,"Sundas
-Morndas
-Tirdas
-Middas
-Turdas
-Fredas
-Loredas"
-monthNames,"Morning Star
-Sun's Dawn
-First Seed
-Rain's Hand
-Second Seed
-Midyear
-Sun's Height
-Last Seed
-Hearthfire
-Frostfall
-Sun's Dusk
-Evening Star"
-birthSignNames,"The Ritual
-The Lover
-The Lord
-The Mage
-The Shadow
-The Steed
-The Apprentice
-The Warrior
-The Lady
-The Tower
-The Atronach
-The Thief"
-seasonNames,"Fall
-Spring
-Summer
-Winter"
-longDateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}, {4}{5} of {6:00}, 3E{7}"
-dateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}{4} of {5:00}, 3E{6}"
-dateFormatString,{0} the {1}{2} of {3:00}
+%ef綜合
+高級
+%ef優質
+一流
+%rt的
+冠軍
+%ef醫師的
+%ef夫人的"
+GeneralStoresB,"補給
+補給店
+裝備
+裝備店
+用具
+用具店
+雜貨
+糧草
+商品
+雜貨店
+零售店
+貿易站
+市集
+貨品
+倉庫"
+WeaponStoresB,"武器
+兵器
+軍械
+武裝
+軍械庫
+兵器匠
+刀刃
+鐵匠
+金屬匠
+武器匠"
+ArmorStoresB,"軍械庫
+鎧甲
+防護
+盔甲
+盾牌
+神盾
+金屬工坊
+鐵匠
+金屬匠
+盔甲匠
+鐵匠
+鐵匠鋪"
+BookStoresB,"書籍
+書店
+書鋪
+書商
+圖書中心
+賣書人
+書攤
+古本書籍"
+LibraryStoresB,"圖書館
+圖書室
+學堂
+公共圖書館
+史學家
+圖書室
+神學院
+學園"
+ClothingStoresB,"服裝
+衣服
+衣飾
+服飾
+戲服
+法衣
+打扮
+時尚
+裁縫
+套裝
+華服"
+AlchemyStoresB,"藥草
+香草
+香料
+偏方
+解毒劑
+物理
+藥品
+藥劑
+酊劑
+藥劑品
+靈藥
+藥房
+藥劑師
+油膏
+藥用製劑
+藥草園
+藥劑製品
+化學
+化學品
+實驗製品
+煉金化學
+煉金溶液
+冶金"
+GemStoresB,"寶石
+寶石原石
+珠寶
+珠寶飾品
+貴石
+珠寶細工
+珠寶商
+珠寶盒
+珠寶店
+寶石切割"
+PawnStoresB,"當鋪
+當舖商
+二手補給
+二手裝備
+二手用具
+二手商品
+典當行
+古董"
+FurnitureStoresB,"家具
+陳設
+室內設計
+家具店
+裝飾
+木工
+木作
+工藝
+木製品"
+LivestockStoresB,"牲畜
+繁殖場
+農場動物
+野獸
+生物
+獵物
+動物界
+動物群
+動物園"
+TavernsA,"女王的
+國王的
+骯髒的
+黑色
+鼴鼠與
+綠色
+紅色
+金色
+白色
+銀色
+深紅的
+飛翔的
+舞蹈的
+歡笑的
+不安的
+口渴的
+不幸的
+幸運的
+惡魔的
+生鏽的
+嚎叫的
+尖叫的
+蝙蝠與
+獅子與
+山貓與
+矮人與
+海狸與
+狐狸與
+老鼠與
+豬與
+羽毛與
+蟾蜍與
+老鼠與
+野蠻的
+惡棍與
+死亡的"
+TavernsB,"裂谷
+酒杯
+深坑
+貓
+狗
+哥布林
+獅鷲
+龍
+食人魔
+巨人
+巨靈
+狼
+獵人
+匕首
+顱骨
+劍
+衛兵
+地城
+頭盔
+城堡
+酒壺
+鳥
+侏儒
+刺蝟
+麝香鼠
+土撥鼠
+蠍子
+獾
+山羊
+豪豬
+祭司
+幼鹿
+雄鹿
+野蠻人
+惡棍
+仙子"
+houseForSale,待售房屋
+theBankOf,銀行：
+daggerfall,匕首雨
+wayrest,途歇城
+sentinel,哨兵城
+palace,宮殿
+regionNames,"阿利克爾沙漠
+龍尾山脈
+格倫角丘陵
+匕首雨崖地
+約爾斯墓穴地
+德溫寧
+拉維尼亞森林
+惡魔岩
+馬雷克納森林
+巴爾菲拉島
+班薩
+達克弗隆
+西伊利亞克灣諸島
+塔瑪麗琳角
+萊恩林懸崖
+比喬賽河
+沃斯加里安山脈
+匕首雨
+格倫角
+貝托尼
+哨兵城
+安蒂克萊爾
+萊恩林
+途歇城
+高岩村莊
+落錘省村莊
+奧辛紐姆地區
+斯凱芬頓林地
+落錘省海灣沿岸
+落錘省海岸
+高岩海灣沿岸
+高岩海岸
+北沼
+梅內維亞
+阿爾凱爾
+科格里亞
+博里安
+坎布里亞
+弗里吉亞斯
+烏爾維烏斯
+伊卡隆
+戴尼亞
+沙爾戈拉
+阿比邦-戈拉
+凱魯
+波塔戈
+默克瓦薩
+阿亞索菲亞
+提戈努斯
+科贊塞特
+薩塔卡拉姆
+托坦布
+莫諾斯
+以弗所
+桑塔基
+安蒂菲洛斯
+貝爾加馬
+加沃東
+圖盧恩
+格倫姆布拉沼地
+伊萊森丘陵
+西比亞德斯"
+ocean,海洋
+unknownUpper,未知
+switchToRegion,切換至：{0}地區
+locationInRegionProvince,{0}，位於{1}省
+dayNames,"桑達斯
+蒙德達斯
+提爾達斯
+米德達斯
+圖爾達斯
+弗雷達斯
+洛爾達斯"
+monthNames,"晨星
+日出
+首種
+雨手
+次種
+年中
+日高
+末種
+爐火
+霜降
+日暮
+晚星"
+birthSignNames,"儀式
+戀人
+領主
+法師
+暗影
+坐騎
+學徒
+戰士
+貴婦
+高塔
+侍靈
+盜賊"
+seasonNames,"秋季
+春季
+夏季
+冬季"
+longDateTimeFormatString,"{0:00}:{1:00}:{2:00} 於{3}，{6} {4}{5}日，3E{7}"
+dateTimeFormatString,"{0:00}:{1:00}:{2:00} 於{3}{4}日{5}，3E{6}"
+dateFormatString,{0} {3}的{1}{2}日
 ingredientFormatString,{0} {1}
 longWeaponNameFormatString,{0} {1}
 longArmorNameFormatString,{0} {1}
-strRatings,"pathetic
-frail
-weak
-below average
-about average
-fairly strong
-athletic
-very strong
-powerful
-superhuman"
-intRatings,"vegetable-like
-idiotic
-half-witted
-dim
-about average
-cunning
-fairly clever
-very intelligent
-brilliant
-genius"
-wilRatings,"inane
-submissive
-passive
-distracted
-unassertive
-stable
-confident
-strong-willed
-very focused
-enlightened"
-agiRatings,"oafish
-bumbling
-clumsy
-awkward
-about average
-spry
-nimble
-dexterous
-very agile
-acrobatic"
-endRatings,"sickly
-pitiable
-unsteady
-erratic
-about average
-above average
-very healthy
-hardy
-titanic
-immortal"
-perRatings,"abhorrent
-unpopular
-anonymous
-unassuming
-unremarkable
-interesting
-charming
-arresting
-authoritative
-charismatic"
-spdRatings,"inactive
-sluggish
-very slow
-slow
-about average
-above average
-fast
-fleet-footed
-lightning-fast
-meteoric"
-lucRatings,"cursed
-hopeless
-ill-favored
-unfortunate
-about average
-fairly lucky
-lucky
-fortunate
-very auspicious
-divinely favored"
-Mage,Mage
-Spellsword,Spellsword
-Battlemage,Battlemage
-Sorcerer,Sorcerer
-Healer,Healer
-Nightblade,Nightblade
-Bard,Bard
-Burglar,Burglar
-Rogue,Rogue
-Acrobat,Acrobat
-Thief,Thief
-Assassin,Assassin
-Monk,Monk
-Archer,Archer
-Ranger,Ranger
-Barbarian,Barbarian
-Warrior,Warrior
-Knight,Knight
-Custom,Custom
-darkBrotherhoodRanks,"Apprentice
-Journeyman
-Operator
-Slayer
-Executioner
-Punisher
-Terminator
-Assassin
-Dark Brother
-Master Assassin"
-fightersRanks,"Apprentice
-Journeyman
-Swordsman
-Protector
-Defender
-Warder
-Guardian
-Champion
-Warrior
-Master"
-knightlyOrderRanks,"Aspirant
-Squire
-Gallant
-Chevalier
-Keeper
-Knight Brother
-Commander
-Marshall
-Seneschal
-Paladin"
-magesRanks,"Apprentice
-Journeyman
-Evoker
-Conjurer
-Magician
-Enchanter
-Warlock
-Wizard
-Master Wizard
-Archmage"
-templeRanks,"Novice
-Initiate
-Acolyte
-Adept
-Curate
-Disciple
-Brother
-Diviner
-Master
-Patriarch"
-thievesRanks,"Apprentice
-Journeyman
-Filcher
-Crook
-Robber
-Bandit
-Thief
-Ringleader
-Mastermind
-Master Thief"
-darkSister,Dark Sister
-nonMember,non-member
-knightSister,Knight Sister
-matriarch,Matriarch
-sister,Sister
-daedricSkill,Daedric
-orcishSkill,Orcish
+strRatings,"可悲
+虛弱
+無力
+低於平均
+約略平均
+頗為強壯
+體格健壯
+非常強壯
+強大
+超人"
+intRatings,"如植物
+愚鈍
+半智
+遲鈍
+約略平均
+狡猾
+頗為聰明
+非常聰明
+卓越
+天才"
+wilRatings,"空洞
+順從
+被動
+分心
+不堅持
+穩定
+自信
+意志堅強
+非常專注
+開悟"
+agiRatings,"笨拙
+手忙腳亂
+不靈活
+彆扭
+約略平均
+輕快
+靈巧
+手法嫻熟
+非常敏捷
+雜技水準"
+endRatings,"病弱
+可憐
+不穩
+反覆
+約略平均
+高於平均
+非常健康
+強健
+巨大
+不朽"
+perRatings,"令人厭惡
+不受歡迎
+默默無聞
+不起眼
+平凡
+有趣
+迷人
+引人注目
+有威嚴
+有魅力"
+spdRatings,"遲緩
+懶散
+非常慢
+慢
+約略平均
+高於平均
+快
+健步如飛
+迅如閃電
+流星般"
+lucRatings,"受詛咒
+絕望
+不運
+不幸
+約略平均
+頗為幸運
+幸運
+走運
+非常吉兆
+受神眷顧"
+Mage,法師
+Spellsword,法劍士
+Battlemage,戰鬥法師
+Sorcerer,術士
+Healer,治療師
+Nightblade,夜刃
+Bard,吟遊詩人
+Burglar,竊賊
+Rogue,流氓
+Acrobat,雜技者
+Thief,盜賊
+Assassin,刺客
+Monk,僧侶
+Archer,弓箭手
+Ranger,遊俠
+Barbarian,野蠻人
+Warrior,戰士
+Knight,騎士
+Custom,自訂
+darkBrotherhoodRanks,"學徒
+熟手
+執行者
+殺手
+處刑者
+懲罰者
+終結者
+刺客
+黑暗兄弟
+刺客大師"
+fightersRanks,"學徒
+熟手
+劍士
+保護者
+防禦者
+守衛
+守護者
+勇士
+戰士
+大師"
+knightlyOrderRanks,"志願者
+侍從
+豪俠
+騎士兵
+守護者
+騎士兄弟
+指揮官
+元帥
+總管
+聖騎士"
+magesRanks,"學徒
+熟手
+喚魔師
+召喚師
+魔術師
+附魔師
+術士
+巫師
+巫師大師
+大法師"
+templeRanks,"新手
+入門者
+侍僧
+能者
+副祭司
+門徒
+修士
+占卜師
+大師
+大祭司"
+thievesRanks,"學徒
+熟手
+小偷
+騙子
+強盜
+土匪
+盜賊
+頭目
+主謀
+盜賊大師"
+darkSister,黑暗姊妹
+nonMember,非成員
+knightSister,騎士姊妹
+matriarch,女祭司長
+sister,姊妹
+daedricSkill,迪德拉語
+orcishSkill,獸人語
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
-hthDamageFormatString,{0} dmg: {1}-{2}
-affiliationFormatString,{0} (rep:{1})
-answers_5404,"bow
-bow arrow
-crossbow
-bows
-crossbows"
-answers_5406,"one
+hthDamageFormatString,{0} 傷害：{1}-{2}
+affiliationFormatString,{0}（聲望：{1}）
+answers_5404,"弓
+弓箭
+弩
+弓
+弩"
+answers_5406,"一
 1"
-answers_5423,"benefactor
-the benefactor"
-answers_5424,"shut up
-shutup
-shaddup"
-answers_5464,"yes
-ok
-i agree
+answers_5423,"恩人
+那位恩人"
+answers_5424,"閉嘴
+住口
+安靜"
+answers_5464,"是
+好
+我同意
 y
-agreed
-done
-fine
+同意
+完成
+行
 okay
-sure
-yep"
-random,Random
+當然
+嗯"
+random,隨機
 nordSurnameImmutableSuffix,sen
-confirmDefaultControls,Are you sure you want to set default controls?
-saveLoadPromptFormat,{0} for '{1}'
-cityWall,City Wall
+confirmDefaultControls,確定要設為預設操作嗎？
+saveLoadPromptFormat,{0}：「{1}」
+cityWall,城牆

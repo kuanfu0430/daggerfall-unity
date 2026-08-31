@@ -1,75 +1,75 @@
-﻿Key,Value
-weaponSwingModes,"Vanilla
-Click
-Hold"
-mouseLookSmoothingStrengths,"None
-Lowest
-Low
-Medium
-High
-Highest"
-configureAdvancedControls,Configure Advanced Controls
-continueUpper,CONTINUE
-mouseLookSmoothing,Mouse Look Smoothing
-mouseLookSensitivity,Mouse Look Sensitivity
-invertLookY,Invert Look-Y
-movementAcceleration,Movement Acceleration
-weaponSwingMode,Weapon Swing Mode
-bowDrawback,Bows - draw and release
-toggleSneak,Toggle Sneak
-mouseWeaponAttackThreshold,Mouse Weapon Attack Threshold
-Escape,Escape
-AutoRun,AutoRun
-ToggleConsole,Console
-PrintScreen,Screenshot
-QuickSave,QuickSave
-QuickLoad,QuickLoad
-close,Close
-dungeonTextureModes,"Classic
-Climate
-Climate Only
-Random
-Random Only"
-cameraRecoilStrengths,"Off
-Low (25%)
-Medium (50%)
-High (75%)
-V. High(100%)"
-interactionModeIconModes,"None
-Minimal
-Large
-Classic
-Colour
-Monochrome
-Classic Crosshair
-Colour Crosshair"
-iconsPositioningSchemes,"Classic
-Medium
-Small
-Small Deck Left
-Small Deck Right
-Small Vert Left
-Small Vert Right
-Small Horz Bottom"
-helmAndShieldMaterialDisplay,"Off
-No Leather Chain
-No Leather
-On"
-qualitySettings,"Fastest
-Fast
-Simple
-Good
-Beautiful
-Fantastic"
-filterModes,"Point
-Bilinear
-Trilinear"
-shadowResolutionModes,"Low
-Medium
-High
-Very High"
-textureArrayLabel,Texture Arrays: 
-unsupported,Unsupported
-enabled,Enabled
-disabled,Disabled
-textureArrayInfo,"Improved implementation of terrain textures, with better performance and modding support"
+Key,Value
+weaponSwingModes,"原版
+點擊
+按住"
+mouseLookSmoothingStrengths,"無
+最低
+低
+中
+高
+最高"
+configureAdvancedControls,設定進階操作
+continueUpper,繼續
+mouseLookSmoothing,滑鼠視角平滑
+mouseLookSensitivity,滑鼠視角靈敏度
+invertLookY,反轉垂直視角
+movementAcceleration,移動加速
+weaponSwingMode,武器揮擊模式
+bowDrawback,弓——拉弓與放箭
+toggleSneak,切換潛行
+mouseWeaponAttackThreshold,滑鼠武器攻擊閾值
+Escape,Esc
+AutoRun,自動奔跑
+ToggleConsole,控制台
+PrintScreen,截圖
+QuickSave,快速儲存
+QuickLoad,快速讀取
+close,關閉
+dungeonTextureModes,"經典
+氣候
+僅氣候
+隨機
+僅隨機"
+cameraRecoilStrengths,"關
+低 (25%)
+中 (50%)
+高 (75%)
+非常高(100%)"
+interactionModeIconModes,"無
+最小
+大型
+經典
+彩色
+單色
+經典準星
+彩色準星"
+iconsPositioningSchemes,"經典
+中
+小
+小牌組靠左
+小牌組靠右
+小直向靠左
+小直向靠右
+小橫向靠下"
+helmAndShieldMaterialDisplay,"關
+不含皮革鎖子甲
+不含皮革
+開"
+qualitySettings,"最快
+快
+簡單
+良好
+精美
+極致"
+filterModes,"點取樣
+雙線性
+三線性"
+shadowResolutionModes,"低
+中
+高
+非常高"
+textureArrayLabel,貼圖陣列： 
+unsupported,不支援
+enabled,已啟用
+disabled,已停用
+textureArrayInfo,"以更佳效能與模組支援實作地形貼圖"
