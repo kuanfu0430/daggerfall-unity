@@ -186,19 +186,15 @@ import sys
 from pathlib import Path
 root = Path(sys.argv[1])
 text = root / 'Assets' / 'StreamingAssets' / 'Text'
+# Seed atlas with launcher/UI glyphs only. Full CJK dump freezes DFU intro.
 files = [
     text / n for n in [
         'MainMenu.txt','GameSettings.txt','ModSystem.txt',
-        'Internal_Settings.csv','Internal_Strings.csv','Internal_RSC.csv',
-        'Internal_Items.csv','Internal_MagicItems.csv','Internal_Spells.csv',
-        'Internal_Factions.csv','Internal_Flats.csv','Internal_Locations.csv',
-        'Example_MageLight.csv',
+        'Internal_Settings.csv','Internal_Strings.csv','Example_MageLight.csv',
     ]
 ]
-files += sorted((text / 'Books').glob('BOK*-LOC.txt'))
-files += sorted((text / 'Quests').glob('*-LOC.txt'))
-files += sorted((root / 'Assets' / 'StreamingAssets' / 'BIOGs').glob('BIOG*.TXT'))
-chars = set()
+chars = set(chr(i) for i in range(32, 127))
+chars.update('、。，：；！？「」『』（）')
 for path in files:
     if not path.is_file():
         continue

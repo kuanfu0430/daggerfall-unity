@@ -45,6 +45,18 @@ $TranslatedFiles = @(
     'Example_MageLight.csv'
 )
 
+# Only seed the SDF atlas with launcher/UI glyphs.
+# Dumping books+quests+15k location names (~3500 CJK) into 5x 4096 atlases
+# freezes DFU at the intro. Remaining CJK is added dynamically at runtime.
+$FontSeedFiles = @(
+    'MainMenu.txt',
+    'GameSettings.txt',
+    'ModSystem.txt',
+    'Internal_Settings.csv',
+    'Internal_Strings.csv',
+    'Example_MageLight.csv'
+)
+
 function Write-Step([string]$Message) {
     Write-Host "[playtest] $Message"
 }
@@ -227,25 +239,14 @@ function Sync-Translations {
 function Get-TranslationCharset {
     $srcText = Join-Path $RepoRoot 'Assets\StreamingAssets\Text'
     $set = New-Object 'System.Collections.Generic.SortedSet[char]'
-    $files = New-Object System.Collections.Generic.List[string]
-    foreach ($name in $TranslatedFiles) {
-        $files.Add((Join-Path $srcText $name))
+    32..126 | ForEach-Object { [void]$set.Add([char]$_) }
+    foreach ($ch in @([char]0x3001, [char]0x3002, [char]0xFF0C, [char]0xFF1A, [char]0xFF1B, [char]0xFF01, [char]0xFF1F, [char]0x300C, [char]0x300D, [char]0x300E, [char]0x300F, [char]0xFF08, [char]0xFF09)) {
+        [void]$set.Add($ch)
     }
-    foreach ($pair in @(
-        @((Join-Path $srcText 'Books'), 'BOK*-LOC.txt'),
-        @((Join-Path $srcText 'Quests'), '*-LOC.txt'),
-        @((Join-Path $RepoRoot 'Assets\StreamingAssets\BIOGs'), 'BIOG*.TXT')
-    )) {
-        $dir = $pair[0]
-        $filter = $pair[1]
-        if (Test-Path -LiteralPath $dir) {
-            Get-ChildItem -LiteralPath $dir -Filter $filter -File | ForEach-Object { $files.Add($_.FullName) }
-        }
-    }
-    foreach ($path in $files) {
+    foreach ($name in $FontSeedFiles) {
+        $path = Join-Path $srcText $name
         if (-not (Test-Path -LiteralPath $path)) { continue }
-        $text = [System.IO.File]::ReadAllText($path)
-        foreach ($ch in $text.ToCharArray()) {
+        foreach ($ch in [System.IO.File]::ReadAllText($path).ToCharArray()) {
             if ([int]$ch -ge 0x80) { [void]$set.Add($ch) }
         }
     }

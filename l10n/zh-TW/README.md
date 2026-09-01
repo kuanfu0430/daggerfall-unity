@@ -33,7 +33,7 @@
 
 1. 若還沒準備好，自動下載官方 DFU 1.1.1（Windows x64 / mac universal / Linux x64）與 wiki 提供的 DOS 遊戲檔
 2. 把目前分支的繁中 txt/csv／書／任務／BIOG 同步進測試包
-3. 安裝 Noto Sans CJK TC 字型
+3. 安裝 Noto Sans CJK TC 字型（SDF 圖集只預載啟動器／設定 UI 用字；書、任務、地名的漢字在遊戲中動態補進圖集，避免開場卡死）
 4. 啟動遊戲
 
 本機測試包在 `play/`（已 gitignore，勿提交）。第一次需要網路；之後改譯文再點同一支啟動檔即可。Linux／macOS 需要 `curl`、`unzip` 或 Python 3。
