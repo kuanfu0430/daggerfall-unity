@@ -289,6 +289,11 @@ function Start-Game {
 }
 
 Ensure-DfuRuntime
+$exeForPaths = Find-DfuExe
+if (-not $exeForPaths) { throw "DaggerfallUnity.exe not found under $DfuRoot" }
+$Streaming = Join-Path (Split-Path -Parent $exeForPaths) 'DaggerfallUnity_Data\StreamingAssets'
+New-Item -ItemType Directory -Force -Path $Streaming | Out-Null
+Write-Step "StreamingAssets: $Streaming"
 Ensure-GameFiles
 Sync-Translations
 Sync-Fonts

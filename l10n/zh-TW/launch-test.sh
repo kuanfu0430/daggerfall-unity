@@ -6,7 +6,7 @@ ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 PLAY="$ROOT/play"
 CACHE="$PLAY/cache"
 DFU="$PLAY/dfu"
-STREAMING="$DFU/DaggerfallUnity_Data/StreamingAssets"
+STREAMING=""
 TAG="v1.1.1-cve-2025"
 FONT_NAME="NotoSansCJKtc-Regular.otf"
 FONT_URL="https://github.com/notofonts/noto-cjk/raw/main/Sans/OTF/TraditionalChinese/NotoSansCJKtc-Regular.otf"
@@ -52,6 +52,11 @@ download() {
   mv -f "$tmp" "$dest"
 }
 
+html_input_value() {
+  local name="$1" file="$2"
+  tr '\n' ' ' < "$file" | sed -n "s/.*name=\"${name}\" value=\"\([^\"]*\)\".*/\1/p"
+}
+
 download_drive() {
   local dest="$CACHE/$GAME_ZIP"
   need curl
@@ -62,20 +67,9 @@ download_drive() {
     return
   fi
   local uuid confirm
-  uuid="$(python3 - "$html" <<'PY'
-import re,sys
-text=open(sys.argv[1],encoding='utf-8',errors='replace').read()
-m=re.search(r'name="uuid" value="([^"]+)"', text)
-print(m.group(1) if m else '')
-PY
-)"
-  confirm="$(python3 - "$html" <<'PY'
-import re,sys
-text=open(sys.argv[1],encoding='utf-8',errors='replace').read()
-m=re.search(r'name="confirm" value="([^"]+)"', text)
-print(m.group(1) if m else 't')
-PY
-)"
+  uuid="$(html_input_value uuid "$html")"
+  confirm="$(html_input_value confirm "$html")"
+  [[ -n "$confirm" ]] || confirm="t"
   [[ -n "$uuid" ]] || die "Google Drive page has no uuid. Put $GAME_ZIP in play/cache/"
   download "https://drive.usercontent.google.com/download?id=$GAME_DRIVE_ID&export=download&confirm=${confirm}&uuid=${uuid}" "$dest"
   rm -f "$html"
@@ -83,11 +77,35 @@ PY
 }
 
 find_linux_bin() {
-  find "$DFU" -type f \( -name 'DaggerfallUnity.x86_64' -o -name 'DaggerfallUnity' \) 2>/dev/null | head -n 1
+  find "$DFU" -type f \( -name 'DaggerfallUnity.x86_64' -o -name 'DaggerfallUnity' \) ! -name '*.so' 2>/dev/null | head -n 1
 }
 
 find_mac_app() {
-  find "$DFU" -type d -name 'DaggerfallUnity.app' 2>/dev/null | head -n 1
+  find "$DFU" -name 'DaggerfallUnity.app' -prune 2>/dev/null | head -n 1
+}
+
+resolve_streaming() {
+  case "$(os_name)" in
+    linux)
+      local bin
+      bin="$(find_linux_bin)"
+      [[ -n "$bin" ]] || die "Linux DFU binary not found"
+      STREAMING="$(cd "$(dirname "$bin")" && pwd)/DaggerfallUnity_Data/StreamingAssets"
+      ;;
+    mac)
+      local app data
+      app="$(find_mac_app)"
+      [[ -n "$app" ]] || die "DaggerfallUnity.app not found"
+      data="$app/Contents/Resources/Data/StreamingAssets"
+      if [[ ! -d "$data" && -d "$app/Contents/Resources/StreamingAssets" ]]; then
+        data="$app/Contents/Resources/StreamingAssets"
+      fi
+      mkdir -p "$data"
+      STREAMING="$data"
+      ;;
+  esac
+  mkdir -p "$STREAMING"
+  step "StreamingAssets: $STREAMING"
 }
 
 extract_zip() {
@@ -95,11 +113,13 @@ extract_zip() {
   mkdir -p "$dest"
   if command -v unzip >/dev/null 2>&1; then
     unzip -qo "$zip" -d "$dest"
-  else
+  elif command -v python3 >/dev/null 2>&1; then
     python3 - "$zip" "$dest" <<'PY'
 import sys, zipfile
 zipfile.ZipFile(sys.argv[1]).extractall(sys.argv[2])
 PY
+  else
+    die "Need unzip or python3 to extract $zip"
   fi
 }
 
@@ -180,13 +200,19 @@ sync_translations() {
   step "Synced BIOGs ($n)"
 }
 
+ascii_charset() {
+  # Portable ASCII 32-126 (no seq; % is data via %s)
+  printf '%s' " !\"#\$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_\`abcdefghijklmnopqrstuvwxyz{|}~"
+  printf '\xe3\x80\x81\xe3\x80\x82\xef\xbc\x8c\xef\xbc\x9a\xef\xbc\x9b\xef\xbc\x81\xef\xbc\x9f\xe3\x80\x8c\xe3\x80\x8d\xe3\x80\x8e\xe3\x80\x8f\xef\xbc\x88\xef\xbc\x89'
+}
+
 build_charset() {
-  python3 - "$ROOT" <<'PY'
+  if command -v python3 >/dev/null 2>&1; then
+    python3 - "$ROOT" <<'PY'
 import sys
 from pathlib import Path
 root = Path(sys.argv[1])
 text = root / 'Assets' / 'StreamingAssets' / 'Text'
-# Seed atlas with launcher/UI glyphs only. Full CJK dump freezes DFU intro.
 files = [
     text / n for n in [
         'MainMenu.txt','GameSettings.txt','ModSystem.txt',
@@ -194,7 +220,7 @@ files = [
     ]
 ]
 chars = set(chr(i) for i in range(32, 127))
-chars.update('、。，：；！？「」『』（）')
+chars.update('\u3001\u3002\uff0c\uff1a\uff1b\uff01\uff1f\u300c\u300d\u300e\u300f\uff08\uff09')
 for path in files:
     if not path.is_file():
         continue
@@ -203,6 +229,9 @@ for path in files:
             chars.add(ch)
 sys.stdout.write(''.join(sorted(chars)))
 PY
+  else
+    ascii_charset
+  fi
 }
 
 sync_fonts() {
@@ -246,6 +275,7 @@ launch_game() {
 }
 
 ensure_dfu
+resolve_streaming
 ensure_game_files
 sync_translations
 sync_fonts

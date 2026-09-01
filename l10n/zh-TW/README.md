@@ -36,6 +36,6 @@
 3. 安裝 Noto Sans CJK TC 字型（SDF 圖集只預載啟動器／設定 UI 用字；書、任務、地名的漢字在遊戲中動態補進圖集，避免開場卡死）
 4. 啟動遊戲
 
-本機測試包在 `play/`（已 gitignore，勿提交）。第一次需要網路；之後改譯文再點同一支啟動檔即可。Linux／macOS 需要 `curl`、`unzip` 或 Python 3。
+本機測試包在 `play/`（已 gitignore，勿提交）。第一次需要網路；之後改譯文再點同一支啟動檔即可。Linux／macOS 需要 `curl`，以及 `unzip` 或 Python 3 其中一個來解壓。macOS 會把譯文寫進 `DaggerfallUnity.app/Contents/Resources/Data/StreamingAssets`（遊戲實際讀取的位置）。字型圖集只預載啟動器／設定用字；沒有 Python 3 時 Unix 腳本仍會寫入 ASCII＋標點字表，其餘漢字執行期動態補進圖集。
 
 進遊戲後會先看到啟動器（解析度／開始遊戲／模組）。這正好用來驗 `MainMenu.txt`。設定頁驗 `GameSettings.txt`。沒放 `arena2` 時啟動器仍可開，但無法開始遊戲；這份測試包已把官方遊戲檔放進 `StreamingAssets/GameFiles`。
