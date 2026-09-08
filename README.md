@@ -1,5 +1,8 @@
 ![image](https://github.com/Interkarma/daggerfall-unity/assets/10426244/4f176f9d-6332-47b3-a4d7-317ed8d6b38b)
 
+> **這是 [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) 的臺灣正體中文翻譯 fork。**  
+> 預設分支 `master` 已含完整繁中 overlay。譯文範圍、術語表與一鍵測試見 [`l10n/zh-TW/README.md`](l10n/zh-TW/README.md)。上游同步請從 `upstream` remote（Interkarma/daggerfall-unity）拉取。
+
 # What is Daggerfall Unity?
 
 Daggerfall Unity is an open source recreation of Daggerfall in the Unity engine created by [Daggerfall Workshop](http://www.dfworkshop.net).

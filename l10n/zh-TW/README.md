@@ -1,6 +1,6 @@
 # Daggerfall Unity 臺灣繁體中文在地化
 
-本分支 `l10n/zh-TW` 在 [kuanfu0430/daggerfall-unity](https://github.com/kuanfu0430/daggerfall-unity) 管理譯文。上游為 [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity)。
+譯文在 [kuanfu0430/daggerfall-unity](https://github.com/kuanfu0430/daggerfall-unity) 的 `master` 維護（歷史分支 `l10n/zh-TW` 與 `master` 同步）。上游為 [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity)。
 
 ## 遊戲如何讀譯文
 

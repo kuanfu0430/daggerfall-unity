@@ -49,3 +49,8 @@ sysinfo.txt
 # Local playtest runtime (official DFU build + DOS game files)
 /play/
 /l10n/zh-TW/__pycache__/
+
+# Local translation scratch helpers (not part of the overlay)
+/l10n/zh-TW/_*.py
+/l10n/zh-TW/_*.json
+/l10n/zh-TW/_work/
